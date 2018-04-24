@@ -1,0 +1,24 @@
+<div class="large-4 small-12 small-collapse columns end o-section-mediumdown-divided-small">
+  <div class="o-media o-media--top">
+    <div class="o-media__image o-media__image--lgspace">
+      <img src="{{ item.img | prepend: '/assets/img/' | relative_url }}" alt="{{item.name}}" style="width:100px"> </div>
+    <div class="o-media__body">
+      <h2 class="o-media__headline">
+        {% if item.url contains 'http' %}
+          {% assign url = item.url %}
+        {% else %}
+          {% assign url = item.url | relative_url %}
+        {% endif %}
+        <span class="candidate-order">#{{item.ordpsp}}</span>
+        <a href="{{url}}">{% if item.name %}{{item.name}}{% else %}{{item.title}}{% endif %}</a>
+      </h2>
+      <p style="font-size: 94%;">{{item.description}}</p>
+      {% if item.mob or item.mail %}
+      <p style="font-size: 94%;">
+        {{item.mob}}<br>
+        <a href="mailto:{{item.mail}}">{{item.mail}}</a><br>
+      </p>
+      {% endif %}
+    </div>
+  </div>
+</div>

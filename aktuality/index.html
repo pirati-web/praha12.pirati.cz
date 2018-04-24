@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<div class="row o-section-block o-section-block--divided">
+  <div class="medium-12 large-8 columns">
+    <section class="o-section o-section--noSpaceBottom o-section--bigger">
+      <div class="o-section-inner o-section-inner--leftBlock">
+      </div>
+    </section>
+  </div>
+</div>
+
+{% assign posts = paginator.posts %}
+{% include article-list/list-3col.html param='posts' %}
+
+{% include article-list/pagination.html %}

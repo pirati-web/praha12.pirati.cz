@@ -1,0 +1,10 @@
+# Hlavni menu. Pokud page.url obashuje menuitem.url, automaticky se zvyrazni. Proto je
+# dobre davat sem odkazy na index.html v podadresarich.
+- link: "Aktuality"
+  url: "/aktuality/"
+- link: "Naši lidé"
+  url: "/lide/"
+- link: "Volby 2018"
+  url: "/volby-2018/"
+- link: "Připoj se"
+  url: "/pripoj-se/"

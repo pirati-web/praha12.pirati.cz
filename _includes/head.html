@@ -1,0 +1,55 @@
+<head>
+    {% include js/gtm-head.html %}
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+
+    <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+    <!-- Favicons -->
+    <link rel="apple-touch-icon-precomposed" sizes="57x57" href="{{ 'assets/favicon/apple-touch-icon-57x57.png' | relative_url }}">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="{{'assets/favicon/apple-touch-icon-114x114.png' | relative_url }}">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="{{'assets/favicon/apple-touch-icon-72x72.png' | relative_url }}">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{'assets/favicon/apple-touch-icon-144x144.png' | relative_url }}">
+    <link rel="apple-touch-icon-precomposed" sizes="60x60" href="{{'assets/favicon/apple-touch-icon-60x60.png' | relative_url }}">
+    <link rel="apple-touch-icon-precomposed" sizes="120x120" href="{{'assets/favicon/apple-touch-icon-120x120.png' | relative_url }}">
+    <link rel="apple-touch-icon-precomposed" sizes="76x76" href="{{'assets/favicon/apple-touch-icon-76x76.png' | relative_url }}">
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="{{'assets/favicon/apple-touch-icon-152x152.png' | relative_url }}">
+    <link rel="icon" type="image/png" href="{{'assets/favicon/favicon-196x196.png' | relative_url }}" sizes="196x196">
+    <link rel="icon" type="image/png" href="{{'assets/favicon/favicon-96x96.png' | relative_url }}" sizes="96x96">
+    <link rel="icon" type="image/png" href="{{'assets/favicon/favicon-16x16.png' | relative_url }}" sizes="16x16">
+    <link rel="icon" type="image/png" href="{{'assets/favicon/favicon-32x32.png' | relative_url }}" sizes="32x32">
+    <link rel="icon" type="image/png" href="{{'assets/favicon/favicon-128.png' | relative_url }}" sizes="128x128">
+    <link rel="alternate" type="application/rss+xml" title="{{ site.data.links.group.name }} RSS" href="{{'/feed.xml' | relative_url }}">
+    <meta name="application-name" content="{{ site.data.links.group.name }}">
+    <meta name="msapplication-TileColor" content="#000000">
+    <meta name="msapplication-TileImage" content="{{'assets/favicon/mstile-144x144.png' | relative_url }}">
+    <meta name="msapplication-square70x70logo" content="{{'assets/favicon/mstile-70x70.png' | relative_url }}">
+    <meta name="msapplication-square150x150logo" content="{{'assets/favicon/mstile-150x150.png' | relative_url }}">
+    <meta name="msapplication-wide310x150logo" content="{{'assets/favicon/mstile-310x150.png' | relative_url }}">
+    <meta name="msapplication-square310x310logo" content="{{'assets/favicon/mstile-310x310.png' | relative_url }}">
+    {% if page.layout == 'post' %}
+    <meta property="og:url"           content="{{page.url | relative_url}}" />
+    <meta property="og:type"          content="website" />
+    <meta property="og:title"         content="Piráti: {{page.title}}" />
+    <meta property="og:description"   content="{{page.excerpt | strip_html }}" />
+    <meta property="og:image"         content="{{page.img | relative_url}}" />
+    {% endif %}
+    <!-- Open Graph -->
+    {% if page.url contains 'pripoj-se' %}
+    <meta property="og:url"           content="{{page.url | relative_url}}" />
+    <meta property="og:type"          content="website" />
+    <meta property="og:title"         content="Chceš měnit politiku s námi? Připoj se k Pirátům..." />
+    <meta property="og:description"   content="Můžeme ti nabídnout několik forem spolupráce. Stačí si jen vybrat!" />
+    <meta property="og:image"         content="{{'assets/img/miscellaneous/pripojse.jpg' | relative_url}}" />
+    {% endif %}
+    <!-- Fonts -->
+    {% if page.layout != 'blank' %}
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700&subset=latin-ext" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Fira+Sans:300i,400,500,700&subset=latin-ext" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="{{'assets/css/main.css' | relative_url }}">
+    {% endif %}
+</head>

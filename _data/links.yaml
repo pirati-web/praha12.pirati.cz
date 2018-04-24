@@ -1,0 +1,15 @@
+group:
+  name: "Piráti Praha 12"
+  short_name: "Praha 12"
+  facebook_page: "https://www.facebook.com/Piráti-Praha-12-2068226376787023/"
+  twitter: "https://twitter.com/piratipraha"
+  local_contact_uid: "lukas.findeis"  # uid mistniho kontaktu definovane v _people
+  github_repository: "https://github.com/pirati-web/praha12.pirati.cz/"
+
+parent_group:
+  name: "Pražské sdružení"
+  web_url: "https://praha.pirati.cz"
+
+calendar:
+  bar: "https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=500&amp;wkst=2&amp;hl=cs&amp;bgcolor=%23FFFFFF&amp;src=rm0h4oqjk2j2o0615sc4d1slfk%40group.calendar.google.com&amp;color=%23B1365F&amp;src=lpvmfpogihrca3lqs9p2udae0k%40group.calendar.google.com&amp;color=%238D6F47&amp;ctz=Europe%2FPrague"
+  bar_title: "Celopražský kalendář"

@@ -1,0 +1,22 @@
+{% if page.url contains 'volby-2018' %}
+<nav class="c-top-sub-nav u-center-860-down">
+  <div class="row">
+    <div class="c-top-sub-nav-inner">
+      <div class="u-cf">
+        <div class="c-top-sub-nav-header">
+          <div class="c-top-sub-nav__heading"> Volby 2018 </div>
+        </div>
+        <div class="c-top-sub-nav-divider"></div>
+        <ul class="c-top-sub-nav-items">
+          <li class="c-top-sub-nav__item">
+            <a href="{{'/volby-2018/index.html' | relative_url }}"> Program </a>
+          </li>
+          <li class="c-top-sub-nav__item">
+            <a href="{{'/volby-2018/kandidati.html' | relative_url }}"> Kandidáti </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</nav>
+{% endif %}

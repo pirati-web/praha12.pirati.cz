@@ -1,0 +1,52 @@
+---
+layout: default
+---
+
+<div class="row o-section-block o-section-block--divided">
+  <div class="medium-12 large-12 columns">
+    <section class="o-section">
+      <div class="o-section-inner">
+        <main class="o-section-block">
+          <div class="c-BasicPage">
+            <div class="c-BasicPage-content">
+              {% assign team = site.people | where_exp:"item","item.categories contains 'pms'" | sort:"ordpms" %}
+              {% if team.size > 0 %}
+              <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
+                <li class="c-simple-accordion-item is-active" data-accordion-item="">
+                  <a href="#pms" class="c-simple-accordion-title">Místní předsednictvo</a>
+                  <div id="pms" class="c-simple-accordion-content" data-tab-content="">
+                    {% include people/list-2col.html param=team %}
+                  </div>
+                </li>
+              </ul>
+              {% endif %}
+              {% assign team = site.people | where_exp:"item","item.categories contains 'clenove'" %}
+              {% if team.size > 0 %}
+              <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
+                <li class="c-simple-accordion-item is-active" data-accordion-item="">
+                  <a href="#clenove" class="c-simple-accordion-title">Členové</a>
+                  <div id="clenove" class="c-simple-accordion-content" data-tab-content="">
+                    {% include people/list-2col.html param=team %}
+                  </div>
+                </li>
+              </ul>
+              {% endif %}
+              {% assign team = site.people | where_exp:"item","item.categories contains 'priznivci'" %}
+              {% if team.size > 0 %}
+              <ul class="c-simple-accordion" data-accordion="" data-options="allowAllClosed: true">
+                <li class="c-simple-accordion-item is-active" data-accordion-item="">
+                  <a href="#clenove" class="c-simple-accordion-title">Aktivní příznivci</a>
+                  <div id="clenove" class="c-simple-accordion-content" data-tab-content="">
+                    {% include people/list-2col.html param=team %}
+                  </div>
+                </li>
+              </ul>
+              {% endif %}
+            </div>
+          </div>
+        </main>
+      </div>
+    </section>
+    <!-- /. o-section -->
+  </div>
+</div>
