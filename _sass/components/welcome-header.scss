@@ -73,9 +73,11 @@
       font-weight: bold;
       text-transform: uppercase;
       position: absolute;
-      left: 50%;
+      left: 0;
+      right: 0;
       top: 75%;
-      transform:translateX(-50%);
+      text-align: center;
+      display: block;
     }
 
   }
