@@ -11,7 +11,7 @@ mail:
 profiles:
   facebook: https://www.facebook.com/eva.tylova
   wiki: https://cs.wikipedia.org/wiki/Eva_Tylová
-  blog: http://www.evatylova.cz
+  blog: https://evatylova.blog.idnes.cz
 ---
 
 Eva Tylová (*12. prosince 1959, Praha) je od roku 2014 předsedkyně klubu zastupitelů Piráti, Zelení a LES na Praze 12. Vystudovala Fakultu jadernou a fyzikálně inženýrskou ČVÚT. Záhy se začala věnovat ochraně životního prostředí. Působila na ministerstvu životního prostředí od pozice referentky po náměstkyni ministra životního prostředí (1998-2002). Jako náměstkyně ministra se angažovala proti těžbě zlata v Mokrsku, kontroverzní dálnicí D3 přes Posázaví, požadovala VŘ na sanaci dioxinových baráků ve Spolaně.
