@@ -1,0 +1,90 @@
+---
+layout: default
+mapycz_api: normal   # "normal" nebo "mini-api" nebo smazat uplne
+---
+
+<div class="row o-section-block o-section-block--divided">
+  <div class="medium-12 large-12 columns">
+    <section class="o-section">
+      <div class="o-section-inner">
+        <main class="o-section-block">
+          <div class="c-BasicPage">
+            <div class="c-BasicPage-content">
+              <h2>Developerské projekty na Praze 12</h2>
+              {% assign projekty = site.vystavba %}
+
+              <div id="mapa" style="height:350px;" class="u-maxWidth80percent"></div>
+              <script type="text/javascript">
+// source https://api.mapy.cz/view?page=markers-signals
+var center = SMap.Coords.fromWGS84(14.43, 50.00);
+var mapa = new SMap(JAK.gel("mapa"), center, 13);
+mapa.addDefaultLayer(SMap.DEF_BASE).enable();
+mapa.addDefaultControls();
+
+var vrstva = new SMap.Layer.Marker();     /* Vrstva se značkami */
+var souradnice = [];
+// data pro markery
+var markers = [
+{% for item in projekty %}
+  {% if item.gps.lat and item.gps.long %}
+  {
+    name: "{{ item.fullname }}",
+    coord_lat: {{ item.gps.lat }},
+    coord_long: {{ item.gps.long }},
+    link: "{{ item.url | relative_url }}",
+    id: {{ forloop.index }}
+  },
+  {% endif %}
+{% endfor %}
+];
+// vytvoreni markeru
+markers.forEach(function(marker) {
+	var c = SMap.Coords.fromWGS84(marker.coord_long, marker.coord_lat); /* Souřadnice značky, z textového formátu souřadnic */
+  var options = { title: marker.name }
+  // duletize je prirazeni id jednotlivemu markeru - vlastni id, jinak se generuje nahodne
+  var znacka = new SMap.Marker(c, marker.id, options);
+  souradnice.push(c);
+  vrstva.addMarker(znacka);
+});
+
+// zobrazime a povolime vrstvu - pokud by se vrstva povolila pred vkladanim markeru, tak by se s kazdym vlozenym markerem prekreslovala mapa a pocitaly pozice vsech markeru
+mapa.addLayer(vrstva);                          /* Přidat ji do mapy */
+vrstva.enable();                         /* A povolit */
+
+var cz = mapa.computeCenterZoom(souradnice); /* Spočítat pozici mapy tak, aby značky byly vidět */
+mapa.setCenterZoom(cz[0], cz[1]);
+
+// poslouchani na kliknuti u markeru
+mapa.getSignals().addListener(this, "marker-click", function(e) {
+  // vybrany marker
+  var marker = e.target;
+  var id = marker.getId();
+  // zobrazime jeho jmeno - parovani vybraneho markeru pomoci jeho id a nasich vstupnich dat
+  for (var i = 0; i < markers.length; i++) {
+  	if (markers[i].id == id) {
+    	location.href = markers[i].link;
+      break;
+    }
+  }
+});
+              </script>
+              <p>
+              <ul>
+              {% for item in projekty %}
+                <li>
+                <div class="row">
+                  <a href="{{ item.url | relative_url }}">{{ item.fullname }}</a>
+                  {% if item.katastr %} - {{ item.katastr }}{% endif %}
+                  {% if item.developer %} - {{ item.developer }}{% endif %}
+                </div>
+                </li>
+              {% endfor %}
+              </ul>
+            </div>
+          </div>
+        </main>
+      </div>
+    </section>
+    <!-- /. o-section -->
+  </div>
+</div>
