@@ -2,6 +2,12 @@
 fullname: Byty nad OC Sázava, Rilská
 katastr: Modřany
 developer: Fisolta
+plocha:
+plochaObytna:
+jineFunkce: samoobsluha, pošta, restaurace, obchody
+pocetBytu:
+pocetParking:
+uzemniPlanKod:
 gps:
   lat: 50.0086969
   long: 14.4278717
@@ -9,6 +15,13 @@ gps:
 textbox:
   text: Doplníme.
 
+folder: /assets/img/vystavba/mo-sazava/
 ---
 
-Tady je něco o tom projektu.
+![Vizualizace]({{'vizualizace.jpg' | prepend: page.folder | relative_url }} )
+(zdroj: přednáška v Modřanském biografu)
+
+**15.2.2017** Prezentace v Modřanském biografu. Fisolta chce postavit šesti- a desetipatrové domy.
+[zpráva](https://dvanactka.info/2017/02/firma-fisolta-plus-predstavila-studii-prestavby-polyfunkcniho-centra-rilska/)
+
+Společnost Fisolta chce přestavět přízemní komerční objekt (samoobsluha, restaurace) zvaný Sázava na polyfunkčního centra Rilská.
