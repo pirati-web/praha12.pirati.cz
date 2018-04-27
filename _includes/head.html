@@ -1,12 +1,17 @@
 <head>
     {% include js/gtm-head.html %}
+
+    {% capture title %}{% if page.ogtitle %}{{page.ogtitle}} | {% elsif page.title %}{{ page.title | escape }} | {% endif %}{{ site.title | escape }}{% endcapture %}
+    {% capture description %}{% if page.description %}{{page.description}}{% elsif page.desc %}{{page.desc}}{% elsif page.excerpt %}Pirátská strana: {{ page.excerpt | strip_html | strip_newlines | truncate: 330 }}{%else%}{{site.description}}{% endif %}{% endcapture %}
+    {% capture keywords %}{{site.keywords}}{% if page.keywords %}, {{page.keywords}}{% endif %}{% if page.tags%}, {{page.tags}}{% endif %}{% endcapture %}
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-
-    <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
-
-    <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+    <title>{{title}}</title>
+    <meta name="author" content="Česká pirátská strana" />
+    <meta name="robots" content="index,follow" />
+    <meta name="description" content="{{description}}">
+    <meta name="keywords" content="{{keywords}}" />
     <!-- Favicons -->
     <link rel="apple-touch-icon-precomposed" sizes="57x57" href="{{ 'assets/favicon/apple-touch-icon-57x57.png' | relative_url }}">
     <link rel="apple-touch-icon-precomposed" sizes="114x114" href="{{'assets/favicon/apple-touch-icon-114x114.png' | relative_url }}">
@@ -29,20 +34,14 @@
     <meta name="msapplication-square150x150logo" content="{{'assets/favicon/mstile-150x150.png' | relative_url }}">
     <meta name="msapplication-wide310x150logo" content="{{'assets/favicon/mstile-310x150.png' | relative_url }}">
     <meta name="msapplication-square310x310logo" content="{{'assets/favicon/mstile-310x310.png' | relative_url }}">
+    <meta property="og:url"           content="{{page.url | absolute_url }}" />
+    <meta property="og:type"          content="website" />
+    <meta property="og:title"         content="{{title}}" />
+    <meta property="og:description"   content="{{description }}" />
     {% if page.layout == 'post' %}
-    <meta property="og:url"           content="{{page.url | relative_url}}" />
-    <meta property="og:type"          content="website" />
-    <meta property="og:title"         content="Piráti: {{page.title}}" />
-    <meta property="og:description"   content="{{page.excerpt | strip_html }}" />
-    <meta property="og:image"         content="{{page.img | relative_url}}" />
-    {% endif %}
-    <!-- Open Graph -->
-    {% if page.url contains 'pripoj-se' %}
-    <meta property="og:url"           content="{{page.url | relative_url}}" />
-    <meta property="og:type"          content="website" />
-    <meta property="og:title"         content="Chceš měnit politiku s námi? Připoj se k Pirátům..." />
-    <meta property="og:description"   content="Můžeme ti nabídnout několik forem spolupráce. Stačí si jen vybrat!" />
-    <meta property="og:image"         content="{{'assets/img/miscellaneous/pripojse.jpg' | relative_url}}" />
+    <meta property="og:image"         content="{{page.image | absolute_url }}" />
+    {% endif %}{% if page.img %}
+    <meta property="og:image"         content="{{page.img | prepend: '/assets/img/' | absolute_url }}" />
     {% endif %}
     <!-- Fonts -->
     {% if page.layout != 'blank' %}
