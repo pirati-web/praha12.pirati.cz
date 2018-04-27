@@ -1,13 +1,15 @@
 ---
-fullname: Neoriviéra, u fotbalového hřiště Modřany
+fullname: U fotbalového hřiště SK Modřany, Zlochovská
 katastr: Modřany
 developer: Linkin Invest II
+nazev: Rezidence Nové Modřany
+web:
 plocha:
 plochaObytna:
 jineFunkce:
 pocetBytu:
 pocetParking:
-uzemniPlanKod:
+uzemniPlanKod: OV-D
 gps:
   lat: 49.9979292
   long: 14.4084794
@@ -18,4 +20,8 @@ textbox:
 folder: /assets/img/vystavba/mo-ufotbalu/
 ---
 
-Tady je něco o tom projektu.
+**20.6.2017** Prezentace projektu v Modřanském biografu
+
+![viz1.jpg]({{'viz1.jpg' | prepend: page.folder | relative_url }} )
+
+Další informace o projektu brzy doplníme.

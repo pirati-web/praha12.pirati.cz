@@ -2,21 +2,23 @@
 fullname: Louka Šabatka
 katastr: Komořany
 developer: Central Group
+nazev:
+web:
 plocha:
 plochaObytna:
 jineFunkce:
 pocetBytu:
 pocetParking:
-uzemniPlanKod:
+uzemniPlanKod: NL
 gps:
   lat: 49.9867242
   long: 14.4059097
   zoom: 14
 
 textbox:
-  text: Nesouhlasíme se změnou územního plánu. Louka by měla zůstat loukou, Praha se má zahušťovat, ne dál rozšiřovat.
+  text: Nesouhlasíme se změnou územního plánu. Louka by měla zůstat loukou. K výstavbě se mají využívat, ne dál rozšiřovat.
 
 folder: /assets/img/vystavba/ko-sabatka/
 ---
 
-Tady je něco o tom projektu.
+Další informace o projektu brzy doplníme.

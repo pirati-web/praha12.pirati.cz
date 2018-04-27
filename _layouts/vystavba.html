@@ -1,0 +1,47 @@
+---
+layout: default
+---
+
+{% unless page.nomenu %}
+{% include submenu.html %}
+{% endunless %}
+
+<div class="row">
+  <div class="medium-12 {% if page.rbar == empty %}large-12{% else%}large-8{%endif%} columns">
+    <div class="o-section o-section--spaceBot">
+      <div class="o-section-inner">
+        <main class="o-section-block">
+          <!-- Article -->
+          <article itemtype="http://schema.org/BlogPosting" class="c-BasicPage" itemscope="">
+            <link itemprop="mainEntityOfPage" href="http://insertshownpagelinkhere.com">
+            <h1 itemprop="headline" class="c-BasicPage__title">
+                {%if page.fullname%}{{page.fullname}}{%else%}{{page.title}}{%endif%}
+            </h1>
+            <!-- Info box -->
+            <div class="c-BasicPage-content">
+            {%if page.katastr%}<b>Katastr:</b> {{page.katastr}}<br/>{%endif%}
+            {%if page.developer%}<b>Developer:</b> {{page.developer}}<br/>{%endif%}
+            {%if page.nazev%}<b>Název projektu:</b> {{page.nazev}}<br/>{%endif%}
+            {%if page.web%}<b>Web projektu:</b> <a href="{{page.web}}">{{page.web | truncate: 50 }}</a><br/>{%endif%}
+            {%if page.plocha%}<b>Plocha:</b> {{page.plocha}}<br/>{%endif%}
+            {%if page.plochaObytna%}<b>Obytná plocha:</b> {{page.plochaObytna}}<br/>{%endif%}
+            {%if page.jineFunkce%}<b>Jiné funkce:</b> {{page.jineFunkce}}<br/>{%endif%}
+            {%if page.pocetBytu%}<b>Počet bytů:</b> {{page.pocetBytu}}<br/>{%endif%}
+            {%if page.pocetParking%}<b>Počet parkovacích míst:</b> {{page.pocetParking}}<br/>{%endif%}
+            {%if page.uzemniPlanKod%}<b>Územní plán:</b> {{page.uzemniPlanKod}}<br/>{%endif%}
+            </div>
+            <div itemprop="description" class="c-BasicPage-content">
+              {{content}}
+            </div>
+          </article>
+          <!-- /Article -->
+        </main>
+      </div>
+    </div>
+  </div>
+  {% unless page.rbar == blank %}
+  <div class="medium-12 large-4 columns">
+    {% include right-bar/rbar.html %}
+  </div>
+  {% endunless %}
+</div>

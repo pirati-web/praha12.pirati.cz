@@ -58,7 +58,7 @@ defaults:   # defaults values for collection scope
     scope:
       path: "_vystavba"
     values:
-      layout: "page"
+      layout: "vystavba"
       rbar: "map, textbox"
       mapycz_api: "mini-api"
       textbox:

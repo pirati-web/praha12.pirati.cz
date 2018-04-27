@@ -1,13 +1,15 @@
 ---
 fullname: Přestavba telekomunikační budovy, Krouzova x Čs.exilu
 katastr: Modřany
-developer: ??
+developer:
+nazev:
+web:
 plocha:
 plochaObytna:
 jineFunkce:
 pocetBytu:
 pocetParking:
-uzemniPlanKod:
+uzemniPlanKod: TI
 gps:
   lat: 50.0095589
   long: 14.4158931
@@ -18,4 +20,4 @@ textbox:
 folder: /assets/img/vystavba/mo-telekom/
 ---
 
-Tady je něco o tom projektu.
+Další informace o projektu brzy doplníme.

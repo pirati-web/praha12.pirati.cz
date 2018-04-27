@@ -1,13 +1,15 @@
 ---
-fullname: Zelený Kamýk, Smotlachova, nad MŠ
+fullname: Smotlachova
 katastr: Kamýk
 developer: JRD
+nazev: Zelený Kamýk
+web:
 plocha:
 plochaObytna:
 jineFunkce:
 pocetBytu:
 pocetParking:
-uzemniPlanKod:
+uzemniPlanKod: SV
 gps:
   lat: 50.0098589
   long: 14.4493617
@@ -18,4 +20,10 @@ textbox:
 folder: /assets/img/vystavba/ka-smotlachova/
 ---
 
-Tady je něco o tom projektu.
+Vysoký polyfunkční dům má vyrůst místo zastaralé nízkopodlažní budovy s administrativní a skladovou funkcí.
+
+![zeleny_kamyk.jpg]({{'zeleny_kamyk.jpg' | prepend: page.folder | relative_url }} )
+
+**29.3.2017** Prezentace projektu v Modřanském biografu
+
+Další informace o projektu brzy doplníme.

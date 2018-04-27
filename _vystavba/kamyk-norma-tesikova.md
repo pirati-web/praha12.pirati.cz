@@ -1,13 +1,15 @@
 ---
-fullname: Kotelny kolem Normy, Těšíkova 2
+fullname: Kotelny kolem Normy, Těšíkova
 katastr: Kamýk
-developer: PT Real Estate
+developer: YIT, Fisolta
+nazev:
+web:
 plocha:
 plochaObytna:
 jineFunkce:
 pocetBytu:
 pocetParking:
-uzemniPlanKod:
+uzemniPlanKod: SV
 gps:
   lat: 50.0148608
   long: 14.4279792
@@ -18,4 +20,4 @@ textbox:
 folder: /assets/img/vystavba/ka-tesikova/
 ---
 
-Tady je něco o tom projektu.
+Další informace o projektu brzy doplníme.

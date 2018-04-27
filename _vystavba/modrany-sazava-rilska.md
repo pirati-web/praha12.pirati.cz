@@ -2,12 +2,14 @@
 fullname: Byty nad OC Sázava, Rilská
 katastr: Modřany
 developer: Fisolta
+nazev:
+web:
 plocha:
 plochaObytna:
 jineFunkce: samoobsluha, pošta, restaurace, obchody
 pocetBytu:
 pocetParking:
-uzemniPlanKod:
+uzemniPlanKod: SV
 gps:
   lat: 50.0086969
   long: 14.4278717
