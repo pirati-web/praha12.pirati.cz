@@ -1,5 +1,5 @@
 ---
-fullname: Bytový dům v ulici Písková
+title: Bytový dům v ulici Písková
 katastr: Modřany
 developer: Crescon
 nazev: Rezidence Písková

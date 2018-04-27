@@ -1,5 +1,5 @@
 ---
-fullname: Papírníkova 1, věžák nad kotelnou
+title: Papírníkova 1, věžák nad kotelnou
 katastr: Kamýk
 developer: PT Real Estate
 nazev:

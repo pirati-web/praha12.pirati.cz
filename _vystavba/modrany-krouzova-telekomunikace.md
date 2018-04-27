@@ -1,5 +1,5 @@
 ---
-fullname: Přestavba telekomunikační budovy, Krouzova x Čs.exilu
+title: Přestavba telekomunikační budovy, Krouzova x Čs.exilu
 katastr: Modřany
 developer:
 nazev:

@@ -1,5 +1,5 @@
 ---
-fullname: U fotbalového hřiště SK Modřany, Zlochovská
+title: U fotbalového hřiště SK Modřany, Zlochovská
 katastr: Modřany
 developer: Linkin Invest II
 nazev: Rezidence Nové Modřany
@@ -7,7 +7,7 @@ web:
 plocha:
 plochaObytna:
 jineFunkce:
-pocetBytu:
+pocetBytu: 171 + 16 služebních
 pocetParking:
 uzemniPlanKod: OV-D
 gps:

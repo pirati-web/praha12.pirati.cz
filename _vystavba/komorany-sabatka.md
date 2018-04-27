@@ -1,5 +1,5 @@
 ---
-fullname: Louka Šabatka
+title: Louka Šabatka
 katastr: Komořany
 developer: Central Group
 nazev:

@@ -1,5 +1,5 @@
 ---
-fullname: Rodinné domy na polích kolem Cholupic
+title: Rodinné domy na polích kolem Cholupic
 katastr: Cholupice
 developer:
 nazev:

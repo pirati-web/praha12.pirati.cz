@@ -1,5 +1,5 @@
 ---
-fullname: Pavlíkova 24, 2 věže nad kotelnou u Novodvorské
+title: Pavlíkova 24, 2 věže nad kotelnou u Novodvorské
 katastr: Kamýk
 developer: PT Real Estate
 nazev:

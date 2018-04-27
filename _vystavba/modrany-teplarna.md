@@ -1,5 +1,5 @@
 ---
-fullname: Teplárna u křižovatky Gen. Šišky a Čs.exilu
+title: Teplárna u křižovatky Gen. Šišky a Čs.exilu
 katastr: Modřany
 developer: PT Real Estate
 nazev:

@@ -1,5 +1,5 @@
 ---
-fullname: Byty nad OC Sázava, Rilská
+title: Byty nad OC Sázava, Rilská
 katastr: Modřany
 developer: Fisolta
 nazev:

@@ -1,5 +1,5 @@
 ---
-fullname: Kotelny kolem Normy, Těšíkova
+title: Kotelny kolem Normy, Těšíkova
 katastr: Kamýk
 developer: YIT, Fisolta
 nazev:

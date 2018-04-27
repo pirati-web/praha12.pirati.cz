@@ -1,5 +1,5 @@
 ---
-fullname: Smotlachova
+title: Smotlachova
 katastr: Kamýk
 developer: JRD
 nazev: Zelený Kamýk

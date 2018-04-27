@@ -1,5 +1,5 @@
 ---
-fullname: Areál cukrovaru
+title: Areál cukrovaru
 katastr: Modřany
 developer: Skanska Reality
 nazev: Cukrkandl

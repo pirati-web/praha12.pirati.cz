@@ -1,5 +1,5 @@
 ---
-fullname: Zástavba vstupu do Modřanské rokle
+title: Zástavba vstupu do Modřanské rokle
 katastr: Modřany
 developer: Jan Bursík
 nazev: Modřanský dvůr

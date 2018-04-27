@@ -1,5 +1,5 @@
 ---
-fullname: Věže nad Billou, Vosátkova
+title: Věže nad Billou, Vosátkova
 katastr: Kamýk
 developer: Trigema
 nazev: Polyfunkční dům Kamýk

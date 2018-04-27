@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Developerské projekty na Praze 12
+img: brand/logo.svg
 mapycz_api: normal   # "normal" nebo "mini-api" nebo smazat uplne
 ---
 
@@ -28,7 +30,7 @@ var markers = [
 {% for item in projekty %}
   {% if item.gps.lat and item.gps.long %}
   {
-    name: "{{ item.fullname }}",
+    name: "{{ item.title }}",
     coord_lat: {{ item.gps.lat }},
     coord_long: {{ item.gps.long }},
     link: "{{ item.url | relative_url }}",
@@ -73,7 +75,7 @@ mapa.getSignals().addListener(this, "marker-click", function(e) {
               {% for item in projekty %}
                 <li>
                 <div class="row">
-                  <a href="{{ item.url | relative_url }}">{{ item.fullname }}</a>
+                  <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
                   {% if item.katastr %} - {{ item.katastr }}{% endif %}
                   {% if item.developer %} - {{ item.developer }}{% endif %}
                 </div>

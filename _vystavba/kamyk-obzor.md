@@ -1,5 +1,5 @@
 ---
-fullname: Byty nad OC Obzor
+title: Byty nad OC Obzor
 katastr: Kamýk
 developer: Fisolta
 nazev:
