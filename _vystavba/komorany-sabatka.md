@@ -25,8 +25,14 @@ folder: /assets/img/vystavba/ko-sabatka/
 
 **27.6.2017** Na návrh poslaneců František Adámek (též radní Prahy 12) a Jaroslav Foldyna (ČSSD) byla novelou stavebního zákona vyloučena možnost občanským spolkům účastnit se územního a stavebního řízení. Byla tak výrazně snížena možnost zasahovat do změn územního plánu. Také ze zákona vypadl bod, že nová výstavba může probíhat jen pokud nejsou v území využity vhodnější pozemky.
 
-**21.6.2018** [Spolek Pro Komořany](http://www.spolekprokomorany.cz) vyhrál u Městského soudu spor nad Magistrátem. Využil bodu ve stavebním zákoně, že nová výstavba může probíhat jen pokud nejsou v území využity vhodnější pozemky.
+**21.6.2017** [Spolek Pro Komořany](http://www.spolekprokomorany.cz) vyhrál u Městského soudu spor nad Magistrátem. Využil bodu ve stavebním zákoně, že nová výstavba může probíhat jen pokud nejsou v území využity vhodnější pozemky.
 
 **15.9.2016** Zastupitelstvo magistrátu hl.m. Prahy odsouhlasilo velkou většinou změnu územního plánu z louky na stavební pozemky. Proti této změně byli jen Piráti a komunisté. Rada i zastupitelstvo MČ Praha 12 již dříve odhlasovi též negativní stanovisko.
 
 ![hlasovani2016.jpg]({{'hlasovani2016.jpg' | prepend: page.folder | relative_url }} )
+
+**27.4.2015** Rada městské části schvaluje darovací smlouvu s Central Group na dar ve výši 10 mil. Kč
+
+**20.7.2011** Central Group kupuje parcelu č. 775 v k.ú. Komořany
+
+**13.5.2004** Vlastník louky Richard Pácal dává podnět na změnu územního plánu.

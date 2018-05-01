@@ -20,10 +20,10 @@ textbox:
 folder: /assets/img/vystavba/ka-smotlachova/
 ---
 
-Vysoký polyfunkční dům má vyrůst místo zastaralé nízkopodlažní budovy s administrativní a skladovou funkcí.
-
 ![zeleny_kamyk.jpg]({{'zeleny_kamyk.jpg' | prepend: page.folder | relative_url }} )
 
 **29.3.2017** Prezentace projektu v Modřanském biografu
+
+Vysoký polyfunkční dům má vyrůst místo zastaralé nízkopodlažní budovy s administrativní a skladovou funkcí.
 
 Další informace o projektu brzy doplníme.

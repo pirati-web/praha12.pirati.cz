@@ -28,7 +28,35 @@ layout: default
             {%if page.jineFunkce%}<b>Jiné funkce:</b> {{page.jineFunkce}}<br/>{%endif%}
             {%if page.pocetBytu%}<b>Počet bytů:</b> {{page.pocetBytu}}<br/>{%endif%}
             {%if page.pocetParking%}<b>Počet parkovacích míst:</b> {{page.pocetParking}}<br/>{%endif%}
-            {%if page.uzemniPlanKod%}<b>Územní plán:</b> {{page.uzemniPlanKod}}<br/>{%endif%}
+            {%if page.uzemniPlanKod%}<b>Územní plán:</b>
+              {% assign kody = page.uzemniPlanKod | split: '/' %}
+              {% for kodUz in kody %}
+                {% if forloop.first == false %} / {% endif %}
+                {% assign textUz = '' %}
+                {% assign kodUzBase = kodUz | split: '-' | first %}
+                {% case kodUzBase %}
+                  {% when 'OB' %} {% assign textUz = 'čistě obytné' %}
+                  {% when 'OV' %} {% assign textUz = 'všeobecně obytné' %}
+                  {% when 'SV' %} {% assign textUz = 'všeobecně smíšené - Území sloužící pro umístění polyfunkčních staveb nebo kombinaci monofunkčních staveb, kde žádná z funkcí nepřesáhne 60 % celkové kapacity území vymezeného danou funkcí.' %}
+                  {% when 'VN' %} {% assign textUz = 'nerušící výroby a služeb' %}
+                  {% when 'SP' %} {% assign textUz = 'Území sloužící pro umístění staveb a zařízení pro sport a tělovýchovu' %}
+                  {% when 'SO' %} {% assign textUz = 'Území s omezenou zastavitelností sloužící rekreaci, oddechu a sportovním aktivitám v přírodě, které podstatně nenarušují přírodní charakter území. Hlavní součástí funkce je zeleň.' %}
+                  {% when 'SO1' %} {% assign textUz = 'přírodní rekreační plochy' %}
+                  {% when 'SO2' %} {% assign textUz = 'golfová hřiště' %}
+                  {% when 'SO3' %} {% assign textUz = 'částečně urbanizované rekreační plochy' %}
+                  {% when 'SO4' %} {% assign textUz = 'zařízení turistického ruchu' %}
+                  {% when 'SO5' %} {% assign textUz = 'zvláštní rekreační aktivity' %}
+                  {% when 'SO6' %} {% assign textUz = 'naučné a poznávací aktivity' %}
+                  {% when 'SO7' %} {% assign textUz = 'zařízení pro organizovaný pobyt dětí v přírodě' %}
+                  {% when 'VV' %} {% assign textUz = 'veřejné vybavení' %}
+                  {% when 'TI' %} {% assign textUz = 'zařízení pro přenos informací' %}
+                  {% when 'PZO' %} {% assign textUz = 'zahrádky a zahrádkové osady' %}
+                  {% when 'OP' %} {% assign textUz = 'orná půda, plochy pro pěstování zeleniny' %}
+                {% endcase %}
+                <span data-tooltip tooltip-max-width="20rem" tabindex="{{forloop.index}}" title="{{textUz}}" style="border-bottom: 1px dotted black;">{{kodUz}}</span>
+              {% endfor %}
+              <br/>
+            {%endif%}
             </div>
             <div itemprop="description" class="c-BasicPage-content">
               {{content}}
