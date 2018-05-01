@@ -2,6 +2,8 @@
 
 Naklonovaný web pirati.cz.
 
+Editujte branch `gh-pages`, jejíž obsah se po commitu automaticky přegeneruje na [github.io](https://pirati-web.github.io/praha12.pirati.cz/). Po zkontrolování, že vše funguje, udělejte pull request do branch `master`.
+
 Pokud byste z tohoto našeho chtěli vyjít pro tvorbu webu svého místního sdružení, změňte následující:
 
 - v souboru `_config.yml` změňte hodnoty v horní části (title, description, url)
@@ -11,6 +13,7 @@ Pokud byste z tohoto našeho chtěli vyjít pro tvorbu webu svého místního sd
 - v adresáři `assets/img/people` dejte fotky vašich lidí. Pokud nemáte fotku, používejte `assets/img/people/ppp.jpg`
 - v adresáři `_posts` odstraňte naše blogové příspěvky a dávejte vlastní
 - v adresáři `assets/img/posts` odstraňte naše fotky pro blogové příspěvky a dávejte vlastní
+- smažte adresáře `_vystavba`, `vystavba` a `assets/img/vystavba` a odstraňte tuto sekci i z `_data/main-menu.yml` a `_config.yml`
 
 Jekyll se dá rozběhat nejen na Linuxu, jak se píše níže, ale docela snadno i na macOS a s trochou úsilí i na Windows 10. Návod je například v readme [Pardubického kraje](https://github.com/pirati-web/pardubicky.pirati.cz).
 
