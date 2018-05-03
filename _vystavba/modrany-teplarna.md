@@ -15,7 +15,7 @@ gps:
   long: 14.4167192
 
 textbox:
-  text: Doplníme.
+  text: Toto místo má v Modřanech nejlepší dopravní spojení do centra Prahy. Jsou tu tramvaje i autobusy jezdící v krátkých intervalech. Na protější straně ulice vyrostl velký bytový komplex, proto bychom zde uvítali prostory pro práci, aby se naše městská část stále více neměnila v noclehárnu.
 
 folder: /assets/img/vystavba/mo-teplarna/
 ---

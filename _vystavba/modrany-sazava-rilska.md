@@ -15,7 +15,7 @@ gps:
   long: 14.4278717
 
 textbox:
-  text: Doplníme.
+  text: Je škoda, že vlastník areálu objekty neudržuje a nechal je chátrat do současného stavu. Navrhované vysoké budovy neúměrně zahušťují sídliště. Měli bychom pochopení maximálně pro 4 patra. Jsme pro striktní respektování územního plánu (SV), který zde dává každé funkci včetně bydlení maximálně 60 % plochy.
 
 folder: /assets/img/vystavba/mo-sazava/
 ---
