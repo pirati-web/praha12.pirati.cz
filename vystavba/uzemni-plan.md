@@ -7,7 +7,7 @@ Území města je rozděleno na polyfunkční území a monofunkční ploc
  * Polyfunkční území se dělí na kategorie: obytná území; smíšená území; území výroby a služeb; území sportu a rekreace; zvláštní komplexy.
  * Monofunkční plochy se dělí na kategorie: veřejné vybavení; doprava; technické vybavení; těžba surovin; vodní plochy a suché poldry; příroda, krajina a zeleň; pěstební plochy.
 
-Vysvětlivky k Územnímu plánu hl. m. Prahy se dá najít na webu [Institutu plánování a rozvoje hlavního města Prahy](http://www.iprpraha.cz/clanek/57/funkcni-regulace).
+Vysvětlivky k Územnímu plánu hl. m. Prahy se dají najít na webu [Institutu plánování a rozvoje hlavního města Prahy](http://www.iprpraha.cz/clanek/57/funkcni-regulace), kde je dostupná i [grafická část plánu](http://app.iprpraha.cz/js-api/app/vykresyUP/).
 
 Níže uvádíme ty nejčastější typy území
 
@@ -39,7 +39,7 @@ nebo starší znění na [Praha.eu (PDF)](http://servis.praha-mesto.cz/uzplan/uz
 
 ## Míra využití území
 
-Územní plán obsahuje ve vybraných funkčních plochách regulativy, stanovující max. míru využití území. Jsou definované kódy A-K, uváděné za pomlčkou za kódem území, například **OB-A**
+Územní plán obsahuje ve vybraných funkčních plochách regulativy, stanovující maxiální míru využití území. Jsou definované kódy A-K, uváděné za pomlčkou za kódem území, například **OB-A**.
 
 Míra využití území je vyjádřena kódem míry využití území, který je definován koeficientem podlažních ploch (KPP) a koeficientem zeleně (KZ). Z KPP se pak dá odvodit koeficient zastavěné plochy (KZP) a podlažnost.
 
