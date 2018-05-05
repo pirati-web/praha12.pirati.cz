@@ -20,7 +20,10 @@ textbox:
 folder: /assets/img/vystavba/ka-pavlikova/
 ---
 
+**6.12.2017** Prezentace projektu ve Viničním domku ([Prezentace](http://www.individualniplanovani.cz/wp-content/uploads/2017/09/prezentace-pt-real-estate-papirnikova-pavlikova.pdf))
+
 ![viz1.jpg]({{'viz1.jpg' | prepend: page.folder | relative_url }} )
+(zdroj: prenetace PT Real Estate)
 
 ![puvodni_stav.jpg]({{'puvodni_stav.jpg' | prepend: page.folder | relative_url }} )
 

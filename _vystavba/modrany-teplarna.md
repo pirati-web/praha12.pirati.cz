@@ -1,5 +1,5 @@
 ---
-title: Teplárna u křižovatky Gen. Šišky a Čs.exilu
+title: Výtopna u křižovatky Gen. Šišky a Čs.exilu
 katastr: Modřany
 developer: PT Real Estate
 nazev:
@@ -19,5 +19,10 @@ textbox:
 
 folder: /assets/img/vystavba/mo-teplarna/
 ---
+
+**6.12.2017** Prezentace projektu ve Viničním domku ([Prezentace](http://www.individualniplanovani.cz/wp-content/uploads/2017/09/prezentace-pt-real-estate-papirnikova-pavlikova.pdf))
+
+![vytopna2d.jpg]({{'vytopna2d.jpg' | prepend: page.folder | relative_url }} )
+(zdroj: prenetace PT Real Estate)
 
 Další informace o projektu brzy doplníme.

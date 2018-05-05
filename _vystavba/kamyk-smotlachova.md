@@ -20,11 +20,14 @@ textbox:
 folder: /assets/img/vystavba/ka-smotlachova/
 ---
 
-Boji proti tomuto projektu se věnuje Aleš Herzog a detailně popisuje [na svém webu](http://www.individualniplanovani.cz/stavba-zeleny-kamyk/).
+Boji proti tomuto projektu se věnuje Aleš Herzog a detailně jej popisuje [na svém webu](http://www.individualniplanovani.cz/stavba-zeleny-kamyk/).
 
 - - -
 
-**26.6.2017** Rada MČ Praha 12 souhlasí se záměrem developera, s vyjímečně přípustným zvýšením funkce bydlení na 90 % kapacity stavby. [R-130-028-17](http://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=55967)
+**6.11.2017** Zastupitelstvo nesouhlasí s usnesením rady
+[R-22-004-17](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=58655) - František Adámek jako jediný proti, zbytek ČSSD a ANO se zdrželo hlasování
+
+**26.6.2017** Rada MČ Praha 12 souhlasí se záměrem developera, s vyjímečně přípustným zvýšením funkce bydlení na 90 % kapacity stavby [R-130-028-17](http://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=55967) - předkladatel František Adámek (ČSSD), starosta Milan Maruštík (ANO)
 
 ![zeleny_kamyk.jpg]({{'zeleny_kamyk.jpg' | prepend: page.folder | relative_url }} )
 
