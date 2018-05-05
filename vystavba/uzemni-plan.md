@@ -45,6 +45,8 @@ Míra využití území je vyjádřena kódem míry využití územi
 
 KZ udává podíl plochy zeleně na celkové ploše území, z KPP pak určuje objem stavby - může být nízká a zároveň široká, nebo vysoká a zároveň úzká.
 
+Podlažnost je v územním plánu pomocným údajem, jehož prostřednictvím se stanovuje koeficient zeleně (KZ). Podlažnost je informativním prvkem územního plánu, sama o sobě nepředstavuje závazný regulativ.
+
 |  Využití | KPP |  KZ  | Podlažnost | KZP  | Poznámka |
 |:--------:|:---:|:----:|:----------:|:----:|----------|
 | A        | 0,2 | 0,65 |    1       | 0,20 | rodinné domy |
@@ -72,9 +74,14 @@ KZ udává podíl plochy zeleně na celkové ploše území, z KPP pak určuje o
 |          |     | 0,40 |    6       | 0,30 | zástavba městského typu |
 |          |     | 0,45 |    7       | 0,26 | rozvolněná zástavba městského typu |
 |          |     | 0,45 |    8+      | 0,23 | rozvolněná zástavba městského typu |
+| H        | 2,2 | 0,25 |    ≤ 4     | 0,55 | kompaktní zástavba městského typu |
+|          |     | 0,30 |    5       | 0,44 | kompaktní zástavba městského typu |
+|          |     | 0,35 |    6       | 0,36 | zástavba městského typu |
+|          |     | 0,40 |    7       | 0,31 | zástavba městského typu |
+|          |     | 0,40 |    8+      | 0,28 | rozvolněná zástavba městského typu |
 |  atd     |     |      |            |      |  |
 
-Plný seznam se nachází např. na webu [Geoportal Praha (PDF)](http://www.geoportalpraha.cz/uploads/assets/pup-informace.pdf).
+Plný seznam se nachází např. v [Metodickém pokynu IPR Praha, str. 17](http://www.iprpraha.cz/uploads/assets/dokumenty/pup/metodicky_pokyn.pdf), lidsky vysvětlenému v [Metodickém návodu](http://www.iprpraha.cz/uploads/assets/pup/metodicke_navody.pdf).
 
 ## Územní rezervy
 
