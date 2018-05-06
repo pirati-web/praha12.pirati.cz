@@ -14,6 +14,7 @@ Níže uvádíme ty nejčastější typy území
  * **OB** - čistě obytné - Území sloužící pro bydlení.
  * **OV** - všeobecně obytné - Území sloužící pro bydlení s možností umísťování dalších funkcí pro obsluhu obyvatel.
  * **SV** - všeobecně smíšené - Území sloužící pro umístění polyfunkčních staveb nebo kombinaci monofunkčních staveb, kde žádná z funkcí nepřesáhne 60 % celkové kapacity území vymezeného danou funkcí.
+ * **SMJ** - smíšené městského jádra - Území sloužící pro kombinaci funkcí včetně bydlení, které jsou soustředěné do centrálních částí města a center městských čtvrtí. Pro centrální část města je stanoven směrný minimální podíl bydlení.
  * **VN** - nerušící výroby a služeb - Území sloužící pro umístění zařízení služeb a výroby všeho druhu, včetně skladů a skladovacích ploch, která nesmí svými vlivy narušovat provoz a užívání staveb a zařízení ve svém okolí a zhoršovat životní prostředí nad přípustnou míru.
  * **SP** - sportu - Území sloužící pro umístění staveb a zařízení pro sport a tělovýchovu.
  * **SO** - oddechu - Území s omezenou zastavitelností sloužící rekreaci, oddechu a sportovním aktivitám v přírodě, které podstatně nenarušují přírodní charakter území. Hlavní součástí funkce je zeleň.
@@ -39,7 +40,7 @@ nebo starší znění na [Praha.eu (PDF)](http://servis.praha-mesto.cz/uzplan/uz
 
 ## Míra využití území
 
-Územní plán obsahuje ve vybraných funkčních plochách regulativy, stanovující maxiální míru využití území. Jsou definované kódy A-K, uváděné za pomlčkou za kódem území, například **OB-A**.
+Územní plán obsahuje ve vybraných funkčních plochách regulativy, stanovující maximální míru využití území. Jsou definované kódy A-K, uváděné za pomlčkou za kódem území, například **OB-A**.
 
 Míra využití území je vyjádřena kódem míry využití území, který je definován koeficientem podlažních ploch (KPP) a koeficientem zeleně (KZ). Z KPP se pak dá odvodit koeficient zastavěné plochy (KZP) a podlažnost.
 
@@ -81,11 +82,11 @@ Podlažnost je v územním plánu pomocným údajem, jehož prostřednic
 |          |     | 0,40 |    8+      | 0,28 | rozvolněná zástavba městského typu |
 |  atd     |     |      |            |      |  |
 
-Plný seznam se nachází např. v [Metodickém pokynu IPR Praha, str. 17](http://www.iprpraha.cz/uploads/assets/dokumenty/pup/metodicky_pokyn.pdf), lidsky vysvětlenému v [Metodickém návodu](http://www.iprpraha.cz/uploads/assets/pup/metodicke_navody.pdf).
+Plný seznam se nachází např. v [Metodickém pokynu IPR Praha (PDF, str. 17)](http://www.iprpraha.cz/uploads/assets/dokumenty/pup/metodicky_pokyn.pdf), lidsky vysvětlenému v [Metodickém návodu (PDF)](http://www.iprpraha.cz/uploads/assets/pup/metodicke_navody.pdf).
 
 ## Územní rezervy
 
-Některé plochy jsou v územním plánu označeny dvojicí kódů oddělených lomítkem (např. **OP/OB-A**) a plocha je v grafické částy značena svislým šrafováním. Využití stanovené před lomítkem nesmí znemožnit nebo podstatně ztížit předpokládané budoucí využití (za lomítkem).
+Některé plochy jsou v územním plánu označeny dvojicí kódů oddělených lomítkem (např. **OP/OB-A**) a plocha je v grafické části značena svislým šrafováním. Využití stanovené před lomítkem nesmí znemožnit nebo podstatně ztížit předpokládané budoucí využití (za lomítkem).
 
 V místě územní rezervy je pro rozhodování závazné využití „před lomítkem“, pro přeměnu na využití v územní rezervě „za lomítkem“ je nutná změna územního plánu.
 

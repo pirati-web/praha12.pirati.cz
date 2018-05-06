@@ -15,12 +15,12 @@ gps:
   long: 14.4171214
 
 textbox:
-  text: Doplníme.
+  text: Líbí se nám zelená střecha, ale jsme pro striktní respektování územního plánu (SV), který zde dává každé funkci včetně bydlení maximálně 60 % plochy. Bez prostor pro podnikání a setkávání obyvatel se naše městská část mění v noclehárnu.
 
 folder: /assets/img/vystavba/mo-piskova/
 ---
 
-Bytový dům o šesti nadzemních podlažích s 50 byty 1+kk až 4+kk.
+Bytový dům o šesti nadzemních podlažích s 50 byty 1+kk až 4+kk. Developer má v úmyslu žádat o vyjímku a dát bydlení větší podíl než 60 %.
 
 ![554.jpg]({{'554.jpg' | prepend: page.folder | relative_url }})
 (zdroj: crescon.cz)
