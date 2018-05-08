@@ -1,11 +1,15 @@
 ---
 layout: page
 title: Petice proti zastavění louky Na Hupech
-rbar: textbox
+rbar: textbox, map
 textbox:
   title: Ke stažení
   text: >
        <a href="/assets/img/vystavba/Petice_proti_zastaveni_louky_Na_Hupech.pdf">Tisková verze s podpisovým archem (PDF)</a>
+mapycz_api: mini-api
+gps:
+  lat: 50.0035769
+  long: 14.4194228
 ---
 
 Jedna z nejoblíbenějších rekreačních lokalit pro lidi na Praze 12 je Modřanská rokle. Zase hrozí, že nám jí výstavbou kousek uberou. Majitel louky na Hupech podal podnět na změnu územního plánu, která by umožnila výstavbu na louce Na Hupech u vstupu do Modřanské rokle. Vytvořili jsme petici a sbíráme pod ní podpisy.
@@ -17,7 +21,7 @@ Jedna z nejoblíbenějších rekreačních lokalit pro lidi na Praze 12 je Modř
 
 Další termíny postupně doplňujeme.
 
-Petice se dá také [stáhnout, vytisknout]({{ '/assets/img/vystavba/Petice_proti_zastaveni_louky_Na_Hupech.pdf' | relative_url }}), sbírat podpisy a pak doručit kontaktní osobě.
+Petice se dá také [stáhnout, vytisknout]({{ '/assets/img/vystavba/Petice_proti_zastaveni_louky_Na_Hupech.pdf' | relative_url }}), sbírat podpisy a pak doručit kontaktní osobě. Pod peticí mohou být podepsání lidé s trvalým bydlištěm v Praze, nebo lidé bydlící v Praze, když uvedou svou pražskou adresu.
 
 ## Text petice
 
