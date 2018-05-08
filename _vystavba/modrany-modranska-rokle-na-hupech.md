@@ -20,7 +20,7 @@ textbox:
 folder: /assets/img/vystavba/mo-vstuprokle/
 ---
 
-Na protest proti změně územního plánu jsme vytvořili petici, jejíž plný text i s podpisovým archem je k dispozici [zde]({{ '/assets/img/vystavba/Petice_proti_zastaveni_louky_Na_Hupech.pdf' | relative_url }}).
+Na protest proti změně územního plánu jsme vytvořili [petici]({{ '/vystavba/petice-na-hupech.html' | relative_url }}).
 
 - - -
 

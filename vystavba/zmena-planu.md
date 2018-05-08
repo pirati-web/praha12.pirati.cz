@@ -32,7 +32,7 @@ Veřejnost se může zapojit do procesu i přímo, viz schémata výše. Na veř
 Dotčenými osobami, mající právo podávat námitky, jsou:
 
  * **vlastníci okolních nemovitostí** - nemusí to být jen přímí sousedé, ale i "přespotoční", prostě ti, kterých se záměr nějak dotkne
- * **zástupci veřejnosti** - pokud se pod jednu konkrétní připomínku podepíše alepspoň 200 lidí, delegují takto tzv. zástupce veřejnosti. Je ale třeba toto vše stihnout v termínu
+ * **zástupci veřejnosti** - pokud se pod jednu konkrétní připomínku podepíše alespoň 200 občanů Prahy, delegují takto tzv. zástupce veřejnosti. Je ale třeba toto vše stihnout v termínu
  * ~~občanské spolky~~ - tato možnost byla zrušena novelou stavebního zákona v roce 2017, předloženou m.j. toho času poslancem Františkem Adámkem (ČSSD)
 
 ## Další informace
