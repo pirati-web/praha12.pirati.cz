@@ -15,11 +15,11 @@ Změny územního plánu dokumentuje speciální webová aplikace [zmenaplanu.cz
 
 ## Ovlivňování zastupitelů
 
-Kdokoli z veřejnosti může osobně vystoupit na zasedání zastupitelstva městské části nebo hlavního města Prahy a snažit se tak ovlivnit hlasování svých zastupitelů. Pokud se takto dostaví velký počet protestujících, dá se na zastupitele vyvinout velký tlak. Zastupitelům je také možné poslat email, ideálně všem najednou, kontakty na ně jsou uvedeny na webových stránkách [městské části](https://www.praha12.cz/clenove%2Dzastupitelstva%2Dmestske%2Dcasti%2Dpraha%2D12/d-37554/p1=52) či [magistrátu](http://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/seznam_zastupitelu/index.html).
+Kdokoli z veřejnosti může osobně vystoupit na zasedání zastupitelstva městské části nebo hlavního města Prahy a snažit se tak ovlivnit hlasování svých zastupitelů. Pokud se takto dostaví velký počet protestujících, dá se na zastupitele vyvinout velký tlak. Zastupitelům je také možné poslat email, ideálně všem najednou, kontakty na ně jsou uvedeny na webových stránkách [městské části](https://www.praha12.cz/clenove%2Dzastupitelstva%2Dmestske%2Dcasti%2Dpraha%2D12/d-37554/p1=52) či [magistrátu](http://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/seznam_zastupitelu/index.html). Je proto třeba sledovat vyhlašovaný program jednání zastupitelstev.
 
- * **Zastupitelstvo městské části** - o mnoha podnětech ke změně územního plánu se jedná už na úrovni městské části. Je třeba sledovat vyhlašovaný program jednání zastupitelstev. Městská část ale podává jen připomínky, o změně rozhoduje až magistrát.
+ * **Zastupitelstvo městské části** - o mnoha podnětech ke změně územního plánu se jedná už na úrovni městské části. Ta k podnětům dodá své stanovisko a v každém případě je dál předá na Magistrát hl. m. Prahy.  Na Praze 12 všechny podněty změn územního plánu projednává zastupitelstvo městské části.
  * **Výbor pro územní rozvoj a územní plán Zastupitelstva hl. m. Prahy (VURM)** - politický poradní orgán zastupitelstva hl. m. Prahy.
- * **Zastupitelstvo hl. m. Prahy (ZHMP)** - definitivně rozhoduje o změnách na konci každé z fází.
+ * **Zastupitelstvo hl. m. Prahy (ZHMP)** - rozhoduje o změnách na konci každé z fází. Při neschválení je změna z dalšího procesu vyřazena.
 
 
 ## Přímá účast v procesu - připomínky a námitky
