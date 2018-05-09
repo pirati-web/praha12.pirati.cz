@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Změny územního plánu
+title: Jak se bránit změnám územního plánu
 ---
 
 Proces změny územního plánu je poměrně dlouhý. Při běžném projednání trvá minimálně 44 měsíců a má tři fáze:
@@ -24,16 +24,16 @@ Kdokoli z veřejnosti může osobně vystoupit na zasedání zastupitelstva měs
 
 ## Přímá účast v procesu - připomínky a námitky
 
-Veřejnost se může zapojit do procesu i přímo, viz schémata výše. Na veřejném projednání návrhu změny a do 7 dnů od tohoto projednání:
+Veřejnost se může zapojit do procesu i přímo, viz schémata výše. Na veřejném projednání **návrhu změny** a do 7 dnů od tohoto projednání:
 
- * **může každý uplatnit připomínky** - připomínky ale může úřad ignorovat
- * **mohou dotčené osoby uplatnit námitky** - o námitkách musí magistrát rozhodnout a podrobně zdůvodnit, proč je (ne)vzal v úvahu
+ * **může každý uplatnit připomínky** - připomínky ale může úřad ignorovat.
+ * **mohou dotčené osoby uplatnit námitky** - o námitkách musí magistrát rozhodnout a podrobně zdůvodnit, proč je (ne)vzal v úvahu. Zdůvodnění je pak možné napadnout soudně.
 
 Dotčenými osobami, mající právo podávat námitky, jsou:
 
  * **vlastníci okolních nemovitostí** - nemusí to být jen přímí sousedé, ale i "přespotoční", prostě ti, kterých se záměr nějak dotkne
  * **zástupci veřejnosti** - pokud se pod jednu konkrétní připomínku podepíše alespoň 200 občanů Prahy, delegují takto tzv. zástupce veřejnosti. Je ale třeba toto vše stihnout v termínu
- * ~~občanské spolky~~ - tato možnost byla zrušena novelou stavebního zákona v roce 2017, předloženou m.j. toho času poslancem Františkem Adámkem (ČSSD)
+ * ~~občanské spolky~~ - tato možnost byla zrušena [novelou stavebního zákona v roce 2017](https://stavba.tzb-info.cz/normy-a-pravni-predpisy-hruba-stavba/16018-nejvyznamnejsi-zmeny-ktere-prinasi-novela-stavebniho-zakona), předloženou m.j. toho času poslancem Františkem Adámkem (ČSSD) ([hlasování](https://www.psp.cz/sqw/hlasy.sqw?g=66599&l=cz))
 
 ## Další informace
 

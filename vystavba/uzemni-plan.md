@@ -90,5 +90,7 @@ Některé plochy jsou v územním plánu označeny dvojicí kódů oddělených 
 
 V místě územní rezervy je pro rozhodování závazné využití „před lomítkem“, pro přeměnu na využití v územní rezervě „za lomítkem“ je nutná změna územního plánu.
 
+## Další informace
 
-- - -
+ * [Jak se bránit změnám územního plánu](zmena-planu.html)
+
