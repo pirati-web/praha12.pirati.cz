@@ -15,7 +15,7 @@ gps:
   long: 14.4372189
 
 textbox:
-  text: Doplníme.
+  text: Cokoli nad okolní výstavbu (8 pater) nám přijde naprosto neúměrné. Nový Metropolitní plán na tomto území také počítá s maximálně 8 patry.
 
 folder: /assets/img/vystavba/ka-vostatkova/
 ---

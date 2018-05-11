@@ -15,12 +15,15 @@ gps:
   long: 14.4536211
 
 textbox:
-  text: Doplníme.
+  text: Výstavba v okolí budoucí stanice metra je pochopitelná. Ale právě blízkost metra dává na tomto území možnost vystavět tolik potřebná místa pro práci, aby se naše městská část stále více neměnila v noclehárnu. Jsme pro striktní respektování územního plánu (SV), který zde dává každé funkci včetně bydlení maximálně 60 % plochy. Pokud deneloper navrhuje 2 vysoké budovy, ať jedna z nich slouží pro kanceláře.
 
 folder: /assets/img/vystavba/ka-pavlikova/
 ---
 
+**6.12.2017** Prezentace projektu ve Viničním domku ([Prezentace](http://www.individualniplanovani.cz/wp-content/uploads/2017/09/prezentace-pt-real-estate-papirnikova-pavlikova.pdf))
+
 ![viz1.jpg]({{'viz1.jpg' | prepend: page.folder | relative_url }} )
+(zdroj: prenetace PT Real Estate)
 
 ![puvodni_stav.jpg]({{'puvodni_stav.jpg' | prepend: page.folder | relative_url }} )
 
