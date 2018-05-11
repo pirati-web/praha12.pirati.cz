@@ -24,7 +24,7 @@ Na protest proti změně územního plánu jsme vytvořili [petici]({{ '/vystavb
 
 - - -
 
-Jan Bursík žádá změnu územního plánu z SO3 na VV, aby mohl postavit údajně 4 budovy škol (mateřskou, základní a gymnázium). Někdy též absurdně projekt přirovnává k [Toulcovu dvoru](http://www.toulcuvdvur.cz), statku ze 14. století.
+Jan Bursík žádá změnu územního plánu z SO3 na VV, aby mohl postavit údajně 4 budovy soukromých škol (mateřskou, základní a gymnázium). Někdy též absurdně projekt přirovnává k [Toulcovu dvoru](http://www.toulcuvdvur.cz), statku ze 14. století.
 
 ![viz1.jpg]({{'viz1.jpg' | prepend: page.folder | relative_url }} )
 
