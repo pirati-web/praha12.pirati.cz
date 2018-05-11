@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Petice proti zastavění louky Na Hupech
+img: vystavba/mo-vstuprokle/nahupech.jpg
 rbar: textbox, map
 textbox:
   title: Ke stažení
