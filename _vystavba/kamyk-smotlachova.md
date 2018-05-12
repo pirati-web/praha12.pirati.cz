@@ -20,7 +20,7 @@ textbox:
 folder: /assets/img/vystavba/ka-smotlachova/
 ---
 
-Boji proti tomuto projektu se věnuje Aleš Herzog a detailně jej popisuje [na svém webu](http://www.individualniplanovani.cz/stavba-zeleny-kamyk/).
+Boji proti tomuto projektu se věnuje iniciativa občanů [Sebeobrana sídliště Kamýk](http://www.sidliste-kamyk.cz/).
 
 - - -
 
