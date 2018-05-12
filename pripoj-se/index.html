@@ -49,16 +49,18 @@ img: miscellaneous/pripojse.jpg
   </div>
 </div>
 
+{% if site.data.links.group.contact_form %}
 <div class="row">
   <div class="medium-12 large-12 columns">
     <div id="tlacitko" style="    text-align: center;">
-        <a href="https://goo.gl/forms/waBqPhG05aoycUS93" target="_blank" style="width: 350px; margin-top: 10px; text-align: center; padding: 22px; font-size: 22px; background-color: #5cb85c;border-color: #5cb85c; color: white;" class="c-cta-button c-cta-button--primary">
+        <a href="{{ site.data.links.group.contact_form }} " target="_blank" style="width: 350px; margin-top: 10px; text-align: center; padding: 22px; font-size: 22px; background-color: #5cb85c;border-color: #5cb85c; color: white;" class="c-cta-button c-cta-button--primary">
           Máš vybráno?
           <br> Vyplň formulář...
         </a>
     </div>
   </div>
 </div>
+{% endif %}
 
 <div class="row">
   <div class="medium-12 large-12 columns">
