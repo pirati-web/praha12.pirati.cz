@@ -4,6 +4,7 @@ group:
   facebook_page: "https://www.facebook.com/Piráti-Praha-12-2068226376787023/"
   twitter: "https://twitter.com/piratipraha"
   local_contact_uid: "lukas.findeis"  # uid mistniho kontaktu definovane v _people
+  contact_form: "https://docs.google.com/forms/d/17MEmWfP4hyHO8On9V_PUTuWNDtS89bdhfomnyMfHoqY/viewform?edit_requested=true"  # formular v PripojSe
   github_repository: "https://github.com/pirati-web/praha12.pirati.cz/"
 
 parent_group:
