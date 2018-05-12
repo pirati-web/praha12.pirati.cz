@@ -6,7 +6,8 @@ nazev:
 web:
 plocha:
 plochaObytna:
-jineFunkce:
+jineFunkce: samoobsluha
+pocetPodlazi: 12
 pocetBytu:
 pocetParking:
 uzemniPlanKod: SV
@@ -20,11 +21,17 @@ textbox:
 folder: /assets/img/vystavba/ka-pavlikova/
 ---
 
+Převážně bytový dům na místě kotelny u ulice Novodvorská. Projekt monitoruje [Sebeobrana sídliště Kamýk](http://www.sidliste-kamyk.cz/).
+
+- - -
+
 **6.12.2017** Prezentace projektu ve Viničním domku ([Prezentace](http://www.individualniplanovani.cz/wp-content/uploads/2017/09/prezentace-pt-real-estate-papirnikova-pavlikova.pdf))
 
 ![viz1.jpg]({{'viz1.jpg' | prepend: page.folder | relative_url }} )
 (zdroj: prenetace PT Real Estate)
 
 ![puvodni_stav.jpg]({{'puvodni_stav.jpg' | prepend: page.folder | relative_url }} )
+
+- - -
 
 Další informace o projektu brzy doplníme.

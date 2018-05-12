@@ -7,6 +7,7 @@ web:
 plocha:
 plochaObytna:
 jineFunkce:
+pocetPodlazi: 13
 pocetBytu: 97
 pocetParking: 106
 uzemniPlanKod: SV

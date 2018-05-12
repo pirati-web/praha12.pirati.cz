@@ -7,6 +7,7 @@ web:
 plocha:
 plochaObytna:
 jineFunkce:
+pocetPodlazi:
 pocetBytu:
 pocetParking:
 uzemniPlanKod: SV

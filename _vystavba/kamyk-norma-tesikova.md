@@ -7,6 +7,7 @@ web:
 plocha:
 plochaObytna:
 jineFunkce:
+pocetPodlazi: 13
 pocetBytu:
 pocetParking:
 uzemniPlanKod: SV
@@ -24,5 +25,7 @@ Firma Fisolta předložila Komisi pro územní rozvoj vizualizaci návrhu zásta
 
 ![norma-cens.jpg]({{'norma-cens.jpg' | prepend: page.folder | relative_url }})
 (zdroj: mapy.cz a vizualizace Fisolty)
+
+- - -
 
 Další informace o projektu brzy doplníme.

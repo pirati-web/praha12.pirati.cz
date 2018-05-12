@@ -7,6 +7,7 @@ web:
 plocha:
 plochaObytna:
 jineFunkce:
+pocetPodlazi:
 pocetBytu:
 pocetParking:
 uzemniPlanKod: SV-D
@@ -19,5 +20,9 @@ textbox:
 
 folder: /assets/img/vystavba/ka-obzor/
 ---
+
+Projekt monitoruje [Sebeobrana sídliště Kamýk](http://www.sidliste-kamyk.cz/).
+
+- - -
 
 Další informace o projektu brzy doplníme.

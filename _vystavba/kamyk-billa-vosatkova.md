@@ -7,6 +7,7 @@ web:
 plocha:
 plochaObytna:
 jineFunkce:
+pocetPodlazi: 18
 pocetBytu:
 pocetParking:
 uzemniPlanKod: OV

@@ -7,6 +7,7 @@ web: https://www.crescon.cz/cs/projekty/rezidence-piskova
 plocha:
 plochaObytna:
 jineFunkce:
+pocetPodlazi: 6
 pocetBytu: 50
 pocetParking:
 uzemniPlanKod: SV

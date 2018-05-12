@@ -23,11 +23,12 @@ layout: default
             {%if page.developer%}<b>Developer:</b> {{page.developer}}<br/>{%endif%}
             {%if page.nazev%}<b>Název projektu:</b> {{page.nazev}}<br/>{%endif%}
             {%if page.web%}<b>Web projektu:</b> <a href="{{page.web}}">{{page.web | truncate: 50 }}</a><br/>{%endif%}
+            {%if page.pocetPodlazi%}<b>Počet nadzemních podlaží:</b> {{page.pocetPodlazi}}<br/>{%endif%}
+            {%if page.pocetBytu%}<b>Počet bytů:</b> {{page.pocetBytu}}<br/>{%endif%}
+            {%if page.pocetParking%}<b>Počet parkovacích míst:</b> {{page.pocetParking}}<br/>{%endif%}
             {%if page.plocha%}<b>Plocha:</b> {{page.plocha}}<br/>{%endif%}
             {%if page.plochaObytna%}<b>Obytná plocha:</b> {{page.plochaObytna}}<br/>{%endif%}
             {%if page.jineFunkce%}<b>Jiné funkce:</b> {{page.jineFunkce}}<br/>{%endif%}
-            {%if page.pocetBytu%}<b>Počet bytů:</b> {{page.pocetBytu}}<br/>{%endif%}
-            {%if page.pocetParking%}<b>Počet parkovacích míst:</b> {{page.pocetParking}}<br/>{%endif%}
             {%if page.uzemniPlanKod%}<b>Územní plán:</b>
               {% assign kody = page.uzemniPlanKod | split: '/' %}
               {% for kodUz in kody %}
