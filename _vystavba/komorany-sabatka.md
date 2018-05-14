@@ -2,7 +2,7 @@
 title: Louka Šabatka
 katastr: Komořany
 developer: Central Group
-nazev:
+nazev: Obytný soubor Komořanská
 web:
 plocha:
 plochaObytna:

@@ -7,6 +7,7 @@ web:
 plocha:
 plochaObytna:
 jineFunkce:
+pocetPodlazi: 12
 pocetBytu:
 pocetParking:
 uzemniPlanKod: OV
@@ -19,6 +20,10 @@ textbox:
 
 folder: /assets/img/vystavba/ka-papirnikova/
 ---
+
+Bytový dům na místě kotelny přilepený na konec panelového domu v ulici Papírníkova. Projekt monitoruje [Sebeobrana sídliště Kamýk](http://www.sidliste-kamyk.cz/).
+
+- - -
 
 **6.12.2017** Prezentace projektu ve Viničním domku ([Prezentace](http://www.individualniplanovani.cz/wp-content/uploads/2017/09/prezentace-pt-real-estate-papirnikova-pavlikova.pdf))
 

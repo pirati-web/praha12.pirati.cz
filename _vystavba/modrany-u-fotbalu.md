@@ -7,6 +7,7 @@ web:
 plocha:
 plochaObytna:
 jineFunkce:
+pocetPodlazi: 9
 pocetBytu: 171 + 16 služebních
 pocetParking:
 uzemniPlanKod: OV-D
