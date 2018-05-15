@@ -5,7 +5,7 @@ title: Spouštíme Mapu výstavby
 date: 2018-05-11T12:00:00.000Z
 author: Eva Tylová
 authorId: eva.tylova
-image: /assets/img/vystavba/mo-vstuprokle/nahupech.jpg
+image: /assets/img/vystavba/mapa-vystavby.png
 tags:
   - Praha 12
   - developerské projekty

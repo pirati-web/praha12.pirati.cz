@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Developerské projekty na Praze 12
+img: vystavba/mapa-vystavby.png
 mapycz_api: normal   # "normal" nebo "mini-api" nebo smazat uplne
 rbar: textbox
 textbox:

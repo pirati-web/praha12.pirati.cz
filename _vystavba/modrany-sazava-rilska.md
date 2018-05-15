@@ -7,7 +7,7 @@ web:
 plocha:
 plochaObytna:
 jineFunkce: samoobsluha, pošta, restaurace, obchody
-pocetPodlazi: 10
+pocetPodlazi: 11
 pocetBytu:
 pocetParking:
 uzemniPlanKod: SV
@@ -21,6 +21,8 @@ textbox:
 folder: /assets/img/vystavba/mo-sazava/
 ---
 
+Společnost Fisolta chce přestavět přízemní komerční objekt (samoobsluha, restaurace) zvaný Sázava na polyfunkční centrum Rilská. Jedná se o výstavbu tří bytových sekcí (4 NP, 7 NP a 11 NP), přičemž 1.NP stavby obsahuje obchodní a komerční plochy.
+
 Boji proti tomuto projektu se věnuje občanský spolek [Spolek pro Modřany](http://www.spolekpromodrany.cz/).
 
 - - -
@@ -32,5 +34,3 @@ Boji proti tomuto projektu se věnuje občanský spolek [Spolek pro Modřany](ht
 [zpráva](https://dvanactka.info/2017/02/firma-fisolta-plus-predstavila-studii-prestavby-polyfunkcniho-centra-rilska/)
 
 - - -
-
-Společnost Fisolta chce přestavět přízemní komerční objekt (samoobsluha, restaurace) zvaný Sázava na polyfunkční centrum Rilská.
