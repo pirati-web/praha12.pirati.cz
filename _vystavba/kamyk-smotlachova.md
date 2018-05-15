@@ -16,7 +16,7 @@ gps:
   long: 14.4493617
 
 textbox:
-  text: Navržená stavba developerem je předimenzovaná. Dále jsme pro striktní respektování územního plánu (SV), který zde dává každé funkci včetně bydlení maximálně 60 % plochy. Bez prostor pro podnikání a setkávání obyvatel se naše městská část mění v noclehárnu. Jediné pozitivum návrhu je zelená střecha.
+  text: Navržená stavba developerem je předimenzovaná a zhoršuje již tak problematické parkování pro stávající obyvatele. Dále jsme pro striktní respektování územního plánu (SV), který zde dává každé funkci včetně bydlení maximálně 60 % plochy. Bez prostor pro podnikání a setkávání obyvatel se naše městská část mění v noclehárnu. Jediné pozitivum návrhu je zelená střecha.
 
 folder: /assets/img/vystavba/ka-smotlachova/
 ---

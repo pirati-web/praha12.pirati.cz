@@ -31,8 +31,10 @@ folder: /assets/img/vystavba/ko-sabatka/
 
 ![hlasovani2016.jpg]({{'hlasovani2016.jpg' | prepend: page.folder | relative_url }} )
 
+**21.5.2015** Pražský zastupitel za Piráty Mikuláš Ferjenčík sepsal článek [Stamilionová louka v Komořanech](https://praha.pirati.cz/milionova-louka.html) o projednávané změně územního plánu a obrovkých částkách, o které jde. V roce 2000 byla louka oceněna na 100 tisích Kč, Central Group ji od původního majitele koupil za cca 50 miliónů, po změně územního plánu by měla hodnotu asi 150 miliónů Kč.
+
 **27.4.2015** Rada městské části schvaluje darovací smlouvu s Central Group na dar ve výši 10 mil. Kč
 
 **20.7.2011** Central Group kupuje parcelu č. 775 v k.ú. Komořany
 
-**13.5.2004** Vlastník louky Richard Pácal dává podnět na změnu územního plánu.
+**13.5.2004** Vlastník louky Richard Pácal dává podnět na změnu územního plánu - projednávání změny: [Z-1424](https://app.iprpraha.cz/napp/zmeny/?id=995&action=view&presenter=Articlezmenyupravy)
