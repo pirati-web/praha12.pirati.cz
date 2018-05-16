@@ -19,6 +19,8 @@ textbox:
   text: Cokoli nad okolní výstavbu (8 pater) nám přijde naprosto neúměrné. Nový Metropolitní plán na tomto území také počítá s maximálně 8 patry.
 
 folder: /assets/img/vystavba/ka-vostatkova/
+printImg1: viz1814camp.jpg
+printImg2: parcela.jpg
 ---
 
 **19.3.2018** Prezentace projektu v CAMP.
