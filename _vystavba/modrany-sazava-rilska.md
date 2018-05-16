@@ -11,12 +11,14 @@ pocetPodlazi: 11
 pocetBytu:
 pocetParking:
 uzemniPlanKod: SV
+fazeSchvaleni: 5
+rokDokonceni:
 gps:
   lat: 50.0086969
   long: 14.4278717
 
 textbox:
-  text: Je škoda, že vlastník areálu objekty neudržuje a nechal je chátrat do současného stavu. Navrhované vysoké budovy neúměrně zahušťují sídliště. Měli bychom pochopení maximálně pro 4 patra. Jsme pro striktní respektování územního plánu (SV), který zde dává každé funkci včetně bydlení maximálně 60 % plochy.
+  text: Je škoda, že vlastník areálu objekty neudržuje a nechal je chátrat do současného stavu. Navrhované vysoké budovy neúměrně zahušťují sídliště. Měli bychom pochopení pro 3 patra, protože se z našeho pohledu jedá o revitalizaci. Jsme pro striktní respektování územního plánu (SV), který zde dává každé funkci včetně bydlení maximálně 60 % plochy.
 
 folder: /assets/img/vystavba/mo-sazava/
 ---

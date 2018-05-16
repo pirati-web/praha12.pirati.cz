@@ -10,13 +10,15 @@ jineFunkce:
 pocetBytu:
 pocetParking:
 uzemniPlanKod: NL
+fazeSchvaleni: 1
+rokDokonceni:
 gps:
   lat: 49.9867242
   long: 14.4059097
   zoom: 14
 
 textbox:
-  text: Nesouhlasíme se změnou územního plánu. Louka by měla zůstat loukou. K výstavbě se mají využívat brownfieldy ve městě.
+  text: V Komořanech se zpracovává územní studie, která určí, co se toto území bude využívat. Nesouhlasíme se změnami do té doby, než bude tato studie dokončena.
 
 folder: /assets/img/vystavba/ko-sabatka/
 ---

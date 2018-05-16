@@ -11,6 +11,8 @@ pocetPodlazi:
 pocetBytu:
 pocetParking:
 uzemniPlanKod: SV
+fazeSchvaleni: 5
+rokDokonceni:
 gps:
   lat: 50.0031494
   long: 14.4167192

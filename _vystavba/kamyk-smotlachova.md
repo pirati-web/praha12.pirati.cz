@@ -11,12 +11,18 @@ pocetPodlazi: 13
 pocetBytu: 97
 pocetParking: 106
 uzemniPlanKod: SV
+fazeSchvaleni: 5
+rokDokonceni:
 gps:
   lat: 50.0098589
   long: 14.4493617
 
 textbox:
-  text: Navržená stavba developerem je předimenzovaná a zhoršuje již tak problematické parkování pro stávající obyvatele. Dále jsme pro striktní respektování územního plánu (SV), který zde dává každé funkci včetně bydlení maximálně 60 % plochy. Bez prostor pro podnikání a setkávání obyvatel se naše městská část mění v noclehárnu. Jediné pozitivum návrhu je zelená střecha.
+  text: >
+    Navržená stavba developerem je předimenzovaná a zhoršuje již tak problematické parkování pro stávající obyvatele. Dále jsme pro striktní respektování územního plánu (SV), který zde dává každé funkci včetně bydlení maximálně 60 % plochy. Bez prostor pro podnikání a setkávání obyvatel se naše městská část mění v noclehárnu. Jediné pozitivum návrhu je zelená střecha.
+    <br/><br/>
+    Z našeho pohledu se jedná o revitalizaci, proto bychom považovali za přiměřené 3 patra.
+
 
 folder: /assets/img/vystavba/ka-smotlachova/
 ---
@@ -36,4 +42,4 @@ Boji proti tomuto projektu se věnuje iniciativa občanů [Sebeobrana sídlišt�
 
 **29.3.2017** Prezentace projektu v Modřanském biografu
 
-Vysoký 13-patrový dům má vyrůst místo nevyužívané dvoupodlažní budovy, sousedící s [mateřskou školkou Beránek](http://www.msberanek.cz/). Stavba se nachází na území s kódem SV, který nemá definovanou [míru využití](uzemni-plan.html). Stavba dle architekta městské části Michala Pajskra [v důvodové zprávě](http://www.individualniplanovani.cz/wp-content/uploads/2017/09/duvodova-zprava-Smotlachova-cerven2017.pdf) odpovídá míře využití H, sousední pozemek má přitom kód SV-C. Stavba je tedy výrazně předimenzovaná.
+Vysoký 13-patrový dům má vyrůst místo dvoupodlažní budovy, ve které se nachází s [mateřskou školkou Beránek](http://www.msberanek.cz/). Stavba se nachází na území s kódem SV, který nemá definovanou [míru využití](uzemni-plan.html). Stavba dle architekta městské části Michala Pajskra [v důvodové zprávě](http://www.individualniplanovani.cz/wp-content/uploads/2017/09/duvodova-zprava-Smotlachova-cerven2017.pdf) odpovídá míře využití H, sousední pozemek má přitom kód SV-C. Stavba je tedy výrazně předimenzovaná.

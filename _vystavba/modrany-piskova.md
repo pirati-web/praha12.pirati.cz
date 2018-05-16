@@ -11,6 +11,8 @@ pocetPodlazi: 6
 pocetBytu: 50
 pocetParking:
 uzemniPlanKod: SV
+fazeSchvaleni: 8
+rokDokonceni:
 gps:
   lat: 50.0022806
   long: 14.4171214
@@ -20,6 +22,10 @@ textbox:
 
 folder: /assets/img/vystavba/mo-piskova/
 ---
+
+Projekt monitoruje [Spolek Tichá čtvrť](http://www.tichactvrt.cz/).
+
+- - -
 
 Bytový dům o šesti nadzemních podlažích s 50 byty 1+kk až 4+kk. Developer má v úmyslu žádat o vyjímku a dát bydlení větší podíl než 60 %.
 

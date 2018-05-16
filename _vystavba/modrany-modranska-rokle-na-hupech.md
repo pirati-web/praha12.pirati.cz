@@ -10,6 +10,8 @@ jineFunkce:
 pocetBytu:
 pocetParking:
 uzemniPlanKod: SO3
+fazeSchvaleni: 1
+rokDokonceni:
 gps:
   lat: 50.0035769
   long: 14.4194228

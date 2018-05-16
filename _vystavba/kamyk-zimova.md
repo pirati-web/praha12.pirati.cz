@@ -11,12 +11,14 @@ pocetPodlazi: 13
 pocetBytu:
 pocetParking:
 uzemniPlanKod: OV
+fazeSchvaleni: 5
+rokDokonceni:
 gps:
   lat: 50.0068525
   long: 14.4505150
 
 textbox:
-  text: Doplníme.
+  text: Nesouhlasíme s přístavbou na severní části domu, která překračuje šírku sousedního domu a zastiňuje výhled z bytů.
 
 folder: /assets/img/vystavba/ka-zimova/
 ---

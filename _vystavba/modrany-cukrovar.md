@@ -10,12 +10,17 @@ jineFunkce:
 pocetBytu:
 pocetParking:
 uzemniPlanKod: SV-F
+fazeSchvaleni: 5
+rokDokonceni:
 gps:
   lat: 49.9994222
   long: 14.4054914
 
 textbox:
-  text: Doplníme.
+  text: >
+    Dle prezentovaných návrhů chce Skanska žádat o výjimečně přípustné využití území, kdy má bytová část zabírat 95 % kapacity objektu. Území je výjimečná svým rozsahem a byla by šdoda jej zastavět jen byty. Bez prostor pro podnikání obyvatel se naše městská část mění v noclehárnu. V kontextu s výstavbou na protější straně ulice Komořanská se projeví nedostatečná občanská vybavenost.
+    <br/><br/>
+    Vítáme snahu o veřejné prezentace příprav projektu, a kreativně pojatou dočasnou opravu starých budov a zdí a vytvoření prostranství pro společenské akce. Ale současně musíme zstat obezřetní k dodržení našich požadavků.
 
 folder: /assets/img/vystavba/mo-cukrovar/
 ---

@@ -11,12 +11,17 @@ pocetPodlazi: 12
 pocetBytu:
 pocetParking:
 uzemniPlanKod: SV
+fazeSchvaleni: 5
+rokDokonceni:
 gps:
   lat: 50.0116444
   long: 14.4536211
 
 textbox:
-  text: Výstavba v okolí budoucí stanice metra je pochopitelná. Ale právě blízkost metra dává na tomto území možnost vystavět tolik potřebná místa pro práci, aby se naše městská část stále více neměnila v noclehárnu. Jsme pro striktní respektování územního plánu (SV), který zde dává každé funkci včetně bydlení maximálně 60 % plochy. Pokud developer navrhuje dvě budovy, ať jedna z nich slouží pro kanceláře.
+  text: >
+    Výstavba v okolí budoucí stanice metra je pochopitelná. Ale právě blízkost metra dává na tomto území možnost vystavět tolik potřebná místa pro práci, aby se naše městská část stále více neměnila v noclehárnu. Jsme pro striktní respektování územního plánu (SV), který zde dává každé funkci včetně bydlení maximálně 60 % plochy. Pokud developer navrhuje dvě budovy, ať jedna z nich slouží pro kanceláře.
+    <br/><br/>
+    Nelíbí se nám asi výška objektů vzhledem k tomu, že pozemek sousedí i s rodinnými domy.
 
 folder: /assets/img/vystavba/ka-pavlikova/
 ---

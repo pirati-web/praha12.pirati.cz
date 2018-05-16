@@ -11,12 +11,17 @@ pocetPodlazi: 12
 pocetBytu:
 pocetParking:
 uzemniPlanKod: OV
+fazeSchvaleni: 5
+rokDokonceni:
 gps:
   lat: 50.0069042
   long: 14.4531972
 
 textbox:
-  text: Dávalo by nám smysl, kdyby nová budova navazovala přesně na přilehlý panelák. Návrh PT Real Estate překračuje tento dům jak výškou, tak šířkou.
+  text: >
+    Dávalo by nám smysl, kdyby nová budova navazovala přesně na přilehlý panelák. Návrh PT Real Estate překračuje tento dům jak výškou, tak šířkou.
+    <br/><br/>
+    Část budovy překračující tvar domu v Papírníkově navíc zastíní existující byty, zvláště když je orientovaná na jih od nich.
 
 folder: /assets/img/vystavba/ka-papirnikova/
 ---

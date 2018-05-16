@@ -10,6 +10,8 @@ jineFunkce:
 pocetBytu:
 pocetParking:
 uzemniPlanKod: OP/OB-A
+fazeSchvaleni:
+rokDokonceni:
 gps:
   lat: 49.9888072
   long: 14.4419158

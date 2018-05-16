@@ -11,12 +11,17 @@ pocetPodlazi: 13
 pocetBytu:
 pocetParking:
 uzemniPlanKod: SV
+fazeSchvaleni: 5
+rokDokonceni:
 gps:
   lat: 50.0148608
   long: 14.4279792
 
 textbox:
-  text: Je škoda, že vlastník areálu objekty neudržuje a nechal je chátrat do současného stavu. Jsme pro striktní respektování územního plánu (SV), který zde dává každé funkci včetně bydlení maximálně 60 % plochy. Bez prostor pro podnikání a setkávání obyvatel se naše městská část mění v noclehárnu.
+  text: >
+    Je škoda, že vlastník areálu objekty neudržuje a nechal je chátrat do současného stavu. Jsme pro striktní respektování územního plánu (SV), který zde dává každé funkci včetně bydlení maximálně 60 % plochy. Bez prostor pro podnikání a setkávání obyvatel se naše městská část mění v noclehárnu.
+    <br/><br/>
+    Výškové domy jsou velmi blízko ke stávající výstavbě, takže dojde při navržěné výšce k zastítění výledu. U revitalizovaného objektu považuje za přijatelná 3 patra.
 
 folder: /assets/img/vystavba/ka-tesikova/
 ---
