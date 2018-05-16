@@ -81,14 +81,14 @@ layout: default
                     </div>
                   </div>
                 </div>
-                <!--
+                {% comment %}
                 <div class="c-widget-simple-text c-widget-simple-text--stacked" id="relatives-box">
                   <div class="c-widget-share-box-headline u-center">Kam dále?</div>
                   <div class="c-widget-share-box-content">
                     <ul id="relatives" />
                   </div>
                 </div>
-                -->
+                {% endcomment %}
                 <a href="//dary.pirati.cz" target="_blank">
                   <div class="c-widget-share-box c-widget-share-box--directions c-widget-simple-text--stacked">
                     <div class="c-widget-share-box-headline u-center">Kam dále?</div>
@@ -99,6 +99,7 @@ layout: default
                 </a>
               </div>
             </div>
+            {% comment %}
             <div class="o-section-inner">
               <div class="medium-12 large-6 columns">
                 {% if page.authorId %}
@@ -107,6 +108,7 @@ layout: default
                 {% endif %}
               </div>
             </div>
+            {% endcomment %}
           </div>
         </div>
       </div>
