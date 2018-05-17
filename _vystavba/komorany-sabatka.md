@@ -29,11 +29,15 @@ printImg2:
 
 **9.1.2018** Spolek Pro Komořany definitivně vyhrál soud nad Magistrátem, kasační žádost odpůrce byla zamítnuta a louka (prozatím) zůstala loukou.
 
-**27.6.2017** Na návrh poslaneců František Adámek (též radní Prahy 12) a Jaroslav Foldyna (ČSSD) byla novelou stavebního zákona vyloučena možnost občanským spolkům účastnit se územního a stavebního řízení. Byla tak výrazně snížena možnost zasahovat do změn územního plánu. Také ze zákona vypadl bod, že nová výstavba může probíhat jen pokud nejsou v území využity vhodnější pozemky.
+**27.6.2017** Na návrh poslanců František Adámek (též radní Prahy 12) a Jaroslav Foldyna (oba ČSSD) byla novelou stavebního zákona vyloučena možnost občanským spolkům účastnit se územního a stavebního řízení. Byla tak výrazně snížena možnost zasahovat do změn územního plánu. Také byl ze zákona vypuštěn požadavek, že změna územního plánu ze zeleně na rozvojové území nemůže být odsouhlasena, pokud ještě v území existují nevyužitá rozvojová území.
 
-**21.6.2017** [Spolek Pro Komořany](http://www.spolekprokomorany.cz) vyhrál u Městského soudu spor nad Magistrátem. Využil bodu ve stavebním zákoně, že nová výstavba může probíhat jen pokud nejsou v území využity vhodnější pozemky.
+**21.6.2017** [Spolek Pro Komořany](http://www.spolekprokomorany.cz) vyhrál u Městského soudu spor nad Magistrátem. Využil bodu ve stavebním zákoně, že změna územního plánu ze zeleně na rozvojové území nemůže být odsouhlasena, pokud ještě existují v území nevyužitá rozvojová území.
 
-**15.9.2016** Zastupitelstvo magistrátu hl.m. Prahy odsouhlasilo velkou většinou změnu územního plánu z louky na stavební pozemky. Proti této změně byli jen Piráti a komunisté. Rada i zastupitelstvo MČ Praha 12 již dříve odhlasovi též negativní stanovisko.
+**15.9.2016** Zastupitelstvo magistrátu hl.m. Prahy odsouhlasilo velkou většinou změnu územního plánu z louky na stavební pozemky. Proti této změně byli jen Piráti a komunisté.
+
+{% comment %}
+Na zastupitelstvu Prahy 12 zastupitelé klubu Piráti, Zelení a LES hlasovali proti této změně, ale byli přehlasováni.
+{% endcomment %}
 
 ![hlasovani2016.jpg]({{'hlasovani2016.jpg' | prepend: page.folder | relative_url }} )
 
@@ -41,6 +45,12 @@ printImg2:
 
 **27.4.2015** Rada městské části schvaluje darovací smlouvu s Central Group na dar ve výši 10 mil. Kč
 
+**Únor 2014** Soud na podnět Rady MČ Prahy 12 změnu územního plánu ze zeleně na stavební využití pro procesní pochybení zrušil.
+
 **20.7.2011** Central Group kupuje parcelu č. 775 v k.ú. Komořany
+
+![viz1.jpg]({{'viz1.jpg' | prepend: page.folder | relative_url }} )
+
+**26.3.2010** zastupitelstvo hl.m. Prahy rozhodlo o změně územního plánu z louky na stavební s kódem OB-E.
 
 **13.5.2004** Vlastník louky Richard Pácal dává podnět na změnu územního plánu - projednávání změny: [Z-1424](https://app.iprpraha.cz/napp/zmeny/?id=995&action=view&presenter=Articlezmenyupravy)
