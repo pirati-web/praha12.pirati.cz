@@ -1,10 +1,98 @@
 ---
-layout: default
 ---
+
+<!DOCTYPE html>
+<html lang="cs" dir="ltr" itemtype="http://schema.org/WebPage" itemscope="">
+{% include head.html %}
+<body>
+{% include js/gtm-body.html %}
+
+<style>
+@media print {
+  .large-4 {
+    width: 40%;
+  }
+  .large-8 {
+    width: 60%;
+  }
+  .large-12 {
+    width: 100%;
+  }
+  .c-BasicPage-content, .c-widget-accordion-content, .c-widget-accordion__title { font-size: 9.3pt; }
+  .c-widget-accordion__title { font-size: 14pt; }
+  .c-BasicPage__title { font-size: 21pt;}
+  a[href]:after { content: none; }
+  .c-widget-accordion { border: solid 1pt lightgrey;}
+  .c-widget-accordion .c-widget-accordion-content { border: none; padding-top: 0px; margin-top: 0px; }
+  .c-widget-accordion .c-widget-accordion-link { height: 40px; min-height: 40px; max-height: 40px; text-decoration: none;}
+  .c-widget-accordion.c-widget-accordion--dark .c-widget-accordion-link { background: white !important; }
+  .c-widget-accordion .c-widget-accordion-link::before { display: none; }
+  #mapa { max-height: 200px; height: 200px; }
+  #mapa img { transform: translateX(-50px) translateY(-50px); }
+}
+</style>
+
+<div class="hide-for-print">{% include header.html %}</div>
+
+<div class="page-content">
+  <div class="wrapper">
 
 {% unless page.nomenu %}
 {% include submenu.html %}
 {% endunless %}
+
+{% capture metadata_box_contents %}
+  {%if page.katastr%}<b>Katastr:</b> {{page.katastr}}<br/>{%endif%}
+  {%if page.developer%}<b>Developer:</b> {{page.developer}}<br/>{%endif%}
+  {%if page.nazev%}<b>Název projektu:</b> {{page.nazev}}<br/>{%endif%}
+  {%if page.web%}<b>Web projektu:</b> <a href="{{page.web}}">{{page.web | truncate: 50 }}</a><br/>{%endif%}
+  {%if page.pocetPodlazi%}<b>Počet nadzemních podlaží:</b> {{page.pocetPodlazi}}<br/>{%endif%}
+  {%if page.pocetBytu%}<b>Počet bytů:</b> {{page.pocetBytu}}<br/>{%endif%}
+  {%if page.pocetParking%}<b>Počet parkovacích míst:</b> {{page.pocetParking}}<br/>{%endif%}
+  {%if page.plocha%}<b>Plocha:</b> {{page.plocha}}<br/>{%endif%}
+  {%if page.plochaObytna%}<b>Obytná plocha:</b> {{page.plochaObytna}}<br/>{%endif%}
+  {%if page.jineFunkce%}<b>Jiné funkce:</b> {{page.jineFunkce}}<br/>{%endif%}
+  {%if page.uzemniPlanKod%}<b>Územní plán:</b>
+    {% assign kody = page.uzemniPlanKod | split: '/' %}
+    {% for kodUz in kody %}
+      {% if forloop.first == false %} / {% endif %}
+      {% assign textUz = '' %}
+      {% assign kodUzBase = kodUz | split: '-' | first %}
+      {% case kodUzBase %}
+        {% when 'OB' %} {% assign textUz = 'čistě obytné' %}
+        {% when 'OV' %} {% assign textUz = 'všeobecně obytné - Území sloužící pro bydlení s možností umísťování dalších funkcí pro obsluhu obyvatel.' %}
+        {% when 'SV' %} {% assign textUz = 'všeobecně smíšené - Území sloužící pro umístění polyfunkčních staveb nebo kombinaci monofunkčních staveb, kde žádná z funkcí nepřesáhne 60 % celkové kapacity území vymezeného danou funkcí.' %}
+        {% when 'VN' %} {% assign textUz = 'nerušící výroby a služeb' %}
+        {% when 'SP' %} {% assign textUz = 'Území sloužící pro umístění staveb a zařízení pro sport a tělovýchovu' %}
+        {% when 'SO' %} {% assign textUz = 'Území s omezenou zastavitelností sloužící rekreaci, oddechu a sportovním aktivitám v přírodě, které podstatně nenarušují přírodní charakter území. Hlavní součástí funkce je zeleň.' %}
+        {% when 'SO1' %} {% assign textUz = 'přírodní rekreační plochy' %}
+        {% when 'SO2' %} {% assign textUz = 'golfová hřiště' %}
+        {% when 'SO3' %} {% assign textUz = 'částečně urbanizované rekreační plochy' %}
+        {% when 'SO4' %} {% assign textUz = 'zařízení turistického ruchu' %}
+        {% when 'SO5' %} {% assign textUz = 'zvláštní rekreační aktivity' %}
+        {% when 'SO6' %} {% assign textUz = 'naučné a poznávací aktivity' %}
+        {% when 'SO7' %} {% assign textUz = 'zařízení pro organizovaný pobyt dětí v přírodě' %}
+        {% when 'VV' %} {% assign textUz = 'veřejné vybavení' %}
+        {% when 'TI' %} {% assign textUz = 'zařízení pro přenos informací' %}
+        {% when 'PZO' %} {% assign textUz = 'zahrádky a zahrádkové osady' %}
+        {% when 'OP' %} {% assign textUz = 'orná půda, plochy pro pěstování zeleniny' %}
+        {% when 'NL' %} {% assign textUz = 'louky a pastviny - Trvalé travnaté kultury, solitérní porosty.' %}
+      {% endcase %}
+      <span data-tooltip tooltip-max-width="20rem" tabindex="{{forloop.index}}" title="{{textUz}}" style="border-bottom: 1px dotted black;">{{kodUz}}</span>
+      {% comment %}
+      <!-- abbr vypada lip a snadnejsi, ale nefunguje na touch device -->
+      <abbr title="{{textUz}}">{{kodUz}}</abbr>
+      {% endcomment %}
+    {% endfor %}
+    &nbsp;<a href="uzemni-plan.html" class="hide-for-print">(více o kódech)</a>
+    <br/>
+  {%endif%}
+  {%if page.fazeSchvaleni %}
+    {% assign idxFaze = page.fazeSchvaleni | minus: 1 %}
+    <b>Fáze:</b> {{ site.data.vystavba.fazeSchvalovani[idxFaze]}}
+    &nbsp;<a href="faze-schvalovani.html" class="hide-for-print">(více o fázích)</a>
+  {%endif%}
+{% endcapture %}
 
 <div class="row">
   <div class="medium-12 {% if page.rbar == empty %}large-12{% else%}large-8{%endif%} columns">
@@ -15,58 +103,26 @@ layout: default
           <article itemtype="http://schema.org/BlogPosting" class="c-BasicPage" itemscope="">
             <link itemprop="mainEntityOfPage" href="http://insertshownpagelinkhere.com">
             <h1 itemprop="headline" class="c-BasicPage__title">
-                {{page.title}}
+              {{page.title}}
             </h1>
-            <!-- Info box -->
+            <!-- Metadata box -->
             <div class="c-BasicPage-content">
-            {%if page.katastr%}<b>Katastr:</b> {{page.katastr}}<br/>{%endif%}
-            {%if page.developer%}<b>Developer:</b> {{page.developer}}<br/>{%endif%}
-            {%if page.nazev%}<b>Název projektu:</b> {{page.nazev}}<br/>{%endif%}
-            {%if page.web%}<b>Web projektu:</b> <a href="{{page.web}}">{{page.web | truncate: 50 }}</a><br/>{%endif%}
-            {%if page.pocetPodlazi%}<b>Počet nadzemních podlaží:</b> {{page.pocetPodlazi}}<br/>{%endif%}
-            {%if page.pocetBytu%}<b>Počet bytů:</b> {{page.pocetBytu}}<br/>{%endif%}
-            {%if page.pocetParking%}<b>Počet parkovacích míst:</b> {{page.pocetParking}}<br/>{%endif%}
-            {%if page.plocha%}<b>Plocha:</b> {{page.plocha}}<br/>{%endif%}
-            {%if page.plochaObytna%}<b>Obytná plocha:</b> {{page.plochaObytna}}<br/>{%endif%}
-            {%if page.jineFunkce%}<b>Jiné funkce:</b> {{page.jineFunkce}}<br/>{%endif%}
-            {%if page.uzemniPlanKod%}<b>Územní plán:</b>
-              {% assign kody = page.uzemniPlanKod | split: '/' %}
-              {% for kodUz in kody %}
-                {% if forloop.first == false %} / {% endif %}
-                {% assign textUz = '' %}
-                {% assign kodUzBase = kodUz | split: '-' | first %}
-                {% case kodUzBase %}
-                  {% when 'OB' %} {% assign textUz = 'čistě obytné' %}
-                  {% when 'OV' %} {% assign textUz = 'všeobecně obytné - Území sloužící pro bydlení s možností umísťování dalších funkcí pro obsluhu obyvatel.' %}
-                  {% when 'SV' %} {% assign textUz = 'všeobecně smíšené - Území sloužící pro umístění polyfunkčních staveb nebo kombinaci monofunkčních staveb, kde žádná z funkcí nepřesáhne 60 % celkové kapacity území vymezeného danou funkcí.' %}
-                  {% when 'VN' %} {% assign textUz = 'nerušící výroby a služeb' %}
-                  {% when 'SP' %} {% assign textUz = 'Území sloužící pro umístění staveb a zařízení pro sport a tělovýchovu' %}
-                  {% when 'SO' %} {% assign textUz = 'Území s omezenou zastavitelností sloužící rekreaci, oddechu a sportovním aktivitám v přírodě, které podstatně nenarušují přírodní charakter území. Hlavní součástí funkce je zeleň.' %}
-                  {% when 'SO1' %} {% assign textUz = 'přírodní rekreační plochy' %}
-                  {% when 'SO2' %} {% assign textUz = 'golfová hřiště' %}
-                  {% when 'SO3' %} {% assign textUz = 'částečně urbanizované rekreační plochy' %}
-                  {% when 'SO4' %} {% assign textUz = 'zařízení turistického ruchu' %}
-                  {% when 'SO5' %} {% assign textUz = 'zvláštní rekreační aktivity' %}
-                  {% when 'SO6' %} {% assign textUz = 'naučné a poznávací aktivity' %}
-                  {% when 'SO7' %} {% assign textUz = 'zařízení pro organizovaný pobyt dětí v přírodě' %}
-                  {% when 'VV' %} {% assign textUz = 'veřejné vybavení' %}
-                  {% when 'TI' %} {% assign textUz = 'zařízení pro přenos informací' %}
-                  {% when 'PZO' %} {% assign textUz = 'zahrádky a zahrádkové osady' %}
-                  {% when 'OP' %} {% assign textUz = 'orná půda, plochy pro pěstování zeleniny' %}
-                  {% when 'NL' %} {% assign textUz = 'louky a pastviny - Trvalé travnaté kultury, solitérní porosty.' %}
-                {% endcase %}
-                <span data-tooltip tooltip-max-width="20rem" tabindex="{{forloop.index}}" title="{{textUz}}" style="border-bottom: 1px dotted black;">{{kodUz}}</span>
-                {% comment %}
-                <!-- abbr vypada lip a snadnejsi, ale nefunguje na touch device -->
-                <abbr title="{{textUz}}">{{kodUz}}</abbr>
-                {% endcomment %}
-              {% endfor %}
-              &nbsp;<a href="uzemni-plan.html">(více o kódech)</a>
-              <br/>
-            {%endif%}
+              {% if page.uvodText %}{{page.uvodText}}<br/><br/>{% endif %}
+              {{metadata_box_contents}}
             </div>
-            <div itemprop="description" class="c-BasicPage-content">
+            <!-- Contents for screen -->
+            <div itemprop="description" class="c-BasicPage-content hide-for-print">
               {{content}}
+            </div>
+            <!-- Contents for print -->
+            <div itemprop="description" class="c-BasicPage-content show-for-print">
+              {% if page.printImg1 %}
+              <img src="{{ page.printImg1 | prepend: page.folder | relative_url }}" style="max-height: 220px; display: block; margin-left: auto; margin-right: auto;"><br/>
+              {% endif %}
+              {% if page.printImg2 %}
+              <img src="{{ page.printImg2 | prepend: page.folder | relative_url }}" style="max-height: 220px; display: block; margin-left: auto; margin-right: auto;">
+              {% endif %}
+              <hr/>
             </div>
           </article>
           <!-- /Article -->
@@ -80,3 +136,34 @@ layout: default
   </div>
   {% endunless %}
 </div>
+
+<div class="row show-for-print" style="position: absolute; bottom: 0px; width: 100%;">
+  <div class="o-section-inner c-BasicPage-content">
+<h2 style="font-size:13pt;">Piráti o výstavbě na Praze 12</h2>
+<p>Tady je text o tom, jaké máme zásady pro výstavbu obecně.</p>
+<p>Podstatnou část Prahy tvoří sídliště. Záměrem jejich tvůrce byla vyváženost
+staveb, která společně s hojnou zelení vytvoří na relativně malé ploše přijatelné
+bydlení pro velký počet obyvatel. Vyšší obytné bloky domů jsou tak vyvažovány
+nižšími objekty občanské vybavenosti.</p>
+<p>Řadu objektů koupili noví majitelé, ale na jejich opravu či rozvoj nechtějí
+dát prostředky. Chtějí je zbourat a místo nich postavit výškové objekty bez ohledu,
+zda zastíní či jinak znehodnotí domy v jejich okolí. Chtějí je vybudovat
+bez patřičné infrastruktury, vyřešení dopravy atd.</p>
+<p>
+{% assign qr_code_target = page.url | prepend: 'https://praha12.pirati.cz' | url_encode %}
+<img src="{{ 'assets/img/brand/logo-round.svg' | relative_url }}" style="width: 170px; padding-right:30px" alt="Česká pirátská strana" align="right">
+<img src="https://api.qrserver.com/v1/create-qr-code/?data={{qr_code_target}}&amp;size=150x150" alt="" title="" align="right" style="width: 100px; padding-right:30px;"/>
+
+Nejsme proti revitalizaci sídlišť, ale s lidským rozměrem nástavby několika pater.
+<p>
+Více informací naleznete na webu <u>praha12.pirati.cz</u>
+  </div>
+</div>
+
+  </div> <!-- div class="wrapper" -->
+</div> <!-- div class="page-content" -->
+
+<div class="hide-for-print">{% include footer.html %}</div>
+{% include js/main.html %}
+</body>
+</html>

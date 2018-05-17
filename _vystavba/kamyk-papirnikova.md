@@ -1,5 +1,5 @@
 ---
-title: Papírníkova 1, věžák nad kotelnou
+title: Papírníkova, bytový dům
 katastr: Kamýk
 developer: PT Real Estate
 nazev:
@@ -11,17 +11,26 @@ pocetPodlazi: 12
 pocetBytu:
 pocetParking:
 uzemniPlanKod: OV
+fazeSchvaleni: 5
+rokDokonceni:
 gps:
   lat: 50.0069042
   long: 14.4531972
 
+uvodText: Bytový dům na místě kotelny přilepený na konec panelového domu v ulici Papírníkova
+
 textbox:
-  text: Dávalo by nám smysl, kdyby nová budova navazovala přesně na přilehlý panelák. Návrh PT Real Estate překračuje tento dům jak výškou, tak šířkou.
+  text: >
+    Dávalo by nám smysl, kdyby nová budova navazovala přesně na přilehlý panelák. Návrh PT Real Estate překračuje tento dům jak výškou, tak šířkou.
+    <br/><br/>
+    Část budovy překračující tvar domu v Papírníkově navíc zastíní existující byty, zvláště když je orientovaná na jih od nich.
 
 folder: /assets/img/vystavba/ka-papirnikova/
+printImg1: viz1.jpg
+printImg2: puvodni_stav.jpg
 ---
 
-Bytový dům na místě kotelny přilepený na konec panelového domu v ulici Papírníkova. Projekt monitoruje [Sebeobrana sídliště Kamýk](http://www.sidliste-kamyk.cz/).
+Projekt monitoruje [Sebeobrana sídliště Kamýk](http://www.sidliste-kamyk.cz/).
 
 - - -
 

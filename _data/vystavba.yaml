@@ -1,0 +1,18 @@
+fazeSchvalovani:
+  - podnět změny územního plánu   #1
+  - zadání změny územního plánu   #2
+  - návrh změny územního plánu    #3
+  - platnost změny územního plánu #4
+  - příprava na územní řízení     #5
+  - závazná stanoviska dotčených úřadů k územnímu řízení   #6
+  - podání na stavební úřad k územnímu řízení   #7
+  - zahájení územního řízení                #8
+  - vypořádání námitek k územnímu řízení  #9
+  - vydání územního rozhodnutí            #10
+  - příprava projektu pro stavební řízení #11
+  - závazná stanoviska dotčených úřadů ke stavebnímu řízení   #12
+  - podání na stavební úřad ke stavebnímu řízení   #13
+  - zahájení stavebního řízení              #14
+  - vypořádání námitek ke stavebnímu řízení #15
+  - vydání stavebního rozhodnutí            #16
+  - realizace                     #17

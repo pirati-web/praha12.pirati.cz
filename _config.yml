@@ -60,6 +60,7 @@ defaults:   # defaults values for collection scope
     values:
       layout: "vystavba"
       rbar: "map, textbox"
+      img: "vystavba/mapa-vystavby.png"
       mapycz_api: "mini-api"
       textbox:
         title: "Naše stanovisko"
