@@ -1,5 +1,5 @@
 ---
-title: Bytový dům v ulici Písková
+title: Písková, polyfunkční dům
 katastr: Modřany
 developer: Crescon
 nazev: Rezidence Písková
@@ -17,10 +17,14 @@ gps:
   lat: 50.0022806
   long: 14.4171214
 
+uvodText: Bytový dům u křižovatky ulic Písková a Čs.exilu
+
 textbox:
   text: Líbí se nám zelená střecha, ale jsme pro striktní respektování územního plánu (SV), který zde dává každé funkci včetně bydlení maximálně 60 % plochy. Bez prostor pro podnikání a setkávání obyvatel se naše městská část mění v noclehárnu.
 
 folder: /assets/img/vystavba/mo-piskova/
+printImg1: 554.jpg
+printImg2:
 ---
 
 Projekt monitoruje [Spolek Tichá čtvrť](http://www.tichactvrt.cz/).

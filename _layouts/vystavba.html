@@ -102,6 +102,7 @@
             </h1>
             <!-- Metadata box -->
             <div class="c-BasicPage-content">
+              {% if page.uvodText %}{{page.uvodText}}<br/><br/>{% endif %}
               {{metadata_box_contents}}
             </div>
             <!-- Contents for screen -->

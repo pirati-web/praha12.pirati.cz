@@ -1,12 +1,12 @@
 ---
-title: Věže nad Billou, Vosátkova
+title: Vosátkova, polyfunkční dům
 katastr: Kamýk
 developer: Trigema
 nazev: Polyfunkční dům Kamýk
 web:
 plocha:
 plochaObytna:
-jineFunkce:
+jineFunkce: samoobsluha
 pocetPodlazi: 18
 pocetBytu:
 pocetParking:
@@ -16,6 +16,8 @@ rokDokonceni:
 gps:
   lat: 50.0149972
   long: 14.4372189
+
+uvodText: Developer plánuje modernizovat stávající obchodní prostory OC Kamýk se samoobsluhou Billa a přistavit na ně vysoké věže s byty
 
 textbox:
   text: Cokoli nad okolní výstavbu (8 pater) nám přijde naprosto neúměrné. Nový Metropolitní plán na tomto území také počítá s maximálně 8 patry.

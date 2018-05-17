@@ -1,5 +1,5 @@
 ---
-title: Zimova
+title: Zimova, bytový dům
 katastr: Kamýk
 developer: JRD
 nazev: Rezidence Kamýk
@@ -17,13 +17,17 @@ gps:
   lat: 50.0068525
   long: 14.4505150
 
+uvodText: Přístavba k panelovému domu v ulici Zimova
+
 textbox:
   text: Nesouhlasíme s přístavbou na severní části domu, která překračuje šírku sousedního domu a zastiňuje výhled z bytů.
 
 folder: /assets/img/vystavba/ka-zimova/
+printImg1: viz1.jpg
+printImg2:
 ---
 
-Přístavba k panelovému domu v ulici Zimova. Projekt monitoruje [Sebeobrana sídliště Kamýk](http://www.sidliste-kamyk.cz/).
+Projekt monitoruje [Sebeobrana sídliště Kamýk](http://www.sidliste-kamyk.cz/).
 
 - - -
 

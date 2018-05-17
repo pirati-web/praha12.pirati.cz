@@ -1,5 +1,5 @@
 ---
-title: Smotlachova
+title: Smotlachova, polyfunkční dům
 katastr: Kamýk
 developer: JRD
 nazev: Zelený Kamýk
@@ -17,14 +17,18 @@ gps:
   lat: 50.0098589
   long: 14.4493617
 
+uvodText: Vysoký dům má vyrůst místo dvoupodlažní budovy na konci ulice Smotlachova
+
 textbox:
   text: >
     Navržená stavba developerem je předimenzovaná a zhoršuje již tak problematické parkování pro stávající obyvatele. Dále jsme pro striktní respektování územního plánu (SV), který zde dává každé funkci včetně bydlení maximálně 60 % plochy. Bez prostor pro podnikání a setkávání obyvatel se naše městská část mění v noclehárnu. Jediné pozitivum návrhu je zelená střecha.
     <br/><br/>
-    Z našeho pohledu se jedná o revitalizaci, proto bychom považovali za přiměřené 3 patra.
+    Z našeho pohledu se jedná o revitalizaci, proto bychom považovali za přiměřená 3 patra.
 
 
 folder: /assets/img/vystavba/ka-smotlachova/
+printImg1: zeleny_kamyk.jpg
+printImg2:
 ---
 
 Boji proti tomuto projektu se věnuje iniciativa občanů [Sebeobrana sídliště Kamýk](http://www.sidliste-kamyk.cz/).

@@ -17,10 +17,14 @@ gps:
   long: 14.4059097
   zoom: 14
 
+uvodText: Zástavba louky na konci Komořan
+
 textbox:
-  text: V Komořanech se zpracovává územní studie, která určí, co se toto území bude využívat. Nesouhlasíme se změnami do té doby, než bude tato studie dokončena.
+  text: V Komořanech se zpracovává územní studie, která určí, jak se toto území bude využívat. Nesouhlasíme se změnami do té doby, než bude tato studie dokončena.
 
 folder: /assets/img/vystavba/ko-sabatka/
+printImg1: viz1.jpg
+printImg2:
 ---
 
 **9.1.2018** Spolek Pro Komořany definitivně vyhrál soud nad Magistrátem, kasační žádost odpůrce byla zamítnuta a louka (prozatím) zůstala loukou.
