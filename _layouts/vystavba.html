@@ -87,6 +87,11 @@
     &nbsp;<a href="uzemni-plan.html" class="hide-for-print">(více o kódech)</a>
     <br/>
   {%endif%}
+  {%if page.fazeSchvaleni %}
+    {% assign idxFaze = page.fazeSchvaleni | minus: 1 %}
+    <b>Fáze:</b> {{ site.data.vystavba.fazeSchvalovani[idxFaze]}}
+    &nbsp;<a href="faze-schvalovani.html" class="hide-for-print">(více o fázích)</a>
+  {%endif%}
 {% endcapture %}
 
 <div class="row">
