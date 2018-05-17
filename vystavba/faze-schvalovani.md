@@ -38,11 +38,13 @@ Více viz [jak se bránit změnám územního plánu](zmena-planu.html)
 
 ### Realizace
 
+- - -
+
 ## Jak se bránit
 
 Pokud s projektem nesouhlasíte či se vás nějak dotýká, je možné se do procesu schvalování zapojit. Platí zde víceméně stejné nástroje jako jsme popsali u [změn územního plánu](zmena-planu.html). Tedy ve stručnosti:
  * ovlivňování zastupitelů před hlasováním
  * podávání námitek vlastníky okolních (dotčených) nemovitostí
- * podávání námitek tzv. zástupci veřejnosti, kteří získají alespoň 200 podpisů pro tu samou věc
+ * podávání námitek pomocí tzv. zástupce veřejnosti, který získá alespoň 200 podpisů pro tu samou věc
 
 - - -
