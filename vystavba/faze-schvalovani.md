@@ -19,6 +19,8 @@ Více viz [jak se bránit změnám územního plánu](zmena-planu.html)
   - závazná stanoviska dotčených úřadů
   - podání na stavební úřad
   - zahájení územního řízení
+    - objeví se na úřední desce
+    - obeslání majítelů sousedních (dotčených) nemovitostí
   - vypořádání námitek
   - vydání územního rozhodnutí
     - je možno se odvolat (řeší magistrát) nebo podat přezkum stanoviska (na ministerstvo místního rozvoje)
@@ -30,6 +32,8 @@ Více viz [jak se bránit změnám územního plánu](zmena-planu.html)
   - závazná stanoviska dotčených úřadů
   - podání na stavební úřad
   - zahájení stavebního řízení
+    - objeví se na úřední desce
+    - obeslání majítelů sousedních (dotčených) nemovitostí
   - vypořádání námitek
   - vydání stavebního rozhodnutí
     - je možno se odvolat (řeší magistrát) nebo podat přezkum stanoviska (na ministerstvo místního rozvoje)

@@ -41,13 +41,15 @@ Na zastupitelstvu Prahy 12 zastupitelé klubu Piráti, Zelení a LES hlasovali p
 
 ![hlasovani2016.jpg]({{'hlasovani2016.jpg' | prepend: page.folder | relative_url }} )
 
+**24.11.2015** Zastupitelsvo MČ Praha 12 schvaluje návrh změny územního plánu na kód OB-C [R-09-011-15](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=44664) - pro návrh byla tehdejší koalice ANO, Změna pro Prahu 12 a ČSSD (starostka Rázková). Piráti hlasovali proti. O změně se jednalo již 1.6.2015, ale projednávání této změny bylo přerušeno.
+
 **21.5.2015** Pražský zastupitel za Piráty Mikuláš Ferjenčík sepsal článek [Stamilionová louka v Komořanech](https://praha.pirati.cz/milionova-louka.html) o projednávané změně územního plánu a obrovkých částkách, o které jde. V roce 2000 byla louka oceněna na 100 tisích Kč, Central Group ji od původního majitele koupil za cca 50 miliónů, po změně územního plánu by měla hodnotu asi 150 miliónů Kč.
 
 **27.4.2015** Rada městské části schvaluje darovací smlouvu s Central Group na dar ve výši 10 mil. Kč
 
-**Únor 2014** Soud na podnět Rady MČ Prahy 12 změnu územního plánu ze zeleně na stavební využití pro procesní pochybení zrušil.
+**5.2.2014** Soud na podnět Rady MČ Prahy 12 změnu územního plánu č. Z 1424/07 ze zeleně na stavební využití pro procesní pochybení zrušil.
 
-**20.7.2011** Central Group kupuje parcelu č. 775 v k.ú. Komořany
+**20.7.2011** Central Group kupuje parcelu č. 775 v k.ú. Komořany.
 
 ![viz1.jpg]({{'viz1.jpg' | prepend: page.folder | relative_url }} )
 
