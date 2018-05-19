@@ -26,7 +26,14 @@ Vytvořili jsme mapu, kde můžete najít jednotlivé developerské projekty. Po
 var center = SMap.Coords.fromWGS84(14.43, 50.00);
 var mapa = new SMap(JAK.gel("mapa"), center, 13);
 mapa.addDefaultLayer(SMap.DEF_BASE).enable();
+
 mapa.addDefaultControls();
+
+var controls = mapa.getControls();  /* Odstranit kolecko mysi */
+for (var i=0;i<controls.length;i++) {
+  if (controls[i] instanceof SMap.Control.Mouse)
+    controls[i].configure(SMap.MOUSE_PAN | SMap.MOUSE_ZOOM);
+}
 
 var vrstva = new SMap.Layer.Marker();     /* Vrstva se značkami */
 var souradnice = [];
@@ -52,6 +59,7 @@ markers.forEach(function(marker) {
   var znacka = new SMap.Marker(c, marker.id, options);
   souradnice.push(c);
   vrstva.addMarker(znacka);
+  znacka.getContainer()[SMap.LAYER_MARKER].style.cursor = "pointer";
 });
 
 // zobrazime a povolime vrstvu - pokud by se vrstva povolila pred vkladanim markeru, tak by se s kazdym vlozenym markerem prekreslovala mapa a pocitaly pozice vsech markeru
@@ -83,7 +91,13 @@ mapa.getSignals().addListener(this, "marker-click", function(e) {
 
 - - -
 
-## Jak funguje územní plán a jak se bránit jeho změnám
+## Informace o územním plánu, stavebním řízení
 
  * [Územní plán](uzemni-plan.html) - vysvětlení kódů územního plánu s odkazy na další zdroje informací
+ * [Fáze schvalování projektu](faze-schvalovani.html) - popis fází od změny územního plánu, až k územnímu a stavebnímu řízení
  * [Jak se bránit změnám](zmena-planu.html) - kdy může veřejnost vstupovat do navrhovaných změn územního plánu
+
+- - -
+
+Verze mapy pro tisk: [pirati-mapa-vystavby-p12.pdf]({{ '/assets/img/vystavba/pirati-mapa-vystavby-p12.pdf' | relative_url }})<br/>
+Tiskové verze jednotlivých projektů se generují funkcí tisk v prohlížeči na jednotlivých stránkách (nejlépe v Chrome)
