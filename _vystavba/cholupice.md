@@ -21,9 +21,7 @@ uvodText: V roce 2008 byla představena urbanistická studie zastavění Cholupi
 
 textbox:
   text: >
-    Cholupice a Točná mají stále poměrně zachovalou původní zemědělskou krajinu, kdy dané sídelní útvary představují cenný venkovský charakter, což je na území Prahy stále vzácnější jev. Neustálým rozšiřováním těchto sídel a následná expanze do jejího okolí by zcela narušila nezaměnitelný krajinný ráz.
-    <br/><br/>
-    V blízkosti Cholupic se nachází vyhlášený Přírodní park Modřanská rokle – Cholupice. Mezi prvotní důvody jeho vyhlášení bylo mj. právě zachování a trvalé chránění území pro jeho přírodovědné, krajinné a estetické hodnoty. Venkovský charakter krajiny byl již narušen výstavbou Pražského okruhu, a proto další neuvážená výstavba a expanze sídel bude mít pro danou oblast zcela neoddiskutovatelně negativní přínos.
+    Cholupice a Točná mají stále poměrně zachovalou původní zemědělskou krajinu, což je na území Prahy stále vzácnější jev. Neustálé rozšiřování těchto sídel by zcela narušila nezaměnitelný krajinný ráz. V blízkosti Cholupic se nachází vyhlášený Přírodní park Modřanská rokle – Cholupice. Mezi prvotní důvody jeho vyhlášení bylo právě zachování a trvalé chránění území pro jeho přírodovědné, krajinné a estetické hodnoty.
     <br/><br/>
     Prosazujeme citlivé zahušťování měst na místo vzniku dalších neuvážených suburbií na jeho okraji. Vlivem fragmentace této oblasti dopravou má zdejší zvěř čím dál tím větší problémy s migrací na jednotlivá stanoviště. Na velké procento uhynulé zvěře způsobené právě automobilovou dopravou upozorňují též někteří členové místního mysliveckého sdružení.
 

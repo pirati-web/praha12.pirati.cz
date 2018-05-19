@@ -100,4 +100,4 @@ mapa.getSignals().addListener(this, "marker-click", function(e) {
 - - -
 
 Verze mapy pro tisk: [pirati-mapa-vystavby-p12.pdf]({{ '/assets/img/vystavba/pirati-mapa-vystavby-p12.pdf' | relative_url }})<br/>
-Tiskové verze jednotlivých projektů se generují funkcí tisk v prohlížeči na jednotlivých stránkách (nejlépe Chrome, Safari)
+Tiskové verze jednotlivých projektů se generují funkcí tisk v prohlížeči na jednotlivých stránkách (nejlépe v Chrome)
