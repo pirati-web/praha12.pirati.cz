@@ -27,6 +27,8 @@ printImg1: viz1.jpg
 printImg2:
 ---
 
+**19.4.2018** Změna [Z-1424](https://app.iprpraha.cz/napp/zmeny/?id=995&action=view&presenter=Articlezmenyupravy) územního plánu je zpátky na jednacím stole. Výbor pro územní rozvoj a územní plán ZHMP schválil znovu pořizování této změny. Piráti (zastupeni Adamem Zábranským) jsou proti.
+
 **9.1.2018** Spolek Pro Komořany definitivně vyhrál soud nad Magistrátem, kasační žádost odpůrce byla zamítnuta a louka (prozatím) zůstala loukou.
 
 **27.6.2017** Na návrh poslanců František Adámek (též radní Prahy 12) a Jaroslav Foldyna (oba ČSSD) byla novelou stavebního zákona vyloučena možnost občanským spolkům účastnit se územního a stavebního řízení. Byla tak výrazně snížena možnost zasahovat do změn územního plánu. Také byl ze zákona vypuštěn požadavek, že změna územního plánu ze zeleně na rozvojové území nemůže být odsouhlasena, pokud ještě v území existují nevyužitá rozvojová území.
@@ -34,10 +36,6 @@ printImg2:
 **21.6.2017** [Spolek Pro Komořany](http://www.spolekprokomorany.cz) vyhrál u Městského soudu spor nad Magistrátem. Využil bodu ve stavebním zákoně, že změna územního plánu ze zeleně na rozvojové území nemůže být odsouhlasena, pokud ještě existují v území nevyužitá rozvojová území.
 
 **15.9.2016** Zastupitelstvo magistrátu hl.m. Prahy odsouhlasilo velkou většinou změnu územního plánu z louky na stavební pozemky. Proti této změně byli jen Piráti a komunisté.
-
-{% comment %}
-Na zastupitelstvu Prahy 12 zastupitelé klubu Piráti, Zelení a LES hlasovali proti této změně, ale byli přehlasováni.
-{% endcomment %}
 
 ![hlasovani2016.jpg]({{'hlasovani2016.jpg' | prepend: page.folder | relative_url }} )
 
