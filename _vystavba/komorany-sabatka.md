@@ -31,7 +31,7 @@ printImg2:
 
 **9.1.2018** Spolek Pro Komořany definitivně vyhrál soud nad Magistrátem, kasační žádost odpůrce byla zamítnuta a louka (prozatím) zůstala loukou.
 
-**27.6.2017** Na návrh poslanců František Adámek (též radní Prahy 12) a Jaroslav Foldyna (oba ČSSD) byla novelou stavebního zákona vyloučena možnost občanským spolkům účastnit se územního a stavebního řízení. Byla tak výrazně snížena možnost zasahovat do změn územního plánu. Také byl ze zákona vypuštěn požadavek, že změna územního plánu ze zeleně na rozvojové území nemůže být odsouhlasena, pokud ještě v území existují nevyužitá rozvojová území.
+**27.6.2017** Na návrh poslanců František Adámek (též radní Prahy 12) a Jaroslav Foldyna (oba ČSSD) byla novelou stavebního zákona vyloučena možnost občanským spolkům účastnit se územního a stavebního řízení. Byla tak výrazně snížena možnost zasahovat do změn územního plánu. Také byl na návrh Františka Adámka ([změna 5936](http://www.psp.cz/sqw/historie.sqw?T=927&O=7)) ze zákona vypuštěn požadavek, že změna územního plánu ze zeleně na rozvojové území nemůže být odsouhlasena, pokud ještě v území existují nevyužitá rozvojová území (tedy ustanovení, na základě kterého Spolek Pro Komořany u soudu uspěl).
 
 **21.6.2017** [Spolek Pro Komořany](http://www.spolekprokomorany.cz) vyhrál u Městského soudu spor nad Magistrátem. Využil bodu ve stavebním zákoně, že změna územního plánu ze zeleně na rozvojové území nemůže být odsouhlasena, pokud ještě existují v území nevyužitá rozvojová území.
 
