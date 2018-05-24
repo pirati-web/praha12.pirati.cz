@@ -17,7 +17,7 @@ gps:
   lat: 50.0086969
   long: 14.4278717
 
-uvodText: Developer chce stávající nízkopodlažní obchodní centrum Sázava přestavět a nastavět na něj několik vysokých bytových domů
+uvodText: Developer chce stávající nízkopodlažní obchodní centrum Sázava přestavět a nastavět na něj několik vysokých bytových domů (4 NP, 7 NP a 11 NP)
 
 textbox:
   text: Je škoda, že vlastník areálu objekty neudržuje a nechal je chátrat do současného stavu. Navrhované vysoké budovy neúměrně zahušťují sídliště. Měli bychom pochopení pro 3 patra, protože se z našeho pohledu jedná o revitalizaci. Jsme pro striktní respektování územního plánu (SV), který zde dává každé funkci včetně bydlení maximálně 60 % plochy.
@@ -26,8 +26,6 @@ folder: /assets/img/vystavba/mo-sazava/
 printImg1: vizualizace.jpg
 printImg2:
 ---
-
-Společnost Fisolta chce přestavět přízemní komerční objekt (samoobsluha, restaurace) zvaný Sázava na polyfunkční centrum Rilská. Jedná se o výstavbu tří bytových sekcí (4 NP, 7 NP a 11 NP), přičemž 1.NP stavby obsahuje obchodní a komerční plochy.
 
 Boji proti tomuto projektu se věnuje občanský spolek [Spolek pro Modřany](http://www.spolekpromodrany.cz/).
 
@@ -38,5 +36,7 @@ Boji proti tomuto projektu se věnuje občanský spolek [Spolek pro Modřany](ht
 
 **15.2.2017** Prezentace v Modřanském biografu. Fisolta chce postavit šesti- a desetipatrové domy.
 [zpráva](https://dvanactka.info/2017/02/firma-fisolta-plus-predstavila-studii-prestavby-polyfunkcniho-centra-rilska/)
+
+![puvodni_stav.jpg]({{'puvodni_stav.jpg' | prepend: page.folder | relative_url }} )
 
 - - -

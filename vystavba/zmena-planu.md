@@ -3,13 +3,13 @@ layout: page
 title: Jak se bránit změnám územního plánu
 ---
 
-Proces změny územního plánu je poměrně dlouhý. Při běžném projednání trvá minimálně 44 měsíců a má tři fáze:
+Proces změny územního plánu je poměrně dlouhý. Při běžném projednání trvá pořízování změny minimálně 44 měsíců a má tři etapy:
 
  1. Podnět
  2. Zadání
  3. Návrh
 
-V závěru každé fáze je změna projednána na Magistrátu: v příslušném výboru, na radě a v zastupitelstvu. Celý proces je v krocích rozepsán [v tomto schématu (PDF)](http://servis.praha-mesto.cz/uzplan/uzemni_plan_hmp/schema_porizovani.pdf). Změny je možné pořizovat i [zkráceným postupem (PDF)](http://servis.praha-mesto.cz/uzplan/uzemni_plan_hmp/porizovani_zmen_up_zkracene_rizeni.pdf), kdy je sloučena fáze zadání a návrhu.
+V závěru každé etapy je změna projednána na Magistrátu: v příslušném výboru, na radě a v zastupitelstvu. Celý proces je v krocích rozepsán [v tomto schématu (PDF)](http://servis.praha-mesto.cz/uzplan/uzemni_plan_hmp/schema_porizovani.pdf). Změny je možné pořizovat i [zkráceným postupem (PDF)](http://servis.praha-mesto.cz/uzplan/uzemni_plan_hmp/porizovani_zmen_up_zkracene_rizeni.pdf), kdy jsou sloučeny etapy zadání a návrhu.
 
 Změny územního plánu dokumentuje speciální webová aplikace [zmenaplanu.cz](https://www.zmenaplanu.cz), kde je možné si nastavit automatické upozornění emailem ("hlídacího psa") při změnách na vámi zvoleném území.
 
@@ -24,10 +24,10 @@ Kdokoli z veřejnosti může osobně vystoupit na zasedání zastupitelstva měs
 
 ## Přímá účast v procesu - připomínky a námitky
 
-Veřejnost se může zapojit do procesu i přímo, viz schémata výše. Na veřejném projednání **návrhu změny** a do 7 dnů od tohoto projednání:
+Veřejnost se může zapojit do procesu i přímo, viz schémata výše. Na veřejném projednání **návrhu změny** (termíny uveřejňovány na úřední desce magistrátu, odbor územního rozvoje) a do 7 dnů od tohoto projednání:
 
  * **může každý uplatnit připomínky** - připomínky ale může úřad ignorovat.
- * **mohou dotčené osoby uplatnit námitky** - o námitkách musí magistrát rozhodnout a podrobně zdůvodnit, proč je (ne)vzal v úvahu. Zdůvodnění je pak možné napadnout soudně.
+ * **mohou dotčené osoby uplatnit námitky** - námitky musí magistrát vypořádat a podrobně zdůvodnit, proč je (ne)vzal v úvahu. Zdůvodnění je pak možné napadnout soudně.
 
 Dotčenými osobami, mající právo podávat námitky, jsou:
 
