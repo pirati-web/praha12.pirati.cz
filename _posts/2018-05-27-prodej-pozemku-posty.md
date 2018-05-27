@@ -29,7 +29,7 @@ Radní Jan Marhoul (ČSSD) odpovědný za majetek se ale po dotazu Zbyňka Boubl
 
 Píše, že Pošta bez vlastnictví pozemků odmítá do objektu investovat, maximálně, že uvnitř vymalují. Již toto tvrzení není pravda, protože 23.&nbsp;2.&nbsp;2018 byl naší radnici [zaslán dopis](https://www.praha12.cz/rekonstrukce-pobocky-ceske-posty-na-sofijskem-namesti/d-60536/p1=51), že v roce 2019 pošta plánuje rekonstrukci vnitřku pobočky.
 
-> "Pokud by se mělo jednat o žádoucí rekonstrukci exteriéru, preferovali bychom dohodu obou stran. Česká pošta je stále státní podnik, teoreticky by tedy měl jednat v zájmu veřejnosti stejně jako městská část. Z pohledu autora tohoto článku by bylo nejlepší spojit rekonstrukci budovy pošty s rekonstrukcí sousedního Prioru, v rámci jedné otevřené architektonické soutěže," říká Jan Adamec.
+> "Pokud by se mělo jednat o žádoucí rekonstrukci exteriéru, preferovali bychom dohodu obou stran. Česká pošta je stále státní podnik, teoreticky by tedy měl jednat v zájmu veřejnosti stejně jako městská část. Nejlepší by bylo spojit rekonstrukci budovy pošty s rekonstrukcí sousedního Prioru, v rámci jedné otevřené architektonické soutěže," říká pirátský příznivec Jan Adamec.
 
 > Vlastnictví pozemku je zásadní způsob, jak si veřejnost může uchovat kontrolu nad budoucí podobou tohoto místa. K prodeji takto důležitého pozemku není žádný zásadní důvod," dodává pirátský zastupitel Lukáš Findeis.
 
