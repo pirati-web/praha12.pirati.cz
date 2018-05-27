@@ -40,7 +40,9 @@ printImg2: uzemi_letecke_web.jpg
 
 **25.4.2017** Prezentace dvou architektonických studií (viz web) na 2. veřejném plánovacím setkání v Prioru
 
-**14.9.2016** 1. veřejném plánovacím setkání v Prioru
+**14.9.2016** 1. veřejné plánovací setkání v Prioru
 
 ![Letecký pohled]({{'uzemi_letecke_web.jpg' | prepend: page.folder | relative_url }} )
 (zdroj: reality.skanska.cz)
+
+**2005** Provozní budovy cukrovaru byly zbořeny, zůstal jen komín. Cukrovar má i svou stránku na [Wikipedii](https://cs.wikipedia.org/wiki/Cukrovar_Modřany).
