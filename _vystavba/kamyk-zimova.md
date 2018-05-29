@@ -24,7 +24,7 @@ textbox:
 
 folder: /assets/img/vystavba/ka-zimova/
 printImg1: viz1.jpg
-printImg2:
+printImg2: pudorys.jpg
 ---
 
 Projekt monitoruje [Sebeobrana sídliště Kamýk](http://www.sidliste-kamyk.cz/).

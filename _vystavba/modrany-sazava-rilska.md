@@ -24,7 +24,7 @@ textbox:
 
 folder: /assets/img/vystavba/mo-sazava/
 printImg1: vizualizace.jpg
-printImg2:
+printImg2: puvodni_stav.jpg
 ---
 
 Boji proti tomuto projektu se věnuje občanský spolek [Spolek pro Modřany](http://www.spolekpromodrany.cz/).

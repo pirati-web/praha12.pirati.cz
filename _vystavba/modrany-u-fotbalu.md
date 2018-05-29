@@ -23,8 +23,8 @@ textbox:
   text: Měli bychom pochopení pro pětipatrové budovy, vzhledem k tomu, že pozemek sousedí s rodinnými domy a fotbalovým hřištem. Chybí nám zde i místa pro setkávání obyvatel.
 
 folder: /assets/img/vystavba/mo-ufotbalu/
-printImg1: viz1.jpg
-printImg2:
+printImg1: viz2.jpg
+printImg2: viz1.jpg
 ---
 
 **20.6.2017** Prezentace projektu v Modřanském biografu

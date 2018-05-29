@@ -26,7 +26,7 @@ textbox:
 
 folder: /assets/img/vystavba/mo-cukrovar/
 printImg1: viz1.jpg
-printImg2: uzemi_letecke_web.jpg
+printImg2: viz1-pohled-z-vlaku.jpg
 ---
 
 **19.5.2018** Otevření [Cukrkandlu](https://reality.skanska.cz/dobry-soused/cukrkandl) - cyklokavárna, bikrosová dráha, komunitní zahrada, venkovní posilovna
