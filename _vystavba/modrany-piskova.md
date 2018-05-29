@@ -24,7 +24,7 @@ textbox:
 
 folder: /assets/img/vystavba/mo-piskova/
 printImg1: 554.jpg
-printImg2:
+printImg2: 553.jpg
 ---
 
 Projekt monitoruje [Spolek Tichá čtvrť](http://www.tichactvrt.cz/).

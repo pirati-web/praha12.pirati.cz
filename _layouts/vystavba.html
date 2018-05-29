@@ -75,7 +75,8 @@
   {%if page.katastr%}<b>Katastr:</b> {{page.katastr}}<br/>{%endif%}
   {%if page.developer%}<b>Developer:</b> {{page.developer}}<br/>{%endif%}
   {%if page.nazev%}<b>Název projektu:</b> {{page.nazev}}<br/>{%endif%}
-  {%if page.web%}<b>Web projektu:</b> <a href="{{page.web}}">{{page.web | truncate: 50 }}</a><br/>{%endif%}
+  {%if page.web%}<b>Web projektu:</b> <a href="{{page.web}}">{{page.web | remove: "http://" | remove: "https://" | truncate: 50 }}</a><br/>{%endif%}
+  {%if page.rokDokonceni%}<b>Rok dokončení:</b> {{page.rokDokonceni}}<br/>{%endif%}
   {%if page.pocetPodlazi%}<b>Počet nadzemních podlaží:</b> {{page.pocetPodlazi}}<br/>{%endif%}
   {%if page.pocetBytu%}<b>Počet bytů:</b> {{page.pocetBytu}}<br/>{%endif%}
   {%if page.pocetParking%}<b>Počet parkovacích míst:</b> {{page.pocetParking}}<br/>{%endif%}
@@ -154,10 +155,10 @@
             <!-- Contents for print -->
             <div itemprop="description" class="show-for-print">
               {% if page.printImg1 %}
-              <img src="{{ page.printImg1 | prepend: page.folder | relative_url }}" style="max-height: 220px; display: block; margin-left: auto; margin-right: auto;"><br/>
+              <img src="{{ page.printImg1 | prepend: page.folder | relative_url }}" style="max-height: 240px; display: block; margin-left: auto; margin-right: auto;"><br/>
               {% endif %}
               {% if page.printImg2 %}
-              <img src="{{ page.printImg2 | prepend: page.folder | relative_url }}" style="max-height: 220px; display: block; margin-left: auto; margin-right: auto;">
+              <img src="{{ page.printImg2 | prepend: page.folder | relative_url }}" style="max-height: 240px; display: block; margin-left: auto; margin-right: auto;">
               {% endif %}
             </div>
           </article>
@@ -178,11 +179,9 @@
   <div class="o-section-inner c-BasicPage-content" style="font-size: 8pt; background-color: rgba(255, 255, 255, 0.5) !important; -webkit-print-color-adjust: exact;">
 <h2 style="font-size:11pt;">Piráti o rozvoji Prahy - bydlení dostupné pro všechny</h2>
 Pražané v současné době čelí prudkému nárůstu cen nájemního i vlastnického bydlení. Trend nárůstu cen za bydlení je důsledkem nezvládnutého politického a administrativního řízení bytové politiky ze strany státu, magistrátu i některých městských částí. Ve volebním období 2018 - 2022 chceme učinit kroky potřebné pro zastavení tohoto trendu.
-<p>
 <ul>
-<li><b>Naplánujeme dlouhodobou strategii rozvoje města</b>, která přetrvá více než jedno volební období. Uzemní plány nesmí být psány dle zadání developerů. Město musí mít vlastní představu a záměr. Je zcela nezbytné, aby město při jednání s developery mělo k dispozici potřebné nástroje, tj. jasné a čitelné strategie, které stanoví limity, a ukážou příležitosti pro další výstavbu.
+<li><b>Naplánujeme dlouhodobou strategii rozvoje města</b>, která přetrvá více než jedno volební období. Město musí mít vlastní představu a záměr. Je zcela nezbytné, aby město při jednání s developery mělo k dispozici potřebné nástroje, tj. jasné a čitelné strategie, které stanoví limity, a ukážou příležitosti pro další výstavbu. Občané se budou na tvorbě plánů přímo podílet. Developeři již nebudou moci stavět na přelidněných sídlištích, kde chybí obchody, doktoři a školky.
 <li><b>Zpracujeme ucelenou koncepci přeměny brownfieldů</b>. Nedostatečně využívané nemovitosti jsou příležitostí pro ozdravění Prahy parky a zástavbou ve vnitřním městě. Koncepce bude založena na modelu sociální koheze: nové byty a nebytové prostory nesmí být určeny výhradně těm nejmajetnějším, ale i nižší a střední třídě.
-<li><b>Přijmeme regulační plány</b>, které do budoucna zamezí dohadům o podobě nové výstavby v Praze. Občané se budou na tvorbě plánů přímo podílet. Developeři již nebudou moci stavět na přelidněných sídlištích, kde chybí obchody, doktoři a školky.
 <li><b>Zajistíme, aby se devolopeři podíleli na nákladech na infrastrukturu v nově budovaných částech města</b>. Dnes developer shrábne všechny zisky a náklady platí město.
 Změny územního plánu jsou někdy nutné, ale je třeba, aby byly výhodné hlavně pro občany města.
 {% assign qr_code_target = page.url | prepend: 'https://praha12.pirati.cz' | url_encode %}
@@ -190,7 +189,7 @@ Změny územního plánu jsou někdy nutné, ale je třeba, aby byly výhodné h
 <img src="{{ 'assets/img/brand/logo-round.svg' | relative_url }}" style="width: 170px; padding-right:30px" alt="Česká pirátská strana" align="right">
 </ul>
 <p>
-Více informací naleznete na webu <a href="https://praha12.pirati.cz">praha12.pirati.cz</a>
+Více informací o tomto projektu naleznete na webu <a href="https://praha12.pirati.cz">praha12.pirati.cz</a>
   </div>
 </div>
 
