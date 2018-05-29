@@ -7,7 +7,7 @@ web:
 plocha:
 plochaObytna:
 jineFunkce: samoobsluha, pošta, restaurace, obchody
-pocetPodlazi: 11
+pocetPodlazi: 4, 7, 11
 pocetBytu:
 pocetParking:
 uzemniPlanKod: SV

@@ -32,8 +32,10 @@ printImg2: viz1-pohled-z-vlaku.jpg
 **19.5.2018** Otevření [Cukrkandlu](https://reality.skanska.cz/dobry-soused/cukrkandl) - cyklokavárna, bikrosová dráha, komunitní zahrada, venkovní posilovna
 
 ![viz1.jpg]({{'viz1.jpg' | prepend: page.folder | relative_url }})
+
 ![viz1-pohled-z-vlaku.jpg]({{'viz1-pohled-z-vlaku.jpg' | prepend: page.folder | relative_url }})
-![viz1-ulice-nova-komoanska.jpg]({{'viz1-ulice-nova-komoanska.jpg' | prepend: page.folder | relative_url }})
+
+![viz1-ulice-nova-komoanska.jpg]({{'viz1-ulice-nova-komoanska.jpg' | prepend: page.folder | relative_url }})<br/>
 (zdroj: reality.skanska.cz)
 
 **13.2.2018** Prezentace ve Viničním domku zamýšleného komunitního projektku Cukrkandl

@@ -75,7 +75,8 @@
   {%if page.katastr%}<b>Katastr:</b> {{page.katastr}}<br/>{%endif%}
   {%if page.developer%}<b>Developer:</b> {{page.developer}}<br/>{%endif%}
   {%if page.nazev%}<b>Název projektu:</b> {{page.nazev}}<br/>{%endif%}
-  {%if page.web%}<b>Web projektu:</b> <a href="{{page.web}}">{{page.web | truncate: 50 }}</a><br/>{%endif%}
+  {%if page.web%}<b>Web projektu:</b> <a href="{{page.web}}">{{page.web | remove: "http://" | remove: "https://" | truncate: 50 }}</a><br/>{%endif%}
+  {%if page.rokDokonceni%}<b>Rok dokončení:</b> {{page.rokDokonceni}}<br/>{%endif%}
   {%if page.pocetPodlazi%}<b>Počet nadzemních podlaží:</b> {{page.pocetPodlazi}}<br/>{%endif%}
   {%if page.pocetBytu%}<b>Počet bytů:</b> {{page.pocetBytu}}<br/>{%endif%}
   {%if page.pocetParking%}<b>Počet parkovacích míst:</b> {{page.pocetParking}}<br/>{%endif%}
