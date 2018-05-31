@@ -27,13 +27,15 @@ textbox:
 
 folder: /assets/img/vystavba/ka-tesikova/
 printImg1: norma-cens.jpg
-printImg2:
+printImg2: puvodni_stav.jpg
 ---
 
 Firma Fisolta předložila Komisi pro územní rozvoj vizualizaci návrhu zástavby kolem ulice Těšíkova. Jedna z věží by měla být v místě současné prodejny Norma, další místo kotelny. Vzhledem k tomu, že jednání komise jsou v současné době neveřejná, nezískali jsme oprávnění zde vizualizaci přidat. Proto jsme alespoň udělali přibližný zákres do 3D pohledu.
 
 ![norma-cens.jpg]({{'norma-cens.jpg' | prepend: page.folder | relative_url }})
 (zdroj: mapy.cz a vizualizace Fisolty)
+
+![puvodni_stav.jpg]({{'puvodni_stav.jpg' | prepend: page.folder | relative_url }} )
 
 - - -
 

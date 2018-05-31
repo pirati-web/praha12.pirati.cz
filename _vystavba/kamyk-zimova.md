@@ -39,6 +39,4 @@ Projekt monitoruje [Sebeobrana sídliště Kamýk](http://www.sidliste-kamyk.cz/
 ![pudorys.jpg]({{'pudorys.jpg' | prepend: page.folder | relative_url }} )
 (všimněte si na tomto plánku přístavby na severní straně domu, která bude omezovat výhled z bytů stávájícího domu)
 
-- - -
-
-Další informace o projektu brzy doplníme.
+![puvodni_stav.jpg]({{'puvodni_stav.jpg' | prepend: page.folder | relative_url }} )

@@ -24,12 +24,14 @@ textbox:
 
 folder: /assets/img/vystavba/mo-teplarna/
 printImg1: vytopna2d.jpg
-printImg2:
+printImg2: puvodni_stav.jpg
 ---
 
 **6.12.2017** Prezentace projektu ve Viničním domku ([Prezentace](http://www.individualniplanovani.cz/wp-content/uploads/2017/09/prezentace-pt-real-estate-papirnikova-pavlikova.pdf))
 
 ![vytopna2d.jpg]({{'vytopna2d.jpg' | prepend: page.folder | relative_url }} )
 (zdroj: prenetace PT Real Estate)
+
+![puvodni_stav.jpg]({{'puvodni_stav.jpg' | prepend: page.folder | relative_url }} )
 
 Další informace o projektu brzy doplníme.
