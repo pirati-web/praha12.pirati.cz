@@ -24,7 +24,7 @@ textbox:
 
 folder: /assets/img/vystavba/ka-obzor/
 printImg1: viz1.jpg
-printImg2:
+printImg2: puvodni_stav.jpg
 ---
 
 Projekt monitoruje [Sebeobrana sídliště Kamýk](http://www.sidliste-kamyk.cz/).
@@ -32,6 +32,8 @@ Projekt monitoruje [Sebeobrana sídliště Kamýk](http://www.sidliste-kamyk.cz/
 - - -
 
 ![viz1.jpg]({{'viz1.jpg' | prepend: page.folder | relative_url }} )
+
+![puvodni_stav.jpg]({{'puvodni_stav.jpg' | prepend: page.folder | relative_url }} )
 
 - - -
 

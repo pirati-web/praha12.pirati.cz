@@ -24,7 +24,7 @@ textbox:
 
 folder: /assets/img/vystavba/ka-vostatkova/
 printImg1: viz1814camp.jpg
-printImg2: parcela.jpg
+printImg2: puvodni_stav.jpg
 ---
 
 **19.3.2018** Prezentace projektu v CAMP.
@@ -35,4 +35,4 @@ printImg2: parcela.jpg
 
 **5.5.2016** Prezentace projektu v Modřanském biografu. Projekt představen jako dvě věže o 21 a 15 patrech.
 
-![parcela.jpg]({{'parcela.jpg' | prepend: page.folder | relative_url }} )
+![puvodni_stav.jpg]({{'puvodni_stav.jpg' | prepend: page.folder | relative_url }} )

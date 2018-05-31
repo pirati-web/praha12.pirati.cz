@@ -21,7 +21,7 @@ uvodText: Sedm bytových domů na místě brownfieldu mezi valem s tramvajovou t
 
 textbox:
   text: >
-    Zastavování nevyužitých brownfieldů je dobrý způsob, jak zahušťovat město, zvlášť když hned vedle jezdí tramvaj. Ale vzhledem k tomu, že se jedná o vybudování celé nové čtvrti, úplně zde chybí jakákoli občanská vybavenost (obchody, lékaři, pošta, škola). Na ní by se měl developer podílet.
+    Zastavování nevyužitých brownfieldů je dobrý způsob, jak zahušťovat město, zvlášť když hned vedle jezdí tramvaj. Vzhledem k tomu, že se jedná o vybudování celé nové čtvrti, úplně zde ale chybí jakákoli občanská vybavenost (obchody, lékaři, pošta, škola). Na ní by se měl developer podílet.
     <br/><br/>
     Nezbývá než bojovat za to, aby byl aspoň sousední areál Chirany využit pro rozvoj města lépe, je to již poslední volný prostor v oblasti Belárie.
 

@@ -24,9 +24,11 @@ textbox:
 
 folder: /assets/img/vystavba/mo-telekom/
 printImg1:
-printImg2:
+printImg2: puvodni_stav.jpg
 ---
 
 Změna územního plánu na SV-C se projednává jako [Z-2801](https://app.iprpraha.cz/napp/zmeny/?id=383&action=view&presenter=Articlezmenyupravy)
 
 Další informace o projektu brzy doplníme.
+
+![puvodni_stav.jpg]({{'puvodni_stav.jpg' | prepend: page.folder | relative_url }} )

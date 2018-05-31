@@ -24,7 +24,7 @@ textbox:
 
 folder: /assets/img/vystavba/ko-sabatka/
 printImg1: viz1.jpg
-printImg2:
+printImg2: puvodni_stav.jpg
 ---
 
 **19.4.2018** Změna [Z-1424](https://app.iprpraha.cz/napp/zmeny/?id=995&action=view&presenter=Articlezmenyupravy) územního plánu je zpátky na jednacím stole. Výbor pro územní rozvoj a územní plán ZHMP schválil znovu pořizování této změny. Piráti (zastupeni Adamem Zábranským) jsou proti.
@@ -54,3 +54,5 @@ printImg2:
 **26.3.2010** zastupitelstvo hl.m. Prahy rozhodlo o změně územního plánu z louky na stavební s kódem OB-E.
 
 **13.5.2004** Vlastník louky Richard Pácal dává podnět na změnu územního plánu - projednávání změny: [Z-1424](https://app.iprpraha.cz/napp/zmeny/?id=995&action=view&presenter=Articlezmenyupravy)
+
+![puvodni_stav.jpg]({{'puvodni_stav.jpg' | prepend: page.folder | relative_url }} )

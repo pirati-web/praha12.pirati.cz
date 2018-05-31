@@ -28,7 +28,7 @@ textbox:
 
 folder: /assets/img/vystavba/ka-smotlachova/
 printImg1: zeleny_kamyk.jpg
-printImg2:
+printImg2: puvodni_stav.jpg
 ---
 
 Boji proti tomuto projektu se věnuje iniciativa občanů [Sebeobrana sídliště Kamýk](http://www.sidliste-kamyk.cz/).
@@ -47,3 +47,5 @@ Boji proti tomuto projektu se věnuje iniciativa občanů [Sebeobrana sídlišt�
 **29.3.2017** Prezentace projektu v Modřanském biografu
 
 Vysoký 13-patrový dům má vyrůst místo dvoupodlažní budovy, ve které se nachází s [mateřskou školkou Beránek](http://www.msberanek.cz/). Stavba se nachází na území s kódem SV, který nemá definovanou [míru využití](uzemni-plan.html). Stavba dle architekta městské části Michala Pajskra [v důvodové zprávě](http://www.individualniplanovani.cz/wp-content/uploads/2017/09/duvodova-zprava-Smotlachova-cerven2017.pdf) odpovídá míře využití H, sousední pozemek má přitom kód SV-C. Stavba je tedy výrazně předimenzovaná.
+
+![puvodni_stav.jpg]({{'puvodni_stav.jpg' | prepend: page.folder | relative_url }} )

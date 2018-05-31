@@ -32,3 +32,5 @@ printImg2: viz1.jpg
 ![viz2.jpg]({{'viz2.jpg' | prepend: page.folder | relative_url }} )
 
 ![viz1.jpg]({{'viz1.jpg' | prepend: page.folder | relative_url }} )
+
+![puvodni_stav.jpg]({{'puvodni_stav.jpg' | prepend: page.folder | relative_url }} )

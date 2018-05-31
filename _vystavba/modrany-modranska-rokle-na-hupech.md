@@ -19,7 +19,7 @@ gps:
 uvodText: Zástavba louky u vstupu do Modřanské rokle
 
 textbox:
-  text: Jsme proti změně územního plánu. Louka „Na Hupech“ je přirozenou součástí Modřanské rokle, což je přírodní památka a zároveň oddechové místo pro občany naší městské část. Zástavbou na louce by došlo k narušení prostředí celé Modřanské rokle a zároveň zastavění jedné z nejužívanějších travnatých ploch v Modřanech.
+  text: Jsme proti změně územního plánu. Louka „Na Hupech“ je přirozenou součástí Modřanské rokle, což je přírodní památka a zároveň oddechové místo pro občany naší městské části. Zástavbou na louce by došlo k narušení prostředí celé Modřanské rokle a zároveň zastavění jedné z nejužívanějších travnatých ploch v Modřanech.
 
 folder: /assets/img/vystavba/mo-vstuprokle/
 printImg1: viz1.jpg

@@ -24,7 +24,7 @@ textbox:
 
 folder: /assets/img/vystavba/mo-piskova/
 printImg1: 554.jpg
-printImg2: 553.jpg
+printImg2: puvodni_stav.jpg
 ---
 
 Projekt monitoruje [Spolek Tichá čtvrť](http://www.tichactvrt.cz/).
@@ -38,3 +38,5 @@ Bytový dům o šesti nadzemních podlažích s 50 byty 1+kk až 4+kk. Developer
 
 ![553.jpg]({{'553.jpg' | prepend: page.folder | relative_url }})
 (zdroj: crescon.cz)
+
+![puvodni_stav.jpg]({{'puvodni_stav.jpg' | prepend: page.folder | relative_url }} )
