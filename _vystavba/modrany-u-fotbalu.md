@@ -1,5 +1,5 @@
 ---
-title: Zlochovská, bytové domy
+title: Zlochova, bytové domy
 katastr: Modřany
 developer: Linkin Invest II
 nazev: Rezidence Nové Modřany
