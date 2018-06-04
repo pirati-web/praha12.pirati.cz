@@ -1,7 +1,7 @@
 ---
 layout: blog
 category: CLANKY
-title: Metropolitní plán jde proti strategii Prahy na ochranu klimatu. Má se kácet zeleň a zastavět 10 % Prahy
+title: Metropolitní plán jde proti strategii Prahy na ochranu klimatu. Má se kácet zeleň a zastavět 10 % zelených ploch Prahy
 date: 2018-05-24T01:00:00.000Z
 author: Eva Tylová
 authorId: eva.tylova

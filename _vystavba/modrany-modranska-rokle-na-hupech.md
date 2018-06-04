@@ -23,7 +23,7 @@ textbox:
 
 folder: /assets/img/vystavba/mo-vstuprokle/
 printImg1: viz1.jpg
-printImg2: nahupech.jpg
+printImg2: viz2.jpg
 ---
 
 Na protest proti změně územního plánu jsme vytvořili [petici]({{ '/vystavba/petice-na-hupech.html' | relative_url }}).
