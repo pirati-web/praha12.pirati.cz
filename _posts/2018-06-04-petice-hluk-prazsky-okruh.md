@@ -26,7 +26,7 @@ Stížnost podpořili senátoři zvolení za Piráty či s jejich podporou Libor
 
 - - -
 
-_Foto: protihluková opatření jsou vybudována pouza na části mostu_
+_Foto: protihluková opatření jsou vybudována pouze na části mostu_
 
 Petice má svou [vlastní stránku]({{'../vystavba/petice-hluk-prazsky-okruh.html' | relative_url}}), kde se dá i stáhnout a vytisknout.
 
