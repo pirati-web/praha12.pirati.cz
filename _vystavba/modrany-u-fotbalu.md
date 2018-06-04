@@ -33,4 +33,6 @@ printImg2: viz1.jpg
 
 ![viz1.jpg]({{'viz1.jpg' | prepend: page.folder | relative_url }} )
 
+**19.9.2013** Schválení změny územního plánu z SP na OV-D - projednávání změny: [Z-1438](https://app.iprpraha.cz/napp/zmeny/?id=981&action=view&presenter=Articlezmenyupravy), [grafická část](http://wgp.urm.cz/app/tms/aplk/urm_apl/pup_zmeny/index.php?IDF=2242&lan=cs) - [usnesení ZHMP 31/8](http://zastupitelstvo.praha.eu/ina2014/tedusndetail.aspx?id=182122), [hlasování](http://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vysledky_hlasovani/index.html?periodId=18284&resolutionNumber=8&meeting=31&printNumber=&s=1&votingId=27266&start=&size=) (ODS, ČSSD, TOP09)
+
 ![puvodni_stav.jpg]({{'puvodni_stav.jpg' | prepend: page.folder | relative_url }} )

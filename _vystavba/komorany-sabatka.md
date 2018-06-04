@@ -27,7 +27,7 @@ printImg1: viz1.jpg
 printImg2: puvodni_stav.jpg
 ---
 
-**19.4.2018** Změna [Z-1424](https://app.iprpraha.cz/napp/zmeny/?id=995&action=view&presenter=Articlezmenyupravy) územního plánu je zpátky na jednacím stole. Výbor pro územní rozvoj a územní plán ZHMP schválil znovu pořizování této změny. Piráti (zastupeni Adamem Zábranským) jsou proti.
+**19.4.2018** Změna [Z-1424](https://app.iprpraha.cz/napp/zmeny/?id=995&action=view&presenter=Articlezmenyupravy) územního plánu je zpátky na jednacím stole. Výbor pro územní rozvoj a územní plán (VURM) ZHMP schválil znovu pořizování této změny. Piráti (zastupeni Adamem Zábranským) jsou proti ([zápis jednání VURM](http://www.praha.eu/public/d8/fd/f5/2676365_874851_Zapis_VURM_19_4_2018_13__jednani.pdf), viz strana 12).
 
 **9.1.2018** Spolek Pro Komořany definitivně vyhrál soud nad Magistrátem, kasační žádost odpůrce byla zamítnuta a louka (prozatím) zůstala loukou.
 
