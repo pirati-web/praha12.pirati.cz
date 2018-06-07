@@ -15,6 +15,8 @@ gps:
 
 Jedna z nejoblíbenějších rekreačních lokalit pro lidi na Praze 12 je Modřanská rokle. Zase hrozí, že nám jí výstavbou kousek uberou. Majitel louky na Hupech podal podnět na změnu územního plánu, která by umožnila výstavbu na louce Na Hupech u vstupu do Modřanské rokle. Vytvořili jsme petici a sbíráme pod ní podpisy.
 
+Na louce se nachází vzácná rostlinná společenstva, jak ukazuje [expertní posudek RNDr. Jiřího Vávry]({{ '/assets/img/vystavba/mo-vstuprokle/Vavra_Hupy_zprava.pdf' | relative_url }}).
+
 ## Kde se dá petice podepsat
 
  * středa 8. 5. cca mezi 14 - 22h na jednání zastupitelstva MČ Praha 12
