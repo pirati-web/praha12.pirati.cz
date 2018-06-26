@@ -9,8 +9,8 @@ textbox:
        <a href="/assets/img/vystavba/Petice_hluk_prazsky_okruh_Strakonicka.pdf">Tisková verze s podpisovým archem (PDF)</a>
 mapycz_api: mini-api
 gps:
-  lat: 49.9887625
-  long: 14.3878586
+  lat: 49.9838508
+  long: 14.4003900
   zoom: 13
 ---
 
@@ -19,7 +19,9 @@ z nich je navíc umocněn hlukem ze Strakonické ulice. Nejhorší je hluk v no�
 
 Petice se dá také [stáhnout, vytisknout]({{ '/assets/img/vystavba/Petice_hluk_prazsky_okruh_Strakonicka.pdf' | relative_url }}), sbírat podpisy a pak doručit kontaktní osobě. Pod peticí mohou být podepsání lidé s trvalým bydlištěm v Praze, nebo lidé bydlící v Praze, když uvedou svou pražskou adresu.
 
-Verze petice bez ulice Strakonická: [stáhnout]({{ '/assets/img/vystavba/Petice_hluk_prazsky_okruh.pdf' | relative_url }})
+## Doplnění
+
+Po zkušenosti ze sběru podpisů, kdy si řada občanů v Komořanech, Lochkově, Zbraslavi a Radotíne stěžuje na hluk z dopravy na Strakonické ulici, jsme petici doplnili o požadavek na odhlučnění Strakonické ulice. Stejně tak si občané v okolí D1 stěžují na hluk z dálnice D1. Viz [původní verze petice]({{ '/assets/img/vystavba/Petice_hluk_prazsky_okruh.pdf' | relative_url }}).
 
 ## Text petice
 
