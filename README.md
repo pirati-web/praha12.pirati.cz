@@ -15,7 +15,7 @@ Pokud byste z tohoto našeho chtěli vyjít pro tvorbu webu svého místního sd
 - v adresáři `assets/img/posts` odstraňte naše fotky pro blogové příspěvky a dávejte vlastní
 - smažte adresáře `_vystavba`, `vystavba` a `assets/img/vystavba` a odstraňte tuto sekci i z `_data/main-menu.yml` a `_config.yml`
 
-Jekyll se dá rozběhat nejen na Linuxu, jak se píše níže, ale docela snadno i na macOS a s trochou úsilí i na Windows 10. Návod je například v readme [Pardubického kraje](https://github.com/pirati-web/pardubicky.pirati.cz).
+Jekyll se dá rozběhat nejen na Linuxu, jak se píše níže, ale docela snadno i na macOS a s trochou úsilí i na Windows 10, kde doporučujeme řídit se [oficiálním návodem](https://jekyllrb.com/docs/windows/) a instalovat pomocí RubyInstalleru.
 
 Níže následuje obsah copypastovaný z centrální verze.
 ## Lokální spuštění
