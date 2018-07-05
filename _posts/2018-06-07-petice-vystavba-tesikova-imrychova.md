@@ -23,8 +23,6 @@ Jan Adamec odkazuje na mapu developerských projektů na Praze 12, kde lze zám�
 
 > „Je škoda, že vlastník areálu objekty neudržuje a nechal je chátrat do současného stavu. Jsme pro striktní respektování územního plánu (SV), který zde dává každé funkci včetně bydlení maximálně 60 % plochy. Bez prostor pro podnikání a setkávání obyvatel se naše městská část mění v noclehárnu.“.
 
-Petice dále podporuje požadavek senátorů k Ústavnímu soudu z prosince 2017, aby bylo zrušeno změkčení hlukových limitů. Tylová k tomu uvádí:
-
 Obyvatelé okolních domů s výstavbou nesouhlasí a společně se zastupitelkou Eva Tylovou připravili petici, ve které žádají zastupitelstvo městské části, aby výstavbu nepodpořilo. Petici lze [stáhnout zde]({{'assets/img/vystavba/Petice_vystavba_Tesikova.pdf' | relative_url}}).
 
 - - -
