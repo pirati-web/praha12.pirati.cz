@@ -38,6 +38,10 @@ Jan Bursík žádá změnu územního plánu z SO3 na VV, aby mohl postavit úda
 
 - - -
 
+**19.6.2018** Zastupitelstvo MČ Praha 12 schválilo nesouhlas se změnou územního plánu, i díky naší petici, která v tu chvíli měla již více než 1600 podpisů.
+
+- - -
+
 Připomeňme, že kód územního plánu SO3 je definován takto ([zdroj](http://servis.praha-mesto.cz/uzplan/uzemni_plan_hmp/zmena_z1000_cist/regul/regulativy.pdf)):
 
 **SO3 - částečně urbanizované rekreační plochy**<br/>
