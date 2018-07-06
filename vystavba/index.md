@@ -67,6 +67,7 @@ mapa.addLayer(vrstva);                          /* Přidat ji do mapy */
 vrstva.enable();                         /* A povolit */
 
 var cz = mapa.computeCenterZoom(souradnice); /* Spočítat pozici mapy tak, aby značky byly vidět */
+cz[1] = 13;  // tenhle zoom je stejne nejlepsi
 mapa.setCenterZoom(cz[0], cz[1]);
 
 // poslouchani na kliknuti u markeru
