@@ -11,11 +11,11 @@ tags:
   - ukliďme česko
 ---
 
-Dobrovolnická činnost je Pirátům blízká, mají přirozený zájem o ochranu přírody. Úklidové akce u nich proto mají dlouholetou tradici. Proto jsme se rozhodli, že se zúčastníme akce [Ukliďme svět, ukliďme Česko](http://www.uklidmecesko.cz) a uklidíme louku po Policejní akademií a les táhnoucí se od ní k ulici Československého exilu.
+Dobrovolnická činnost je Pirátům blízká, mají přirozený zájem o ochranu přírody. Úklidové akce u nich proto mají dlouholetou tradici. Proto jsme se rozhodli, že se zapojíme do akce [Ukliďme svět, ukliďme Česko](http://www.uklidmecesko.cz) a uklidíme louku po Policejní akademií a les táhnoucí se od ní k ulici Československého exilu.
 
 ![Úklid]({{"assets/img/posts/2018-04-08-uklid2.jpg" | relative_url}})
 
-Akce se povedla. Zúčastnilo se jí 24 lidí, z toho 3 děti. Jako organizátor jsem se bál, jestli v takovém počtu neprojdeme vybrané území příliš rychle, naplánováno jsme to měli na 2,5 hodiny, ale nakonec jsme sbírání museli naopak o více než hodinu protáhnout. A to jsme se nestihli dostat do lesíka za ulicí Čs. exilu, kde jsme původně také chtěli uklidit. Snad příště.
+Akce se povedla. Zúčastnilo se jí 24 lidí, z toho 3 děti. Jako organizátor jsem se bál, jestli v takovém počtu neprojdeme vybrané území příliš rychle, naplánováno jsme to měli na 2,5 hodiny, ale nakonec jsme sbírání museli o více než hodinu protáhnout. A to jsme se nestihli dostat do lesíka za ulicí Čs. exilu, kde jsme původně také chtěli uklidit. Snad příště.
 
 ![Úklid]({{"assets/img/posts/2018-04-08-uklid3.jpg" | relative_url}})
 

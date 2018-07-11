@@ -17,7 +17,7 @@ gps:
 Nadměrný hluk trápí obyvatele Točné, Cholupic, Komořan a Zbraslavi a dalších MČ, v řadě
 z nich je navíc umocněn hlukem ze Strakonické ulice. Nejhorší je hluk v nočních hodinách, když začnou jezdit kamiony. Požadujeme realizaci protihlukových opatření. Výrazně by situaci např. pomohla protihluková stěna po celé délce mostu či tichý asfalt. Petice dále podporuje požadavek senátorů k Ústavnímu soudu z prosince 2017, aby bylo zrušeno změkčení hlukových limitů.
 
-Petice se dá také [stáhnout, vytisknout]({{ '/assets/img/vystavba/Petice_hluk_prazsky_okruh_Strakonicka.pdf' | relative_url }}), sbírat podpisy a pak doručit kontaktní osobě. Pod peticí mohou být podepsání lidé s trvalým bydlištěm v Praze, nebo lidé bydlící v Praze, když uvedou svou pražskou adresu.
+Petice se dá také [stáhnout, vytisknout]({{ '/assets/img/vystavba/Petice_hluk_prazsky_okruh_Strakonicka.pdf' | relative_url }}), sbírat podpisy a pak doručit kontaktní osobě. Pod peticí mohou být podepsaní lidé s trvalým bydlištěm v Praze, nebo lidé bydlící v Praze, když uvedou svou pražskou adresu.
 
 ## Doplnění
 
