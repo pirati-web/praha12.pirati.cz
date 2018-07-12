@@ -7,8 +7,8 @@ author: Matěj Mlčoch
 authorId: matej.mlcoch
 image: /assets/img/posts/2018-06-10-mapa_tour.png
 tags:
-  - cyklovyjizdka
-  - vystavba
+  - cyklovyjížďka
+  - výstavba
 ---
 
 V nedělní podvečer 10. června 2018 jsme uspořádali cyklojízdu po plánovaných developerských projektech na Kamýku a v Modřanech. Ani nepřízeň počasí neodradila místní Piráty a jejich příznivce k cyklorejdení :-). Během této jízdy jsme poukázali na plánované projekty a komunikovali přitom i s kolemjdoucími občany.
