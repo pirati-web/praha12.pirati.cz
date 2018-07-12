@@ -23,16 +23,18 @@ Sestavili jsme naše připomínky týkající se jak Prahy 12, tak obecné k cel
    * OC Kamýk (parcela 1859/36, k.ú. Kamýk)
    * OC Obzor (parcely 873/60 a 873/62, k.ú. Kamýk)
 
-   _Pozn: OC Sázava a OC Jasná takto označeny již jsou._
+   _Poznámka: OC Sázava a OC Jasná takto označeny již jsou._
 
 1. **Přidat novou výškovou hladinu 16 podlaží.** Současná kategorie 13 až 21 podlaží je oproti ostatním výškovým kategoriím definovaných v Metropolitním plánu velmi široká. Týká se například:
    * okolí ulic Pavlíkova, Machuldova, Cuřínova, Zimova (k.ú. Kamýk)
    * okolí ulic Cílkova, Pšenčíkova, Durychova (k.ú. Kamýk)
    * okolí ulic Dobevská, Imrychova (k.ú. Kamýk)
 
-1. **Snížit podlažnost u stávajícího obchodního centra Obzor z 8 na 2** (parcely 873/60 a 873/62, k.ú. Kamýk). Na slídlištích jsou vyšší obytné bloky domů vyvažovány nižšími objekty občanské vybavenosti.
+1. **Snížit podlažnost u stávajícího obchodního centra Obzor z 8 na 2** (parcely 873/60 a 873/62, k.ú. Kamýk). Na slídlištích jsou vyšší obytné bloky domů vyvažovány nižšími objekty občanské vybavenosti. Ostatní obchodní centra (viz první bod) jsou v Metropolitním plánu označena jako dvoupodlažní, požadujeme, aby to tak zůstalo.
 
 1. **Snížit podlažnost na místě parkovišť u ulice Zimova z 21 na 2** z důvodu zachování funkce parkování pro obytatele domu v ulici Zimova.
+
+1. **Upravit oblast Komořan podle právě dokončované územní studie**, zejména vedení tramvajové trati, část oblasti strojíren označit jako transformační plochu.
 
 1. **U veškerých parků žádáme změnu ze zastavitelných na nezastavitelné** s možností umístit do nich lampy veřejného osvětlení, odpadkové koše atd. MP má možnosti, jak označit park jako nezastavitelný a přitom si zachovat možnost postavit nebo umístit do něj ty objekty a věci, které tam patří. I když mají parky zvláštní ochranu nestavebních bloků, nepovažujeme to za dostatečné opatřením k jejich ochraně. Týká např. lesoparku Kamýk.
 
