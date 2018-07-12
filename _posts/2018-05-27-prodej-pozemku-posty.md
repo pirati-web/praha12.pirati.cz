@@ -9,6 +9,7 @@ image: /assets/img/posts/2018-05-posta.jpg
 tags:
   - majetek
   - pošta
+  - výstavba
 ---
 
 Příští týden bude Rada městské části Praha 12 rozhodovat o tom, jestli České poště prodat či směnit pozemek pod budovou pošty na Sofijském náměstí. Česká pošta tento požadavek vznáší dlouhodobě, včetně schůzky 14.&nbsp;2.&nbsp;2018, ze které je tato [tisková zpráva](https://www.praha12.cz/radnice-prahy-12-opet-resila-problemy-s-nbsp-ceskou-postou/d-60335).

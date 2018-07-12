@@ -7,7 +7,7 @@ author: Jan Adamec
 authorId: jan.adamec
 image: /assets/img/posts/2018-04-08-uklid1.jpg
 tags:
-  - Praha 12
+  - ekologie
   - ukliďme česko
 ---
 

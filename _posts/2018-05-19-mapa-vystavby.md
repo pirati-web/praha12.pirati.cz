@@ -7,8 +7,7 @@ author: Eva Tylová
 authorId: eva.tylova
 image: /assets/img/vystavba/mapa-vystavby.png
 tags:
-  - Praha 12
-  - developerské projekty
+  - výstavba
 ---
 
 Podstatnou část Prahy tvoří sídliště. Záměrem jejich tvůrce byla vyváženost staveb, která společně s hojnou zelení vytvoří na relativně malé ploše přijatelné bydlení pro velký počet obyvatel. Vyšší obytné bloky domů jsou tak vyvažovány nižšími objekty občanské vybavenosti. Vybavenost sídlišť chátrá a na stole je otázka, jak dál.

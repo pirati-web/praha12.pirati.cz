@@ -8,7 +8,7 @@ authorId: eva.tylova
 image: /assets/img/vystavba/ka-tesikova/puvodni_stav.jpg
 tags:
   - petice
-  - vystavba
+  - výstavba
 ---
 
 Dalším případem nadměrnému zahušťování sídliště Kamýk je tzv. „revitalizace“ budov občanské vybavenosti ul. Imrychova, Těšíkova a Dobevská. Ve skutečnosti se jedná o výstavbu dvou výškových budov o 12 a 13 patrech namísto výměníkové stanice a obchodu Norma a to v jednom případě dokonce jen ve vzdálenosti 11 metrů od stávajícího panelového domu.
