@@ -3,11 +3,11 @@ uid: matej.mlcoch
 name:     Matěj Mlčoch  	# běžně používáné jméno
 fullname: Ing. Matěj Mlčoch  	# jméno s tituly etc.
 category:                   # kategorie: pms, clenove, priznivci
-- priznivci
+- clenove
 
 img: people/matej-mlcoch.jpg   # 165 x 220
-description: odpadový hospodář  # kratký popis, max 160 znaků
-mail:
+description: specialista v oboru odpadového hospodářství  # kratký popis, max 160 znaků
+mail: matej.mlcoch@pirati.cz
 profiles:
   facebook: https://www.facebook.com/mates.bezejmenny
 ---
