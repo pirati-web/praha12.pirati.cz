@@ -25,7 +25,7 @@ Pokračujeme ve sbírání připomínek k Metropolitnímu plánu. Ještě týden
 
 Občané nás najdou:
 * Čtvrtek 19.7. obchodní centrum (OC) Sázava 17-19h
-* Pátek 20.7. OC Obzor na Kamýku 16-19h
+* Pátek 20.7. OC Obzor na Kamýku 16-18h
 * Pondělí 23.7. Lidl Lhotecká 10-18h
 * Úterý 24.7. OC Jasná 17-19h
 * Středa 25.7. OC Labe 17-19h
