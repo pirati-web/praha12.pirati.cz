@@ -3,7 +3,7 @@ uid: jakub.horak
 name:     Jakub Horák  	# běžně používáné jméno
 fullname: Jakub Horák  	# jméno s tituly etc.
 category:                   # kategorie: pms, clenove, priznivci
-- priznivci
+- clenove
 
 img: people/jakub-horak.jpg   # 165 x 220
 description: podnikatel v letectví  # kratký popis, max 160 znaků

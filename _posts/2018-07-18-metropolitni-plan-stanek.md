@@ -28,4 +28,5 @@ Občané nás najdou:
 * Pátek 20.7. OC Obzor na Kamýku 16-18h
 * Pondělí 23.7. Lidl Lhotecká 10-18h
 * Úterý 24.7. OC Jasná 17-19h
+* Středa 25.7. Billa Vosátkova 9-12h
 * Středa 25.7. OC Labe 17-19h
