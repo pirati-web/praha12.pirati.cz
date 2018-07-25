@@ -20,6 +20,15 @@ Vytvořili jsme mapu, kde můžete najít jednotlivé developerské projekty. Po
 
 {% assign projekty = site.vystavba %}
 
+{% comment %}
+K udelani velkeho screenshotu mapy je treba:
+- layout: default
+- vyhodit radek s rbar
+- zvysit style="height:650px;"
+- zakomentovat mapa.addDefaultControls()
+- zvetsit zoom cz[1] = 14;
+{% endcomment %}
+
 <div id="mapa" style="height:350px;"></div>
 <script type="text/javascript">
 // source https://api.mapy.cz/view?page=markers-signals
