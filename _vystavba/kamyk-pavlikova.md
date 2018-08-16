@@ -8,7 +8,7 @@ plocha:
 plochaObytna:
 jineFunkce: samoobsluha
 pocetPodlazi: 12
-pocetBytu:
+pocetBytu: 136
 pocetParking:
 uzemniPlanKod: SV
 fazeSchvaleni: 5

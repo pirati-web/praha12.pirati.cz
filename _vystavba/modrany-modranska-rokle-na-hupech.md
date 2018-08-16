@@ -38,7 +38,7 @@ Jan Bursík žádá změnu územního plánu z SO3 na VV, aby mohl postavit úda
 
 - - -
 
-**19.6.2018** Zastupitelstvo MČ Praha 12 schválilo nesouhlas se změnou územního plánu, i díky naší petici, která v tu chvíli měla již více než 1600 podpisů.
+**19.6.2018** Zastupitelstvo MČ Praha 12 schválilo nesouhlas se změnou územního plánu, i díky naší petici, která v tu chvíli měla již více než 1600 podpisů ([hlasování, str 42]( https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=63567)).
 
 - - -
 
