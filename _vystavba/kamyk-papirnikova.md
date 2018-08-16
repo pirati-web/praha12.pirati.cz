@@ -8,7 +8,7 @@ plocha:
 plochaObytna:
 jineFunkce:
 pocetPodlazi: 12
-pocetBytu:
+pocetBytu: 70
 pocetParking:
 uzemniPlanKod: OV
 fazeSchvaleni: 5

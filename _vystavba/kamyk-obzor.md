@@ -8,7 +8,7 @@ plocha:
 plochaObytna:
 jineFunkce:
 pocetPodlazi: 8
-pocetBytu:
+pocetBytu: 150
 pocetParking:
 uzemniPlanKod: SV-D
 fazeSchvaleni: 5
