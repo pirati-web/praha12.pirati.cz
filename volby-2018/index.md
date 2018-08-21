@@ -101,7 +101,7 @@ _kultura_
 
 **11.** **Ing. Ivan Štěpka**,	30 let,		inspektor ochrany ovzduší<br/>
 **12.** **Ing. Ivana Holubová**,	59 let,		podnikatelka<br/>
-**13.** **Ing. Jan Zemánek**,	67 let,		inženýr mostích konstrukcí<br/>
+**13.** **Ing. Jan Zemánek**,	67 let,		mostní inženýr<br/>
 **14.** **Ing. Anton Poprik**,	32 let,		projektový manažer, člen Zelených<br/>
 **15.** **Ing. Jana Soukupová, Ph.D.**,	52 let,		klimatoložka, vysokoškolská pedagožka, člen Zelených<br/>
 **16.** **Mgr. Lucie Najmanová, Ph.D.**,	47 let,		vědecká pracovnice, Mikrobiologický ústav AV ČR, v.v.i.<br/>
