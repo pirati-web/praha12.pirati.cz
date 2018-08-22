@@ -3,7 +3,7 @@ layout: blog
 category: CLANKY
 title: Přihrává rada pronájmy městského majetku svým blízkým? Navíc těsně před volbami...
 date: 2018-08-19
-author: Jiří Brůžek
+author: Jiří Brůžek, Jan Adamec
 authorId: jiri.bruzek
 image: /assets/img/posts/2018-08-19-prevoznicka.jpg
 tags:
