@@ -28,7 +28,7 @@ Vycházíme z [celopražského programu](https://praha.pirati.cz/program). Necht
 * **Veřejná inventarizace majetku.** Na webu bude dostupný seznam majetku, který vlastní či spravuje městská část.
 * **Zakázky budou kvalitně a profesionálně zadávány.** Pokud to bude možné, výběrová řízení budou vyvěšena déle a aktivně oslovíme co nejvíce potenciálních zájemců.
 * **Chceme férové noviny Prahy 12,** které budou sloužit především jako zdroj informací o dění v naší městské části, nikoli jako prostor pro dehonestování opozice. Měly by mít spravedlivě rozdělený prostor i pro názory jiných.
-* **Odpolitizujeme státní správu.** Budeme se zasazovat o restrukturalizaci modelu smíšené veřejné správy na ÚMČ a na jasné oddělení státní správy od samosprávy z důvodu větší transparentnosti a nezávislosti.
+* **Odpolitizujeme státní správu.** Budeme se zasazovat o restrukturalizaci modelu smíšené veřejné správy na ÚMČ a o jasné oddělení státní správy od samosprávy z důvodu větší transparentnosti a nezávislosti.
 * **Pirátský starosta bude k dispozici** jednou měsíčně v hospodě na pivo k diskuzi nad připomínkami občanů.
 
 ## Doprava
@@ -47,7 +47,7 @@ Vycházíme z [celopražského programu](https://praha.pirati.cz/program). Necht
 
 ## Moderní město
 
-* **Zdigitalizujeme úřední procesy** a odlehčíme tím občanům i úředníkům, zavedeme možnost objednávání online.
+* **Zdigitalizujeme úřední procesy** a odlehčíme tím občanům i úředníkům, zavedeme možnost objednávání se online.
 * **Podpoříme zapojení nových technologií** v kooperaci s veřejným a soukromým sektorem, např. monitoringu hluku, prašnosti, intenzity dopravy atp.
 * **Co nejvíce dat bude publikováno ve strojově čitelném formátu** na webu tak, aby mohly například i při výuce na školách vznikat zajímavé užitečné aplikace.
 * **Budeme iniciovat modernizaci v České poště,** aby lépe zvládala nápory lidí, například větším využíváním Balíkomatů, elektronizací některých postupů.
