@@ -91,7 +91,7 @@ _žijící sídliště_
 <td style="vertical-align:middle" markdown="span">**<font size="+2">10.</font>**</td>
 <td style="vertical-align:middle; width:121px;" markdown="span">![](/assets/img/people/veronika-rajnohova-kruh.jpg)</td>
 <td style="vertical-align:middle" markdown="span">
-**Veronika Rajnohová**<br/>
+[**Veronika Rajnohová**](/lide/veronika-rajnohova)<br/>
 37 let, profesionální trafikantka a hudebnice<br/>
 _kultura_
 </td>
