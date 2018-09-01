@@ -18,4 +18,4 @@ Je kancelářská krysa s maturitou, při zaměstnání vystudovala kurz account
 
 Zajímají ji témata ohledně ekologie a životního prostředí a taky sociální služby. Například nedostatek kontejnerů na tříděný odpad na sídlišti v Modřanech, také chátrající a nevyužité prostory v bývalém Prioru na Sofijském náměstí a též zanedbané celé Sofijské náměstí. Ráda by rozvířila stojaté modřanské vody a pokusila se zlepšit tu lidem žití.
 
-Jejími koníčky jsou moje práce a kapela, ve které zpívám.
+Jejími koníčky jsou její práce a kapela, ve které zpívá.
