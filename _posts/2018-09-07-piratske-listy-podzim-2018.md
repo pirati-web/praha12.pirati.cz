@@ -3,8 +3,8 @@ layout: blog
 category: CLANKY
 title: Pirátské listy pro Prahu 12 podzim
 date: 2018-09-07
-author: Eva Tylová
-authorId: eva.tylova
+author: Jan Adamec
+authorId: jan.adamec
 image: /assets/img/posts/2018-09-07-plisty-podzim08.jpg
 tags:
   - pirátské listy
