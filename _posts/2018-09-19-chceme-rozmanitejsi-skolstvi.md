@@ -10,11 +10,11 @@ tags:
   - školství
 ---
 
-Školství rozhodně patří k prioritám našeho programu. Důvod je jednoduchý: Praha 12 je z velké části tvořena sídlišti, a tak nabízí svým obyvatelům především místo, kde bydlet. Ten kdo bydlí, pak dává své dítě do blízké mateřské a následně základní školy. A mateřské a základní školy zřizuje naše městská část, která tak má významný vliv na to, jak budou tyto školy vypadat.
+Školství rozhodně patří k prioritám našeho programu. Důvod je jednoduchý: Praha 12 je z velké části tvořena sídlišti, a tak nabízí svým obyvatelům především místo, kde bydlet. Ten, kdo bydlí, pak dává své dítě do blízké mateřské a následně základní školy. A mateřské a základní školy zřizuje naše městská část, která tak má významný vliv na to, jak budou tyto školy vypadat.
 
 Současná nabídka škol v naší městské části nám však připadá příliš malá a pro náročnější rodiče nevyhovující. Žijeme v době, kdy se většina rodičů o vzdělání svých dětí zajímá víc než v dobách minulých a má přístup k informacím o tom, co dnes mohou dětem školy nabízet.
 
-Pokud tedy rodiče chtějí své dítě umístit do školy, která učí podle metody Montessori, mají na výběr jen ZŠ Na Beránku. Jedinou šancí, jak do ní své dítě dostat, je nastěhovat se do některé ze spádových ulic školy anebo vymyslet jak tam dítě ubytovat alespoň fiktivně. To je samozřejmě problém nejen pro rodiče, kteří ve spádové oblasti této školy nebydlí ale i pro ty, kteří tam bydlí a jejichž dítě se do ní stejně z kapacitních důvodů nedostane, a musí pak dojíždět jinam. Podobná situace panuje i v okolí školy ZŠ Angel, která nabízí program Začít spolu a především plně bilingvní výuku. Proč by tedy to, o co je zájem, nemohly nabízet i jiné naše školy?
+Pokud tedy rodiče chtějí své dítě umístit do školy, která učí podle metody Montessori, mají na výběr jen ZŠ Na Beránku. Jedinou šancí, jak do ní své dítě dostat, je nastěhovat se do některé ze spádových ulic školy anebo vymyslet, jak tam dítě ubytovat alespoň fiktivně. To je samozřejmě problém nejen pro rodiče, kteří ve spádové oblasti této školy nebydlí, ale i pro ty, kteří tam bydlí a jejichž dítě se do ní stejně z kapacitních důvodů nedostane, a musí pak dojíždět jinam. Podobná situace panuje i v okolí školy ZŠ Angel, která nabízí program Začít spolu a především plně bilingvní výuku. Proč by tedy to, o co je zájem, nemohly nabízet i jiné naše školy?
 
 ## Více alternativ pro všechny
 
