@@ -25,11 +25,11 @@ Tyto konkrétní priority budeme prosazovat během čtyřletého volebního obdo
 1. Zveřejňování jmenného hlasování členů rady, aby bylo jasné, kdo nese odpovědnost
 1. Rozklikávací rozpočet bez velkých nákladů
 1. Jednání komisí rady přístupné veřejnosti
+1. Kvalitnější a rozmanitější školy a školky
 1. Férový obsah Novin Prahy 12
 1. Co nejvíce otevřených výběrových řízení
 1. Modernizace a digitalizace úřadu
 1. Vysadit více stromů kolem ulic
-1. Kvalitnější a rozmanitější školy a školky
 
 Celý program je na webu [praha12.pirati.cz/volby-2018](https://praha12.pirati.cz/volby-2018).
 
