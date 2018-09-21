@@ -9,7 +9,7 @@ tags:
   - rozhovor
 ---
 
-Lukáš je lídrem naší kandidátky na Praze 12. Minulé 4 roky byl zastupitelem na naší městské části.
+Lukáš je lídrem naší kandidátky na Praze 12. Minulé 4 roky byl zastupitelem na městské části.
 
 **Jak dlouho se vlastně věnuješ politice a proč vlastně?**
 
