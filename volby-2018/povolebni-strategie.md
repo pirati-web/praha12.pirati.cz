@@ -82,7 +82,7 @@ Bez ohledu na rozložení mandátů jsme připraveni spolupracovat na prosazení
 ## Vztah klubu k Pirátské straně
 
 * Úspěch v komunálních volbách nám dá velký prostor k posílení Pirátské strany a náboru nových členů.
-* Krajské fórum vždy předem schvaluje koaliční smlouvu nebo jinou podobnou politickou dohodu.
+* Místní fórum nebo krajské předsednictvo vždy předem schvaluje koaliční smlouvu nebo jinou podobnou politickou dohodu.
 * Zastupitelský klub bude pravidelně informovat členskou základnu o své činnosti a výsledcích. Neschválí-li místní či krajské sdružení něco jiného, zastupitelský klub je vázán volebním programem tak, jak byl v platnosti v době voleb.
 
 ## Vztah klubu k zastupitelům na pražském magistrátu
