@@ -1,11 +1,10 @@
 ---
-layout: blog
-category: CLANKY
+category: blog
 title: Senátorské Pirátské listy podzim 2018
 date: 2018-10-02
 author: Eva Tylová
 authorId: eva.tylova
-image: /assets/img/posts/2018-10-02-eva-listy09.jpg
+image: posts/2018-10-02-eva-listy09.jpg
 tags:
   - pirátské listy
   - senát

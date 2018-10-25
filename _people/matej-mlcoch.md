@@ -1,7 +1,9 @@
 ---
 uid: matej.mlcoch
 name:     Matěj Mlčoch  	# běžně používáné jméno
-fullname: Ing. Matěj Mlčoch  	# jméno s tituly etc.
+titles:
+  before: Ing.
+  after:
 category:                   # kategorie: pms, clenove, priznivci
 - clenove
 

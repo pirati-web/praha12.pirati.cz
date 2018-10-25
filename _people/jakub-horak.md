@@ -1,7 +1,9 @@
 ---
 uid: jakub.horak
 name:     Jakub Horák  	# běžně používáné jméno
-fullname: Jakub Horák  	# jméno s tituly etc.
+titles:
+  before: Bc.
+  after:
 category:                   # kategorie: pms, clenove, priznivci
 - clenove
 

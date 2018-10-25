@@ -1,11 +1,10 @@
 ---
-layout: blog
-category: CLANKY
+category: blog
 title: Uklízeli jsme Prahu 12
-date: 2018-04-08T12:00:00.000Z
+date: 2018-04-08
 author: Jan Adamec
 authorId: jan.adamec
-image: /assets/img/posts/2018-04-08-uklid1.jpg
+image: posts/2018-04-08-uklid1.jpg
 tags:
   - ekologie
   - ukliďme česko

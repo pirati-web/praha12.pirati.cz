@@ -1,11 +1,10 @@
 ---
-layout: blog
-category: CLANKY
+category: blog
 title: Sbíráme podpisy pod petici za vybudování protihlukových opatření na pražském dálničním okruhu
-date: 2018-06-04T01:00:00.000Z
+date: 2018-06-04
 author: Eva Tylová
 authorId: eva.tylova
-image: /assets/img/posts/2018-06-04-petice-hluk-prazsky-okruh.jpg
+image: posts/2018-06-04-petice-hluk-prazsky-okruh.jpg
 tags:
   - petice
   - hluk

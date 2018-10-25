@@ -1,11 +1,10 @@
 ---
-layout: blog
-category: CLANKY
+category: blog
 title: Místostarostka Adámková odpovědná za správu majetku nedokázala patřičně vysvětlit směnku za 10 milionů Kč
 date: 2018-09-25
 author: Jiří Brůžek
 authorId: jiri.bruzek
-image: /assets/img/posts/2018-09-25-danslive-pozemek-okruzni.jpg
+image: posts/2018-09-25-danslive-pozemek-okruzni.jpg
 tags:
   - kauzy
 ---

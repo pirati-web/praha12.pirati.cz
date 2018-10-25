@@ -1,11 +1,10 @@
 ---
-layout: blog
-category: CLANKY
+category: blog
 title: Podezřelá koupě chaty starostou Prahy 12 Maruštíkem
 date: 2018-09-04
 author: Jan Adamec, Jiří Brůžek
 authorId: jan.adamec
-image: /assets/img/posts/2018-09-04-marustik-chata-kolaz.jpg
+image: posts/2018-09-04-marustik-chata-kolaz.jpg
 tags:
   - kauzy
 ---

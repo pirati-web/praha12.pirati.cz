@@ -1,7 +1,9 @@
 ---
 uid: eva.tylova
-name:     Eva Tylová  	# běžně používáné jméno
-fullname: Ing. Eva Tylová  	# jméno s tituly etc.
+name: Eva Tylová  	# běžně používáné jméno
+titles:
+  before: Ing.
+  after:
 category:                   # kategorie: pms, clenove, priznivci
 - priznivci
 

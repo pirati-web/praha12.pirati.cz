@@ -1,10 +1,9 @@
 ---
-layout: blog
-category: CLANKY
+category: blog
 title: Nenechat si všechno líbit, aneb klub Piráti, Zelení a LES v období 2014-2018
 date: 2018-09-27
 author: Michal Macek
-image: /assets/img/vystavba/mo-vstuprokle/nahupech.jpg
+image: vystavba/mo-vstuprokle/nahupech.jpg
 tags:
 ---
 

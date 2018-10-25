@@ -1,11 +1,10 @@
 ---
-layout: blog
-category: CLANKY
+category: blog
 title: Místo klimatizace potřebujeme ve městě stromy
 date: 2018-07-03
 author: Eva Tylová
 authorId: eva.tylova
-image: /assets/img/posts/2018-07-03-strom.jpg
+image: posts/2018-07-03-strom.jpg
 tags:
   - metropolitní plán
   - stromy

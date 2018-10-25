@@ -1,7 +1,9 @@
 ---
 uid: andrej.koudelka
 name:     Andrej Koudelka  	# běžně používáné jméno
-fullname: Ing. Andrej Koudelka  	# jméno s tituly etc.
+titles:
+  before: Ing.
+  after:
 category:                   # kategorie: pms, clenove, priznivci
 - priznivci
 

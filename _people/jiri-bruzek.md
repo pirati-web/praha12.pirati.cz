@@ -1,7 +1,9 @@
 ---
 uid: jiri.bruzek		
 name:     Jiří Brůžek  	# běžně používáné jméno
-fullname: Jiří Brůžek  	# jméno s tituly etc.
+titles:
+  before:
+  after:
 category:                   # kategorie: pms, clenove, priznivci
 - priznivci
 

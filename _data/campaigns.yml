@@ -1,0 +1,8 @@
+# Campaigns are grouped, this usually reperesents situation when multiple
+# election campaings are held at the same time (which saves $$$ for the country).
+
+- groupUid: volby-2018  # identifier of the group, to be used in program point
+  title: Volby 2018     # title of the campaign group
+  campaigns:
+    - title: Program na radnici   # individual campaigns within the group
+      categoryUid: radnice

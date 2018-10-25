@@ -1,11 +1,10 @@
 ---
-layout: blog
-category: CLANKY
+category: blog
 title: Zastupitelstvo Prahy 12 včera schválilo zásadní připomínky k návrhu Metropolitního plánu
 date: 2018-07-18
 author: Eva Tylová
 authorId: eva.tylova
-image: /assets/img/posts/2018-07-18-metrostanek.jpg
+image: posts/2018-07-18-metrostanek.jpg
 tags:
   - metropolitní plán
   - výstavba

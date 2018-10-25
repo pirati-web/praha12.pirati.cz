@@ -1,7 +1,9 @@
 ---
 uid: jiri.ruzicka
 name:     Jiří G. Růžička  	# běžně používáné jméno
-fullname: Mgr. Jiří G. Růžička  	# jméno s tituly etc.
+titles:
+  before: Mgr.
+  after:
 category:                   # kategorie: pms, clenove, priznivci
 - priznivci
 

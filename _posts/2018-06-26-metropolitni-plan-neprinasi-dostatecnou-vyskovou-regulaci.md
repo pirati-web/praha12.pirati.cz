@@ -1,11 +1,10 @@
 ---
-layout: blog
-category: CLANKY
+category: blog
 title: Metropolitní plán startuje s nedostatečnou výškovou regulací
 date: 2018-06-26
 author: Eva Tylová, Vít Šimral
 authorId: eva.tylova
-image: /assets/img/posts/2018-06-26-metroplan-otazka.jpg
+image: posts/2018-06-26-metroplan-otazka.jpg
 tags:
   - metropolitní plán
 ---

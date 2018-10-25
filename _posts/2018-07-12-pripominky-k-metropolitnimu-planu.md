@@ -1,11 +1,10 @@
 ---
-layout: blog
-category: CLANKY
+category: blog
 title: Naše připomínky k Metropolitnímu plánu
 date: 2018-07-12
 author: Jan Adamec, Eva Tylová
 authorId: jan.adamec
-image: /assets/img/posts/2018-06-26-metroplan-otazka.jpg
+image: posts/2018-06-26-metroplan-otazka.jpg
 tags:
   - metropolitní plán
   - výstavba

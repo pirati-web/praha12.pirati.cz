@@ -1,11 +1,10 @@
 ---
-layout: blog
-category: CLANKY
+category: blog
 title: Oslavili jsme Evropský den koupání v řekách
 date: 2018-07-08
 author: Eva Tylová
 authorId: eva.tylova
-image: /assets/img/posts/2018-07-08-den-koupani.jpg
+image: posts/2018-07-08-den-koupani.jpg
 tags:
   - ekologie
 ---
