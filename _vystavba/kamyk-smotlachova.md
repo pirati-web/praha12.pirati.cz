@@ -11,7 +11,7 @@ pocetPodlazi: 13
 pocetBytu: 97
 pocetParking: 106
 uzemniPlanKod: SV
-fazeSchvaleni: 5
+fazeSchvaleni: 6
 rokDokonceni:
 gps:
   lat: 50.0098589
