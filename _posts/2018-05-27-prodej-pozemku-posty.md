@@ -1,11 +1,10 @@
 ---
-layout: blog
-category: CLANKY
+category: blog
 title: Jsme proti prodeji pozemku pod budovou pošty na Sofijském náměstí
-date: 2018-05-27T01:00:00.000Z
+date: 2018-05-27
 author: Jan Adamec
 authorId: jan.adamec
-image: /assets/img/posts/2018-05-posta.jpg
+image: posts/2018-05-posta.jpg
 tags:
   - majetek
   - pošta

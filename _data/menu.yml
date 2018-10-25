@@ -1,0 +1,65 @@
+top:
+  - link: "Pražské sdružení"
+    url:  "https://praha.pirati.cz"
+    icon: "fa fa-home"
+  - link: "pirati.cz"
+    url:  "https://www.pirati.cz"
+    icon: "fa fa-home"
+  - link: "wiki.pirati.cz"
+    url:  "https://wiki.pirati.cz"
+    icon: "fa fa-home"
+  - link: "Pirátské listy"
+    url:  "http://www.piratskelisty.cz"
+    icon: "fa fa-newspaper-o"
+
+main:
+  - link: /aktuality/
+    name: Aktuality
+    match: aktuality
+  - link: /lide/
+    name: O nás
+    match: lide
+  - link: /komunalni-volby/
+    name: Volby 2018
+    match: komunalni-volby
+    submenu:
+      - link: /komunalni-volby/
+        name: Kandidátka
+        match: komunalni-volby
+      - link: /komunalni-volby/program.html
+        name: Program
+        match: program
+      - link: /komunalni-volby/povolebni-strategie.html
+        name: Povolební strategie
+        match: povolebni-strategie
+  - link: /vystavba/
+    name: Výstavba
+    match: vystavba
+  - link: /kontakt/
+    name: Kontakt
+    match: kontakt
+
+bottom:
+  - class: small-12 medium-4
+    title: Připoj se
+    links:
+      - link: /kontakt/
+        name: Dej nám vědět
+  - class: small-12 medium-4
+    title: Makáme
+    links:
+      - link: /lide/
+        name: Lidé
+      - link: /komunalni-volby/
+        name: Volby
+      - link: /aktuality/
+        name: Aktuality
+  - class: small-12 medium-4
+    title: Otevřenost
+    links:
+      - link: https://ucet.pirati.cz
+        name: Transparentní účet
+      - link: https://smlouvy.pirati.cz
+        name: Registr smluv
+      - link: https://wiki.pirati.cz/fo/otevrene_ucetnictvi
+        name: Otevřené účetnictví

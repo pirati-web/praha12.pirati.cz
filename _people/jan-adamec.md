@@ -1,7 +1,9 @@
 ---
 uid: jan.adamec
 name:     Jan Adamec  	# běžně používáné jméno
-fullname: Mgr. Jan Adamec  	# jméno s tituly etc.
+titles:
+  before: Mgr.
+  after:
 category:                   # kategorie: pms, clenove, priznivci
 - clenove
 

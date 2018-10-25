@@ -1,11 +1,10 @@
 ---
-layout: blog
-category: CLANKY
+category: blog
 title: Chceme rozmanitější školy
 date: 2018-09-19
 author: Jiří Růžička
 authorId: jiri.ruzicka
-image: /assets/img/posts/2018-09-19-skola.jpg
+image: posts/2018-09-19-skola.jpg
 tags:
   - školství
 ---

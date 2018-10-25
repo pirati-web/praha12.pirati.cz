@@ -1,11 +1,10 @@
 ---
-layout: blog
-category: CLANKY
+category: blog
 title: Uspořádali jsme cyklovyjížďku po chystaných developerských projektech
-date: 2018-06-10T01:00:00.000Z
+date: 2018-06-10
 author: Matěj Mlčoch
 authorId: matej.mlcoch
-image: /assets/img/posts/2018-06-10-mapa_tour.png
+image: posts/2018-06-10-mapa_tour.png
 tags:
   - cyklovyjížďka
   - výstavba

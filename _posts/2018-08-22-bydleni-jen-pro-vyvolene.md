@@ -1,11 +1,10 @@
 ---
-layout: blog
-category: CLANKY
+category: blog
 title: Bydlení jen pro vyvolené
 date: 2018-08-22
 author: Matěj Mlčoch
 authorId: matej.mlcoch
-image: /assets/img/posts/2018-08-22-domy-slunce.jpg
+image: posts/2018-08-22-domy-slunce.jpg
 tags:
   - výstavba
 ---

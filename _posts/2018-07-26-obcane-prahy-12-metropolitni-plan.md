@@ -1,11 +1,10 @@
 ---
-layout: blog
-category: CLANKY
+category: blog
 title: 1200 občanů Prahy 12 říká Metropolitnímu plánu NE
 date: 2018-07-26
 author: Eva Tylová
 authorId: eva.tylova
-image: /assets/img/posts/2018-07-26-metrostanek-s-lidmi.jpg
+image: posts/2018-07-26-metrostanek-s-lidmi.jpg
 tags:
   - metropolitní plán
   - výstavba

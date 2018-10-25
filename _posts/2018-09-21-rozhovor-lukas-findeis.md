@@ -1,10 +1,9 @@
 ---
-layout: blog
-category: CLANKY
+category: blog
 title: Dělat věci otevřeně - rozhovor s Lukášem Findeisem
 date: 2018-09-21
 author: Aleš Vymětal
-image: /assets/img/posts/2018-09-21-lukas.jpg
+image: posts/2018-09-21-lukas.jpg
 tags:
   - rozhovor
 ---

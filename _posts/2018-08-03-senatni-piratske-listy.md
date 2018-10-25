@@ -1,11 +1,10 @@
 ---
-layout: blog
-category: CLANKY
+category: blog
 title: Senátní Pirátské listy
 date: 2018-08-03
 author: Eva Tylová
 authorId: eva.tylova
-image: /assets/img/posts/2018-08-03-eva-listy.jpg
+image: posts/2018-08-03-eva-listy.jpg
 tags:
   - pirátské listy
   - senát

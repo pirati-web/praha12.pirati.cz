@@ -1,7 +1,9 @@
 ---
 uid: veronika.rajnohova
 name:     Veronika Rajnohová  	# běžně používáné jméno
-fullname: Veronika Rajnohová  	# jméno s tituly etc.
+titles:
+  before:
+  after:
 category:                   # kategorie: pms, clenove, priznivci
 - priznivci
 

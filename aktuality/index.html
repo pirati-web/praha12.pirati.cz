@@ -1,18 +1,23 @@
 ---
 layout: default
 title: Aktuality
+description: Novinky z města XY, pirátské kauzy a vše o xy.
+keywords: aktuality, tiskové zprávy, press, blog
 ---
 
-<div class="row o-section-block o-section-block--divided">
-  <div class="medium-12 large-8 columns">
-    <section class="o-section o-section--noSpaceBottom o-section--bigger">
-      <div class="o-section-inner o-section-inner--leftBlock">
+
+<div class="row">
+  <div class="columns">
+    <div class="o-section">
+      <div class="o-section-inner">
+          <header class="c-page-header">
+            <h1 itemprop="headline" class="c-page-title">Aktuality</h1>
+          </header>
+          {% assign posts = paginator.posts %}
+          {% include articles/list-responsive.html posts=posts %}
+          {% include articles/pagination.html paginator=paginator %}
       </div>
-    </section>
+    </div>
   </div>
 </div>
 
-{% assign posts = paginator.posts %}
-{% include article-list/list-3col.html param='posts' %}
-
-{% include article-list/pagination.html %}

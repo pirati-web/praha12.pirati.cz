@@ -1,11 +1,10 @@
 ---
-layout: blog
-category: CLANKY
+category: blog
 title: Sbíráme podpisy pod petici za záchranu louky u Modřanské rokle
-date: 2018-04-29T12:00:00.000Z
+date: 2018-04-29
 author: Matěj Mlčoch
 authorId: matej.mlcoch
-image: /assets/img/vystavba/mo-vstuprokle/nahupech.jpg
+image: vystavba/mo-vstuprokle/nahupech.jpg
 tags:
   - petice
   - louka na hupech

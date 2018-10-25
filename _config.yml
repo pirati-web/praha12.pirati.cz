@@ -1,23 +1,98 @@
 # Welcome to Jekyll!
 #
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
+# Toto je soubor s hlavním nastavením. Na začátku je nastavení proměných, které
+# je třeba přispůsobit si pro váš web. Později v anglicky popsané části jsou více
+# technické nastavení
+#
 
-# Site settings
-title: Pirátská strana | Praha 12
-email: to@pirati.cz
-description: > # this means to ignore newlines until "baseurl:"
+title: Pirátská strana Praha 12 # To co je napsané na tabu ve kterém je stránka.
+email: info@pirati.cz
+description: >-
   Web místního sdružení České pirátské strany v Praze 12.
-url: "https://praha12.pirati.cz" # the base hostname & protocol for your site
+# dobré keywords jsou ty co lidé piší do googlu když hledají naši stránku
+keywords: piráti, česká pirátská strana, svoboda, demokracie, praha 12, modřany, kamýk, komořany, točná, cholupice, místní združení,
 
-# Build settings
+administrator:
+  email: jan.adamec@pirati.cz # mail(y), kam pujdou chybove vystupy; vice e-mailu oddelujte carkou
+
+organization:
+  name: Piráti Praha 12
+  shortName: Praha 12
+  email: lukas.findeis@pirati.cz
+  phone:
+  address: |
+    Na Moráni 360/3,
+    128 00 Praha 2
+  residenceImg:
+  mapLink: https://mapy.cz/zakladni?vlastni-body&x=14.4418976&y=50.0863156&z=18&ut=PiCe&uc=9h2F.xXwtn&ud=ulice%20%C5%98eho%C5%99ova%20943%2F19%2C%20Praha%2C%20130%2000%2C%20okres%20Hlavn%C3%AD%20m%C4%9Bsto%20Praha
+  redmineLink: https://redmine.pirati.cz/projects
+  dataBoxId: b2i4r6j
+  transparentAccount: 2100048174/2010
+
+# Nastavení zobrazení tabulky kontaktů.
+# Lze využít:
+# 1) předdefinované typy (organizationEmail, organizationRedmineLink, organizationPhone, organizationTransparentAccount, organizationDataBox, piratiRootWebsite)
+# 2) vlastní řádky - zde je nutné jako type dát `custom` a vyplnit `label` a `body`
+contactSummaryItems:
+  - type: organizationEmail
+  - type: organizationRedmineLink
+  - type: organizationPhone
+  - type: organizationTransparentAccount
+    includeMoreLink: true
+  - type: organizationDataBox
+  - type: piratiRootWebsite
+  - type: custom
+    iconClass: fa fa-facebook
+    label: Facebooková stránka
+    body: <a href="https://www.facebook.com/PiratiP12/" target="_blank">Piráti Praha 12</a>
+
+calendar:
+  # For nice look of the calendar, make sure you get Google Calendar API key
+  # and start the app with the env var `GOOGLE_CALENDAR_APIKEY=[myapikey] bundle exec jekyll serve`.
+  # For deployment, contact website administrator to set you env variable.
+  title: Celopražský kalendář
+  id:
+  page: https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=500&amp;wkst=2&amp;hl=cs&amp;bgcolor=%23FFFFFF&amp;src=rm0h4oqjk2j2o0615sc4d1slfk%40group.calendar.google.com&amp;color=%23B1365F&amp;src=lpvmfpogihrca3lqs9p2udae0k%40group.calendar.google.com&amp;color=%238D6F47&amp;ctz=Europe%2FPrague
+
+facebook:
+  loadSDK: true
+  #vyplně adresu vaší stranky, funguje pouze na stránky nikoliv skupiny
+  profilePage: https://www.facebook.com/PiratiP12/
+  profilePageName: Piráti Praha 12
+  appId: 1526197851008996
+
+twitter:
+  loadSDK: true
+  profile: PiratskaStrana
+
+github:
+  url: https://github.com/pirati-web/praha12.pirati.cz/
+  branch: master
+
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+github_username:  pirati-web
+
+sass:
+  style: compressed
+  sass_dir: _sass
+
+theme: jekyll-theme-pirati
+
 markdown: kramdown
-
-gems:
+theme: jekyll-theme-pirati
+plugins:
+  - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-environment-variables
 paginate_path: "/aktuality/:num/"
 paginate: 11
 
@@ -25,9 +100,7 @@ exclude:
   - readme.md
   - Gemfile
   - Gemfile.lock
-
-sass:
-    style: compressed
+  - vendor
 
 permalink: /aktuality/:title.html
 collections:
@@ -36,7 +109,9 @@ collections:
     permalink: /lide/:path/
   program:
     output: true
-    permalink: /volby-2018/:path/
+    permalink: /komunalni-volby/program/:path/
+  candidatelists:
+    output: false
   vystavba:
     output: true
     permalink: /vystavba/:title.html
@@ -44,25 +119,62 @@ collections:
 defaults:   # defaults values for collection scope
   -
     scope:
+      path: "_posts"
+    values:
+      layout: "post"
+  -
+    scope:
       path: "_people"
     values:
-      layout: "member"
-      rbar: "foto"
+      layout: "person"
+      rbar:
+        - foto
+        - personContact
+        - people
+      keywords: členové, příznivci, lidé
   -
     scope:
       path: "_program"
     values:
-      layout: "page"
-      rbar: "volby-2018"
+      layout: "program-post"
+      rbar:
+         - garant
+         - program
+      keywords: program, volby, 2018, komunální volby
   -
     scope:
       path: "_vystavba"
     values:
       layout: "vystavba"
-      rbar: "map, textbox"
+      rbar:
+        - textbox
+        - map
       img: "vystavba/mapa-vystavby.png"
       mapycz_api: "mini-api"
       textbox:
         title: "Naše stanovisko"
 
 emptyArray: []
+
+assets:
+  source_maps: true
+  compression: true
+  gzip: false
+  plugins:
+    css: { autoprefixer: {}}
+    img:
+      optim:
+        jpegoptim:
+          strip: all
+          max_quality: 80
+  autoprefixer:
+    browsers:
+      - "last 2 versions"
+      - "IE > 9"
+  sources:
+    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-7.1.1/_sass
+    - assets/css
+    - assets/fonts
+    - assets/video
+    - assets/img
+    - _sass

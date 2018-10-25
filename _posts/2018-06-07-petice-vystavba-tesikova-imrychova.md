@@ -1,11 +1,10 @@
 ---
-layout: blog
-category: CLANKY
+category: blog
 title: Jsme proti dalšímu zahušťování sídlišť
-date: 2018-06-07T01:00:00.000Z
+date: 2018-06-07
 author: Eva Tylová
 authorId: eva.tylova
-image: /assets/img/vystavba/ka-tesikova/puvodni_stav.jpg
+image: vystavba/ka-tesikova/puvodni_stav.jpg
 tags:
   - petice
   - výstavba

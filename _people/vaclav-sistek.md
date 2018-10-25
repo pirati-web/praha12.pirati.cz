@@ -1,7 +1,9 @@
 ---
 uid: vaclav.sistek
 name:     Václav Šístek  	# běžně používáné jméno
-fullname: Václav Šístek  	# jméno s tituly etc.
+titles:
+  before:
+  after:
 category:                   # kategorie: pms, clenove, priznivci
 - priznivci
 

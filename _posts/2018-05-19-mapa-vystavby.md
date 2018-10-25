@@ -1,11 +1,10 @@
 ---
-layout: blog
-category: CLANKY
+category: blog
 title: Spouštíme Mapu developerských projektů
-date: 2018-05-19T01:00:00.000Z
+date: 2018-05-19
 author: Eva Tylová
 authorId: eva.tylova
-image: /assets/img/vystavba/mapa-vystavby.png
+image: vystavba/mapa-vystavby.png
 tags:
   - výstavba
 ---

@@ -1,11 +1,10 @@
 ---
-layout: blog
-category: CLANKY
+category: blog
 title: Radní Prahy 12 Adámek odvolán z funkce kvůli kauze tajemné směnky za 10 milionů, kterou odhalili Piráti
 date: 2018-10-03
 author: Jiří Brůžek
 authorId: jiri.bruzek
-image: /assets/img/posts/2018-10-03-odvolani-adamka.jpg
+image: posts/2018-10-03-odvolani-adamka.jpg
 tags:
   - kauzy
 ---

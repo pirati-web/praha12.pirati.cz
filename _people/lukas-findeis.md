@@ -1,9 +1,12 @@
 ---
 uid: lukas.findeis
 name:     Lukáš Findeis  	# běžně používáné jméno
-fullname: Lukáš Findeis  	# jméno s tituly etc.
+titles:
+  before:
+  after:
 category:                 # kategorie: pms, clenove, priznivci
 - clenove
+- kontaktni_osoba
 
 img: people/lukas-findeis.jpg   # 165 x 220
 description: zastupitel MČ Praha 12 # kratký popis, max 160 znaků

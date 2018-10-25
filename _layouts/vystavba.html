@@ -1,11 +1,9 @@
 ---
 ---
-
 <!DOCTYPE html>
 <html lang="cs" dir="ltr" itemtype="http://schema.org/WebPage" itemscope="">
 {% include head.html %}
 <body>
-{% include js/gtm-body.html %}
 
 <style>
   #vystavbaAxisTable {
@@ -17,7 +15,7 @@
   }
   #vystavbaAxisTable th {
     border-right: solid 1px;
-    font-size: 75%;
+    font-size: 80%;
     padding: 0px 10px 2px 10px;
     white-space: nowrap;
   }
@@ -48,9 +46,9 @@
   .large-12 {
     width: 100%;
   }
-  .c-BasicPage-content, .c-widget-accordion-content, .c-widget-accordion__title { font-size: 8.5pt; }
+  .c-content-block, .c-widget-accordion-content, .c-widget-accordion__title { font-size: 8.5pt; }
   .c-widget-accordion__title { font-size: 13pt; }
-  .c-BasicPage__title { font-size: 21pt; padding-bottom: 0pt;}
+  .c-page-title { font-size: 21pt; padding-bottom: 0pt;}
   a[href]:after { content: none; }
   .c-widget-accordion { border: solid 1pt lightgrey;}
   .c-widget-accordion .c-widget-accordion-content { border: none; padding-top: 0px; margin-top: 0px; }
@@ -62,14 +60,19 @@
 }
 </style>
 
-<div class="hide-for-print">{% include header.html %}</div>
+<div class="hide-for-print">{% include header.html %}
+
+    {% if site.data.menu.main %}
+        {% include menu.html %}
+        {% unless page.nosubmenu %}
+            {% include submenu.html %}
+        {% endunless %}
+    {% endif %}
+</div>
 
 <div class="page-content">
   <div class="wrapper">
 
-{% unless page.nomenu %}
-{% include submenu.html %}
-{% endunless %}
 
 {% capture metadata_box_contents %}
   {%if page.katastr%}<b>Katastr:</b> {{page.katastr}}<br/>{%endif%}
@@ -140,16 +143,16 @@
           <!-- Article -->
           <article itemtype="http://schema.org/BlogPosting" class="c-BasicPage" itemscope="">
             <link itemprop="mainEntityOfPage" href="http://insertshownpagelinkhere.com">
-            <h1 itemprop="headline" class="c-BasicPage__title">
+            <h1 itemprop="headline" class="c-page-title">
               {{page.title}}
             </h1>
             <!-- Metadata box -->
-            <div class="c-BasicPage-content">
+            <div class="c-content-block c-emphasized-text">
               {% if page.uvodText %}{{page.uvodText}}<br/><br/>{% endif %}
               {{metadata_box_contents}}
             </div>
             <!-- Contents for screen -->
-            <div itemprop="description" class="c-BasicPage-content hide-for-print">
+            <div itemprop="description" class="c-content-block c-emphasized-text hide-for-print">
               {{content}}
             </div>
             <!-- Contents for print -->

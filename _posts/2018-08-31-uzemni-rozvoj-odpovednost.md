@@ -1,11 +1,10 @@
 ---
-layout: blog
-category: CLANKY
+category: blog
 title: Kdo je odpovědný za současný rozvoj Prahy 12?
 date: 2018-08-31
 author: Jiří Brůžek
 authorId: jiri.bruzek
-image: /assets/img/posts/2018-08-31-komix-tatka-radni.png
+image: posts/2018-08-31-komix-tatka-radni.png
 tags:
   - kauzy
   - výstavba
