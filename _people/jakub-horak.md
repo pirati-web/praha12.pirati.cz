@@ -8,7 +8,7 @@ category:                   # kategorie: pms, clenove, priznivci
 - clenove
 
 img: people/jakub-horak.jpg   # 165 x 220
-description: podnikatel v letectví  # kratký popis, max 160 znaků
+description: podnikatel v letectví, zastupitel MČ Praha 12  # kratký popis, max 160 znaků
 mail:
 profiles:
   facebook: https://www.facebook.com/masseratione

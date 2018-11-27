@@ -8,7 +8,7 @@ category:                   # kategorie: pms, clenove, priznivci
 - priznivci
 
 img: people/andrej-koudelka.jpg   # 165 x 220
-description: ekonom oční kliniky  # kratký popis, max 160 znaků
+description: ekonom oční kliniky, zastupitel MČ Praha 12  # kratký popis, max 160 znaků
 mail:
 profiles:
   facebook: https://www.facebook.com/profile.php?id=100014824636453
