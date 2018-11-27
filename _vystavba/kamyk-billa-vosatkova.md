@@ -11,7 +11,7 @@ pocetPodlazi: 18
 pocetBytu:
 pocetParking:
 uzemniPlanKod: OV
-fazeSchvaleni: 6
+fazeSchvaleni: 7
 rokDokonceni:
 gps:
   lat: 50.0149972
@@ -26,6 +26,8 @@ folder: /assets/img/vystavba/ka-vostatkova/
 printImg1: viz1814camp.jpg
 printImg2: puvodni_stav.jpg
 ---
+
+**22.11.2018** Trigema požádala o zahájení územního řízení. Je svoláno mimořádné zastupitelstvo kvůli podání připomínek za MČ.
 
 **19.3.2018** Prezentace projektu v CAMP.
 
