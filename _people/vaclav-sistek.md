@@ -8,7 +8,7 @@ category:                   # kategorie: pms, clenove, priznivci
 - priznivci
 
 img: people/vaclav-sistek.jpg   # 165 x 220
-description: specialista operačních systémů, koordinátor komunitní zahrady, člen Zelených  # kratký popis, max 160 znaků
+description: specialista operačních systémů, koordinátor komunitní zahrady, zastupitel MČ Praha 12, člen Zelených  # kratký popis, max 160 znaků
 mail: vsistek@fsfe.org
 profiles:
   facebook: https://www.facebook.com/vaclav.sistek.9
