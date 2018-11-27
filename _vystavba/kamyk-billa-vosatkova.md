@@ -26,6 +26,7 @@ folder: /assets/img/vystavba/ka-vostatkova/
 printImg1: viz1814camp.jpg
 printImg2: puvodni_stav.jpg
 ---
+**22.11.2018** Trigema požádala o zahájení územního řízení, je svoláno mimořádné zastupitelstvo kvůli podání připomínek za MČ.
 
 **19.3.2018** Prezentace projektu v CAMP.
 
