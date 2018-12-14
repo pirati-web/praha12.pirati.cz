@@ -8,11 +8,10 @@ category:                   # kategorie: pms, clenove, priznivci
 - priznivci
 
 img: people/vaclav-sistek.jpg   # 165 x 220
-description: specialista operačních systémů, koordinátor komunitní zahrady, zastupitel MČ Praha 12, člen Zelených  # kratký popis, max 160 znaků
+description: specialista operačních systémů, koordinátor komunitní zahrady, zastupitel MČ Praha 12  # kratký popis, max 160 znaků
 mail: vsistek@fsfe.org
 profiles:
   facebook: https://www.facebook.com/vaclav.sistek.9
-  linkedin: https://www.linkedin.com/in/vaclavsistek/
 ---
 
 Václav Šístek (* 27. května 1984) je příznivcem Pirátské strany. Václav se narodil v Praze, první polovinu života však prožil v Přerově, po maturitě a krátké epizodě na Univerzitě Palackého v Olomouci se vrátil do Prahy. Od roku 2017 patří k novým občanům Modřan, kde se snaží být aktivním sousedem.
