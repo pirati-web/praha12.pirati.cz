@@ -12,9 +12,10 @@ description: specialista operačních systémů, koordinátor komunitní zahrady
 mail: vsistek@fsfe.org
 profiles:
   facebook: https://www.facebook.com/vaclav.sistek.9
+  linkedin: https://www.linkedin.com/in/vaclavsistek/
 ---
 
-Václav Šístek (* 27. května 1984) je příznivcem Pirátské strany a členem Strany zelených. Václav se narodil v Praze, první polovinu života však prožil v Přerově, po maturitě a krátké epizodě na Univerzitě Palackého v Olomouci se vrátil do Prahy. Od roku 2017 patří k novým občanům Modřan, kde se snaží být aktivním sousedem.
+Václav Šístek (* 27. května 1984) je příznivcem Pirátské strany. Václav se narodil v Praze, první polovinu života však prožil v Přerově, po maturitě a krátké epizodě na Univerzitě Palackého v Olomouci se vrátil do Prahy. Od roku 2017 patří k novým občanům Modřan, kde se snaží být aktivním sousedem.
 
 Profesí IT expert. Momentálně pracuje jako Software QA engineer ve firmě SUSE Linux, má za sebou také 6 let praxe jako release engineer pro Oracle/Sun Solaris. Zkušenost s americkým pracovním prostředím a častými služebními cestami do USA mu rozšířila obzory. Pracoval také několik let jako Linux administrátor ve firmě Seznam.cz.
 
