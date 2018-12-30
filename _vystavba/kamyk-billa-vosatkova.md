@@ -11,7 +11,7 @@ pocetPodlazi: 18
 pocetBytu:
 pocetParking:
 uzemniPlanKod: OV
-fazeSchvaleni: 7
+fazeSchvaleni: 8
 rokDokonceni:
 gps:
   lat: 50.0149972
@@ -27,7 +27,7 @@ printImg1: viz1814camp.jpg
 printImg2: puvodni_stav.jpg
 ---
 
-**22.11.2018** Trigema požádala o zahájení územního řízení. Bylo svoláno mimořádné zastupitelstvo kvůli podání připomínek za MČ.
+**22.11.2018** Stavební úřad zahajuje územní řízení právě v den po zasedání ustavujícího zastupitelstva, tedy tak, že bylo třeba hned následně spolat mimořádné zasedání kvůli tehdy platné pravomoci zastupitelstva vyjadřovat se k developerským projektům. To vyjádřilo 11.12.2018 nesouhlas ([Z-02-003-18](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=66383)) a předalo k dopracování Radě.
 
 **19.3.2018** Prezentace projektu v CAMP.
 
