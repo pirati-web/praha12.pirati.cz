@@ -11,7 +11,7 @@ pocetPodlazi: 13
 pocetBytu: 97
 pocetParking: 106
 uzemniPlanKod: SV
-fazeSchvaleni: 6
+fazeSchvaleni: 8
 rokDokonceni:
 gps:
   lat: 50.0098589
@@ -34,6 +34,8 @@ printImg2: puvodni_stav.jpg
 Boji proti tomuto projektu se věnuje iniciativa občanů [Sebeobrana sídliště Kamýk](http://www.sidliste-kamyk.cz/).
 
 - - -
+
+**3.10.2018** Stavební úřad zahajuje územní řízení několik dní před komunálními volbami, tedy v situaci, kdy se stávající zastupitelstvo k projektu už nestihne vyjádřit a nové zastupitelstvo se po volbách ještě nestihne ustavit, takže se městská část nemůže řízení účastnit (kvůli tehdy platné pravomoci zastupitelstva vyjadřovat se k developerským projektům).
 
 **6.11.2017** Zastupitelstvo nesouhlasí s usnesením rady
 [R-22-004-17](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=58655) - František Adámek jako jediný proti, zbytek ČSSD a ANO se zdrželo hlasování
