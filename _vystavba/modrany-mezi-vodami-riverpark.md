@@ -11,7 +11,7 @@ pocetPodlazi: 9 - 12
 pocetBytu: 800
 pocetParking: 1000
 uzemniPlanKod: OV-H
-fazeSchvaleni: 16
+fazeSchvaleni: 17
 rokDokonceni: 2020
 gps:
   lat: 50.0175917
