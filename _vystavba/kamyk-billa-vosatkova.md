@@ -1,5 +1,5 @@
 ---
-title: Vosátkova, polyfunkční dům
+title: Vosátkova, bytový dům
 katastr: Kamýk
 developer: Trigema
 nazev: Polyfunkční dům Kamýk
@@ -7,8 +7,8 @@ web:
 plocha:
 plochaObytna:
 jineFunkce: samoobsluha
-pocetPodlazi: 18
-pocetBytu:
+pocetPodlazi: 18, 14
+pocetBytu: 171
 pocetParking:
 uzemniPlanKod: OV
 fazeSchvaleni: 8
@@ -26,6 +26,8 @@ folder: /assets/img/vystavba/ka-vostatkova/
 printImg1: viz1814camp.jpg
 printImg2: puvodni_stav.jpg
 ---
+
+**11.12.2018** Rada revokuje souhlas s prodejem přilehlých pozemků ([R-005-001-18](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=66236)).
 
 **22.11.2018** Stavební úřad zahajuje územní řízení právě v den po zasedání ustavujícího zastupitelstva, tedy tak, že bylo třeba hned následně spolat mimořádné zasedání kvůli tehdy platné pravomoci zastupitelstva vyjadřovat se k developerským projektům. To vyjádřilo 11.12.2018 nesouhlas ([Z-02-003-18](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=66383)) a předalo k dopracování Radě.
 
