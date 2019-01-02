@@ -1,6 +1,6 @@
 ---
 category: blog
-title: Podpis koaliční smlouvy na Praze 12
+title: Vývoj developerských projektů od voleb
 date: 2019-01-02
 author: Jan Adamec
 authorId: jan.adamec
