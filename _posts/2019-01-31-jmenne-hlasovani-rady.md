@@ -13,6 +13,6 @@ Zajímá Vás, kdo jak v Radě městské části hlasoval? Nově to pohodlně do
 
 Příkladem budiž zápis z [11. jednání Rady městské části Praha 12 konané 23.1.2019](https://www.praha12.cz/11-jednani-rady-mestske-casti-praha-12-konane-23-1-2019/d-66926/p1=65977)
 
-Plníme tím jak náš [volební program]({{ 'komunalni-volby/program.html' | relative_url }}) (kapitola Otevřená radnice), tak [koaliční smlouvu]({{ 'assets/img/posts/Koalicni-smlouva-Praha12-2018.pdf' | relative_url }}). Důvodem k této změně je kladení větší odpovědnost politikům za svá rozhodnutí, a také aby kdokoli mohl vidět, kdo za jaké rozhodnutí může.
+Plníme tím jak náš [volební program]({{ 'komunalni-volby/program.html' | relative_url }}) (kapitola Otevřená radnice), tak [koaliční smlouvu]({{ 'assets/img/posts/Koalicni-smlouva-Praha12-2018.pdf' | relative_url }}). Důvodem tohoto opatření je důraz na větší odpovědnost politiků za svá rozhodnutí. Nyní každý zpětně dohledá, kdo za jaké rozhodnutí může, ať v dobrém či špatém.
 
-Vzhledem k tomu, že jsme členy vládnoucí koalice na Praze 12, dopadá nyní tíha této změny hlavně na nás. Doufáme, že se jmenné hlasování rady stane za několik let standardem a přetrvá i po další volební období.
+Vzhledem k tomu, že jsme členy vládnoucí koalice na Praze 12, dopadá nyní tato změna také na nás. Otevíráme se veřejné kontrole občanů, kterým se zodpovídáme. Doufáme, že se jmenné hlasování rady stane za několik let standardem a přetrvá i po další volební období.
