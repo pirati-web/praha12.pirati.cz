@@ -5,7 +5,8 @@ titles:
   before:
   after:
 category:                   # kategorie: pms, clenove, priznivci
-- priznivci
+- pms
+ordpms: 4
 
 img: people/jiri-bruzek.jpg   # 165 x 220
 description: konzultant ERP, zastupitel MČ Praha 12  # kratký popis, max 160 znaků

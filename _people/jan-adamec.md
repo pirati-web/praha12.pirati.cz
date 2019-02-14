@@ -5,7 +5,8 @@ titles:
   before: Mgr.
   after:
 category:                   # kategorie: pms, clenove, priznivci
-- clenove
+- pms
+ordpms: 2
 
 img: people/jan-adamec.jpg   # 165 x 220
 description: starosta MČ Praha 12, programátor, autor nezávislé mobilní aplikace o Praze 12  # kratký popis, max 160 znaků
