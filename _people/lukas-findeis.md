@@ -5,8 +5,8 @@ titles:
   before:
   after:
 category:                 # kategorie: pms, clenove, priznivci
-- clenove
-- kontaktni_osoba
+- pms
+ordpms: 5
 
 img: people/lukas-findeis.jpg   # 165 x 220
 description: radní MČ Praha 12, běžecký trenér # kratký popis, max 160 znaků
