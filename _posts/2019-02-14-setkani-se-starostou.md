@@ -16,7 +16,7 @@ Plánujeme takováto setkání učinit tradicí a postupně navštěvovat různ�
 Předběžný rozpis dalších setkání zde:
 
 - 13.3. Hostinec Na Kamýku, Krhanická 994/21a, Kamýk
-- 10.4. Modřanské Labe, Mráčkova 3059/5, Modřany
+- 10.4. Jaro (bývalá Archa), Sofijské náměstí 2, Modřany
 - 15.5. Pizzerie Mont Fort, Pertoldova 3345/8, Modřany
 - 12.6. U Bukačů, Na Homoli 2010/1, Komořany
 
