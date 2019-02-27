@@ -15,4 +15,4 @@ Tento skvělý příběh začal politickou vůlí naší rady, iniciovanou námi
 
 Odnášíme si z toho potvrzení teze, že některé věci jdou udělat kvalitně a přitom levně, stačí šikovným lidem v úřadu dát prostor a podporu.
 
-Po skončení online přenosu bude na [YouTube kanálu MČ Prahy 12](https://www.youtube.com/channel/UCikXVIsMdFckWex7wpIn5Dw) záznam vyměněn za zpracovaný, anonymizovaný podle platné legislativy. Rozhodně tedy má cenu přihlásit se k odběru příslušného kanálu, je nově obohacen o cenný obsah pro ty, kdo se zajímají o dění v místní politice.
+Online přenos je po dobu jednání zastupitelstva dostupný přímo na na [YouTube kanálu MČ Prahy 12](https://www.youtube.com/channel/UCikXVIsMdFckWex7wpIn5Dw). Ihned po skončení jednání musí však být automaticky pořízený záznam zneveřejněn a probíhá jeho zpracování na úřadě, zejména anonymizace osobních údajů, abychom vyhověli platné legislativě. Avšak nezoufejte, v horizontu dnů až týdnů se na tomto kanálu finální záznam objeví znovu a už zde zůstane. Rozhodně tedy má cenu kanál navštívit a přihlásit se k odběru. O zpracovaném záznamu se tak snadno dozvíte.
