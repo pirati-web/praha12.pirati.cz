@@ -38,7 +38,7 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     profession: obchodní manažer v letectví
     party: Piráti
   - uid: vaclav.sistek
-    age: 58
+    age: 34
     profession: specialista operačních systémů
     description: koordinátor komunitní zahrady
     party: Zelení
