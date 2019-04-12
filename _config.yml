@@ -115,6 +115,9 @@ collections:
   vystavba:
     output: true
     permalink: /vystavba/:title.html
+  umelecka-dila:
+    output: true
+    permalink: /umelecka-dila/:title.html
 
 defaults:   # defaults values for collection scope
   -
@@ -153,6 +156,15 @@ defaults:   # defaults values for collection scope
       mapycz_api: "mini-api"
       textbox:
         title: "Naše stanovisko"
+  -
+    scope:
+      path: "_umelecka-dila"
+    values:
+      layout: "umelecka-dila"
+      rbar:
+        - map
+      mapycz_api: "mini-api"
+      folder: /assets/img/umelecka-dila/
 
 emptyArray: []
 

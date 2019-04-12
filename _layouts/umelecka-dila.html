@@ -1,0 +1,121 @@
+---
+---
+<!DOCTYPE html>
+<html lang="cs" dir="ltr" itemtype="http://schema.org/WebPage" itemscope="">
+{% include head.html %}
+<body>
+
+<style>
+@media print {
+  .large-4 {
+    width: 40%;
+  }
+  .large-8 {
+    width: 60%;
+  }
+  .large-12 {
+    width: 100%;
+  }
+  .c-content-block, .c-widget-accordion-content, .c-widget-accordion__title { font-size: 8.5pt; }
+  .c-widget-accordion__title { font-size: 13pt; }
+  .c-page-title { font-size: 21pt; padding-bottom: 0pt;}
+  a[href]:after { content: none; }
+  .c-widget-accordion { border: solid 1pt lightgrey;}
+  .c-widget-accordion .c-widget-accordion-content { border: none; padding-top: 0px; margin-top: 0px; }
+  .c-widget-accordion .c-widget-accordion-link { height: 40px; min-height: 40px; max-height: 40px; text-decoration: none;}
+  .c-widget-accordion.c-widget-accordion--dark .c-widget-accordion-link { background: white !important; }
+  .c-widget-accordion .c-widget-accordion-link::before { display: none; }
+  #mapa { max-height: 200px; height: 200px; }
+  #mapa img { transform: translateX(-50px) translateY(-50px); }
+}
+</style>
+
+<div class="hide-for-print">{% include header.html %}
+
+    {% if site.data.menu.main %}
+        {% include menu.html %}
+        {% unless page.nosubmenu %}
+            {% include submenu.html %}
+        {% endunless %}
+    {% endif %}
+</div>
+
+<div class="page-content">
+  <div class="wrapper">
+
+
+{% capture metadata_box_contents %}
+  {%if page.title%}<b>Název:</b> {{page.title}}<br/>{%endif%}
+  {%if page.autor%}<b>Autor:</b> {{page.autor}}<br/>{%endif%}
+  {%if page.popis%}<b>Popis:</b> {{page.popis}}<br/>{%endif%}
+  {%if page.typ%}<b>Typ:</b> {{page.typ}}<br/>{%endif%}
+  {%if page.material%}<b>Materiál:</b> {{page.material}}<br/>{%endif%}
+  {%if page.mestska-cast%}<b>Městská část:</b> {{page.mestska-cast}}<br/>{%endif%}
+  {%if page.umisteni%}<b>Umístění:</b> {{page.umisteni}}<br/>{%endif%}
+  {%if page.rok%}<b>Rok:</b> {{page.rok}}<br/>{%endif%}
+  {%if page.stav%}<b>Stav:</b> {{page.stav}}<br/>{%endif%}
+{% endcapture %}
+
+<div class="row">
+  <div class="medium-12 {% if page.rbar == empty %}large-12{% else%}large-8{%endif%} columns">
+    <div class="o-section o-section--spaceBot">
+      <div class="o-section-inner">
+        <main class="o-section-block">
+          <!-- Article -->
+          <article itemtype="http://schema.org/BlogPosting" class="c-BasicPage" itemscope="">
+            <link itemprop="mainEntityOfPage" href="http://insertshownpagelinkhere.com">
+            <h1 itemprop="headline" class="c-page-title">
+              {{page.title}}
+            </h1>
+            <!-- Metadata box -->
+            <div class="c-content-block c-emphasized-text">
+              {% if page.uvodText %}{{page.uvodText}}<br/><br/>{% endif %}
+              {{metadata_box_contents}}
+            </div>
+            <!-- Contents for screen -->
+            <div itemprop="description" class="c-content-block c-emphasized-text hide-for-print">
+              {{content}}
+            </div>
+            <!-- Contents for print -->
+            <div itemprop="description" class="show-for-print">
+              {% if page.printImg1 %}
+              <img src="{{ page.printImg1 | prepend: page.folder | relative_url }}" style="max-height: 240px; display: block; margin-left: auto; margin-right: auto;"><br/>
+              {% endif %}
+              {% if page.printImg2 %}
+              <img src="{{ page.printImg2 | prepend: page.folder | relative_url }}" style="max-height: 240px; display: block; margin-left: auto; margin-right: auto;">
+              {% endif %}
+            </div>
+          </article>
+          <!-- /Article -->
+        </main>
+      </div>
+    </div>
+  </div>
+  {% unless page.rbar == blank %}
+  <div class="medium-12 large-4 columns">
+    {% include right-bar/rbar.html %}
+  </div>
+  {% endunless %}
+</div>
+
+<!-- Common text for all pages when printing -->
+<div class="row show-for-print" style="position: absolute; bottom: 0px; width: 100%;">
+  <div class="o-section-inner c-BasicPage-content" style="font-size: 8pt; background-color: rgba(255, 255, 255, 0.5) !important; -webkit-print-color-adjust: exact;">
+<h2 style="font-size:11pt;">Umělecká díla v Praze</h2>
+Zde je nějaký text, co se ukáže jen při tisku.
+{% assign qr_code_target = page.url | prepend: 'https://praha12.pirati.cz' | url_encode %}
+<img src="https://api.qrserver.com/v1/create-qr-code/?data={{qr_code_target}}&amp;size=150x150" alt="" title="" align="right" style="width: 100px; padding-right:30px;"/>
+<img src="{{ 'assets/img/brand/logo-round.svg' | relative_url }}" style="width: 170px; padding-right:30px" alt="Česká pirátská strana" align="right">
+</ul>
+<p>
+Více informací o tomto projektu naleznete na webu <a href="https://praha12.pirati.cz">praha12.pirati.cz</a>
+  </div>
+</div>
+
+  </div> <!-- div class="wrapper" -->
+</div> <!-- div class="page-content" -->
+
+<div class="hide-for-print">{% include footer.html %}</div>
+{% include js/main.html %}
+</body>
+</html>
