@@ -45,7 +45,6 @@
 
 
 {% capture metadata_box_contents %}
-  {%if page.title%}<b>Název:</b> {{page.title}}<br/>{%endif%}
   {%if page.autor%}<b>Autor:</b> {{page.autor}}<br/>{%endif%}
   {%if page.popis%}<b>Popis:</b> {{page.popis}}<br/>{%endif%}
   {%if page.typ%}<b>Typ:</b> {{page.typ}}<br/>{%endif%}
@@ -71,6 +70,13 @@
             <div class="c-content-block c-emphasized-text">
               {% if page.uvodText %}{{page.uvodText}}<br/><br/>{% endif %}
               {{metadata_box_contents}}
+            <br/>
+            <p>
+            {%if page.img%}<img src="{{page.img | prepend: '/assets/img/' | relative_url }}"><br/><br/>{%endif%}
+            {% for itemimg in page.other-img %}
+               <img src="{{itemimg | prepend: '/assets/img/' | relative_url }}"><br/><br/>
+            {% endfor %}
+            </p>
             </div>
             <!-- Contents for screen -->
             <div itemprop="description" class="c-content-block c-emphasized-text hide-for-print">

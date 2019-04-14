@@ -15,4 +15,3 @@ img: umelecka-dila/p11-02-slunecni-hodiny.jpg
 stav:
 ---
 
-![p11-02-slunecni-hodiny.jpg]({{'p11-02-slunecni-hodiny.jpg' | prepend: page.folder | relative_url }})<br/>

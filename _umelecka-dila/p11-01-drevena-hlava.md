@@ -15,4 +15,3 @@ img: umelecka-dila/p11-01-hlava01.jpg
 stav:
 ---
 
-![p11-01-hlava01.jpg]({{'p11-01-hlava01.jpg' | prepend: page.folder | relative_url }})<br/>
