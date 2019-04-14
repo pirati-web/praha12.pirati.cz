@@ -25,7 +25,14 @@ K udelani velkeho screenshotu mapy je treba:
 - zvetsit zoom cz[1] = 14;
 {% endcomment %}
 
+{% assign arrDistricts = projekty | map: 'mestska-cast' | uniq %}
+<select name="thelist" onChange="districtChange(this)"><option selected>Všechny městské části</option>{% for item in arrDistricts %}<option>{{ item }}</option>{% endfor %}</select>
+
 <div id="mapa" style="height:350px;"></div>
+
+<br/>
+<ul id="listItems"></ul>
+
 <script type="text/javascript">
 // source https://api.mapy.cz/view?page=markers-signals
 var center = SMap.Coords.fromWGS84(14.43, 50.00);
@@ -50,30 +57,56 @@ var markers = [
     name: "{{ item.title }}",
     coord_lat: {{ item.gps.lat }},
     coord_long: {{ item.gps.long }},
+    district: "{{ item.mestska-cast }}",
     link: "{{ item.url | relative_url }}",
     id: {{ forloop.index }}
   },
   {% endif %}
 {% endfor %}
 ];
-// vytvoreni markeru
-markers.forEach(function(marker) {
-	var c = SMap.Coords.fromWGS84(marker.coord_long, marker.coord_lat);
-  var options = { title: marker.name }
-  // duletize je prirazeni id jednotlivemu markeru
-  var znacka = new SMap.Marker(c, marker.id, options);
-  souradnice.push(c);
-  vrstva.addMarker(znacka);
-  znacka.getContainer()[SMap.LAYER_MARKER].style.cursor = "pointer";
-});
+
+function addFilteredMarkers(filter)
+{
+  souradnice = [];
+  var elListItems = document.getElementById('listItems');
+  elListItems.innerHTML = ''; // clear all items
+  // vytvoreni markeru
+  markers.forEach(function(marker) {
+    if (filter==="" || filter===marker.district)
+    {
+      var c = SMap.Coords.fromWGS84(marker.coord_long, marker.coord_lat);
+      var options = { title: marker.name }
+      // duletize je prirazeni id jednotlivemu markeru
+      var znacka = new SMap.Marker(c, marker.id, options);
+      souradnice.push(c);
+      vrstva.addMarker(znacka);
+      znacka.getContainer()[SMap.LAYER_MARKER].style.cursor = "pointer";
+      
+      if (filter !=="")
+      {
+        var node = document.createElement("li");
+        var link = document.createElement("a");
+        link.setAttribute('href', marker.link);
+        link.innerHTML = marker.name;
+        node.appendChild(link);
+        elListItems.appendChild(node);
+      }
+    }
+  });
+}
+function centerMap()
+{
+  var cz = mapa.computeCenterZoom(souradnice); /* Spočítat pozici mapy tak, aby značky byly vidět */
+  mapa.setCenterZoom(cz[0], cz[1]);
+}
+
+addFilteredMarkers("");
 
 // zobrazime a povolime vrstvu - pokud by se vrstva povolila pred vkladanim markeru, tak by se s kazdym vlozenym markerem prekreslovala mapa a pocitaly pozice vsech markeru
 mapa.addLayer(vrstva);                          /* Přidat ji do mapy */
 vrstva.enable();                         /* A povolit */
 
-var cz = mapa.computeCenterZoom(souradnice); /* Spočítat pozici mapy tak, aby značky byly vidět */
-//cz[1] = 13;  // tenhle zoom je stejne nejlepsi
-mapa.setCenterZoom(cz[0], cz[1]);
+centerMap();
 
 // poslouchani na kliknuti u markeru
 mapa.getSignals().addListener(this, "marker-click", function(e) {
@@ -88,11 +121,20 @@ mapa.getSignals().addListener(this, "marker-click", function(e) {
     }
   }
 });
+
+function districtChange(combo)
+{
+  var idx = combo.selectedIndex;
+  var selDistrict = combo.options[idx].innerHTML;
+  if (idx == 0) selDistrict = "";
+  //alert(selDistrict);
+  
+  vrstva.disable();
+  vrstva.removeAll();
+  addFilteredMarkers(selDistrict);
+  vrstva.enable();
+  vrstva.redraw();
+  centerMap();
+}
 </script>
-- - -
-
-{% for item in projekty %}
- * [{{ item.title }}]({{ item.url | relative_url }}){% if item.autor %} - {{ item.autor }}{% endif %}{% if item.mestska-cast %} ({{ item.mestska-cast }}){% endif %}
-{% endfor %}
-
 - - -
