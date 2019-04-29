@@ -11,7 +11,7 @@ pocetPodlazi: 13
 pocetBytu: 110
 pocetParking:
 uzemniPlanKod: OV
-fazeSchvaleni: 8
+fazeSchvaleni: 9
 rokDokonceni:
 gps:
   lat: 50.0068525
@@ -30,6 +30,8 @@ printImg2: pudorys.jpg
 Projekt monitoruje [Sebeobrana sídliště Kamýk](http://www.sidliste-kamyk.cz/).
 
 - - -
+
+**2.4.2019** Rada MČ uzavřela smouvu s developerem, kde souhlasí se stavbou i přeložkou teplovodu za podmínky rozšíření parkoviště o 36 míst, postavení silnice propojující Zimovu s ulicí Generála Šišky, příspěvku škole Smolkova a rekonstrukce chodníku v zadní části domu Zimova souhlasí s prodejem pozemků developerovi [R-022-001-19](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=68645) - předkladatel Eva Tylová (Piráti), starosta Jan Adamec (Piráti)
 
 **18.12.2018** Stavební úřad zahajuje územní řízení právě tak, že 15-denní lhůta platná pro některé dotčené subjekty poběží přes vánoční svátky a skončí těsně po Novém roce.
 

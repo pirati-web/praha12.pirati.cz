@@ -10,7 +10,7 @@ jineFunkce:
 pocetBytu:
 pocetParking:
 uzemniPlanKod: SV-F
-fazeSchvaleni: 5
+fazeSchvaleni: 6
 rokDokonceni:
 gps:
   lat: 49.9994222

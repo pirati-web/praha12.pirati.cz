@@ -11,7 +11,7 @@ pocetPodlazi: 18, 14
 pocetBytu: 171
 pocetParking:
 uzemniPlanKod: OV
-fazeSchvaleni: 8
+fazeSchvaleni: 9
 rokDokonceni:
 gps:
   lat: 50.0149972
@@ -26,6 +26,9 @@ folder: /assets/img/vystavba/ka-vostatkova/
 printImg1: viz1814camp.jpg
 printImg2: puvodni_stav.jpg
 ---
+
+**10.4.2019** Rada MČ podává odvolání k územnímu rozhodnutí stavebního úřadu ze dne 25.2. 2019 
+[R-024-003-19](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=68733) - předkladatel Eva Tylová (Piráti), starosta Jan Adamec (Piráti)
 
 **11.12.2018** Rada revokuje souhlas s prodejem přilehlých pozemků ([R-005-001-18](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=66236)).
 

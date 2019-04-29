@@ -11,7 +11,7 @@ pocetPodlazi: 13
 pocetBytu: 97
 pocetParking: 106
 uzemniPlanKod: SV
-fazeSchvaleni: 8
+fazeSchvaleni: 9
 rokDokonceni:
 gps:
   lat: 50.0098589
@@ -34,6 +34,9 @@ printImg2: puvodni_stav.jpg
 Boji proti tomuto projektu se věnuje iniciativa občanů [Sebeobrana sídliště Kamýk](http://www.sidliste-kamyk.cz/).
 
 - - -
+
+**14.3.2019** Rada MČ podává odvolání k územnímu rozhodnutí stavebního úřadu ze dne 25.2. 2019 
+[R-017-007-19](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=67913) - předkladatel Eva Tylová (Piráti), starosta Jan Adamec (Piráti)
 
 **3.10.2018** Stavební úřad zahajuje územní řízení několik dní před komunálními volbami, tedy v situaci, kdy se stávající zastupitelstvo k projektu už nestihne vyjádřit a nové zastupitelstvo se po volbách ještě nestihne ustavit, takže se městská část nemůže řízení účastnit (kvůli tehdy platné pravomoci zastupitelstva vyjadřovat se k developerským projektům).
 

@@ -10,7 +10,7 @@ jineFunkce:
 pocetBytu:
 pocetParking:
 uzemniPlanKod: NL
-fazeSchvaleni: 1
+fazeSchvaleni: 3
 rokDokonceni:
 gps:
   lat: 49.9867242
