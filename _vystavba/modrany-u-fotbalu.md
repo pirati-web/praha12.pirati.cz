@@ -11,7 +11,7 @@ pocetPodlazi: 9
 pocetBytu: 171 + 16 služebních
 pocetParking:
 uzemniPlanKod: OV-D
-fazeSchvaleni: 5
+fazeSchvaleni: 6
 rokDokonceni:
 gps:
   lat: 49.9979292
