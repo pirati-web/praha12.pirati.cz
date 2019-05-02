@@ -17,7 +17,7 @@ Předběžný rozpis dalších setkání zde:
 
 - 13.3. Hostinec Na Kamýku, Krhanická 994/21a, Kamýk
 - 10.4. Jaro (bývalá Archa), Sofijské náměstí 2, Modřany
-- 15.5. Pizzerie Mont Fort, Pertoldova 3345/8, Modřany
+- 15.5. Jaro (bývalá Archa), Sofijské náměstí 2, Modřany, hostem eurokandidát Lukáš Blažej
 - 12.6. U Bukačů, Na Homoli 2010/1, Komořany
 
 Změna vyhrazena, sledujte náš [Facebook](https://www.facebook.com/PiratiP12/).
