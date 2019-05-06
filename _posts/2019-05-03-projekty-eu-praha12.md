@@ -40,4 +40,11 @@ Celková suma: 231,7 mil. Kč
 
 (zdroj: stránky ÚMČ Praha 12, [praha12.cz](https://www.praha12.cz/projekty%2Dspolufinancovane%2Deu/d-4356/p1=65466), v závorce rok dokončení)
 
+### Projekty získané příspěvkovými organizacemi
+
+* [Jazyková laboratoř - ZŠ Písnická](https://www.zspisnicka.cz/news/242/16/Projekt-Jazykova-laborator/) (2018): 2,4 mil. Kč
+* [PRO VIZE - ZŠ a MŠ Angel](https://www.zsangel.cz/zakladni-skola/projekty/projekt-pro-vize-3507) (2018): 2,8 mil. Kč
+* [Na Beránku do 21. století](http://naberanku.cz/na-beranku-do-21-stoleti) (2019): 2,2 mil. Kč
+* [Zajištění provozu Dětské skupiny II. v Praze 12](http://www.socsluzbymc12.info/oddeleni-pece-o-deti-mladsi-nez-predskolniho-veku/) (2020): 2,5 mil. Kč
+
 V neposlední řadě připomínáme, že volby do Evropského parlamentu se konají již **24. a 25. května 2019. Přijďte volit!**
