@@ -9,7 +9,7 @@ tags:
   - místní sdružení
 ---
 
-Den osvobození jsme si jako Piráti z Prahy 12 připomněli komorním pietním aktem u pamětního kamene Stezky svobody na kraji Komořan. Sešli jsme se v hojném počtu, předseda místního sdružení Matěj Mlčoch proslovil projev a uctili jsme padlé minutou ticha.
+Den osvobození jsme si jako Piráti z Prahy 12 připomněli komorním pietním aktem u pamětního kamene Stezky svobody na kraji Komořan. Sešli jsme se v hojném počtu, a to jak členové, tak naši příznivci a rodiny. Předseda místního sdružení Matěj Mlčoch proslovil projev a uctili jsme padlé minutou ticha.
 
  V okolních lesích na konci války padli hrdinové, naši předci a předci našich sousedů, při obraně domova. Bylo to naposledy, kdy spolu evropské národy bojovaly v otevřeném konfliktu.
 
