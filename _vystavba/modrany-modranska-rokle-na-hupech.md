@@ -38,7 +38,7 @@ Jan Bursík žádá změnu územního plánu z SO3 na VV, aby mohl postavit úda
 
 - - -
 
-**23.5.2019** Zastupitelstvo hl.m. Prahy zamítlo podnět [P34/2018]( https://app.iprpraha.cz/napp/zmeny/?cislotxt=P34/2018+ZMPLA&isupdid=109700&featureexist=1&action=view&presenter=Articlezmenyupravy) na změnu územního plánu, i díky naší petici, která nakonec měla více než 3500 podpisů ([hlasování, Z-7194]( http://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vysledky_hlasovani/index.html?periodId=33394&resolutionNumber=&meeting=7&printNumber=&s=1&votingId=49992&start=&size=)).
+**23.5.2019** Zastupitelstvo hl.m. Prahy zamítlo podnět [P34/2018]( https://app.iprpraha.cz/napp/zmeny/?cislotxt=P34/2018+ZMPLA&isupdid=109700&featureexist=1&action=view&presenter=Articlezmenyupravy) na změnu územního plánu, i díky naší petici, která nakonec měla více než 3500 podpisů ([hlasování, Z-7092]( http://zastupitelstvo.praha.eu/ina/tedhlasdetail.aspx?par=191229032040035252242229050040035252247239229047040035252240229044040035252247240&id=33316)).
 
 **19.6.2018** Zastupitelstvo MČ Praha 12 schválilo nesouhlas se změnou územního plánu, i díky naší petici, která v tu chvíli měla již více než 1600 podpisů ([hlasování, str 42]( https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=63567)).
 
