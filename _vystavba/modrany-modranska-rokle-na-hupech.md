@@ -10,7 +10,7 @@ jineFunkce:
 pocetBytu:
 pocetParking:
 uzemniPlanKod: SO3
-fazeSchvaleni: 1
+fazeSchvaleni: 0
 rokDokonceni:
 gps:
   lat: 50.0035769
