@@ -10,7 +10,7 @@ jineFunkce:
 pocetBytu:
 pocetParking:
 uzemniPlanKod: SO3
-fazeSchvaleni: 0
+fazeSchvaleni: 1
 rokDokonceni:
 gps:
   lat: 50.0035769
@@ -37,6 +37,9 @@ Jan Bursík žádá změnu územního plánu z SO3 na VV, aby mohl postavit úda
 ![viz2.jpg]({{'viz2.jpg' | prepend: page.folder | relative_url }} )
 
 - - -
+
+**19.6.2018** Majitel podal nový podnět na změnu územního plánu, tentokrát jen na část území. Rada MČ Praha 12 opět jednohlasně schválila nesouhlas se změnou územního plánu [R-035-012-19](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=70900) - předkladatel Eva Tylová (Piráti), starosta Jan Adamec (Piráti)
+
 
 **23.5.2019** Zastupitelstvo hl.m. Prahy zamítlo podnět [P34/2018]( https://app.iprpraha.cz/napp/zmeny/?cislotxt=P34/2018+ZMPLA&isupdid=109700&featureexist=1&action=view&presenter=Articlezmenyupravy) na změnu územního plánu, i díky naší petici, která nakonec měla více než 3500 podpisů ([hlasování, Z-7092]( http://zastupitelstvo.praha.eu/ina/tedhlasdetail.aspx?par=191229032040035252242229050040035252247239229047040035252240229044040035252247240&id=33316)).
 
