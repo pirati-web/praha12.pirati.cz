@@ -11,8 +11,8 @@ pocetPodlazi: 6
 pocetBytu: 50
 pocetParking:
 uzemniPlanKod: SV
-fazeSchvaleni: 8
-rokDokonceni:
+fazeSchvaleni: 13
+rokDokonceni: 2021
 gps:
   lat: 50.0022806
   long: 14.4171214
@@ -30,8 +30,11 @@ printImg2: puvodni_stav.jpg
 Projekt monitoruje [Spolek Tichá čtvrť](http://www.tichactvrt.cz/).
 
 - - -
+**13.11.2017** Rada MČ uzavřela smouvu s developerem, kde souhlasí se stavbou a získává příspěvek na infrastukturu ve výši 3&nbsp;640&nbsp;000 Kč  [R-146-033-17](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=58616) - předkladatel František Adámek (ČSSD), starosta Milan Maruštík (ANO)
 
-Bytový dům o šesti nadzemních podlažích s 50 byty 1+kk až 4+kk. Developer má v úmyslu žádat o vyjímku a dát bydlení větší podíl než 60 %.
+- - -
+
+Bytový dům o šesti nadzemních podlažích s 50 byty 1+kk až 4+kk. Developer získal od stavebního úřadu vyjímku na podíl plochy nebytových prostor a v domě bude pouze jedna nebytová jednotka.
 
 ![554.jpg]({{'554.jpg' | prepend: page.folder | relative_url }})
 (zdroj: crescon.cz)
