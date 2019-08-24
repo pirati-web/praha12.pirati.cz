@@ -36,7 +36,8 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem "json" # For gem building
-gem 'sassc-rails', '~> 2.0.0'   # sass changed build binary
+#tak tohle bych nedoporucoval a.r.
+#gem 'sassc-rails', '~> 2.0.0'   # sass changed build binary
 gem 'sprockets', '4.0.0.beta8'
 gem 'uglifier', '~> 4.0.0'
 gem "mini_magick"
