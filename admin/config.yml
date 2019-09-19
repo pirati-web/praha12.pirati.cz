@@ -1,0 +1,55 @@
+backend:
+  name: github
+  repo: pirati-web/praha12.pirati.cz   # Path to your Github repository
+  branch: master              # Branch to update
+  base_url: https://piraweboauth.herokuapp.com
+
+media_folder: "assets/img/articles"
+
+collections: # A list of collections the CMS should be able to edit
+  - name: "posts-2019" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Články 2019" # Used in the UI, ie.: "New Post"
+    folder: "_posts/2019"
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    create: true # AlBucilow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
+      - {label: "Category", name: "category", widget: "hidden", default: "CLANKY"}
+      - {label: "Titulek", name: "title", widget: "string", tagname: "h1", required: true}
+      - {label: "Publikovano", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mma", required: true}
+      - {label: "Autor", name: "author", widget: "string", required: true}
+      - {label: "Obrázek", name: "image", widget: "image", required: false}
+      - {label: "Obsah", name: "body", widget: "markdown", required: true}
+      - {label: "Tagy", name: "tags", widget: "text", required: true}
+    card: {type: "image", image: "image", text: "title", required: true}
+  - name: "posts-2018" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Články 2018" # Used in the UI, ie.: "New Post"
+    folder: "_posts/2018"
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    create: true # AlBucilow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
+      - {label: "Category", name: "category", widget: "hidden", default: "CLANKY"}
+      - {label: "Titulek", name: "title", widget: "string", tagname: "h1", required: true}
+      - {label: "Publikovano", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mma", required: true}
+      - {label: "Autor", name: "author", widget: "string", required: true}
+      - {label: "Obrázek", name: "image", widget: "image", required: false}
+      - {label: "Obsah", name: "body", widget: "markdown", required: true}
+      - {label: "Tagy", name: "tags", widget: "text", required: true}
+    card: {type: "image", image: "image", text: "title", required: true}
+  - name: "people" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Lidé" # Used in the UI, ie.: "New Post"
+    folder: "_people"
+    slug: "{{slug}}"
+    create: false # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: "Kategorie", name: "category", widget: "hidden", default: ""}
+      - {label: "Jméno", name: "name", widget: "string", tagname: "h1", required: true}
+      - {label: "Popis", name: "description", widget: "string", required: true}      
+      - {label: "Mob", name: "mob", widget: "string", required: true}
+      - {label: "E-mail", name: "mail", widget: "text", required: true}
+      - {label: "Obrázek", name: "img", widget: "image", required: false, tagname: ""}
+      - {label: "Obsah", name: "body", widget: "markdown", required: true}
+      - {label: "Profil", name: "profiles", widget: "markdown", required: true}
+      - {label: "Řazení", name: "ordpms  ", widget: "number", required: true}          
+    card: {type: "image", image: "image", text: "title", required: true}
