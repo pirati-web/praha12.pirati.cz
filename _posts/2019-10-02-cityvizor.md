@@ -16,6 +16,6 @@ Starosta Jan Adamec uvádí:
 > „Rozklikávací rozpočet všem poskytuje velmi přehledný pohled na vývoj rozpočtů v průběhu let a ukazuje i průběžné čerpání peněz na jednotlivé projekty v průběhu roku včetně odkazů na proplacené faktury. Konkrétní detaily jsou hlavně u položek, na které byly čerpány externí dotace. Ještě pracujeme na vylepšeních a možnosti dočištění dat, aby tak vznikl mocný nástroj nejen pro veřejnou kontrolu, ale i pro vedení městské části a ostatní zastupitele.“
 
 Pirátský zastupitel Václav Šístek dodává:
-„Věříme, že pokud bude hospodaření s veřejnými penězi otevřené a veřejnosti srozumitelně prezentované, pomůže to ohlídat jejich řádnou správu. Naplňujeme tak další bod z pirátského programu.“
+> „Věříme, že pokud bude hospodaření s veřejnými penězi otevřené a veřejnosti srozumitelně prezentované, pomůže to ohlídat jejich řádnou správu. Naplňujeme tak další bod z pirátského programu.“
 
 Aplikaci CityVizor vytvořili vývojáři na Ministerstvu financí a vydali ji pod tzv. [svobodnou licencí](https://github.com/cityvizor/cityvizor/blob/master/LICENSE), každý tak může zkoumat její [zdrojový kód](https://github.com/cityvizor/cityvizor) a navrhovat vylepšení. Aplikaci provozuje spolek [Otevřená města](https://www.otevrenamesta.cz/), jehož členem se Praha 12 stala letos v červenci.
