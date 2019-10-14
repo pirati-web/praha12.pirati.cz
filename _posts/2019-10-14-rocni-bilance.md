@@ -18,4 +18,4 @@ V rámci transparence jsme zavedli jmenné hlasování Rady či prohlasovali nov
 
 Samozřejmostí je náš tlak na vypracovávání územních studií u klíčových rozvojových lokalit. Při jednání s developery se snažíme docílit nejrozumnějšího využití daných záměrů s ohledem na specifika dotčených lokalit (omezení předimenzované výstavby, víceúčelové využití staveb apod.). Uspěli jsme mj. s odvoláním proti nevhodnému projektu „Dvou věží“ na Kamýku.  Dále pracujeme na co možná nejvhodnějším (a pro městskou část nejvýhodnějším) využitím bývalého Prioru. Zároveň se nyní pouštíme do rekonstrukce Sofijského náměstí. Připravujeme se též na vybudování nové sportovní haly pod Policejní akademií.	 
 
-Jak již bylo úvodem nastíněno, některé body našeho volebního programu se nám daří realizovat rychleji, některé jsou bohužel během na delší trať. Každopádně se snažíme činit všechno proto, abychom dostáli závazku vůči naším voličům.
+Jak již bylo úvodem nastíněno, některé body našeho volebního programu se nám daří realizovat rychleji, některé jsou bohužel během na delší trať. Každopádně se snažíme činit všechno proto, abychom dostáli závazku vůči našim voličům.
