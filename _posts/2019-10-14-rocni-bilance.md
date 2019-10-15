@@ -12,7 +12,7 @@ tags:
 
 Nyní je to rok od voleb, kdy nám voliči vyslovili důvěru, za kterou jim děkujeme. Sluší se tedy zmínit, co se nám během našeho působení podařilo prosadit. Změn je celá řada, některé jsou drobnější, které občan nemusí na první pohled zaznamenat či se ho dotýkají nepřímo. Jiné pro změnu výraznější, a proto se zde omezím na pár nejvýraznějších změn.
 
-Iniciovali zavedení videopřenosů ze zastupitelstva. Dále jsme navázali spolupráci se spolkem samospráv „Otevřená města“ čímž se nám podařilo zveřejnit ekonomiku úřadu za poslední roky přehledně a na jednom místě v aplikaci CityVizor ([cityvizor.cz](https://www.cityvizor.cz)). Zároveň pracujeme na zapojení do magistrátního CityVizora ([cityvizor.praha.eu](https://cityvizor.praha.eu)).
+Iniciovali jsme zavedení videopřenosů ze zastupitelstva. Dále jsme navázali spolupráci se spolkem samospráv „Otevřená města“ čímž se nám podařilo zveřejnit ekonomiku úřadu za poslední roky přehledně a na jednom místě v aplikaci CityVizor ([cityvizor.cz](https://www.cityvizor.cz)). Zároveň pracujeme na zapojení do magistrátního CityVizora ([cityvizor.praha.eu](https://cityvizor.praha.eu)).
 
 V rámci transparence jsme zavedli jmenné hlasování Rady či prohlasovali novou podobu směrnice na zadávání zakázek malého rozsahu. V rámci boje se suchem a vedrem jsme upravili seče, iniciovali výsadbu nových stromů, vysadili květinovou louku a mnohem efektivněji začali využívat dešťovou vodu. 
 
