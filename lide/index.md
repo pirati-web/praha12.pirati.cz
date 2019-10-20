@@ -1,7 +1,7 @@
 ---
 layout: members
 title: Naši lidé
-description: Seznam předsednictva, členů a příznivců Pirátské strany na Praze 11.
+description: Seznam předsednictva, členů a příznivců Pirátské strany na Praze 12.
 keywords: členové, členky, tým, příznivci
 viewMode: grouped # or alltogether
 redirect_from:
@@ -16,3 +16,5 @@ groups:
   - name: Aktivní příznivci a příznivkyně
     category: priznivci
 ---
+
+[Odměny zastupitelů](platy.html)
