@@ -16,7 +16,7 @@ Výše odměn zastupitelů vychází z [Nařízení vlády č. 318/2017 Sb.](htt
 | Matěj Mlčoch | 5 073 | neuvolněný zastupitel, předseda komise |
 | Veronika Oušková | 20 000 | odborná asistentka pirátských členů rady<sup>2</sup>, DPP/DPČ |
 | Jiří G. Růžička | 5 073 | neuvolněný zastupitel, předseda komise |
-| Jana Soukupová | 4 000 až 7 000 | odborná asistentka Evy Tylové<sup>3</sup>, DPP/DP |
+| Jana Soukupová | 4 000 až 7 000 | odborná asistentka Evy Tylové<sup>3</sup>, DPP/DPČ |
 | Václav Šístek | 5 073 | neuvolněný zastupitel, předseda komise |
 | Ivan Štěpka | 5 073 | neuvolněný zastupitel, předseda komise |
 | Eva Tylová | 74 406 | uvolněná místostarostka |
