@@ -30,13 +30,17 @@ printImg1: norma-cens.jpg
 printImg2: puvodni_stav.jpg
 ---
 
-Firma Fisolta předložila Komisi pro územní rozvoj vizualizaci návrhu zástavby kolem ulice Těšíkova. Jedna z věží by měla být v místě současné prodejny Norma, další místo kotelny. Vzhledem k tomu, že jednání komise jsou v současné době neveřejná, nezískali jsme oprávnění zde vizualizaci přidat. Proto jsme alespoň udělali přibližný zákres do 3D pohledu.
+**jaro 2018** Firma Fisolta předložila Komisi pro územní rozvoj vizualizaci návrhu zástavby kolem ulice Těšíkova. Jedna z věží by měla být v místě současné prodejny Norma, další místo kotelny. Vzhledem k tomu, že jednání komise jsou v současné době neveřejná, nezískali jsme oprávnění zde vizualizaci přidat. Proto jsme alespoň udělali přibližný zákres do 3D pohledu.
 
 ![norma-cens.jpg]({{'norma-cens.jpg' | prepend: page.folder | relative_url }})
 (zdroj: mapy.cz a vizualizace Fisolty)
 
-![puvodni_stav.jpg]({{'puvodni_stav.jpg' | prepend: page.folder | relative_url }} )
+**29.6.2015** Rada podmíněně souhlasí s výstavbou 12-patrového domu na kotelně [R-026-011-15](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=41909) - předkladatel Michal Pinc (ANO), starostka Daniela Rázková (Změna pro Prahu 12)
+
+![kotelna2015.jpg]({{'kotelna2015.jpg' | prepend: page.folder | relative_url }} )
+(vizualizace z roku 2015)
 
 - - -
 
-Další informace o projektu brzy doplníme.
+![puvodni_stav.jpg]({{'puvodni_stav.jpg' | prepend: page.folder | relative_url }} )
+(současný stav)
