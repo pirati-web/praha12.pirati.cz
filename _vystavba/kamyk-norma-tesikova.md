@@ -40,6 +40,10 @@ printImg2: puvodni_stav.jpg
 ![kotelna2015.jpg]({{'kotelna2015.jpg' | prepend: page.folder | relative_url }} )
 (vizualizace z roku 2015)
 
+**16.4.2013** Rada nesouhlasí s výstavbou na kotelně z důvodu nepřijatelné
+výšky a objemu stavby [R-111-001-13](https://www.praha12.cz/VismoOnline_ActionScripts/File.ashx?id_org=80112&id_dokumenty=28249) - předkladatel Eva Tylová (Změna pro Prahu 12), starosta Petr Prchal (TOP 09)
+
+
 - - -
 
 ![puvodni_stav.jpg]({{'puvodni_stav.jpg' | prepend: page.folder | relative_url }} )
