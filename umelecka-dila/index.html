@@ -51,12 +51,6 @@ mapa.addDefaultLayer(SMap.DEF_BASE).enable();
 
 mapa.addDefaultControls();
 
-var controls = mapa.getControls();  /* Odstranit kolecko mysi */
-for (var i=0;i<controls.length;i++) {
-  if (controls[i] instanceof SMap.Control.Mouse)
-    controls[i].configure(SMap.MOUSE_PAN | SMap.MOUSE_ZOOM);
-}
-
 var vrstva = new SMap.Layer.Marker();     /* Vrstva se značkami */
 var souradnice = [];
 // data pro markery
