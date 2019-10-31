@@ -1,37 +1,47 @@
 ---
-layout: page
+layout: fullscreen-map
 title: Umělecká díla v Praze
 img: vystavba/mapa-vystavby.png
 mapycz_api: normal   # "normal" nebo "mini-api" nebo smazat uplne
-rbar: textbox
-textbox:
-  title: O projektu
-  text: >
-    Tady je nějaký text o tom, proč se to dělá. A tak nějak.
-    <br/><br/>
-    Zde je další odstavec toho textu.
 ---
 
-Provádíme inventarizaci a pasportizaci uměleckých děl v Praze. Postupně je budeme doplňovat.
+<style>
+  #seznam {
+    width: 100%;
+    padding-top: 60px;
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+  #mcfilter {
+    position: absolute;
+    left: 10px;
+    top: 70px;
+    width: 200px;
+    z-index: 200;
+  }
+  #btnSeznam
+  {
+    position: absolute;
+    left: 220px;
+    top: 70px;
+    background: white;
+    border: black 1px solid;
+    padding: 10px;
+    z-index: 200;
+  }
+</style>
 
 {% assign projekty = site.umelecka-dila %}
 
-{% comment %}
-K udelani velkeho screenshotu mapy je treba:
-- layout: default
-- vyhodit radek s rbar
-- zvysit style="height:650px;"
-- zakomentovat mapa.addDefaultControls()
-- zvetsit zoom cz[1] = 14;
-{% endcomment %}
-
 {% assign arrDistricts = projekty | map: 'mestska-cast' | uniq %}
-<select name="thelist" onChange="districtChange(this)"><option selected>Všechny městské části</option>{% for item in arrDistricts %}<option>{{ item }}</option>{% endfor %}</select>
-
-<div id="mapa" style="height:350px;"></div>
-
-<br/>
-<ul id="listItems"></ul>
+<div id="mapa"></div>
+<div id="seznam" style="display: none; column-count: 3; column-fill: auto;" class="c-content-block"><ul id="listItems"></ul></div>
+<select id="mcfilter" name="mcfilter" onChange="districtChange(this)">
+  <option selected>Všechny městské části</option>
+    {% for item in arrDistricts %}
+  <option>{{ item }}</option>{% endfor %}
+</select>
+<button id="btnSeznam">Seznam</button>
 
 <script type="text/javascript">
 // source https://api.mapy.cz/view?page=markers-signals
@@ -81,8 +91,8 @@ function addFilteredMarkers(filter)
       souradnice.push(c);
       vrstva.addMarker(znacka);
       znacka.getContainer()[SMap.LAYER_MARKER].style.cursor = "pointer";
-      
-      if (filter !=="")
+
+      //if (filter !=="")
       {
         var node = document.createElement("li");
         var link = document.createElement("a");
@@ -128,7 +138,7 @@ function districtChange(combo)
   var selDistrict = combo.options[idx].innerHTML;
   if (idx == 0) selDistrict = "";
   //alert(selDistrict);
-  
+
   vrstva.disable();
   vrstva.removeAll();
   addFilteredMarkers(selDistrict);
@@ -136,5 +146,24 @@ function districtChange(combo)
   vrstva.redraw();
   centerMap();
 }
+
+var bMapaVisible = true;
+var divMapa = document.getElementById("mapa");
+var divSeznam = document.getElementById("seznam");
+var btnSeznam = document.getElementById("btnSeznam");
+btnSeznam.onclick = function() {
+  if (bMapaVisible)
+  {
+    divSeznam.style.display = "block";
+    divMapa.style.display = "none";
+    btnSeznam.innerText = "Mapa";
+  }
+  else
+  {
+    divSeznam.style.display = "none";
+    divMapa.style.display = "block";
+    btnSeznam.innerText = "Seznam";
+  }
+  bMapaVisible = !bMapaVisible;
+}
 </script>
-- - -

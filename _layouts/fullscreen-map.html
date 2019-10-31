@@ -1,0 +1,36 @@
+---
+---
+
+<!DOCTYPE html>
+<html lang="cs" dir="ltr" itemtype="http://schema.org/WebPage" itemscope="">
+{% include head.html %}
+<style>
+  html, body {
+    height: 100%;
+  }
+  #mapa {
+    width: 100%;
+    height: calc(100% - 56px);
+  }
+</style>
+<body>
+<aside class="o-section o-section--smaller c-header-bar">
+  <div class="row">
+    <div class="o-section-inner" style="padding: 3px;">
+      <div class="medium-12 columns">
+        {% if site.organization.name %}
+        <a href="{{ '/' | absolute_url }}" style="float: left;">
+          <span class="c-header-bar__title">{{ site.organization.name }}</span>
+        </a>
+        {% endif %}
+        {% if page.title %}
+        <span class="c-header-bar__title" style="display: block; text-align: center; text-transform: uppercase;">{{ page.title }}</span>
+        {% endif %}
+      </div>
+    </div>
+  </div>
+</aside>
+{{ content }}
+{% include js/main.html %}
+</body>
+</html>
