@@ -9,7 +9,7 @@ tags:
   - místní sdružení
 ---
 
-Den výročí 30 let od sametové revoluce uctili Piráti Prahy 12 společně s příznivci výsadbou lípy poblíž ulici Vosátkova. Dnes je to právě 30 let od sametové revoluce, kdy jsme udělali definitivní tečku za komunistickou diktaturou a začali po dlouhých více jak 40 letech opět pociťovat krásu svobody.
+Den výročí 30 let od sametové revoluce uctili Piráti Prahy 12 společně s příznivci výsadbou lípy poblíž ulice Vosátkova. Dnes je to právě 30 let od sametové revoluce, kdy jsme udělali definitivní tečku za komunistickou diktaturou a začali po dlouhých více jak 40 letech opět pociťovat krásu svobody.
 
 Svoboda a demokracie není samozřejmost a nemálo lidí za boj o ní položilo své životy. Proto si nesmírně vážíme doby ve které žijeme. Doby, která známená svobodně myslet, svobodně se vyjadřovat a rozhodovat či se svobodně zapojovat do občanského života. 
 
