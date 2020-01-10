@@ -1,6 +1,6 @@
 ---
 category: blog
-title: Pirátská výměna na Praze 12: Radní Lukáš Findeis předá funkci Jiřímu Brůžkovi
+title: "Pirátská výměna na Praze 12: Radní Lukáš Findeis předá funkci Jiřímu Brůžkovi"
 date: 2020-01-10
 author: Václav Šístek
 authorId: vaclav.sistek
