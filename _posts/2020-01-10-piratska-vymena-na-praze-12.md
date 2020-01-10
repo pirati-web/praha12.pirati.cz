@@ -7,6 +7,9 @@ authorId: vaclav.sistek
 image: posts/2020-01-10-piratska-vymena-na-praze-12.jpg
 tags:
   - rada
+  - sociální věci
+  - zdravotnictví
+  - sport
 ---
 
 **Lukáš Findeis na lednovém zasedání zastupitelstva Prahy 12 rezignuje na funkci radního pro sociální věci, zdravotnictví a sport. Zastupitelé na zasedání zvolí novým radním Jiřího Brůžka.**
