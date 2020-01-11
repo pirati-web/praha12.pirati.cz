@@ -1,7 +1,7 @@
 ---
 title: Zlochova, bytové domy
 katastr: Modřany
-developer: Linkin Invest II
+developer: Linkin Invest
 nazev: Rezidence Nové Modřany
 web:
 plocha:
@@ -11,7 +11,7 @@ pocetPodlazi: 9
 pocetBytu: 171 + 16 služebních
 pocetParking:
 uzemniPlanKod: OV-D
-fazeSchvaleni: 8
+fazeSchvaleni: 15
 rokDokonceni:
 gps:
   lat: 49.9979292
@@ -26,6 +26,8 @@ folder: /assets/img/vystavba/mo-ufotbalu/
 printImg1: viz2.jpg
 printImg2: viz1.jpg
 ---
+
+**12.11.2019** Zisk společného územního a stavebního povolení č.j. P12 39343/2019 (zatím nepravomocného, někteří účastníci se odvolali)
 
 **20.6.2017** Prezentace projektu v Modřanském biografu
 

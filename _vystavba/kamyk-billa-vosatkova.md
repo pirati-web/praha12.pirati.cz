@@ -11,7 +11,7 @@ pocetPodlazi: 18, 14
 pocetBytu: 171
 pocetParking:
 uzemniPlanKod: OV
-fazeSchvaleni: 9
+fazeSchvaleni: 5
 rokDokonceni:
 gps:
   lat: 50.0149972
@@ -26,6 +26,8 @@ folder: /assets/img/vystavba/ka-vostatkova/
 printImg1: viz1814camp.jpg
 printImg2: puvodni_stav.jpg
 ---
+
+**3.1.2020** Ministryně místního rozvoje potvrdila zrušení závazného stanoviska, který potvrzoval soulad s územním plánem. Projekt je tak nyní definitivně zastaven.
 
 **7.8.2019** Ministerstvo místního rozvoje zrušilo souhlasné závazné stanovisko odboru územního plánování k souladu s územním plánem. Potvrdilo námitku rady MČ, že stavba není v souladu s ÚP, protože ve stabilizovaném území převyšuje významně okolní zástavbu a dále, že se jedná o významnou stavební činnost tedy to, co je ve stabilizovaném území nepřípustné. Na žádost developera je územní řízení na rok přerušeno. 
 Více viz [celý text závazného stanoviska ](http://www.individualniplanovani.cz/wp-content/uploads/2017/09/29684_2019_81_2_ZS_Bytový_dům_Kamýk_signed.pdf) nadřízeného orgánu územního plánování.
