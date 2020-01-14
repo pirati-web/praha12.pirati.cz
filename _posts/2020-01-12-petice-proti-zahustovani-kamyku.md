@@ -19,7 +19,7 @@ Občané ze sídliště Kamýk se obrátili na široké spektrum politiků s pet
 
 Petice se svým výběrem adresátů snaží vytvořit široký diskusní prostor o předmětném území napříč všemi orgány veřejné moci, které ovlivňují územní plánování. Z exekutivy oslovuje od ministryně pro místní rozvoj, přes radu pražskou až po radu naší MČ. Díky oslovení zastupitelstev HMP a MČ zahrnuje i celou škálu pražských opozičních politiků.
 
-Na následujícím jednání 14. ledna naše zastupitelstvo bude tuto petici projednávat. [Navržené usnesení a kompletní text petice](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=74141) je veřejně k dispozici na [webu úřadu](https://www.praha12.cz/materialy-pro-11-zasedani-zmc/d-74142/p1=63180).
+Na následujícím jednání 14. ledna naše zastupitelstvo bude tuto petici projednávat. [Navržené usnesení a kompletní text petice](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=74141) je veřejně k dispozici na [webu úřadu](https://www.praha12.cz/pozvanka-na-11-zasedani-zastupitelstva-mc-praha-12/d-74120/p1=63886).
 
 S požadavky občanů z Kamýku se ztotožňujeme a dokazujeme to praktickými činy. Jeden z požadavků je dokonce již naplněn. Vzpomeňme nedávný úspěch, kdy se až u ministryně povedlo prosadit [zastavení projektu dvou věží ve Vosátkově ulici](https://www.praha12.cz/rozhodnuto-dve-veze-na-kamyku-nebudou/d-74072) v navržené podobě, která svou výškou značně rozbíjela urbanistický koncept okolí.
 
