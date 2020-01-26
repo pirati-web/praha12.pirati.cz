@@ -13,7 +13,7 @@ description: >-
 keywords: piráti, česká pirátská strana, svoboda, demokracie, praha 12, modřany, kamýk, komořany, točná, cholupice, místní združení,
 
 administrator:
-  email: jan.adamec@pirati.cz # mail(y), kam pujdou chybove vystupy; vice e-mailu oddelujte carkou
+  email: jan.adamec@pirati.cz,vaclav.sistek@pirati.cz # mail(y), kam pujdou chybove vystupy; vice e-mailu oddelujte carkou
 
 organization:
   name: Piráti Praha 12
