@@ -20,7 +20,7 @@ gps:
 uvodText: Developer chce stávající dvoupodlažní obchodní centrum Jasná revitalizovat a nastavět na něm výškový obytný dům
 
 textbox:
-  text: Vítáme, že investor chce zkvalitnit služby a prostory tohoto obchodního centra na sídlišti. Chápeme, že přestavbu je třeba financovat zvětšením objektu a přidáním funkce bydlení. Vzhledem k již aktuálnímu problematickému parkování v okolí jsme jako kompromis pro objekt s maximálně 4 patry, tedy po vzoru návrhu pro výšku obchodního centra Obzor v územní studii okolí metra Libuš.
+  text: Vítáme, že investor chce zkvalitnit služby a prostory tohoto obchodního centra na sídlišti. Chápeme, že přestavbu je třeba financovat zvětšením objektu a přidáním funkce bydlení. Vzhledem k blízkosti rodinných domů a k již aktuálnímu problematickému parkování v okolí jsme jako kompromis pro objekt s maximálně 4 patry, tedy po vzoru návrhu pro výšku obchodního centra Obzor v územní studii okolí metra Libuš.
 
 folder: /assets/img/vystavba/ka-jasna/
 printImg1: puvodni_stav.jpg
