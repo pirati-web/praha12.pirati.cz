@@ -35,6 +35,8 @@ printImg2: puvodni_stav.jpg
 ![norma-cens.jpg]({{'norma-cens.jpg' | prepend: page.folder | relative_url }})
 (zdroj: mapy.cz a vizualizace Fisolty)
 
+**6.2.2017** Rada souhlasí s prodejem malého obecního pozemku v sousedství Normy firmě Fisolta [R-106-012-17](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=52905) - předkladatel Michal Pinc (ANO), starosta Milan Maruštík (ANO)
+
 **29.6.2015** Rada podmíněně souhlasí s výstavbou 12-patrového domu na kotelně [R-026-011-15](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=41909) - předkladatel Michal Pinc (ANO), starostka Daniela Rázková (Změna pro Prahu 12)
 
 ![kotelna2015.jpg]({{'kotelna2015.jpg' | prepend: page.folder | relative_url }} )
