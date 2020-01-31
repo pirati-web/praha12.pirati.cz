@@ -33,11 +33,11 @@ printImg2: viz3.jpg
 ![viz1.jpg]({{'viz1.jpg' | prepend: page.folder | relative_url }})<br/>
 (první etapa, zdroj: Karlín Group)
 
-**2018** získ stavebních povolení pro [stavbu](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=60963), [podchod pod tratí](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=60020), [komunikace](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=60832), mobilní [protipovodňovou ochranu](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=61289), atd.
+**2018** získ stavebních povolení pro stavbu, podchod pod tratí, komunikace, mobilní protipovodňovou ochranu, atd.
 
 **24.10.2016** Vydání územního rozhodnutí, nalezeno např. [zde](http://bydlenivhodkovickach.cz/wp-content/uploads/2016/11/16_0889.pdf)
 
-**9.12.2015** Developer se zavázal vybudovat mateřskou školku pro 120 dětí a přilehlé dětské hřiště, nový podchod pod železniční tratí, veřejně přístupný park, zrenovuje stávající dešťovou usazovací nádrž. Zavázal se k tomu [v darovací smlouvě](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=44903) (starostka Rázková).
+**9.11.2015** Developer se zavázal vybudovat mateřskou školku pro 120 dětí a přilehlé dětské hřiště, nový podchod pod železniční tratí, veřejně přístupný park, zrenovuje stávající dešťovou usazovací nádrž. Zavázal se k tomu v darovací smlouvě, která je součástí usnesení rady [R-043-011-15](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=44349) (starostka Rázková).
 
 **11.5.2015** Prezentace projektu Riverpark Modřany v Modřanském biografu. U článku s [reportáží radnice](http://www.praha12.cz/prezentace%2Dprojektu%2Driverpark%2Dmodrany/d-39742/p1=2056) je i odkaz na [prezentaci (PDF)](http://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=39746) s množstvím vizualizací.
 
