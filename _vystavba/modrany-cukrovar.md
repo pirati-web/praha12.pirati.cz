@@ -40,6 +40,8 @@ printImg2: viz1-pohled-z-vlaku.jpg
 
 **13.2.2018** Prezentace ve Viničním domku zamýšleného komunitního projektu Cukrkandl
 
+**10.10.2019** Rada MČ vyjádřila své připomínky ke konceptu rozvoje území   ([R-150-002-17](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=59070)) - předkladatel František Adámek (ČSSD), starosta Milan Maruštík (ANO).
+
 **25.4.2017** Prezentace dvou architektonických studií (viz [web](https://reality.skanska.cz/dobry-soused/modransky-cukrovar-participace)) na 2. veřejném plánovacím setkání v Prioru
 
 **14.9.2016** 1. veřejné plánovací setkání v Prioru
@@ -48,5 +50,7 @@ printImg2: viz1-pohled-z-vlaku.jpg
 
 ![Letecký pohled]({{'uzemi_letecke_web.jpg' | prepend: page.folder | relative_url }} )
 (zdroj: reality.skanska.cz)
+
+**4.10.2008** Rada MČ schválila darovací smlouvu mezi Neocity Group CZ a jejich projektem Neoriviéra, který se týkal celého území cukrovaru   ([63.18.08](https://www.praha12.cz/VismoOnline_ActionScripts/File.aspx?id_org=80112&id_dokumenty=9241), [smlouva](https://www.praha12.cz/VismoOnline_ActionScripts/File.aspx?id_org=80112&id_dokumenty=9240)) - předkladatel Martin Štengl (ČSSD), starosta Petr Hána (ODS).
 
 **2005** Provozní budovy cukrovaru byly zbořeny, zůstal jen komín. Cukrovar má i svou stránku na [Wikipedii](https://cs.wikipedia.org/wiki/Cukrovar_Modřany).
