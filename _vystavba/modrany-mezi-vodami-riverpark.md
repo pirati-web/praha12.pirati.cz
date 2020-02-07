@@ -33,7 +33,7 @@ printImg2: viz3.jpg
 ![viz1.jpg]({{'viz1.jpg' | prepend: page.folder | relative_url }})<br/>
 (první etapa, zdroj: Karlín Group)
 
-**2018** získ stavebních povolení pro stavbu, podchod pod tratí, komunikace, mobilní protipovodňovou ochranu, atd.
+**2018** zisk stavebních povolení pro stavbu, podchod pod tratí, komunikace, mobilní protipovodňovou ochranu, atd.
 
 **24.10.2016** Vydání územního rozhodnutí, nalezeno např. [zde](http://bydlenivhodkovickach.cz/wp-content/uploads/2016/11/16_0889.pdf)
 
