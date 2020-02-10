@@ -1,6 +1,6 @@
 ---
 category: blog
-title: "Lukáš Lindeis: Konce a nové začátky"
+title: "Lukáš Findeis: Konce a nové začátky"
 date: 2020-02-05
 author: Lukáš Findeis
 authorId: lukas.findeis
