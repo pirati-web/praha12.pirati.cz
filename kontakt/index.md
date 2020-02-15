@@ -9,7 +9,7 @@ residence: yes #vyplňte pokud chcete přidat adresu nejbližšího pice
   <h1 class="t-h2-alt">Přidejte se</h1>
 </div>
 
-Zajámá vás co Piráti dělají a jak? [Ozvěte se nám](mailto:lukas.findeis@pirati.cz) nebo přijďte k nám na otevřenou schůzi. Pořádáme je obvykle poslední pondělí v měsíci, lokalita je vždy upřesněna, sledujte náš [Facebook](https://www.facebook.com/pg/PiratiP12/events/?ref=page_internal) .
+Zajímá vás, co Piráti dělají a jak? [Ozvěte se nám](mailto:{{site.organization.email}}) nebo přijďte k nám na otevřenou schůzi. Pořádáme je obvykle poslední pondělí v měsíci, lokalita je vždy upřesněna, sledujte náš [Facebook](https://www.facebook.com/pg/PiratiP12/events/?ref=page_internal) .
 
 Budeme rádi za jákekoliv vaše náměty, nebo připomínky.
 

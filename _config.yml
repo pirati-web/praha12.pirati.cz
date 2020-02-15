@@ -11,6 +11,8 @@ description: >-
   Web místního sdružení České pirátské strany v Praze 12.
 # dobré keywords jsou ty co lidé piší do googlu když hledají naši stránku
 keywords: piráti, česká pirátská strana, svoboda, demokracie, praha 12, modřany, kamýk, komořany, točná, cholupice, místní združení,
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://praha12.pirati.cz" # the base hostname & protocol for your site
 
 administrator:
   email: jan.adamec@pirati.cz,vaclav.sistek@pirati.cz # mail(y), kam pujdou chybove vystupy; vice e-mailu oddelujte carkou
@@ -18,7 +20,7 @@ administrator:
 organization:
   name: Piráti Praha 12
   shortName: Praha 12
-  email: lukas.findeis@pirati.cz
+  email: matej.mlcoch@pirati.cz
   phone:
   address: |
     Na Moráni 360/3,
