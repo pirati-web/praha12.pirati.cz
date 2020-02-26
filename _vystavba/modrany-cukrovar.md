@@ -35,12 +35,16 @@ printImg2: viz1-pohled-z-vlaku.jpg
 
 ![viz1-pohled-z-vlaku.jpg]({{'viz1-pohled-z-vlaku.jpg' | prepend: page.folder | relative_url }})
 
+Projekt bude obsahovat náměstí, víceúčelový prostor pod zastřešenou halou, soukromou 3-třídní školku, pozemek pro loděnici Spartaku Modřany. Přízemí domů při ulici Komořanská budou obsahovat komerční prostory.
+
 ![viz1-ulice-nova-komoanska.jpg]({{'viz1-ulice-nova-komoanska.jpg' | prepend: page.folder | relative_url }})<br/>
 (zdroj: reality.skanska.cz)
 
+**16.4.2018** Rada MČ schválila postoupení původní smlouvy z Neocity na Skansku   ([R-165-002-18](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=61897)) - předkladatel František Adámek (ČSSD), starosta Milan Maruštík (ANO).
+
 **13.2.2018** Prezentace ve Viničním domku zamýšleného komunitního projektu Cukrkandl
 
-**10.10.2019** Rada MČ vyjádřila své připomínky ke konceptu rozvoje území   ([R-150-002-17](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=59070)) - předkladatel František Adámek (ČSSD), starosta Milan Maruštík (ANO).
+**10.10.2017** Rada MČ vyjádřila své připomínky ke konceptu rozvoje území   ([R-150-002-17](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=59070)) - předkladatel František Adámek (ČSSD), starosta Milan Maruštík (ANO).
 
 **25.4.2017** Prezentace dvou architektonických studií (viz [web](https://reality.skanska.cz/dobry-soused/modransky-cukrovar-participace)) na 2. veřejném plánovacím setkání v Prioru
 
