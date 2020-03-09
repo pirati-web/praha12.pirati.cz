@@ -30,7 +30,7 @@ printImg2:
 Projekt monitoruje [Občanské sdružení Levského](https://www.sites.google.com/site/oslevskeho/).
 
 - - -
-**23.10.2020** Rada MČ nesouhlasí s odstraněním staré budovy [R-047-021-19](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=72918) - předkladatel Eva Tylová (Piráti), starosta Jan Adamec (Piráti)
+**23.10.2019** Rada MČ nesouhlasí s odstraněním staré budovy [R-047-021-19](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=72918) - předkladatel Eva Tylová (Piráti), starosta Jan Adamec (Piráti)
 
 ![viz1.jpg]({{'viz1.jpg' | prepend: page.folder | relative_url }})
 (zdroj: deco.cz)
