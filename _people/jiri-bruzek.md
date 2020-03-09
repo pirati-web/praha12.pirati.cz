@@ -9,7 +9,7 @@ category:                   # kategorie: pms, clenove, priznivci
 ordpms: 4
 
 img: people/jiri-bruzek.jpg   # 165 x 220
-description: konzultant ERP, zastupitel MČ Praha 12  # kratký popis, max 160 znaků
+description: radní MČ Praha 12 # kratký popis, max 160 znaků
 mob: +420 602 406 504
 mail: jiri.bruzek@seznam.cz
 profiles:
