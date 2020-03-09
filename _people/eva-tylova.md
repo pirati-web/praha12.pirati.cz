@@ -8,7 +8,7 @@ category:                   # kategorie: pms, clenove, priznivci
 - priznivci
 
 img: people/eva-tylova.jpg   # 165 x 220
-description: radní MČ Praha 12  # kratký popis, max 160 znaků
+description: místostarostka MČ Praha 12  # kratký popis, max 160 znaků
 mail:
 profiles:
   facebook: https://www.facebook.com/eva.tylova
