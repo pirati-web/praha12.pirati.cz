@@ -8,7 +8,7 @@ category:                   # kategorie: pms, clenove, priznivci
 - priznivci
 
 img: people/ivan-stepka.jpg   # 165 x 220
-description: inspektor ochrany ovzduší, zastupitel MČ Praha 12, předseda komise pro rozvoj Komořan, Cholupic a Točné, člen kontrolního výboru ZMČ
+description: inspektor ochrany ovzduší, zastupitel MČ Praha 12, předseda komise pro rozvoj Komořan, Cholupic a Točné
 mail: ivan.stepka@volny.cz
 ---
 
