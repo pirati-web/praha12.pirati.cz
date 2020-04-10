@@ -1,0 +1,60 @@
+-
+  id: 1
+  title: Územní rozvoj, bydlení a sociální služby
+  desc:
+  garant: eva.tylova
+  redmine: 115
+-
+  id: 2
+  title: Otevřená radnice
+  desc:
+  garant: jan.adamec
+  redmine: 119
+-
+  id: 3
+  title: Doprava
+  desc:
+  garant: jan.adamec
+  redmine: 121
+-
+  id: 4
+  title: Kultura
+  desc:
+  garant: jiri.ruzicka
+  redmine: 123
+-
+  id: 5
+  title: Moderní město
+  desc:
+  garant: jan.adamec
+  redmine: 125
+-
+  id: 6
+  title: Školství, sport a volný čas
+  desc:
+  garant: jiri.ruzicka
+  redmine: 127
+-
+  id: 7
+  title: Zapojování občanů
+  desc:
+  garant: jan.adamec
+  redmine: 129
+-
+  id: 8
+  title: Životní prostředí
+  desc:
+  garant: eva.tylova
+  redmine: 133
+-
+  id: 9
+  title: Zdravotnictví a bezpečnost
+  desc:
+  garant: jiri.bruzek
+  redmine: 131
+-
+  id: 10
+  title: Podpora podnikání
+  desc:
+  garant: jiri.bruzek
+  redmine: 117

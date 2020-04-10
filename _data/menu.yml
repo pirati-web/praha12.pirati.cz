@@ -32,6 +32,9 @@ main:
       - link: /komunalni-volby/povolebni-strategie.html
         name: Povolební strategie
         match: povolebni-strategie
+      - xlink: /komunalni-volby/prg_index.html
+        xname: Plnění programu
+        xmatch: prg_index
   - link: /vystavba/
     name: Výstavba
     match: vystavba

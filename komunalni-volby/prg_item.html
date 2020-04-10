@@ -1,0 +1,21 @@
+<article class="l-prg__card">
+	<div class="row">
+		<div class="l-prg__content columns medium-10 text-left pull-right">
+			<h2 class="l-prg__card-title">{{item.title}}</h2>
+			<p>{{item.desc}}</p>
+			{% assign garant = site.people | where_exp:"person","person.uid == item.garant" %}
+			{% assign garant = garant.first %}
+			<h5 class="l-prg__garant-name">{{garant.name}} {% if garant.img %}<div class="l-kan__item-img l-prg__garant-img"><img src="/assets/img/{{garant.img}}" alt="{{garant.name}}"/></div>{% endif %}</h5>
+		</div>
+
+		<div class="l-prg__stats columns medium-2">
+			<div class="l-prg__stats-done">
+				<span class="l-prg__id">{{item.id}}</span>
+				{% include_relative prg_priorita.html redmine_id=item.redmine	columns=cols prefix=include.prefix %}
+			</div>
+		</div>
+	</div>
+	<h3>Podúkoly:</h3>
+	<div id="redmine_tasks_{{item.redmine}}--{{include.prefix}}">
+	</div>
+</article>
