@@ -1,0 +1,15 @@
+<div class="row" style="text-align: center">
+	<div class="medium-12 large-12 columns">
+		<section class="o-section o-section--spaceBot">
+			<div class="o-section-inner o-section-inner--leftBlock">
+        <header class="o-section-header">
+          <h1 class="o-section__heading">Program Pirátů Prahy 12 pro volební období 2018 - 2022</h1>
+        </header><br/>
+        {% for item in site.data.program %}
+          {% include_relative prg_item.html item=item.item prefix="cz" %}
+        {% endfor %}
+			</div>
+		</section>
+	</div>
+</div>
+<script type="application/javascript" src="/assets/js/pirates.js"></script>
