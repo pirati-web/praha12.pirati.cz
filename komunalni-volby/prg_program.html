@@ -8,6 +8,11 @@
         {% for item in site.data.program %}
           {% include_relative prg_item.html item=item.item prefix="cz" %}
         {% endfor %}
+        {% if site.organization.redmineLink %}
+          <div class="c-content-block c-emphasized-text">
+            Viz <a href="{{site.organization.redmineLink}}">náš ukolovník v Redmine</a>
+          </div>
+        {% endif%}
 			</div>
 		</section>
 	</div>

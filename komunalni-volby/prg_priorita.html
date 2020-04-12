@@ -24,7 +24,7 @@
       xhr.send();
     });*/
     pirates.priorityStack.push(function (context) {
-      var url = 'https://redmine.pirati.cz/issues.json?fixed_version_id={{include.redmine_id}}&sort=id:asc';
+      var url = 'https://redmine.pirati.cz/issues.json?fixed_version_id={{include.redmine_id}}&status_id=*&sort=id:asc';
       var xhr = pirates.createCORSRequest('GET', url);
       if (!xhr) {
         alert('CORS not supported');
@@ -32,8 +32,9 @@
       }
       xhr.onload = function() {
         var doc = JSON.parse(xhr.responseText);
+        var gauge = document.getElementById('redmineid_{{ include.redmine_id }}');
         var div = document.getElementById('redmine_tasks_{{include.redmine_id}}--{{include.prefix}}');
-        div.appendChild(pirates.integrations.redmine.tasks(doc));
+        div.appendChild(pirates.integrations.redmine.tasks(doc, gauge));
       }
       xhr.onerror = function() {
         console.log('Woops, there was an error making the request.');
