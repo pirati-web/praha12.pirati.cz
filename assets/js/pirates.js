@@ -4,7 +4,7 @@ pirates.modal_triggers = document.body.querySelectorAll("[data-modal]");
 pirates.integrations = {
 
   redmine:{
-    tasks: function(doc) {
+    tasks: function(doc, gauge) {
       var element = document.createDocumentFragment();
       var table = document.createElement('table');
       var head = document.createElement('thead');
@@ -20,7 +20,11 @@ pirates.integrations = {
       hrow.appendChild(hsubject);
       hrow.appendChild(hdone);
       element.appendChild(table);
+      var total_done_ratio = 0;
+      var issuesCount = 0;
       for(var i in doc.issues) {
+        total_done_ratio += doc.issues[i].done_ratio;
+        issuesCount++;
         var row = document.createElement('tr');
         var subject = document.createElement('td');
         var done = document.createElement('td');
@@ -34,6 +38,8 @@ pirates.integrations = {
         row.appendChild(done);
         body.appendChild(row);
       }
+      total_done_ratio = total_done_ratio / issuesCount;
+      gauge.setAttribute('stroke-dasharray', total_done_ratio + ' ' + (100 - total_done_ratio));
       return element;
     }
   }
