@@ -7,7 +7,7 @@ authorId: jan.adamec
 image: posts/2020-04-28-zastupitelstvo-videokonference-nebude.png
 tags:
   - zastupitelstvo
-  - Koronavirus
+  - digitalizace
   - Covid-19
 ---
 
@@ -22,25 +22,45 @@ Při tvorbě pravidel pro zasedání zastupitelstva jsme brali v úvahu to, že 
 #### Řešení na hybridní zasedání (část offline, část online)
 
 1. Všichni předsedové zastupitelských klubů budou předem souhlasit s následujícími pravidly (nedá se odsouhlasit ad-hoc změna jednacího řádu na místě, když jsou lidé vzdáleně)
+
 2. Veřejnost je přítomna na místě prezenčně (plus může sledovat YouTube)
+
 3. Použije se pravděpodobně Microsoft Teams, který běží v prohlížečích Chrome nebo Edge, případně v mobilní aplikaci Teams
+
 4. Každý zastupitel, který má potřebné vybavení (počítač nebo mobilní telefon s kamerou a mikrofonem) a rychlé připojení k Internetu, se bude moci zúčastnit přes videokonferenci
+
   4.1. Každý zastupitel, který chce být přítomen vzdáleně, musí tuto skutečnost oznámit minimálně 4 hodiny před začátkem zastupitelstva vedoucímu organizačního oddělení
+
   4.2. Každý vzdáleně připojený zastupitel se musí přihlásit svým celým jménem, aby byl identifikovatelný
+
   4.3. Pokud mu připojení selže, je to na jeho odpovědnosti, a formálně se bere, že je “mimo místnost”
+
 5. V průběhu zasedání je do videokonference přihlášen jako uživatel “projektor”, tedy výstup z hlasovacího zařízení. Je nastaven jako prezentující a každý vzdáleně připojený uživatel tedy vidí totéž, co zastupitelé v sále.
+
   5.1. Zvuk bude přenášen na obě strany, lidé v sále sice možná neuvidí vzdáleného zastupitele (zkouší se umožnit to), ale uslyší jej a vše dohromady bude přenášeno live na YouTube pro veřejnost
+
   5.2. Zápis se dělá podle klasického záznamu.
+
 6. Do diskuze k bodu se přihlašují vzdáleně připojení uživatelé napsáním do chatu “diskuze” nebo “technická” a jsou postupně vyvoláváni předsedajícím
+
   6.1. Nic jiného se do chatu nepíše, chat schůzky neslouží k dopisování mezi zastupiteli
+
   6.2. V normálním stavu má každý zastupitel vypnutý mikrofon a zapne si jej až poté, co je vyzván předsedajícím. Poté, co skončí svůj příspěvek, musí si opět vypnout mikrofon, případně je později vypnut předsedajícím či jeho pomocníkem (moderátorem videokonference).
+
   6.3. Pomocník v sále bude sledovat diskuzi a bude fyzicky za zastupitele mačkat jejich hlasovací zařízení. Tím se sloučí oba seznamy přihlášených (offline i online) do jednoho
+
 7. Pozměňovací návrhy eviduje předseda návrhového výboru
+
   7.1. Ideální by bylo, pokud by členové návrhového výboru byli přítomni na místě (nestačili by tentokrát 2? jeden z koalice, druhý z opozice)
+
   7.2. Předseda návrhového výboru na konci diskuze přečte návrhy pro hlasování jako vždy
+
 8. Hlasování probíhá tak, že všichni fyzicky přítomní zastupitelé hlasují klasicky pomocí hlasovacích zařízení, vzdáleně připojení zastupitelé hlasují postupně jmenovitě
+
   8.1. Předsedající postupně vyzývá jednotlivé vzdáleně připojené zastupitele, aby slovy řekli, jak hlasují (pro / proti / zdržuji se / nehlasuji)
+
   8.2. Každý vzdálený zastupitel musí mít při hlasování zapnuté video a audio, aby bylo jasné, že hlasuje opravdu on
+
   8.3. V Prioru má pomocník u sebe na stole hlasovací zařízení všech vzdálených zastupitelů, seřazené zleva doprava podle pořadí vyvolávání, a za každého stiskne příslušné tlačítko, takže hlasující mí vizuální kontrolu, že jeho hlas je započítán, jak si přeje. Pokud by tedy bylo i drtivé množství lidí přítomno online, na obsluhu hlasování stačí jeden člověk obsluhy.
 
 Poté, co jsem tato pravidla sepsal a nechal je připomínkovat od kolegů z rady a z naší místní pirátské buňky, jsem ve čtvrtek 23.4.2020 požádal o připomínky či souhlas opoziční kluby. Protože jednací řád účast zastupitelů formou videokonference nezná, bylo třeba se dohodnout se všemi kluby.
