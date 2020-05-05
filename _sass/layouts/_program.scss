@@ -77,6 +77,9 @@
         margin-right: 3rem;
       }
     }
+    td a {
+      text-decoration: underline;
+    }
   }
   &__id{
     border-radius: 100px;
@@ -111,9 +114,14 @@
     &-img{
       max-width: 50px;
       display: inline-block;
+
       //@include breakpoint(small down) {
       //  float: right;
       //}
+      img {
+        border-radius: 50%;
+        padding-bottom: 0px;
+      }
     }
   }
 }
