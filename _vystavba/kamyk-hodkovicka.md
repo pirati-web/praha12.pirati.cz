@@ -3,7 +3,7 @@ title: Hodkovická, bytový dům
 katastr: Kamýk
 developer: YIT
 nazev:
-web:
+web: https://www.yit.cz/single-pages/hodkovicka
 plocha:
 plochaObytna:
 jineFunkce:
@@ -11,7 +11,7 @@ pocetPodlazi: 9+1
 pocetBytu:
 pocetParking:
 uzemniPlanKod: OV
-fazeSchvaleni: 5
+fazeSchvaleni: 6
 rokDokonceni:
 gps:
   lat: 50.0220806

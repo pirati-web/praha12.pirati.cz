@@ -10,7 +10,7 @@ jineFunkce:
 pocetBytu:
 pocetParking:
 uzemniPlanKod: OP/OB-A
-fazeSchvaleni:
+fazeSchvaleni: 0
 rokDokonceni:
 gps:
   lat: 49.9888072
@@ -29,6 +29,9 @@ folder: /assets/img/vystavba/ch-cholupice/
 printImg1: studie2008.jpg
 printImg2:
 ---
+
+
+**28.4.2020** Zastupitelstvo MČ jednomyslně nesouhlasí se podnětem na změnu územního plánu na pozemcích mezi Cholupicemi a Cholupickým vrchem [Z-14-006-20](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=76537) - předkladatel Eva Tylová (Piráti), starosta Jan Adamec (Piráti)
 
 Další výstavba v Cholupicích je pozastavena z důvodu nedostatečné kapacity kanalizace.
 

@@ -31,7 +31,7 @@ printImg2: viz2.jpg
 ![viz1.jpg]({{'viz1.jpg' | prepend: page.folder | relative_url }})<br/>
 (vizualizace obou budov vlevo XS, vpravo XL)
 
-**13.6.2019** Rada MČ souhlasí se studií stavby bytového domu Vanguard XS [R-32-032-19](https://www.praha12.cz/). Stavba má dole 5 pater garáží (z toho 2 podzemní, sloužící i pro budovu XL, a dále 6 pater bytů) - předkladatel Eva Tylová (Piráti), starosta Jan Adamec (Piráti)
+**13.6.2019** Rada MČ souhlasí se studií stavby bytového domu Vanguard XS [R-32-032-19](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=70318). Stavba má dole 5 pater garáží (z toho 2 podzemní, sloužící i pro budovu XL, a dále 6 pater bytů) - předkladatel Eva Tylová (Piráti), starosta Jan Adamec (Piráti)
 
 ![viz2.jpg]({{'viz2.jpg' | prepend: page.folder | relative_url }})<br/>
 (model obou budov vlevo XS, vpravo XL)
