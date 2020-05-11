@@ -7,22 +7,22 @@ textbox:
  title: Celopražský program
  text: >
     <ul>
-        <li><a class="c-emphasized-anchor active" href="https://praha.pirati.cz/program/">Hlavní priority, úvod</a></li>
-        <li><a class="c-emphasized-anchor active" href="https://praha.pirati.cz/program/2018/praha2018/doprava/">Doprava</a></li>
-        <li><a class="c-emphasized-anchor active" href="https://praha.pirati.cz/program/2018/praha2018/kultura-a-cestovni-ruch/">Kultura, památková péče a cestovní ruch</a></li>
-        <li><a class="c-emphasized-anchor active" href="https://praha.pirati.cz/program/2018/praha2018/moderni-mesto/">Moderní město</a></li>
-        <li><a class="c-emphasized-anchor active" href="https://praha.pirati.cz/program/2018/praha2018/otevrena-radnice/">Otevřená radnice</a></li>
-        <li><a class="c-emphasized-anchor active" href="https://praha.pirati.cz/program/2018/praha2018/skolstvi-sport-a-volny-cas/">Školství, sport a volný čas</a></li>
-        <li><a class="c-emphasized-anchor active" href="https://praha.pirati.cz/program/2018/praha2018/uzemni-rozvoj-bydleni-socialni-sluzby/">Územní rozvoj, bydlení a sociální služby</a></li>
-        <li><a class="c-emphasized-anchor active" href="https://praha.pirati.cz/program/2018/praha2018/zdravi-a-bezpectost/">Zdravotnictví a bezpečnost</a></li>
-        <li><a class="c-emphasized-anchor active" href="https://praha.pirati.cz/program/2018/praha2018/zivotni-prostredi/">Životní prostředí</a></li>
+        <li><a class="c-emphasized-anchor active" href="https://praha.pirati.cz/program/komunal2018/">Hlavní priority, úvod</a></li>
+        <li><a class="c-emphasized-anchor active" href="https://praha.pirati.cz/program/praha2018/doprava/">Doprava</a></li>
+        <li><a class="c-emphasized-anchor active" href="https://praha.pirati.cz/program/praha2018/kultura-a-cestovni-ruch/">Kultura, památková péče a cestovní ruch</a></li>
+        <li><a class="c-emphasized-anchor active" href="https://praha.pirati.cz/program/praha2018/moderni-mesto/">Moderní město</a></li>
+        <li><a class="c-emphasized-anchor active" href="https://praha.pirati.cz/program/praha2018/otevrena-radnice/">Otevřená radnice</a></li>
+        <li><a class="c-emphasized-anchor active" href="https://praha.pirati.cz/program/praha2018/skolstvi-sport-a-volny-cas/">Školství, sport a volný čas</a></li>
+        <li><a class="c-emphasized-anchor active" href="https://praha.pirati.cz/program/praha2018/uzemni-rozvoj-bydleni-socialni-sluzby/">Územní rozvoj, bydlení a sociální služby</a></li>
+        <li><a class="c-emphasized-anchor active" href="https://praha.pirati.cz/program/praha2018/zdravi-a-bezpectost/">Zdravotnictví a bezpečnost</a></li>
+        <li><a class="c-emphasized-anchor active" href="https://praha.pirati.cz/program/praha2018/zivotni-prostredi/">Životní prostředí</a></li>
     </ul>
 
 ---
 
 _Budeme vytvářet místo, které je příznivé pro život lidí, zvířat a přírody._
 
-Vycházíme z [celopražského programu](https://praha.pirati.cz/program). Nechtěli jsme kopírovat body z něj, i když se s nimi ztotožňujeme, proto si jej prosím prostudujte také.
+Vycházíme z [celopražského programu](https://praha.pirati.cz/program/komunal2018/). Nechtěli jsme kopírovat body z něj, i když se s nimi ztotožňujeme, proto si jej prosím prostudujte také.
 
 ## Územní rozvoj, bydlení a sociální služby
 
