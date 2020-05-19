@@ -4,7 +4,7 @@ title: Zveřejnili jsme přehled, jak na Praze 12 plníme předvolební program
 date: 2020-05-18
 author: Michal Macek
 authorId: michal.macek
-image: posts/2020-04-28-zastupitelstvo-videokonference-nebude.png
+image: posts/2020-05-18-plneni-programu.png
 tags:
   - zastupitelstvo
   - volby
