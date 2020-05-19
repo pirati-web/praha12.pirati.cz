@@ -20,7 +20,8 @@ gps:
 uvodText: Bytový dům místo bývalých jeslí v ulici Levského
 
 textbox:
-  text: 
+  text: >
+    Projekt má snazší pozici než dříve tím, že se investorovi podařilo protlačit změnů kódu územního plánu a následně se rozvolnila i definice kódu SV. Přesto s tímto zahuštěním sídliště nesouhlasíme. Původní nízká budova byla realizována jako prvek občanské vybavenosti. Stavba způsobí ještě větší komplikace v dopravě a zatíží sousední mateřskou školu.
 
 folder: /assets/img/vystavba/mo-levskeho/
 printImg1: viz1.jpg
@@ -30,6 +31,8 @@ printImg2:
 Projekt monitoruje [Občanské sdružení Levského](https://www.sites.google.com/site/oslevskeho/).
 
 - - -
+**25.2.2020** Rada MČ se odvolala proti odstraněním staré budovy [R-064-017-20](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=75340) - předkladatel Eva Tylová (Piráti), starosta Jan Adamec (Piráti)
+
 **23.10.2019** Rada MČ nesouhlasí s odstraněním staré budovy [R-047-021-19](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=72918) - předkladatel Eva Tylová (Piráti), starosta Jan Adamec (Piráti)
 
 ![viz1.jpg]({{'viz1.jpg' | prepend: page.folder | relative_url }})

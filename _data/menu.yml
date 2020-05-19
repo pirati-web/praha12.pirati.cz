@@ -20,21 +20,21 @@ main:
     name: O nás
     match: lide
   - link: /komunalni-volby/
-    name: Volby 2018
+    name: Program
     match: komunalni-volby
     submenu:
       - link: /komunalni-volby/
-        name: Kandidátka
+        name: Plnění programu
         match: komunalni-volby
+      - link: /komunalni-volby/kandidatka-2018.html
+        name: Kandidátka
+        match: komunalni-volby/kandidatka-2018
       - link: /komunalni-volby/program.html
-        name: Program
+        name: Volební program
         match: program
       - link: /komunalni-volby/povolebni-strategie.html
         name: Povolební strategie
         match: povolebni-strategie
-      - xlink: /komunalni-volby/prg_index.html
-        xname: Plnění programu
-        xmatch: prg_index
   - link: /vystavba/
     name: Výstavba
     match: vystavba
