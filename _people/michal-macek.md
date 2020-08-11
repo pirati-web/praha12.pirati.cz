@@ -5,7 +5,7 @@ titles:
   before: Bc.
   after:
 category:                   # kategorie: pms, clenove, priznivci
-- clenove
+- pms
 
 img: people/michal-macek.jpg   # 165 x 220
 description: hospodář poslaneckého klubu Pirátů  # kratký popis, max 160 znaků
