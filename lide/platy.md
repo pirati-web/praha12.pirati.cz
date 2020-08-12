@@ -9,8 +9,8 @@ Výše odměn zastupitelů vychází z [Nařízení vlády č. 318/2017 Sb.](htt
 | Jméno | Hrubá měsíční odměna | Funkce | 
 |:-------|---------------------:|--------|
 | Jan Adamec | 93 007 | uvolněný starosta |
-| Jiří Brůžek | 72 545 | neuvolněný zastupitel, předseda výboru |
-| Lukáš Findeis | 5 580 | uvolněný člen rady |
+| Jiří Brůžek | 72 545 | uvolněný člen rady |
+| Lukáš Findeis | 5 580 | neuvolněný zastupitel, předseda komise |
 | Jakub Horák | 5 580 | neuvolněný zastupitel, předseda komise |
 | Andrej Koudelka | 5 580 | neuvolněný zastupitel, předseda komise |
 | Matěj Mlčoch | 5 580 | neuvolněný zastupitel, předseda komise |
