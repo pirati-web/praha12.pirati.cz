@@ -30,6 +30,24 @@ printImg1: norma-cens.jpg
 printImg2: puvodni_stav.jpg
 ---
 
+**27.11.2019** Zastupitelstvo nesouhlasí, aby bylo zastavěno parkoviště ve správě Prahy 12 mezi ulicemi Těšíkova a Lhotecká [Z-10-002-19](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=73739) poté, co Rada na těchto pozemcích nejprve odsouhlasila podnět na změnu územního plánu z SV-F na SV-I ([R-045-018-19](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=52905)) a poté na žádost občanů podnět zrušila ([R-052-001-19](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=73462)). Vedle hlavního usnesení vzniklo i doprovodné [Z-10-004-19](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=73737).
+
+Vše rozpoutala představená studie na obrázku níže, která navrhovala zástavbu odsunout od existujících obytných domů dále k ulici Lhotecká.
+
+![studie2019.jpg]({{'studie2019.jpg' | prepend: page.folder | relative_url }})
+(zdroj: praha12.cz)
+
+Vysvětlení našeho postupu:
+
+>Chtěli bychom ubezpečit obyvatele Prahy 12, že Piráti jsou konzistentní ve svých slibech a vždy drží slovo.  Nechceme zahušťovat sídliště a veškeré naše kroky vedou k co možná největšímu zlepšení kvality života našich obyvatel. Ve středu 27. listopadu se koná zasedání Zastupitelstva MČ Praha 12, které se bude zabývat možnou výstavbou v lokalitě kolem ulice Těšíkova. Developer zde vlastní starou kotelnu a místo ní se snaží vystavět třináctipatrový dům. S nejlepším úmyslem jsme se pokusili s developerem začít vyjednávat alternativní návrh zástavby, která by ji odsunula dále od stávajících domů k ulici Lhotecká.
+
+>Protože ale intenzivně nasloucháme názorům Vás, obyvatel Prahy 12, přesvědčili jste nás, že si tento přesun nepřejete a od záměru jsme ustoupili. Zrušili jsme tedy usnesení ke změně územního plánu, které by umožnilo rozsáhlejší zástavbu na parkovišti.
+
+>Kandidovali jsme s programem, kde jsme jasně deklarovali, že necheme zahuštovat sídliště a držíme slovo. Ostatně i proto jste nám dali svůj hlas a ostatně i proto se po mnoha letech vyměnila politická garnitura v čele městské části. Věřím, že za nás mluví dosavadní práce - podáváme odvolání v řízeních k předimenzovaným developerským záměrům jinde po Praze 12. Jsme první Rada MČ Praha 12, která si nechává připomínky k projektům zpracovat odborníky. I díky tomu nepokračuje například [záměr Trigemy](/vystavba/kamyk-billa-vosatkova.html) stavět místo Billy v ulici Vosátkova jejich dvě vysoké věže, bojujeme proti projektu [Zelený Kamýk](/vystavba/kamyk-smotlachova.html) i jinde.
+
+>Představenou studii řešení okolí ulice Těšíkova považujeme za ukončenou. Odmítáme neustálé úporné snahy zejména paní Rázkové o sebezviditelnění se na této situaci a vytváření dojmu, že je proti něčemu stále nutné bojovat. Budeme i nadále držet náš postoj k nezahušťování sídlišť.
+
+
 **jaro 2018** Firma Fisolta předložila Komisi pro územní rozvoj vizualizaci návrhu zástavby kolem ulice Těšíkova. Jedna z věží by měla být v místě současné prodejny Norma, další místo kotelny. Vzhledem k tomu, že jednání komise jsou v současné době neveřejná, nezískali jsme oprávnění zde vizualizaci přidat. Proto jsme alespoň udělali přibližný zákres do 3D pohledu.
 
 ![norma-cens.jpg]({{'norma-cens.jpg' | prepend: page.folder | relative_url }})
