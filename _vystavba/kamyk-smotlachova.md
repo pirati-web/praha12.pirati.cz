@@ -35,6 +35,11 @@ Boji proti tomuto projektu se věnuje iniciativa občanů [Sebeobrana sídlišt�
 
 - - -
 
+**21.11.2020** Developer [začal bourat](https://www.praha12.cz/po%2Dnepravomocne%2Ddemolici%2Dskolky%2Dzustaly%2Dsutiny%2Di%2Dzvlastni%2Dpachut/d-80303) původní budovu o zhruba týden dřív, než k tomu získal pravomocné povolení. Rada MČ se proti odstranění stavby odvolávala dne 2.5.2019 usnesením 
+[R-026-004-19](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=69391), nadřazený stavební úřad však nakonec povolení vydal.
+
+**20.11.2020** Magistrátem schválena [Územní studie](https://www.praha.eu/jnp/cz/o_meste/magistrat/odbory/odbor_uzemniho_rozvoje/uzemni_planovani/uzemni_studie/studie_platne/) sídliště a okolí budoucí stanice metra D Libuš, která zahrnuje i tuto lokalitu. Místo 13patrové budovy je zde počítáno s nižší (ale rozsáhlejší) zástavbou. 
+
 **14.3.2019** Rada MČ podává odvolání k územnímu rozhodnutí stavebního úřadu ze dne 25.2. 2019 
 [R-017-007-19](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=67913) - předkladatel Eva Tylová (Piráti), starosta Jan Adamec (Piráti)
 
