@@ -38,7 +38,9 @@ Jan Bursík žádá změnu územního plánu z SO3 na VV, aby mohl postavit úda
 
 - - -
 
-**9.2019** Majitel podal ještě jeden další podnět na změnu územního plánu, kdy na polovině území ponechává kód SO3, a na polovině VV.
+**24.9.2020** Zastupitelstvo hl.m. Prahy [ve vyjádření na petici potvrdilo](https://www.praha12.cz/potvrzeno-zmena-uzemniho-planu-louky-na-hupech-nebude/d-79679), že všechny tři podané podněty na změnu územního plánu byly zamítnuty nebo zastaveny.
+
+**9.2019** Majitel podal ještě jeden další podnět na změnu územního plánu, kdy na polovině území ponechává kód SO3, a na polovině VV. Tato změna pak byla magistrátem zamítnuta.
 
 **10.10.2019** Zastupitelstvo MČ Praha 12 také nesouhlasí se změnou územního plánu [Z-08-011-19](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=72563)
 
