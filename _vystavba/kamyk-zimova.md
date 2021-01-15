@@ -2,8 +2,8 @@
 title: Zimova, bytový dům
 katastr: Kamýk
 developer: JRD
-nazev: Rezidence Kamýk
-web:
+nazev: Vital Kamýk (dříve Rezidence Kamýk)
+web: https://www.jrd.cz/cs/vital-kamyk.html
 plocha:
 plochaObytna:
 jineFunkce:
