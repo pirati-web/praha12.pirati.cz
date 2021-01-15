@@ -15,7 +15,7 @@ profiles:
   facebook: https://www.facebook.com/honza.adamec
 ---
 
-Jan Adamec (*1977, Praha) vystudoval informatiku na Matematicko-fyzikální fakultě Univerzity Karlovy, se zaměřením na 2D/3D grafiku, a začal pracovat jako programátor. Od dětství žil v Praze 4, ale Prahu 12 zná od mala, a od roku 2007 se sem už trvale přestěhoval.
+Jan Adamec (*1977, Praha) vystudoval informatiku na Matematicko-fyzikální fakultě Univerzity Karlovy, se zaměřením na 2D/3D grafiku, a začal pracovat jako programátor. Od dětství žil v Praze 4, ale Modřany a Prahu 12 zná od mala. Od roku 2007 se do Modřan už trvale přestěhoval. Je ženatý, má dvě děti. 
 
 Ve veřejném životě se začal angažovat tvorbou užitečných aplikací postavených nad daty publikovanými státní správou, ať už s [harmonogramy přistavování velkoobjemových kontejnerů](http://www.roomarranger.com/apps/dumpsters/) v Praze, simulátorem [volebních systémů](http://www.roomarranger.com/apps/electoral-sim/) a v poslední době aplikací zaměřenou vyloženě na Prahu 12, [Dvanáctka](http://dvanactka.info), kam i přispívá články o dění na Praze 12, které nepokrývá oficiální zpravodaj radnice.
 
