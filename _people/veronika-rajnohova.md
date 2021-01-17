@@ -5,7 +5,7 @@ titles:
   before:
   after:
 category:                   # kategorie: pms, clenove, priznivci
-- priznivci
+- clenove
 
 img: people/veronika-rajnohova.jpg   # 165 x 220
 description: profesionální trafikantka a hudebnice, asistentka starosty # kratký popis, max 160 znaků

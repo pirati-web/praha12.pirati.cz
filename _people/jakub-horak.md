@@ -5,8 +5,7 @@ titles:
   before: Bc.
   after:
 category:                   # kategorie: pms, clenove, priznivci
-- pms
-ordpms: 3
+- clenove
 
 img: people/jakub-horak.jpg   # 165 x 220
 description: podnikatel v letectví, zastupitel MČ Praha 12  # kratký popis, max 160 znaků
