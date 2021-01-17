@@ -3,6 +3,7 @@ category: blog
 title: Stovky nových stromů a keřů na pozemcích Prahy 12
 date: 2019-12-10
 author: Veronika Oušková
+authorId: veronika.ouskova
 image: posts/2019-12-10-stovky-novych-stromu-a-keru.jpg
 tags:
   - životní prostředí

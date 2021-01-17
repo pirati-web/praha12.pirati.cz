@@ -6,13 +6,15 @@ titles:
   after:
 category:                   # kategorie: pms, clenove, priznivci
 - pms
-ordpms: 2
+ordpms: 3
 
 img: people/jan-adamec.jpg   # 165 x 220
 description: starosta MČ Praha 12, programátor, autor nezávislé mobilní aplikace o Praze 12  # kratký popis, max 160 znaků
 mail: jan.adamec@pirati.cz
 profiles:
   facebook: https://www.facebook.com/honza.adamec
+  twitter: https://twitter.com/JanAdamecP12
+  instagram: https://www.instagram.com/jan_adamec_p12
 ---
 
 Jan Adamec (*1977, Praha) vystudoval informatiku na Matematicko-fyzikální fakultě Univerzity Karlovy, se zaměřením na 2D/3D grafiku, a začal pracovat jako programátor. Od dětství žil v Praze 4, ale Modřany a Prahu 12 zná od mala. Od roku 2007 se do Modřan už trvale přestěhoval. Je ženatý, má dvě děti. 
