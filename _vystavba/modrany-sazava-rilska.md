@@ -31,6 +31,12 @@ Boji proti tomuto projektu se věnuje občanský spolek [Spolek pro Modřany](ht
 
 - - -
 
+**7.2.2019** Rada podporuje záměr odkupu pozemků a objektů OC Sázava z důvodu zajištění zachování centra služeb a společenského centra pro okolní obyvatele a přirozeného náměstí celé přilehlé oblasti [R-012-019-19](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=67246) - předkladatel Eva Tylová (Piráti), starosta Jan Adamec (Piráti)
+
+**19.6.2018** Zastupitelstvo stanovuje požadavky pro novostavbu na OC Sázava na maximálně 2 podlaží, maximálně zdvojnásobení objemu, a další  [Z-28-003-18](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=63520) poté, co toto nejprve totožně projednala rada [R-172-009-18](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=62912) - předkladatel František Adámek (ČSSD), starosta Milan Maruštík (ANO)
+
+**18.9.2017** Rada nesouhlasí s prodejem pozemků v okolí Obzoru firmě Fisolta [R-139-012-17](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=57318) - předkladatel František Adámek (ČSSD), starosta Milan Maruštík (ANO)
+
 ![Vizualizace]({{'vizualizace.jpg' | prepend: page.folder | relative_url }} )
 (zdroj: přednáška v Modřanském biografu)
 
