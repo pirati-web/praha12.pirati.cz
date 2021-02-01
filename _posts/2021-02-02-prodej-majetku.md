@@ -1,6 +1,6 @@
 ---
 category: blog
-title: Otázky a odpovědi k návrhu prodeje majetku v roce 2021
+title: Otázky a odpovědi k prodeji majetku v roce 2021
 date: 2021-02-02
 author: Jan Adamec
 authorId: jan.adamec
