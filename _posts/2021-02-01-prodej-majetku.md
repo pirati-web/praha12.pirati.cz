@@ -1,10 +1,10 @@
 ---
 category: blog
 title: Otázky a odpovědi k prodeji majetku v roce 2021
-date: 2021-02-02
+date: 2021-02-01
 author: Jan Adamec
 authorId: jan.adamec
-image: posts/2021-02-02-prodej-majetku.jpg
+image: posts/2021-02-01-prodej-majetku.jpg
 tags:
   - rozpočet
   - rada
