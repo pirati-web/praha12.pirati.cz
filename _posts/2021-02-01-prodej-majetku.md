@@ -21,7 +21,9 @@ Položka v rozpočtu činí 124.712.000 Kč. Ve skutečnosti je však nutné pro
 ### Proč se majetek městské části prodává?
 
 S prodeji se počítá od roku 2016, kdy je rada v předchozím volebním období naplánovala pro financování výstavby nové radnice. Nyní je podstatné prodej realizovat za co nejlepších podmínek.
-Kolik městská část plánuje, že za nemovitosti utrží?
+
+### Kolik městská část plánuje, že za nemovitosti utrží?
+
 Za již vypsané a inzerované nemovitosti je plán získat minimálně 53 milionů, které souvisí s financováním výstavby nové radnice (viz str. 1 rozpočtu). Další prodeje s velkou pravděpodobností nebudou realizovány díky zmíněným dotacím.
 
 ### Které nemovitosti se budou prodávat?
