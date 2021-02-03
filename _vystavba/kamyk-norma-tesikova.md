@@ -47,6 +47,7 @@ Vysvětlení našeho postupu:
 
 >Představenou studii řešení okolí ulice Těšíkova považujeme za ukončenou. Odmítáme neustálé úporné snahy zejména paní Rázkové o sebezviditelnění se na této situaci a vytváření dojmu, že je proti něčemu stále nutné bojovat. Budeme i nadále držet náš postoj k nezahušťování sídlišť.
 
+**2.10.2018** Zastupitelstvo nesouhlasí projektem YIT na kotelně kvůli předimenzovanosti stavby [Z-30-014-18](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=65157)
 
 **jaro 2018** Firma Fisolta předložila Komisi pro územní rozvoj vizualizaci návrhu zástavby kolem ulice Těšíkova. Jedna z věží by měla být v místě současné prodejny Norma, další místo kotelny. Vzhledem k tomu, že jednání komise jsou v současné době neveřejná, nezískali jsme oprávnění zde vizualizaci přidat. Proto jsme alespoň udělali přibližný zákres do 3D pohledu.
 
