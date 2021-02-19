@@ -14,7 +14,7 @@ gem install jekyll bundler
 bundle install --path vendor/bundle
 ```
 
-macOS: ImageMagic nainstalovat pomocí homebrew
+macOS: ImageMagic nainstalovat pomocí Homebrew
 
 Po updatu na novou verzi jekylltheme (editace čísla verze v Gemfile a _config.yml):
 
@@ -24,14 +24,16 @@ bundle install
 
 - - -
 
-Spuštění:
-
-```
-jekyll serve
-```
-
-nebo (je-li nainstalována systémová i lokální verze bundleru, které se pak bijí)
+Spuštění (na adrese http://127.0.0.1:4000/):
 
 ```
 bundle exec jekyll serve
 ```
+
+- - -
+
+### Obvyklé problémy při zprovoznění na svém počítači
+
+* Možná máš jinou verzi Ruby, než očekává pirátský web. Tam je natvrdo 2.5.0. Podívej se u sebe do adresáře `vendor/bunde/ruby`, jaký adresář tam máš, a podle toho uprav řádek dole v `_config.yml`. Hlavně tu změnu prosím necommituj.
+
+* Možná ti nejde web zbuildovat, hází to divné chyby. U mne pomáhá, když si v souboru `Gemfile` nahoře pod řádkem s verzí Jekyllu dám řádek `gem "mini_racer"`. Ani tuto změnu prosím necommituj.
