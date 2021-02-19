@@ -6,7 +6,7 @@ titles:
   after:
 category:                   # kategorie: pms, clenove, priznivci
 - pms
-ordpms: 2
+ordpms: 4
 
 img: people/veronika-ouskova.jpg   # 165 x 220
 description: botanička  # kratký popis, max 160 znaků

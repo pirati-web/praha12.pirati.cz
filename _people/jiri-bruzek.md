@@ -5,7 +5,8 @@ titles:
   before:
   after:
 category:                   # kategorie: pms, clenove, priznivci
-- clenove
+- pms
+ordpms: 5
 
 img: people/jiri-bruzek.jpg   # 165 x 220
 description: radní MČ Praha 12 # kratký popis, max 160 znaků
@@ -13,7 +14,6 @@ mob: +420 602 406 504
 mail: jiri.bruzek@seznam.cz
 profiles:
   facebook: https://www.facebook.com/jiri.bruzek.9
-  googleplus: https://plus.google.com/+Ji%C5%99%C3%ADBr%C5%AF%C5%BEek
   twitter: https://twitter.com/jiribruzek
   linkedin: https://www.linkedin.com/in/ji%C5%99%C3%AD-br%C5%AF%C5%BEek-b4a28a14/
 ---
