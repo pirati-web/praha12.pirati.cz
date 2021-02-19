@@ -6,7 +6,7 @@ titles:
   after:
 category:                   # kategorie: pms, clenove, priznivci
 - pms
-ordpms: 4
+ordpms: 3
 
 img: people/vaclav-sistek.jpg   # 165 x 220
 description: specialista operačních systémů, zastupitel MČ Praha 12, předseda komise rady MČ Praha 12 pro digitalizaci  # kratký popis, max 160 znaků

@@ -6,7 +6,8 @@ titles:
   after:
 category:                   # kategorie: pms, clenove, priznivci
 - pms
-ordpms: 5
+- kontaktni_osoba
+ordpms: 1
 
 img: people/michal-macek.jpg   # 165 x 220
 description: hospodář poslaneckého klubu Pirátů, vedoucí mediálního odboru místního sdružení Praha 12  # kratký popis, max 160 znaků
