@@ -8,7 +8,7 @@ category:                   # kategorie: pms, clenove, priznivci
 - clenove
 
 img: people/matej-mlcoch.jpg   # 165 x 220
-description: specialista v oboru odpadového hospodářství, zastupitel MČ Praha 12, předseda místního sdružení Praha 12  # kratký popis, max 160 znaků
+description: specialista v oboru odpadového hospodářství, zastupitel MČ Praha 12, předseda zastupitelského klubu # kratký popis, max 160 znaků
 mail: matej.mlcoch@pirati.cz
 profiles:
   facebook: https://www.facebook.com/mates.bezejmenny
