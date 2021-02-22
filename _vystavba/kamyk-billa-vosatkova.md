@@ -7,8 +7,7 @@ web:
 plocha:
 plochaObytna:
 jineFunkce: samoobsluha
-pocetPodlazi: 18, 14
-pocetBytu: 171
+pocetPodlazi: 14, 9
 pocetParking:
 uzemniPlanKod: OV
 fazeSchvaleni: 5
@@ -27,7 +26,12 @@ printImg1: viz1814camp.jpg
 printImg2: puvodni_stav.jpg
 ---
 
-**21.8.2020** Územní řízení bylo zastaveno. Projekt je tak nyní definitivně zastaven.
+
+**únor 2021** Trigema přichází s novou verzí svého projektu, ten má nyní formu dvou věží s 14 a 9 patry. Projekt již získal souhlasné stanovisku IPRu. Předchozí záměr obsahoval dvě věže o 18 a 14 patry.
+
+- - -
+
+**21.8.2020** Územní řízení bylo zastaveno. Projekt je tak nyní v této podobě (dvě věže 18 a 14 pater) definitivně zastaven.
 
 **3.1.2020** Ministryně místního rozvoje potvrdila zrušení závazného stanoviska, který potvrzoval soulad s územním plánem.
 
