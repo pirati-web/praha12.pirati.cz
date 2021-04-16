@@ -11,7 +11,7 @@ pocetPodlazi: 9
 pocetBytu: 171 + 16 služebních
 pocetParking:
 uzemniPlanKod: OV-D
-fazeSchvaleni: 16
+fazeSchvaleni: 17
 rokDokonceni:
 gps:
   lat: 49.9979292
@@ -26,6 +26,8 @@ folder: /assets/img/vystavba/mo-ufotbalu/
 printImg1: viz2.jpg
 printImg2: viz1.jpg
 ---
+
+**12.4.2021** Rada MČ souhlasí se smlouvou, ve které se navíc proti původní smlouvě investor zavazuje vybudovat nová parkovací místa při ulici Nad Zavážkou, pěší propojení tamtéž a darovat pozemek u ulice Komořanská, kde by po vybudování Nové Komořanské mohl vzniknout nový vstup na fotbalové hřiště     ([R-115-002-21](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=82766)) - předkladatel Jiří Fremr (ODS), starosta Jan Adamec (Piráti).
 
 **9.12.2020** Potvrzení územního a stavebního povolení po odvolání
 
