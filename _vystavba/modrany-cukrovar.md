@@ -29,6 +29,8 @@ printImg1: viz1.jpg
 printImg2: viz1-pohled-z-vlaku.jpg
 ---
 
+**11.8.2020** Rada uzavírá dodatek smlouvy se Skanskou, kde se ta zavazuje poskytnout finanční příspěvek ve výši 10 milionů Kč na výstavbu mateřské školy Mydlinky, komunitní prostor (se zázemím) u budoucího náměstí, pozemek pro loděnici a zrekonstruovat křižovatku ulic Generála Šišky a Komořanská ([R-83-016-20](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=82181)). Vedle toho souhlasila i s etapizací výstavby ([R-83-018-20](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=81333)) s požadavkem na maximalizaci nebytové funkce a projektovou dokumentací první etapy ([R-83-017-20](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=81334))  - předkladatel Eva Tylová (Piráti), starosta Jan Adamec (Piráti)
+
 **19.5.2018** Otevření [Cukrkandlu](https://reality.skanska.cz/dobry-soused/cukrkandl) - cyklokavárna, bikrosová dráha, komunitní zahrada, venkovní posilovna
 
 ![viz1.jpg]({{'viz1.jpg' | prepend: page.folder | relative_url }})

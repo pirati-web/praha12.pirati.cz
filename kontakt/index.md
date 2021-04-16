@@ -9,9 +9,12 @@ residence: yes #vyplňte pokud chcete přidat adresu nejbližšího pice
   <h1 class="t-h2-alt">Přidejte se</h1>
 </div>
 
-Zajímá vás, co Piráti dělají a jak? [Ozvěte se nám](mailto:{{site.organization.email}}) nebo přijďte k nám na otevřenou schůzi. Pořádáme je obvykle poslední pondělí v měsíci, lokalita je vždy upřesněna, sledujte náš [Facebook](https://www.facebook.com/pg/PiratiP12/events/?ref=page_internal) .
+Zajímá vás co Piráti dělají a jak? [Ozvěte se nám](mailto:{{site.organization.email}}), nebo přijďte na pravidelnou schůzi, o které se dozvíte na [našem Facebooku]({{ site.facebook.profilePage }}).
 
-Budeme rádi za jákekoliv vaše náměty, nebo připomínky.
+Chcete přístup k pirátským systémům či odebírat stranické newslettery? Registrujte se na [Nalodění](https://nalodeni.pirati.cz/). K odběru našeho dvanáctkového newsletteru (občasník) se pak můžete přihlásit [zde](https://gmail.us20.list-manage.com/subscribe/post?u=3160d49e552162e120d6fe9ae&id=820e8fffb3).
 
-* <a class="c-emphasized-anchor" href="{{ site.facebook.profilePage }}">Sledujte nás na Facebooku</a>
+Finanční dary můžete posílat [tudy](https://dary.pirati.cz/podpor-kraj/praha/adresne-dary-pro-ks-praha/?p=110112). Děkujeme.
 
+Náš kalendář naleznete [zde](https://calendar.google.com/calendar/u/0?cid=ZzU4aHVoYjRxMmZhMDkwZnBpZ3V2OTBnaXNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
+
+Webové stránky pražského krajského sdružení najdete na [praha.pirati.cz](https://praha.pirati.cz/).
