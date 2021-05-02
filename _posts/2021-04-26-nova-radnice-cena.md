@@ -1,6 +1,5 @@
 ---
 category: blog
-published: false
 title: Piráti a Nová radnice Prahy 12
 date: 2021-04-26
 author: Jan Adamec
