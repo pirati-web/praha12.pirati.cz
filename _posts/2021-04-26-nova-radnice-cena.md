@@ -32,7 +32,7 @@ V ceně radnice není zahrnut interiér, kde se současné vedení rozhodlo šet
 
 Když jsme nastupovali, tuto otázku jsme si často kladli a doteď tyto otázky zaznívají. Cenu radnice navyšují prostory, které nebudou sloužit úřadu. V přízemí bude restaurace, třetinu druhého patra pak zabírají kanceláře k pronájmu. Tyto komerční prostory byly do projektu zahrnuty jako prostředek krytí nákladů díky příjmům z pronájmu. 
 
-Lze použít odhad ceny podle objemu a náročnosti stavby a zadat parametry do webu [CenyZaProjekty.cz](https://www.cenyzaprojekty.cz), kde se vychází zejména z velikosti obestavěného prostoru. Použili jsme konzervativní výpočet od správce stavby 64&nbsp;859&nbsp;m<sup>3</sup>, které je blízko i našim laickým výpočtům nezahrnující založení stavby. Projektant později dodal objem 72&nbsp;000&nbsp;m<sup>3</sup>, který by způsobil ještě vyšší odhad ceny.
+Lze použít odhad ceny podle objemu a náročnosti stavby a zadat parametry do webu [CenyZaProjekty.cz](https://www.cenyzaprojekty.cz), kde se vychází zejména z velikosti obestavěného prostoru. Použili jsme konzervativní výpočet od správce stavby 64&nbsp;859&nbsp;m<sup>3</sup>, který je blízko i našim laickým výpočtům nezahrnujícím založení stavby. Projektant později dodal objem 72&nbsp;000&nbsp;m<sup>3</sup>, který by způsobil ještě vyšší odhad ceny.
 
 **Stavba samotná** ([dle výpočtu pro pozemní stavby](https://www.cenyzaprojekty.cz/kalkulace/pozemni-stavby))<br>
 Druh stavby: 801 - Budovy občanské výstavby<br>
