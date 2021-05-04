@@ -30,7 +30,7 @@ printImg1: norma-cens.jpg
 printImg2: puvodni_stav.jpg
 ---
 
-**16.2.2021** Rada nesouhlasí s projektem bytového domu na kotelně od společnosti YIT [R-108-001-21](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=82465). Projekt je téměř totožný s tím, který odmítlo zastupitelstvo již v roce 2018 ([Z-30-014-18](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=65157)).
+**22.4.2021** Zastupitelstvo MČ Praha 12 nesouhlasí s projektem bytového domu na kotelně od společnosti YIT [Z-20-006-21](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=82973) po předchozím nesouhlasu rady [R-108-001-21](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=82465). Projekt je téměř totožný s tím, který odmítlo zastupitelstvo již v roce 2018 ([Z-30-014-18](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=65157)).
 
 **2.2.2021** Zastupitelstvo nesouhlasí s prodejem malého obecního pozemku sousedícího s Normou Fisoltě  [Z-19-007-21](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=81415) poté, co předtím rada na svém jednání také nesouhlasila ([R-104-008-21](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=80957), překladatel Jiří Fremr (ODS), starosta Jan Adamec (Piráti)) a zrušila předchozí souhlasné stanovisko rady z roku 2017.
 
