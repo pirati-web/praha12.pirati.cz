@@ -11,7 +11,7 @@ pocetPodlazi:
 pocetBytu:
 pocetParking:
 uzemniPlanKod: SV-F
-fazeSchvaleni: 8
+fazeSchvaleni: 9
 rokDokonceni: 
 gps:
   lat: 50.0077336
