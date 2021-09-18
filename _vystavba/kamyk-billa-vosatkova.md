@@ -26,6 +26,9 @@ printImg1: viz1814camp.jpg
 printImg2: puvodni_stav.jpg
 ---
 
+Projekt monitoruje [Spolek Náš Kamýk](https://kamykspolek.cz).
+
+- - -
 
 **únor 2021** Trigema přichází s novou verzí svého projektu, ten má nyní formu dvou věží s 14 a 9 patry. Projekt již získal souhlasné stanovisku IPRu. Předchozí záměr obsahoval dvě věže o 18 a 14 patry.
 
