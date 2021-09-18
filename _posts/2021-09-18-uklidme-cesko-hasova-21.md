@@ -19,7 +19,7 @@ Dobrovolnická činnost je Pirátům blízká, mají přirozený zájem o ochran
 * **6.4.2019** - Ukliďme les kolem ulice Čs.exilu ([akce 21252](https://www.uklidmecesko.cz/event/21252/))
 * **21.9.2019** - Ukliďme les Kamýk ([akce 23923](https://www.uklidmecesko.cz/event/23923/))
 * **19.9.2020** - Ukliďme louku u zastávky Hasova ([akce 26933](https://www.uklidmecesko.cz/event/26933/))
-* **29.3.2021** - Individuální úklidy kvůli opatřením proti šíření nemoci COVID-19 ([zpráva na Facebooku](https://www.facebook.com/PiratiP12/posts/2902042076738778))
-* **18.9.2021** - Ukliďme louku u zastávky Hasova ([akce 26933](https://www.uklidmecesko.cz/event/30024/))
+* **27.3.2021** - Individuální úklidy kvůli opatřením proti šíření nemoci COVID-19 ([zpráva na Facebooku](https://www.facebook.com/PiratiP12/posts/2902042076738778))
+* **18.9.2021** - Ukliďme louku u zastávky Hasova ([akce 30024](https://www.uklidmecesko.cz/event/30024/))
 
 ![Úklid]({{ 'assets/img/posts/2021-09-18-uklid3.jpg' | relative_url }})
