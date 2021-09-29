@@ -14,5 +14,5 @@ Den české státnosti uctili Piráti Prahy 12, Starostové a Zelení výsadbou 
 
 Jako uctění tohoto dne jsme vysadili lípu, tedy náš národní strom, a pojmenovali ji Anežka, podle svaté Anežky České, která byla průkopníci nemocniční péče na české půdě. Pojmenování naší nové lípy je tedy i vyjádřením úcty k doktorům a zdravotníkům, kteří s maximálním nasazením každý den bojují za naše životy v současné těžké době.
 
-Svatá Anežka Česká má ale i něco společného s naším svobodným státem, údajně se po staletí tradovala předpověď že „Až bude Anežka Česká svatořečena, zavládne v českých zemích svoboda“, přičemž pět dní po jejím svatořečení začala Sametová revoluce, proto tedy uctěme tento den kdy si připomínáme náš svobodný demokratický stát a jdeme volit, tedy využít našeho práva vyjádřit důvěru lidem kteří budou u kormidla našeho státu následující roky. 
+Svatá Anežka Česká má ale i něco společného s naším svobodným státem. Údajně se po staletí tradovala předpověď, že „Až bude Anežka Česká svatořečena, zavládne v českých zemích svoboda“. Pět dní po jejím svatořečení začala Sametová revoluce. Proto tedy uctěme tento den, kdy si připomínáme náš svobodný demokratický stát, a pojďme volit, tedy využít našeho práva vyjádřit důvěru lidem, kteří budou u kormidla našeho státu následující roky. 
 
