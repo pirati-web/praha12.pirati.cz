@@ -3,7 +3,7 @@ category: blog
 title: Piráti, Starostové a Zelení uctili výročí Dne české státnosti výsadbou lípy Anežka
 date: 2021-09-28
 author: Ondřej Karaffa
-authorId: ondrej.karaffa
+authorId:
 image: posts/2021-09-28-lipa-anezka.jpg
 tags:
   - lípa
