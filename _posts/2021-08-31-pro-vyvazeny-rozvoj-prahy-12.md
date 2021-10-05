@@ -7,6 +7,7 @@ authorId: eva.tylova
 image: posts/2021-08-31-mikrotechna-jerab.jpg
 tags:
   - výstavba
+  - top5
 ---
 
 Při plnění pirátských programových závazků v sekci územního rozvoje, diskutujeme s občany a spolky o tom, jak by si svoje okolí představovali. Důležité jsou požadavky na rozumný a vyvážený rozvoj městské části. Základem jejich prosazení jsou územní studie. Na území Prahy 12 byly v posledních letech dokončeny dvě územní studie: v roce 2019 Komořan a v roce 2020 [okolí budoucí stanice metra Libuš](https://www.iprpraha.cz/libus). Na náš podnět je realizována územní studie v [okolí budoucí stanice metra Nové dvory](https://www.iprpraha.cz/novedvory). V červnu se k ní mohli vyjádřit občané u participačního kontejneru.

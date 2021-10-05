@@ -8,6 +8,7 @@ image: posts/2021-04-25-otevrena-data.jpg
 tags:
   - transparentnost
   - digitalizace
+  - top5
 ---
 
 Městská část Praha 12 již od roku 2020 publikuje otevřená data. Zpočátku to byla data zejména ekonomického charakteru, která zvyšují otevřenost a transparentnost městské části. Nyní přibylo 6 dalších sad, které by mohly být použity v mobilních či webových aplikacích třetích stran. Data jsou zveřejněna na pražském portálu otevřených dat [opendata.praha.eu](https://opendata.praha.eu/organization/praha-12).

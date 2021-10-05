@@ -8,6 +8,7 @@ image: posts/2021-01-28-vysadby2.jpg
 tags:
   - stromy
   - životní prostředí
+  - top5
 ---
 
 Plníme pirátský plán vysadit v Praze za 8 let 1 milion stromů. K více než 300 tis. stromů, které hl. město Praha loni a letos vysázelo, jsme i na Praze 12 přidali svůj příspěvek. Vysadili jsme ovocný sad, biokoridor, 4 aleje a stovky stromů na sídlišti. Výsadbu má v kompetenci místostarostka Eva Tylová, ale i ruku k dílu přiložili a to doslovně pomocí při sázení i starosta Jan Adamec, radní Jiří Brůžek a další Piráti. Místa pro výsadbu navrhla Veronika Oušková.
