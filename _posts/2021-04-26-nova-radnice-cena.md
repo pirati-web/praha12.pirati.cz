@@ -7,6 +7,7 @@ authorId: jan.adamec
 image: posts/2021-04-26-nova-radnice.jpg
 tags:
   - nová radnice
+  - top5
 ---
 
 Nová budova radnice Prahy 12 by měla být v červnu 2021 dokončena a budou se do ní stěhovat všichni zaměstnanci. Velmi často se mluví o ceně této stavby, která pro Prahu 12 znamenala největší investici v historii. Rádi bychom proto shrnuli naše dosavadní postoje k nové radnici.

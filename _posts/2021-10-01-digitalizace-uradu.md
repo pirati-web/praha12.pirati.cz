@@ -8,7 +8,6 @@ image: posts/2021-10-01-digitalizace-uradu.jpg
 tags:
   - digitalizace
   - úřad
-  - top5
 ---
 
 Řekne-li se digitalizace, občany nejvíce zajímá zavádění elektronických variant vyřízení životních situací namísto nutné osobní návštěvy úřadu. Neméně důležitou je ale digitalizace úřadu zevnitř. Ta jednak umožňuje další zavádění digitálních služeb pro občany. Hlavně však přináší možnost zrychlení, odlehčení anebo přímo automatizace práce zaměstnanců úřadu. Navíc šetří papír a místo v archivech.

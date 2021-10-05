@@ -7,6 +7,7 @@ authorId: jiri.bruzek
 image: posts/2021-03-11-nikdo-uz-nemusi-skoncit-na-nadrazi.jpg
 tags:
   - sociální politika
+  - top5
 ---
 
 Kontaktní místo pro bydlení je nástroj, který pomůže všem, kdo se dostali do bytové nouze.
