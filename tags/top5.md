@@ -16,14 +16,13 @@ title: 5 hlavních témat v tomto volebním období
     <li><a class="c-emphasized-anchor" href="{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
-
+<style>span[itemprop="author"] {display:none}</style>
 <div class="o-section-block">
   <div class="row u-uniform-size-row">
     {% for article in site.tags.top5 %}
       <div class="medium-6 large-4 columns {% if forloop.last %}end{% endif %}">
-        {% assign art1 = article %}
-        {% assign art1.authorId = nil %}
-        {% include articles/vertical-article.html article=art1 %}
+        {% assign article.authorId="vaclav.sistek" %}
+        {% include articles/vertical-article.html article=article %}
       </div>
     {% endfor %}
   </div>
