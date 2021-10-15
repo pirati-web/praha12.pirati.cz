@@ -35,6 +35,20 @@
     background-color: tomato !important;
     -webkit-print-color-adjust: exact;
   }
+  .hlasbox {
+    display: none;
+    padding: 1px;
+    background:#fafcff
+  }
+  .hlasbox table {
+      table-layout: auto;
+      width: auto;
+      font-size: 75%;
+  }
+  a.hlasbtn:focus {
+      text-decoration:underline
+  }
+
 
 @media print {
   .large-4 {
@@ -59,6 +73,17 @@
   #mapa img { transform: translateX(-50px) translateY(-50px); }
 }
 </style>
+<script>
+function showHideNextEl(linkElem) {
+    var myBox = linkElem.nextElementSibling;
+    if (myBox.style.display === "block") {
+    myBox.style.display = "none";
+    } else {
+    myBox.style.display = "block";
+    }
+    return false;
+}
+</script>
 
 <div class="hide-for-print">{% include header.html %}
 

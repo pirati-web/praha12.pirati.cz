@@ -36,6 +36,10 @@ Projekt monitoruje [Spolek Náš Kamýk](https://kamykspolek.cz).
 
 **únor 2021** Trigema přichází s novou verzí svého projektu, ten má nyní formu dvou věží s 14 a 9 patry. Projekt již získal souhlasné stanovisku IPRu. Předchozí záměr obsahoval dvě věže o 18 a 14 patry.
 
+
+![uzemni_plan.png]({{'uzemni_plan.png' | prepend: page.folder | relative_url }} )
+_Územní plán v okolí projektu. Sice leží e stabilizovaném území, které by se mělo již jen "dotvářet", a věže odpovídají kódům jistě přes písmeno I, v bezprostředním okolí jsou rozvojové plochy s kódem C a D (tedy cca 3 nebo 4 patra)._
+
 - - -
 
 **21.8.2020** Územní řízení bylo zastaveno. Projekt je tak nyní v této podobě (dvě věže 18 a 14 pater) definitivně zastaven.
@@ -47,10 +51,13 @@ Více viz [celý text závazného stanoviska ](http://www.individualniplanovani.
 
 **10.4.2019** Rada MČ podává odvolání k územnímu rozhodnutí stavebního úřadu ze dne 25.2. 2019 
 [R-024-003-19](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=68733) - předkladatel Eva Tylová (Piráti), starosta Jan Adamec (Piráti)
+{% include vystavba_hlasovani.html hlasy="Piráti a Zelení-3-0-0-0;ODS-2-0-1-0;TOP 09-3-0-0-0" %}
 
 **11.12.2018** Rada ruší (revokuje) souhlas s prodejem přilehlých pozemků ([R-005-001-18](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=66236)) - předkladatel Jiří Fremr (ODS), starosta Jan Adamec (Piráti).
 
 **22.11.2018** Stavební úřad zahajuje územní řízení právě v den po zasedání ustavujícího zastupitelstva, tedy tak, že bylo třeba hned následně spolat mimořádné zasedání kvůli tehdy platné pravomoci zastupitelstva vyjadřovat se k developerským projektům. To vyjádřilo 11.12.2018 nesouhlas ([Z-02-003-18](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=66383)) a předalo k dopracování Radě.
+                                            
+- - -
 
 **5.11.2018** Rada 16 dní před změnou vedení radnice souhlasí s prodejem přilehlých pozemků developerovi ([R-189-011-18](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=66314)) - předkladatel Jan Marhoul (ČSSD), starosta Milan Maruštík (ANO).
 
