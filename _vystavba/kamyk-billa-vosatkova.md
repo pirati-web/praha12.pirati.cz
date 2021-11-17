@@ -36,7 +36,7 @@ Projekt monitoruje [Spolek Náš Kamýk](https://kamykspolek.cz).
 _Hlasování o neschváleném usnesení o zákazu pronájmu okolních pozemků_
 
 **21.9.2021** Zastupitelstvo MČ souhlasí s podporou požadavků petice Proti plánované naddimenzované výstavbě a zahuštění ve stabilizovaném území sídliště Kamýk a Lhotka v ulici Vosátkova na pozemku původního objektu „Billa“ [Z-22-004-21](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=85842) - předkladatel Eva Tylová (Piráti), starosta Jan Adamec (Piráti)
-{% include vystavba_hlasovani.html nazev="Z-22-004-21 (podpora petice)" hlasy="Piráti a Zelení-10-0-0-0; ODS-3-0-1-2; TOP 09-4-0-0-0; ANO-1-0-4-1; Změna-2-0-1-2; Občané12-1-0-1-0" %}
+{% include vystavba_hlasovani.html nazev="Z-22-004-21 (podpora petice)" hlasy="Piráti a Zelení-10-0-0-0; ODS-3-0-1-2; TOP 09-4-0-0-0; ANO-1-0-5-1; Změna-2-0-1-2; Občané12-1-0-1-0" %}
 
 **14.9.2020** Developer (Trigema) posílá předžalobní výzvu 8 členům rady z 9, kteří hlasovali pro nesouhlas s projektem, a požaduje zrušení onoho nesouhlasného usnesení.
 
