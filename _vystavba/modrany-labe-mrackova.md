@@ -30,3 +30,4 @@ printImg2: puvodni_stav.jpg
 Nový majitel objektu restarace Labe zde zvažuje stavět polyfunkční dům.
 
 ![puvodni_stav.jpg]({{'puvodni_stav.jpg' | prepend: page.folder | relative_url }} )
+_Foto: původní stav_
