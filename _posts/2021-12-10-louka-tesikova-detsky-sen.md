@@ -1,6 +1,6 @@
 ---
 category: blog
-title: Louka ať zůstane loukou: Piráti nepodpoří oplocený zábavní park
+title: "Louka ať zůstane loukou: Piráti nepodpoří oplocený zábavní park"
 date: 2021-12-10
 author: Jiří Brůžek
 authorId: jiri.bruzek
