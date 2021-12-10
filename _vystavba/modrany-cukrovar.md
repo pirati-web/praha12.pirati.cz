@@ -3,7 +3,7 @@ title: Areál cukrovaru
 katastr: Modřany
 developer: Skanska Reality
 nazev: Cukrkandl
-web: https://reality.skanska.cz/dobry-soused/modransky-cukrovar-participace
+web: http://www.modranskycukrovar.cz
 plocha:
 plochaObytna:
 jineFunkce:
