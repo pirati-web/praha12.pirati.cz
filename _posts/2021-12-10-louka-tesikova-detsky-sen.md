@@ -9,7 +9,7 @@ tags:
   - životní prostředí
 ---
 
-Na Kamýku hrozí podnikatelský záměr pobočky zábavního parku. Jeho potenciální provozovatel, spolek Dětský sen, chce však stavět v lokalitě, kterou si místní přejí zachovat v současném stavu. Louka rozprostírající se mezi prodejnou Lidl a Policejní akademií na ulici Lhotecká je ve vlastnictví Magistrátu hl.&nbsp;m.&nbsp;Prahy, který se obrátil na městskou část Praha 12 s žádostí o stanovisko k jejímu pronájmu. Komise územního rozvoje, komise životního prostředí ani komise pro kulturu, sport a volný čas se záměrem vyslovily nesouhlas. Proti jsou i místní občané.
+Na Kamýku hrozí podnikatelský záměr pobočky zábavního parku. Jeho potenciální provozovatel, spolek Dětský sen, chce však stavět v lokalitě, kterou si místní přejí zachovat v současném stavu. Louka rozprostírající se mezi prodejnou Lidl a Policejní akademií na ulici Lhotecká je ve vlastnictví Magistrátu hl.&nbsp;m.&nbsp;Prahy, který se obrátil na městskou část Praha 12 s žádostí o stanovisko k jejímu pronájmu. Komise územního rozvoje, komise životního prostředí a komise pro kulturu, sport a volný čas se záměrem vyslovily nesouhlas. Proti jsou i místní občané.
 
 Pro Piráty záměr přebudovat zelenou rekreační plochu na oplocený areál pro platící zákazníky není přijatelný. 
 
