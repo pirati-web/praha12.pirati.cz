@@ -46,9 +46,10 @@ Boji proti tomuto projektu se věnuje iniciativa občanů [Sebeobrana sídlišt�
 **3.10.2018** Stavební úřad zahajuje územní řízení několik dní před komunálními volbami, tedy v situaci, kdy se stávající zastupitelstvo k projektu už nestihne vyjádřit a nové zastupitelstvo se po volbách ještě nestihne ustavit, takže se městská část nemůže řízení účastnit (kvůli tehdy platné pravomoci zastupitelstva vyjadřovat se k developerským projektům).
 
 **6.11.2017** Zastupitelstvo nesouhlasí s usnesením rady
-[R-22-004-17](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=58655) - František Adámek jako jediný proti, zbytek ČSSD a ANO se zdrželo hlasování
+[Z-22-004-17](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=69738) ([hlasování](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=58655)) - František Adámek jako jediný proti, zbytek ČSSD a ANO se zdrželo hlasování
+{% include vystavba_hlasovani.html nazev="Z-22-004-17 (nesouhlas)" hlasy="ANO-1-0-7-2; ČSSD-0-1-2-1; Změna pro P12-5-0-0-1; TOP09-5-0-0-1; Piráti a Zelení-3-0-0-0; KSČM-2-0-1-0" %}
 
-**26.6.2017** Rada MČ Praha 12 souhlasí se záměrem developera, s vyjímečně přípustným zvýšením funkce bydlení na 90 % kapacity stavby [R-130-028-17](http://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=55967) - předkladatel František Adámek (ČSSD), starosta Milan Maruštík (ANO)
+**26.6.2017** Rada MČ Praha 12 souhlasí se záměrem developera, s vyjímečně přípustným zvýšením funkce bydlení na 90 % kapacity stavby [R-130-028-17](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=67606) - předkladatel František Adámek (ČSSD), starosta Milan Maruštík (ANO)
 
 ![zeleny_kamyk.jpg]({{'zeleny_kamyk.jpg' | prepend: page.folder | relative_url }} )
 
