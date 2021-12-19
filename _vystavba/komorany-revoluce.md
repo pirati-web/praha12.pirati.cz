@@ -38,4 +38,7 @@ Vlastníkem investorské firmy [Proinvex s.r.o.](https://rejstrik-firem.kurzy.cz
 
 ![viz1.jpg]({{'viz1.jpg' | prepend: page.folder | relative_url }} )
 
+**23.2.2016** Zastupitelstvo nesouhlasí se změnou územního plánu obytné části a zeleně na obytnou s kódem C (OB-C)  - [Z-11-007-16](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=46149) - starostka Daniela Rázková (Změna pro Prahu 12)
+
 ![puvodni_stav.jpg]({{'puvodni_stav.jpg' | prepend: page.folder | relative_url }} )
+_(původní stav)_
