@@ -10,16 +10,19 @@ category:                   # kategorie: pms, clenove, priznivci
 ordpms: 1
 
 img: people/michal-macek.jpg   # 165 x 220
-description: hospodář poslaneckého klubu Pirátů, předseda místního sdružení Praha 12  # kratký popis, max 160 znaků
+description: tajemník poslaneckého klubu Pirátů, předseda místního sdružení Praha 12  # kratký popis, max 160 znaků
 mob: 
 mail: michal.macek@pirati.cz
 profiles:
   facebook: https://www.facebook.com/michal.macek.733
 ---
 
-Michal Macek (*1991) žil první 4 roky života v Modřanech, pak na Praze 4 a na Libuši, po 20 letech se do Modřan vrátil a založil další generaci. Vystudoval FFUK, obor kulturologie, zastával pozici produkčního v teambuildingové agentuře. V současné době působí jako místopředseda zapsaného spolku. Pracuje jako hospodář Poslaneckého klubu Pirátů, je členem Pirátské strany.
+Michal Macek (*1991) je tajemníkem poslaneckého klubu Pirátů. Předtím byl 3 roky jeho hospodářem.
 
-Těžiště činnosti a životní zkušenosti má v turistickém oddíle. Když povyrostl, začal sám vést programy nejprve standardních oddílových, poté vlastních větších akcí. Tři roky vedl oddíl jako hlavní vedoucí, předsedal zastřešující organizaci.
-Zájem o dění a lidi kolem mu přetrval, před nedávnem zaměření zájmu přesunul ze spolkové činnosti do činnosti občanské. V roce 2018 se aktivně zapojil do kampaně Pirátů a zjistil, že s nimi do budoucna rád spojí své angažmá. Zejm. reforma školství a orientace vzdělání směrem do 21. století, skutečná rodinná politika nebo transparentnost jsou témata, za která stojí za to se zasazovat.
+Předsedá místnímu sdružení Pirátů na Praze 12.
 
-Celoživotně jej zaměstnává chození po horách a po evropských nebo amerických městech, druhým rokem zastává pozici senior managera v projektu Michal a jeho Rodina. Když má čas, hraje stolní hry.
+Těžiště činnosti a životní zkušenosti má v turistickém oddíle. Když povyrostl, začal sám vést programy nejprve standardních oddílových, poté vlastních větších akcí. Tři skvělé roky vedl oddíl jako hlavní vedoucí. V dalších letech mj. předsedal zastřešující organizaci. Zájem o dění a lidi kolem mu přetrval, jen zaměření zájmu postupně přesunul ze spolkové činnosti do činnosti občanské. V roce 2018 kandidoval za Piráty v komunálních volbách a zjistil, že s nimi do budoucna rád spojí své angažmá: Zejm. přeorientování vzdělávání směrem do 21. století, skutečná rodinná politika nebo transparence výkonu veřejné správy jsou témata, za která mu stojí za to se zasazovat.
+
+První 4 roky života žil v Modřanech, pak na Praze 4 a na Libuši, po 20 letech se do Modřan vrátil a založil další generaci. V roce 2013 absolvoval FFUK, obor kulturologie. Celoživotně jej zaměstnává chození po horách a po evropských nebo amerických městech.
+
+Michal je ženatý, má čtyřletého syna a dvouletou dceru.
