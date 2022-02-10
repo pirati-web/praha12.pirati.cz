@@ -9,8 +9,8 @@ plochaObytna:
 jineFunkce:
 pocetBytu:
 pocetParking:
-uzemniPlanKod: TI
-fazeSchvaleni: 3
+uzemniPlanKod: SV-C
+fazeSchvaleni: 4
 rokDokonceni:
 gps:
   lat: 50.0095589
@@ -27,8 +27,10 @@ printImg1:
 printImg2: puvodni_stav.jpg
 ---
 
-Změna územního plánu na SV-C se projednává jako [Z-2801](https://app.iprpraha.cz/napp/zmeny/?id=383&action=view&presenter=Articlezmenyupravy)
+**17.5.2018** Zastupitelstvo hlavního města Prahy schvaluje návrh změny územního plánu na SV-C. Změna územního plánu z TI na SV-C se projednávala jako [Z-2801](https://app.iprpraha.cz/napp/zmeny/?id=866&action=view&presenter=Articlezmenyupravy)
 
-Další informace o projektu brzy doplníme.
+
+
+Zatím není znám žádný záměr.
 
 ![puvodni_stav.jpg]({{'puvodni_stav.jpg' | prepend: page.folder | relative_url }} )
