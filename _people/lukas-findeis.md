@@ -15,7 +15,6 @@ mail:
 - lukas.findeis@pirati.cz
 profiles:
   facebook: https://www.facebook.com/lukas.xeelee.findeis
-  googleplus: https://plus.google.com/+LukasXeeleeFindeis
 ---
 
 Lukáš Findeis (*8. října 1985, Praha) je členem Pirátské strany od roku 2010, aktivní je o něco déle. Studoval na SŠ slaboproudé elektrotechniky, odkud odešel s maturitou. Jeho profilovým předmětem byly přenosové informační systémy. Dříve pracoval ve vrátkovém skladu v Amazonu v Dobrovízi, dnes pracuje jako prodavač bot v obchodě naBOSo. V komunálních volbách 2014 byl zvolen zastupitelem městské části Praha 12. Ze zdravotních důvodů přestal jíst maso a už se k němu nevrátil. Dává přednost jednoduché a z velké části syrové stravě, obejde se bez alkoholu. Volný čas tráví nejraději běháním.
