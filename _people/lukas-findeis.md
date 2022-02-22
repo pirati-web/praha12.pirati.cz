@@ -17,6 +17,6 @@ profiles:
   facebook: https://www.facebook.com/lukas.xeelee.findeis
 ---
 
-Lukáš Findeis (*8. října 1985, Praha) je členem Pirátské strany od roku 2010, aktivní je o něco déle. Studoval na SŠ slaboproudé elektrotechniky, odkud odešel s maturitou. Jeho profilovým předmětem byly přenosové informační systémy. Dříve pracoval ve vrátkovém skladu v Amazonu v Dobrovízi, dnes pracuje jako prodavač bot v obchodě naBOSo. V komunálních volbách 2014 byl zvolen zastupitelem městské části Praha 12. Ze zdravotních důvodů přestal jíst maso a už se k němu nevrátil. Dává přednost jednoduché a z velké části syrové stravě, obejde se bez alkoholu. Volný čas tráví nejraději běháním.
+Lukáš Findeis (*1985, Praha 12) je zastupitelem MČ Praha 12 a členem Pirátské strany od roku 2010. Pomáhal budovat Pirátskou stranu téměř od jejího založení. Maturoval na SŠ slaboproudé elektrotechniky. Dlouhodobě se věnuje pohybu. Je ultramaratonec, běžecký trenér, masér a věnuje se i dalším pohybovým a tělo opravujícím aktivitám.
 
-Po volbách v roce 2018 se stal radním s kompetencí sociální věci.
+V komunální politice na Praze 12 je aktivní od roku 2010, kdy poprvé kandidoval do místního zastupitelstva. V komunálních volbách 2014 byl zvolen zastupitelem městské části Praha 12, kde skončil v opozici. Po vítěžství Pirátů v roce 2018 se stal radním pro sociální věci a sport, ale funkci vykonával jen něco málo přes rok a z osobních důvodů musel rezignovat.
