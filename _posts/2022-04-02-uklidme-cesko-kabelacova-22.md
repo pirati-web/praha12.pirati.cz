@@ -21,7 +21,7 @@ Dobrovolnická činnost je Pirátům blízká, mají přirozený zájem o ochran
 * **19.9.2020** - Ukliďme louku u zastávky Hasova ([akce 26933](https://www.uklidmecesko.cz/event/26933/))
 * **27.3.2021** - Individuální úklidy kvůli opatřením proti šíření nemoci COVID-19 ([zpráva na Facebooku](https://www.facebook.com/PiratiP12/posts/2902042076738778))
 * **18.9.2021** - Ukliďme louku u zastávky Hasova ([akce 30024](https://www.uklidmecesko.cz/event/30024/))
-* **4.2.2022** - Ukliďme louku u zastávky Hasova a Kabeláčovu ([akce 32224](https://www.uklidmecesko.cz/event/32224/))
+* **2.4.2022** - Ukliďme louku u zastávky Hasova a Kabeláčovu ([akce 32224](https://www.uklidmecesko.cz/event/32224/))
 
 ![Úklid]({{ 'assets/img/posts/2022-04-02-uklid3.jpg' | relative_url }})
 _Zbytky kabelů v ulici Kabeláčova. A také psací stroj._
