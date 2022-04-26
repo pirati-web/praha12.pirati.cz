@@ -4,10 +4,11 @@ katastr: Kamýk
 developer: Trigema
 nazev: Polyfunkční dům Kamýk
 web:
-plocha:
-plochaObytna:
+plocha: 11518 
+plochaObytna: 11255
 jineFunkce: samoobsluha
-pocetPodlazi: 14, 9
+pocetPodlazi: 15, 9
+pocetBytu: 154
 pocetParking:
 uzemniPlanKod: OV
 fazeSchvaleni: 6
@@ -40,10 +41,10 @@ _Hlasování o neschváleném usnesení o zákazu pronájmu okolních pozemků_
 
 **14.9.2020** Developer (Trigema) posílá předžalobní výzvu 8 členům rady z 9, kteří hlasovali pro nesouhlas s projektem, a požaduje zrušení onoho nesouhlasného usnesení.
 
-**24.8.2021** Rada MČ nesouhlasí ani s novým projektem o výšce věží 14 a 9 pater z důvodu stále nepřiměřené velikosti [R-135-002-21](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=85390) - předkladatel Eva Tylová (Piráti), starosta Jan Adamec (Piráti)
+**24.8.2021** Rada MČ nesouhlasí ani s novým projektem o výšce věží 15 a 9 pater z důvodu stále nepřiměřené velikosti [R-135-002-21](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=85390) - předkladatel Eva Tylová (Piráti), starosta Jan Adamec (Piráti)
 {% include vystavba_hlasovani.html nazev="R-135-002-21 (nesouhlas)" hlasy="Piráti-3-0-0-0; ODS-2-0-1-0; TOP 09-3-0-0-0" %}
 
-**únor 2021** Trigema přichází s novou verzí svého projektu, ten má nyní formu dvou věží s 14 a 9 patry. Projekt již získal souhlasné stanovisku IPRu. Předchozí záměr obsahoval dvě věže o 18 a 14 patry.
+**únor 2021** Trigema přichází s novou verzí svého projektu, ten má nyní formu dvou věží s 15 a 9 podlažími. Projekt již získal souhlasné stanovisku IPRu. Předchozí záměr obsahoval dvě věže o 18 a 14 patry.
 
 
 ![uzemni_plan.png]({{'uzemni_plan.png' | prepend: page.folder | relative_url }} )
