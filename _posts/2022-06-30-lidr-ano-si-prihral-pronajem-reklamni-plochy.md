@@ -27,7 +27,7 @@ Mikys Group uzavřela v roce 2018 smlouvu s SBO na dobou určitou, od 1.8.2018 d
 <img src="{{ 'assets/img/posts/2022-06-30-pinc-fb-uvodni.png' | relative_url }}" alt="Úvodní fotka z Orlické přehrady" width="340"><br>
 _(profilový obrázek a úvodní fotka z přístavu pana Pince a Orlické přehrady)_
 
-Pro ty, kdo znají praktiky hnutí ANO, již tedy nebylo velkým překvapením, když se vzhledem k napojení Michala Pince na SBO i firmu Mikys Group Husově knihovně před komunálními volbami v roce 2018 objevil právě obří billboard hnutí ANO. Bude zajímavé sledovat, kdo bude mít tuto plochu obšancovanou pro volby 2022.
+Pro ty, kdo znají praktiky hnutí ANO, již tedy nebylo velkým překvapením, když se vzhledem k napojení Michala Pince na SBO i firmu Mikys Group na Husově knihovně před komunálními volbami v roce 2018 objevil právě obří billboard hnutí ANO. Bude zajímavé sledovat, kdo bude mít tuto plochu obšancovanou pro volby 2022.
 
 Toto je jeden ze střípků do mozaiky, jak si ANO představuje správu veřejného majetku.
 
