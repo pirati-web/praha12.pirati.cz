@@ -114,7 +114,7 @@ tail: # zbytek kandidatky
     party: bez politické příslušnosti
   - name: Iveta Tomanová Askariová
     age: 56
-    profession: programátorka
+    profession: business analytička
     party: bez politické příslušnosti
   - name: Michal Ouška
     age: 38
