@@ -38,7 +38,7 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     profession: tajemník úřadu Praha-Slivenec, lektor odpadového hospodářství
     party: Piráti
   - uid: monika.kuncova
-    age: 67
+    age: 33
     profession: koordinátorka pro Piráty
     party: Piráti
   - uid: jaroslav.toman
@@ -104,15 +104,15 @@ tail: # zbytek kandidatky
     age: 35
     profession: systémový administrátor
     party: bez politické příslušnosti
-  - name: Tomáš Hajzler
+  - name: Ing. Tomáš Hajzler
     age: 51
     profession: nakladatel
     party: bez politické příslušnosti
   - name: Mgr. Monika Šístková
-    age: 33
+    age: 37
     profession: lektorka angličtiny a hry na piano, dobrovolnice v sociálních službách
     party: bez politické příslušnosti
-  - name: Iveta Tomanová Askariová
+  - name: Ing. Iveta Tomanová Askariová
     age: 56
     profession: business analytička
     party: bez politické příslušnosti
@@ -120,15 +120,15 @@ tail: # zbytek kandidatky
     age: 38
     profession: osobní bankéř
     party: bez politické příslušnosti
-  - name: Lucie Najmanová
+  - name: Mgr. Lucie Najmanová, Ph.D.
     age: 51
     profession: vědecký pracovník
     party: bez politické příslušnosti
-  - name: Jana Skálová
+  - name: PhDr. Jana Skálová
     age: 64
     profession: překladatelka
     party: bez politické příslušnosti
-  - name: Eva Petrů
+  - name: Mgr. Eva Petrů
     age: 78
     profession: důchodkyně
     party: bez politické příslušnosti
@@ -136,7 +136,7 @@ tail: # zbytek kandidatky
     age: 33
     profession: asistentka pedagoga
     party: bez politické příslušnosti
-  - name: David Třebický
+  - name: Bc. David Třebický
     age: 29
     profession: programátor, hudebník
     party: bez politické příslušnosti
