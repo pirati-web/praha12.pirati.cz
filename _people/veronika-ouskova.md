@@ -5,8 +5,7 @@ titles:
   before: Mgr.
   after:
 category:                   # kategorie: pms, clenove, priznivci
-- pms
-ordpms: 4
+- priznivci
 
 img: people/veronika-ouskova.jpg   # 165 x 220
 description: botanička  # kratký popis, max 160 znaků
@@ -20,4 +19,3 @@ Veronika Oušková (*1984, Frýdek-Místek) vystudovala systematickou biologii a
 
 S Piráty Prahy 12 se seznámila náhodně v roce 2018 při dobrovolnickém úklidu lesa, kde ji místní Piráti zaujali zejména svým autentickým zájmem o životní prostředí. Následovala spolupráce v místních komunálních volbách a aktivní výpomoc i poté, co Piráti v Praze 12 volby vyhráli. V roce 2019 působila jako asistentka a poradkyně pirátské místostarostky Evy Tylové, které pomáhala hledat a realizovat cesty ke zlepšení stavu životního prostředí v Praze 12. Výsledkem této vzájemné spolupráce byly mj. stovky vysazených stromů a keřů, realizace opatření na podporu biodiverzity, příprava a realizace opatření k vyšší využitelnosti dešťových vod a inovace přístupu k péči o zemědělskou krajinu v majetku města. 
 
-Členkou Pirátské strany se stala v roce 2020.

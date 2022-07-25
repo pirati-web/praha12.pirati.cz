@@ -74,6 +74,7 @@ Vycházíme z [celopražského programu](https://praha.pirati.cz/volby/2022-komu
 * Městské byty budeme nadále rychle opravovat, aby sloužily svému účelu
 * **Budoucnost Prioru a okolí vzejde z urbanistické studie, po které bude následovat otevřená architektonická soutěž**
 
+- - -
 ## Dvanáctka moderní
 
 #### 8. více škol a školek
@@ -107,6 +108,7 @@ Vycházíme z [celopražského programu](https://praha.pirati.cz/volby/2022-komu
 * **Veřejné stavby musí mít architektonické zpracování odpovídající moderním trendům, Praha 12 si zaslouží řádné architektonické soutěže, jak je ve světě zvykem**
 * Oživíme veřejný prostor o nové umělecké objekty
 
+- - -
 ## Dvanáctka přívětivá
 
 #### 14. senioři
@@ -156,6 +158,7 @@ Vycházíme z [celopražského programu](https://praha.pirati.cz/volby/2022-komu
 * **Budeme se nadále bojovat proti korupci, klientelismu, osobním útokům, lžím a vulgaritám v místní politice**
 * **Budeme naslouchat občanům, hájit jejich dlouhodobé zájmy a podporovat občanskou angažovanost**
 
+- - -
 ## Dvanáctka budoucnosti
 
 #### 21. vidíme dál
