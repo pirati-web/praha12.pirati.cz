@@ -32,7 +32,7 @@ Vycházíme z [celopražského programu](https://praha.pirati.cz/volby/2022-komu
 #### 1. ochrana zeleně a biodiverzita
 * Budeme chránit stromy, zeleň a ornou půdu před výstavbou
 * Ve spolupráci s odborníky budeme udržovat tu nejvhodnější péči o zeleň, aby se například nesekala tráva, když se očekává sucho
-* Nepolevíme z výsadby stromů na sídlištích i ve volné krajině
+* Nepolevíme ve výsadbě stromů na sídlištích i ve volné krajině
 * Podpoříme ochranu biodiverzity citlivou údržbou městské zeleně a zemědělských ploch
 * Nepoužíváme ve veřejné zeleni jedovaté glyfosáty a nebudeme tento přístup měnit
 * Nechceme nová parkoviště místo zeleně
@@ -50,7 +50,7 @@ Vycházíme z [celopražského programu](https://praha.pirati.cz/volby/2022-komu
 * **Prosazujeme územní studie při rozvoji rozsáhlých ploch. Hlídáme jejich dodržování včetně bilančních tabulek (územní studie Komořany, územní studie Nové Dvory, územní studie Kamýk atd.).** Zasadíme se o dopracování ÚS Komořany i pro územní rozhodování
 * Prosazujeme, aby si stabilizovaná území (např. sídliště) zachovala svůj současný ráz
 * Využíváme profesionálně sepsaná odvolání proti špatným rozhodnutím státní správy
-* Chceme zachováme ráz Cholupic a Točné. Nebudeme podporovat rozrůstání rodinných a bytových domů na úkor polí a luk bez vytvoření odpovídající promyšlené územní studie
+* Chceme zachovat ráz Cholupic a Točné. Nebudeme podporovat rozrůstání rodinných a bytových domů na úkor polí a luk bez vytvoření odpovídající promyšlené územní studie
 * Budeme pokračovat v budování chybějících městských služeb v Cholupicích a Točné (kanalizace, chodníky, školka a kulturní dům v Cholupicích) a v rekonstrukcích točenského a cholupického náměstí
 * Prosadíme změnu územního plánu v parku Povodňová na nezastavitelné území
 
@@ -155,7 +155,7 @@ Vycházíme z [celopražského programu](https://praha.pirati.cz/volby/2022-komu
 * **Nepolevíme v boji proti nelegálním hernám**
 
 #### 20. úroveň politické kultury
-* **Budeme se nadále bojovat proti korupci, klientelismu, osobním útokům, lžím a vulgaritám v místní politice**
+* **Budeme nadále bojovat proti korupci, klientelismu, osobním útokům, lžím a vulgaritám v místní politice**
 * **Budeme naslouchat občanům, hájit jejich dlouhodobé zájmy a podporovat občanskou angažovanost**
 
 - - -
