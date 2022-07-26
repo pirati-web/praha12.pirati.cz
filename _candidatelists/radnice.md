@@ -58,15 +58,15 @@ tail: # zbytek kandidatky
     party: bez politické příslušnosti
   - uid: lukas.findeis
     age: 36
-    profession: běžecký trenér, masér
+    profession: běžecký trenér
     party: Piráti
   - uid: jakub.horak
     age: 38
-    profession: podnikatel
+    profession: podnikatel a zaměstnanec v letectví
     party: Piráti
   - uid: veronika.ouskova
     age: 38
-    profession: biometeoroložka
+    profession: bioložka, datová analytička
     party: bez politické příslušnosti
   - uid: veronika.rajnohova
     age: 41
@@ -92,9 +92,9 @@ tail: # zbytek kandidatky
     age: 47
     profession: grafik, předseda spolku Spojené hlavy, principál sociálního divadla
     party: bez politické příslušnosti
-  - name: Olga Gasparovičová
+  - name: Olga Gašparovičová
     age: 41
-    profession: podnikatelka
+    profession: v domácnosti
     party: bez politické příslušnosti
   - name: Wasseem Alkury
     age: 37
