@@ -52,7 +52,7 @@ tail: # zbytek kandidatky
     age: 20
     profession: inovátor ve vzdělávání
     party: Piráti
-  - name: Mgr. Martina Rázus Paříková
+  - uid: martina.razus.parikova
     age: 37
     profession: datová analytička
     party: bez politické příslušnosti
