@@ -25,4 +25,4 @@ Těžiště činnosti a životní zkušenosti má v turistickém oddíle. Když 
 
 První 4 roky života žil v Modřanech, pak na Praze 4 a na Libuši, po 20 letech se do Modřan vrátil a založil další generaci. V roce 2013 absolvoval FFUK, obor kulturologie. Celoživotně jej zaměstnává chození po horách a po evropských nebo amerických městech.
 
-Michal je ženatý, má čtyřletého syna a dvouletou dceru.
+Michal je ženatý, má čtyřletého syna a tříletou dceru.
