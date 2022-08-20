@@ -30,6 +30,7 @@ printImg1: norma-cens.jpg
 printImg2: puvodni_stav.jpg
 ---
 
+{% include vystavba-strany.html strany="pir;ods;top" %}
 **22.4.2021** Zastupitelstvo MČ Praha 12 nesouhlasí s projektem bytového domu na kotelně od společnosti YIT [Z-20-006-21](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=82973) po předchozím nesouhlasu rady [R-108-001-21](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=82465). Projekt je téměř totožný s tím, který odmítlo zastupitelstvo již v roce 2018 ([Z-30-014-18](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=65157)).
 
 **2.2.2021** Zastupitelstvo nesouhlasí s prodejem malého obecního pozemku sousedícího s Normou Fisoltě  [Z-19-007-21](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=81415) poté, co předtím rada na svém jednání také nesouhlasila ([R-104-008-21](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=80957), překladatel Jiří Fremr (ODS), starosta Jan Adamec (Piráti)) a zrušila předchozí souhlasné stanovisko rady z roku 2017.
@@ -58,13 +59,16 @@ Vysvětlení našeho postupu:
 ![norma-cens.jpg]({{'norma-cens.jpg' | prepend: page.folder | relative_url }})
 (zdroj: mapy.cz a vizualizace Fisolty)
 
+{% include vystavba-strany.html strany="ano;cssd;" %}
 **6.2.2017** Rada souhlasí s prodejem malého obecního pozemku v sousedství Normy firmě Fisolta [R-106-012-17](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=80959) - předkladatel Michal Pinc (ANO), starosta Milan Maruštík (ANO)
 
+{% include vystavba-strany.html strany="zmena;ano;cssd" %}
 **29.6.2015** Rada podmíněně souhlasí s výstavbou 12-patrového domu na kotelně [R-026-011-15](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=41909) - předkladatel Michal Pinc (ANO), starostka Daniela Rázková (Změna pro Prahu 12)
 
 ![kotelna2015.jpg]({{'kotelna2015.jpg' | prepend: page.folder | relative_url }} )
 (vizualizace z roku 2015)
 
+{% include vystavba-strany.html strany="ods;top;zmena" %}
 **16.4.2013** Rada nesouhlasí s výstavbou na kotelně z důvodu nepřijatelné
 výšky a objemu stavby [R-111-001-13](https://www.praha12.cz/VismoOnline_ActionScripts/File.ashx?id_org=80112&id_dokumenty=28249) - předkladatel Eva Tylová (Změna pro Prahu 12), starosta Petr Prchal (TOP 09)
 
