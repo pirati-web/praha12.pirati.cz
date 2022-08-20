@@ -41,6 +41,7 @@ _Hlasování o neschváleném usnesení o zákazu pronájmu okolních pozemků_
 
 **14.9.2020** Developer (Trigema) posílá předžalobní výzvu 8 členům rady z 9, kteří hlasovali pro nesouhlas s projektem, a požaduje zrušení onoho nesouhlasného usnesení.
 
+{% include vystavba-strany.html strany="pir;ods;top" %}
 **24.8.2021** Rada MČ nesouhlasí ani s novým projektem o výšce věží 15 a 9 pater z důvodu stále nepřiměřené velikosti [R-135-002-21](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=85390) - předkladatel Eva Tylová (Piráti), starosta Jan Adamec (Piráti)
 {% include vystavba_hlasovani.html nazev="R-135-002-21 (nesouhlas)" hlasy="Piráti-3-0-0-0; ODS-2-0-1-0; TOP 09-3-0-0-0" %}
 
@@ -69,6 +70,7 @@ Více viz [celý text závazného stanoviska ](http://www.individualniplanovani.
                                             
 - - -
 
+{% include vystavba-strany.html strany="ano;cssd" %}
 **5.11.2018** Rada 16 dní před změnou vedení radnice souhlasí s prodejem přilehlých pozemků developerovi ([R-189-011-18](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=66314)) - předkladatel Jan Marhoul (ČSSD), starosta Milan Maruštík (ANO).
 {% include vystavba_hlasovani.html nazev="R-189-011-18 (souhlas)" hlasy="ANO-3-0-0-0; ČSSD-2-0-0-0" %}
 
