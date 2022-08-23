@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Piráti 2022: 21 priorit pro Prahu 12"
+permalink: :path/:basename.html
 campaignGroupUid: radnice
 rbar: textbox
 textbox:

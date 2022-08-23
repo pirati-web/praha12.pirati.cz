@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Program pro komunální volby 2018
+permalink: :path/:basename.html
 campaignGroupUid: radnice
 rbar: textbox
 textbox:
