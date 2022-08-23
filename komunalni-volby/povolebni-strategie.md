@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Povolební strategie
+permalink: :path/:basename.html
 campaignGroupUid: radnice
 rbar: ""
 ---
