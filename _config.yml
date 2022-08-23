@@ -111,7 +111,7 @@ collections:
     permalink: /lide/:path/
   program:
     output: true
-    permalink: /komunalni-volby/program/:path/
+    permalink: /komunalni-volby/:path/
   candidatelists:
     output: false
   vystavba:
