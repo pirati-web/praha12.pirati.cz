@@ -26,6 +26,8 @@ Je nepřípustné, aby ve velmi exponovaném prostoru, jakým je tento, zanikaly
 
 Petice ke stažení a vytištění: [Petice-nezastaveni-parku-Povodnova.pdf]({{'assets/img/posts/Petice-nezastaveni-parku-Povodnova.pdf' | relative_url }} )
 
+Nebo ji můžete [podepsat elektronicky na Portálu Občana](https://portal.gov.cz/e-petice/164-nesouhlas-se-zastavenim-parku-povodnova-pozemku-v-parku-ve-vlastnictvi-hl-m-prahy-sverenych-mc-praha-12).
+
 - - -
 
 ![územní plán]({{'assets/img/posts/2022-08-23-petice-povodnova-uzemni-plan.png' | relative_url }} )
