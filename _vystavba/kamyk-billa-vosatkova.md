@@ -29,7 +29,7 @@ printImg2: puvodni_stav.jpg
 
 Projekt monitoruje [Spolek Náš Kamýk](https://kamykspolek.cz).
 
-- - -
+{% include vystavba-strany.html obdobi="2018-2022" strany="pir;ods;top" %}
 
 **14.10.2021** Zastupitelstvo hlavního města Prahy rozhodovalo o reakci na petici občanů Proti plánované naddimenzované výstavbě a zahuštění ve stabilizovaném území sídliště Kamýk a Lhotka v ulici Vosátkova na pozemku původního objektu „Billa“. Předseda klubu Pirátů Viktor Mahrik navrhl jako usnesení zákaz pronájmu okolních pozemků developerovi pro využití pro zařízení staveniště, ale toto usnesení [nebylo schváleno](https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vysledky_hlasovani/index.html?periodId=33394&resolutionNumber=&meeting=30&printNumber=&s=1&votingId=55949) - fotografie hlasování viz níže. Místo toho bylo posléze přijato usnesení, kterým se ukládá členům rady HMP jednat s developerem [usn.č. 30/17](http://zastupitelstvo.praha.eu/ina/inagetdocument.aspx?par=040103137145140101124109108078152145140101090088097092097090094078145140101092091096091092097)
 
@@ -41,7 +41,6 @@ _Hlasování o neschváleném usnesení o zákazu pronájmu okolních pozemků_
 
 **14.9.2020** Developer (Trigema) posílá předžalobní výzvu 8 členům rady z 9, kteří hlasovali pro nesouhlas s projektem, a požaduje zrušení onoho nesouhlasného usnesení.
 
-{% include vystavba-strany.html strany="pir;ods;top" %}
 **24.8.2021** Rada MČ nesouhlasí ani s novým projektem o výšce věží 15 a 9 pater z důvodu stále nepřiměřené velikosti [R-135-002-21](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=85390) - předkladatel Eva Tylová (Piráti), starosta Jan Adamec (Piráti)
 {% include vystavba_hlasovani.html nazev="R-135-002-21 (nesouhlas)" hlasy="Piráti-3-0-0-0; ODS-2-0-1-0; TOP 09-3-0-0-0" %}
 
@@ -68,9 +67,7 @@ Více viz [celý text závazného stanoviska ](http://www.individualniplanovani.
 
 **22.11.2018** Stavební úřad zahajuje územní řízení právě v den po zasedání ustavujícího zastupitelstva, tedy tak, že bylo třeba hned následně spolat mimořádné zasedání kvůli tehdy platné pravomoci zastupitelstva vyjadřovat se k developerským projektům. To vyjádřilo 11.12.2018 nesouhlas ([Z-02-003-18](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=66383)) a předalo k dopracování Radě.
                                             
-- - -
-
-{% include vystavba-strany.html strany="ano;cssd" %}
+{% include vystavba-strany.html obdobi="2014-2018" strany="ano;cssd" %}
 **5.11.2018** Rada 16 dní před změnou vedení radnice souhlasí s prodejem přilehlých pozemků developerovi ([R-189-011-18](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=66314)) - předkladatel Jan Marhoul (ČSSD), starosta Milan Maruštík (ANO).
 {% include vystavba_hlasovani.html nazev="R-189-011-18 (souhlas)" hlasy="ANO-3-0-0-0; ČSSD-2-0-0-0" %}
 
