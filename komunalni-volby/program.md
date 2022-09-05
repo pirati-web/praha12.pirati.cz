@@ -26,6 +26,10 @@ textbox:
 
 _Praha 12 přívětivá, udržitelná a bez korupce_
 
+> Dohodli jsme se s hercem Markem Adamczykem a nechali pro Vás namluvit náš program pro komunální volby. 21 priorit pro Prahu 12 si tak můžete pustit třeba při běhání, cestou v tramvaji nebo během uspávání Vašich ratolestí.
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1338281152&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/pirati-praha12" title="Piráti Praha12" target="_blank" style="color: #cccccc; text-decoration: none;">Piráti Praha12</a> · <a href="https://soundcloud.com/pirati-praha12/21-priorit-pro-prahu-12-praha-12-udrzitelna-privetiva-a-bez-korupce" title="21 priorit pro Prahu 12: Praha 12 udržitelná, přívětivá a bez korupce" target="_blank" style="color: #cccccc; text-decoration: none;">21 priorit pro Prahu 12: Praha 12 udržitelná, přívětivá a bez korupce</a></div>
+<br/>
+
 Vycházíme z [celopražského programu](https://praha.pirati.cz/volby/2022-komunalni.html?pohled=program). Nechtěli jsme kopírovat body z něj, i když se s nimi ztotožňujeme, proto si jej prosím prostudujte také.
 
 ## Dvanáctka udržitelná

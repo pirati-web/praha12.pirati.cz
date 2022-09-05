@@ -11,7 +11,7 @@ pocetPodlazi: 13
 pocetBytu: 97
 pocetParking: 106
 uzemniPlanKod: SV
-fazeSchvaleni: 9
+fazeSchvaleni: 11
 rokDokonceni:
 gps:
   lat: 50.0098589
@@ -33,7 +33,11 @@ printImg2: puvodni_stav.jpg
 
 Boji proti tomuto projektu se věnuje iniciativa občanů [Sebeobrana sídliště Kamýk](http://www.sidliste-kamyk.cz/).
 
-- - -
+{% include vystavba-strany.html obdobi="2018-2022" strany="pir;ods;top" %}
+
+**8.2.2022** Eva Tylová (Piráti) předkládá na program jednání Rady MČ Praha 12 bod s názvem "Žaloba proti rozhodnutí Magistrátu hlavního města Prahy, odboru stavebního řádu, č.j. MHMP 2039566/2021, sp.zn. S-MHMP 944822/2019/STR ze dne 22. 12. 2021 ve věci rozhodnutí o umístění stavby REZIDENCE SMOTLACHOVA – BD Zelený Kamýk (...)". Hlasy ODS a TOP 09 je však z programu jednání stažen a žaloba napadající možné nedostatky v rozhodnutí nadřízeného stavebního úřadu není podána.
+
+**22.12.2021** Developer získává pravomocné územní rozhodnutí i přes odvolání občanů i městské části.
 
 **21.11.2020** Developer [začal bourat](https://www.praha12.cz/po%2Dnepravomocne%2Ddemolici%2Dskolky%2Dzustaly%2Dsutiny%2Di%2Dzvlastni%2Dpachut/d-80303) původní budovu o zhruba týden dřív, než k tomu získal pravomocné povolení. Rada MČ se proti odstranění stavby odvolávala dne 2.5.2019 usnesením 
 [R-026-004-19](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=69391), nadřazený stavební úřad však nakonec povolení vydal.
@@ -42,6 +46,8 @@ Boji proti tomuto projektu se věnuje iniciativa občanů [Sebeobrana sídlišt�
 
 **14.3.2019** Rada MČ podává odvolání k územnímu rozhodnutí stavebního úřadu ze dne 25.2. 2019 
 [R-017-007-19](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=67913) - předkladatel Eva Tylová (Piráti), starosta Jan Adamec (Piráti)
+
+{% include vystavba-strany.html obdobi="2014-2018" strany="ano;cssd;" %}
 
 **3.10.2018** Stavební úřad zahajuje územní řízení několik dní před komunálními volbami, tedy v situaci, kdy se stávající zastupitelstvo k projektu už nestihne vyjádřit a nové zastupitelstvo se po volbách ještě nestihne ustavit, takže se městská část nemůže řízení účastnit (kvůli tehdy platné pravomoci zastupitelstva vyjadřovat se k developerským projektům).
 
