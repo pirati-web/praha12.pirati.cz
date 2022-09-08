@@ -45,9 +45,6 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     age: 57
     profession: programátor
     party: Piráti
-tail: # zbytek kandidatky
-      # jedinná povinná položka je name zbytek můžete vynechat
-      # věk se uvádí k poslednímu dni voleb
   - uid: jakub.rychly
     age: 20
     profession: inovátor ve vzdělávání
@@ -56,6 +53,9 @@ tail: # zbytek kandidatky
     age: 37
     profession: datová analytička
     party: bez politické příslušnosti
+tail: # zbytek kandidatky
+      # jedinná povinná položka je name zbytek můžete vynechat
+      # věk se uvádí k poslednímu dni voleb
   - uid: lukas.findeis
     age: 36
     profession: běžecký trenér
