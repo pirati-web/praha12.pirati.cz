@@ -1,10 +1,10 @@
 ---
 category: blog
 title: Piráti Prahy 12 vysadili další lípu, jmenuje se Sláva
-date: 2022-09-09
+date: 2022-09-10
 author: Michal Macek
 authorId: michal.macek
-image: posts/2022-09-09-sazeli-jsme-lipu.jpg
+image: posts/2022-09-10-sazeli-jsme-lipu.jpg
 tags:
   - lípa
   - stromy
