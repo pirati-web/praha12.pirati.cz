@@ -5,7 +5,6 @@ titles:
   before: Mgr.
   after:
 category:                   # kategorie: pms, clenove, priznivci
-- priznivci
 
 img: people/veronika-ouskova.jpg   # 165 x 220
 description: botanička  # kratký popis, max 160 znaků
