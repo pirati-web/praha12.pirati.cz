@@ -1,6 +1,6 @@
 ---
 category: blog
-title: "Tlaku na zhodnocení pozemků rodinných příslušníků politiků v chatové osadě nepodlehneme"
+title: "Pozemkové změny výhodné pro příbuzné politiků Piráti v chatové osadě nepřipustili. Dál politiky hlídáme"
 date: 2022-09-15
 author: Jiří Brůžek
 authorId: jiri.bruzek
