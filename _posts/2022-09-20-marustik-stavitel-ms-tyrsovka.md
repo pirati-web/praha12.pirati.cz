@@ -1,7 +1,7 @@
 ---
 category: blog
 title: "Ex-starosta Prahy 12 Maruštík (ANO) se v MŠ Tyršovka od potisků tašek propracoval ke stavební zakázce za 350 tisíc. Ředitelkou školky je spolukandidátka za ANO, dříve lídryně ČSSD"
-date: 2022-09-15
+date: 2022-09-20
 author: Jan Adamec
 authorId: jan.adamec
 image: posts/2022-09-20-marustik-stavitel-tyrsovka.jpg
