@@ -10,14 +10,14 @@ category:                   # kategorie: pms, clenove, priznivci
 ordpms: 1
 
 img: people/michal-macek.jpg   # 165 x 220
-description: tajemník poslaneckého klubu Pirátů, předseda místního sdružení Praha 12  # kratký popis, max 160 znaků
+description: tajemník zastupitelského klubu středočeských Pirátů, předseda místního sdružení Praha 12, zastupitel MČ Praha 12  # kratký popis, max 160 znaků
 mob: 
 mail: michal.macek@pirati.cz
 profiles:
   facebook: https://www.facebook.com/michal.macek.733
 ---
 
-Michal Macek (*1991) je tajemníkem poslaneckého klubu Pirátů. Předtím byl 3 roky jeho hospodářem.
+Michal Macek (*1991) je tajemníkem zastupitelského klubu středočeských Pirátů. Předtím byl tajemníkem a bezmála 4 roky hospodářem klubu poslaneckého. Od října 2022 je zastupitelem Prahy 12.
 
 Předsedá místnímu sdružení Pirátů na Praze 12.
 
