@@ -8,7 +8,7 @@ category:                   # kategorie: pms, clenove, priznivci
 - clenove
 
 img: people/ivan-stepka.jpg   # 165 x 220
-description: inspektor ochrany ovzduší, zastupitel MČ Praha 12, předseda komise pro rozvoj Komořan, Cholupic a Točné
+description: inspektor ochrany ovzduší, zastupitel MČ Praha 12
 mail: ivan.stepka@volny.cz
 ---
 
@@ -29,3 +29,5 @@ veřejné infrastruktury.
 Za své působení v politice si oblíbil citát Václava Havla: *„Přirozenou nevýhodou demokracie
 je, že těm, kdo to s ní myslí poctivě, nesmírně svazuje ruce, zatímco těm, kteří ji neberou
 vážně, umožňuje téměř vše.“*
+
+Mezi roky 2018 a 2022 působil na Praze 12 ve funkci předsedy komise pro rozvoj Komořan, Cholupic a Točné.

@@ -9,7 +9,7 @@ category:                   # kategorie: pms, clenove, priznivci
 ordpms: 5
 
 img: people/jiri-bruzek.jpg   # 165 x 220
-description: radní MČ Praha 12 # kratký popis, max 160 znaků
+description: zastupitel hl.m.Prahy a MČ Praha 12 # kratký popis, max 160 znaků
 mob: +420 602 406 504
 mail: jiri.bruzek@seznam.cz
 profiles:
@@ -23,3 +23,5 @@ Jiří Brůžek (*1977, Klatovy) vyučil se kuchařem a po dvouletém nástavbov
 Od 20 let je aktivním investorem do akcií a nemovitostí (20 realizovaných obchodů). Od roku 2014 se spolupodílí na Trend Reportu Asociace pro rozvoj nemovitostního trhu. Do 14 let žil v obci Kaliště (Praha východ) a později v Praze. Na Praze 12 žije od roku 2012, kdy se ženou objevili unikátní Montessori školku a 9 letou státní Montessori školu. Má dvě děti.
 
 Ve veřejném životě se začal angažovat v roce 2014 nejdříve jako ambasador Rekonstrukce státu (Registr smluv). V témže roce se stal členem komisí pro dopravu, správu majetku a územního rozvoje zřízených Radou Prahy 12. Do 06/2018 působil jako místopředseda místního spolku. Je členem Pro Regionů, které se zabývají podporou regionální ekonomiky a členem KPZ Modřany. Je administrátor facebookové skupiny [Modřany Praha 12 - Necenzurovaná](https://www.facebook.com/groups/1677444912493517/).
+
+Mezi roky 2019 a 2022 působil na Praze 12 ve funkci radního s kompetencí sociální věci, bytová politika, SBO a sport.

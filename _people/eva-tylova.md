@@ -8,7 +8,7 @@ category:                   # kategorie: pms, clenove, priznivci
 - priznivci
 
 img: people/eva-tylova.jpg   # 165 x 220
-description: místostarostka MČ Praha 12  # kratký popis, max 160 znaků
+description: ekoložka, zastupitelka hl.m.Prahy a MČ Praha 12  # kratký popis, max 160 znaků
 mail:
 profiles:
   facebook: https://www.facebook.com/eva.tylova
@@ -25,4 +25,12 @@ V roce 2010 až 2014 působila na Praze 12 jako místostarostka pro ochranu živ
 Založila si blog, kde komentuje developerské kauzy v rámci
 seriálu ["Tady není developerovo"](https://evatylova.blog.idnes.cz).
 
-Po volbách v roce 2018 se stala radní s kompetencí územní rozvoj a životní prostředí.
+Mezi roky 2018 a 2022 působila na Praze 12 jako místostarostka s kompetencí územní rozvoj a životní prostředí. Radnice se tehdy postavila proti naddimenzovaným projektům, kterými developeři chtějí zastavět naše sídliště.
+
+Podařilo se zastavit megalomanský projekt Dvě věže na Kamýku. U dalších pak upravit projekty a získat výhody pro stávající sousedy. Eva připravila správní žalobu na projekt Zelený Kamýk a BD Levského, kterou ale koaliční partneři neodsouhlasili.
+
+Radnice vystoupila např. i proti stavbě bytových domů mezi rodinnými domy a podařilo se jejich zmenšení v ulici Mezihorská, Nesvadbova a dalších. V Cílkově ulici Evy Tylová prosadila do staré budovy úřadu dětské krizové centrum, takže nehrozí prodej investorům. Z její iniciativy nebude zbořen zámeček Nové dvory a zástavba podle územní studie Nové dvory na Praze 12 bude výškou navazovat na okolní zástavbu rodinných domů.
+
+Eva plnila i závazky přírodě. Zeleň ve městě vytváří příjemné mikroklima, proto Praha 12 zabránila zástavbě louky Na Hupech, vysadila více než tisícovku stromů a vysela květnaté louky. Do stavby nové radnice Prahy 12 Eva prosadila akumulační nádrž na zadržování dešťové vody, kterou se nyní zalévají nově vysazené stromy.
+
+

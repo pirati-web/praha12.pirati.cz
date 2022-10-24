@@ -7,7 +7,7 @@ titles:
 category:                   # kategorie: pms, clenove, priznivci
 
 img: people/jiri-ruzicka.jpg   # 165 x 220
-description: knihovník, redaktor, včelař, zastupitel MČ Praha 12, člen Zelených  # kratký popis, max 160 znaků
+description: knihovník, redaktor, včelař, člen Zelených  # kratký popis, max 160 znaků
 mail: ruzicka@advojka.cz
 ---
 
