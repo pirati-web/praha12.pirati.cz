@@ -9,7 +9,7 @@ category:                 # kategorie: pms, clenove, priznivci
 ordpms: 5
 
 img: people/lukas-findeis.jpg   # 165 x 220
-description: běžecký trenér, zastupitel MČ Praha 12 # kratký popis, max 160 znaků
+description: běžecký trenér # kratký popis, max 160 znaků
 mob: +420 735 07 66 99          # telefon je dobre mit u cloveka uvedeneho jako lokalni kontakt
 mail:
 - lukas.findeis@pirati.cz

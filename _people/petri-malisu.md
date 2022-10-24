@@ -8,7 +8,7 @@ category:                   # kategorie: pms, clenove, priznivci
 - clenove
 
 img: people/petri-malisu.jpg   # 165 x 220
-description: učitelka a grafička # kratký popis, max 160 znaků
+description: učitelka a grafička, zastupitelka MČ Praha 12 # kratký popis, max 160 znaků
 mail: mail@petri.cz
 profiles:
   facebook: https://www.facebook.com/PetriMalisu
