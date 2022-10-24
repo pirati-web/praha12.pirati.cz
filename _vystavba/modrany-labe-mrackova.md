@@ -27,6 +27,12 @@ printImg1:
 printImg2: puvodni_stav.jpg
 ---
 
+{% include vystavba-strany.html obdobi="2018-2022" strany="pir;ods;top" %}
+
+**26.7.2022** Rada MČ nesouhlasí s umožněním kotvení stavby plánovaného domu o 13 podlažích do okolních pozemků ve vlastnictví městské části [R-181-012-22](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=91794) - předkladatel Eva Tylová (Piráti), starosta Jan Adamec (Piráti).
+
+{% include vystavba_hlasovani.html nazev="R-181-012-22 (nesouhlas)" hlasy="Piráti-3-0-0-0; ODS-2-0-1-0; TOP 09-0-0-0-3" %}
+
 Nový majitel objektu restarace Labe zde zvažuje stavět polyfunkční dům.
 
 ![puvodni_stav.jpg]({{'puvodni_stav.jpg' | prepend: page.folder | relative_url }} )

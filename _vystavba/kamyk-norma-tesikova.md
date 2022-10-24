@@ -32,7 +32,7 @@ printImg2: puvodni_stav.jpg
 
 {% include vystavba-strany.html obdobi="2018-2022" strany="pir;ods;top" %}
 
-**30.8.2022** Rada MČ Praha 12 nesouhlasí s projektem 12patrového bytového domu na prodejně Norma, který představila společnost Fisolta [R-187-011-22](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=92265).
+**13.9.2022** Zastupitelstvo MČ Praha 12 nesouhlasí s projektem 12patrového bytového domu na prodejně Norma, který představila společnost Fisolta. [Z-28-007-22](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=92595) 30.8. se na nesouhlasu usnesla i rada  [R-187-011-22](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=92265).
 
 ![norma-fisolta2022.jpg]({{'norma-fisolta2022.jpg' | prepend: page.folder | relative_url }})
 (zdroj: praha12.cz)

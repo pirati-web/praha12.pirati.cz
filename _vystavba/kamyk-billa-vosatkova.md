@@ -31,6 +31,10 @@ Projekt monitoruje [Spolek Náš Kamýk](https://kamykspolek.cz).
 
 {% include vystavba-strany.html obdobi="2018-2022" strany="pir;ods;top" %}
 
+**31.5.2022** Primátor hl.m.Prahy Zdeněk Hřib (Piráti) zaslal obyvatelům [dopis s podporou ]({{'primator-dopis-Trigema.pdf' | prepend: page.folder | relative_url }} ). Opakuje nesouhlas s takto velkou stavbou a podmiňuje pronájem okolních pozemků v majetku Prahy  MČ pouze za podmínky souhlasu investora, městské části i obyvatel. Pronájem pozemků potřebuje developer pro zařízení staveniště.
+
+**3.5.2022** Rada MČ nesouhlasí s návrhem smlouvy o spolupráci mezi Trigemou a hl.m.Prahou a požaduje i nadále zmenšit objem stavby [R-172-001-22](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=90161) - předkladatel Eva Tylová (Piráti), starosta Jan Adamec (Piráti). V materiálu do rady je přítomen text smlouvy.
+
 **14.10.2021** Zastupitelstvo hlavního města Prahy rozhodovalo o reakci na petici občanů Proti plánované naddimenzované výstavbě a zahuštění ve stabilizovaném území sídliště Kamýk a Lhotka v ulici Vosátkova na pozemku původního objektu „Billa“. Předseda klubu Pirátů Viktor Mahrik navrhl jako usnesení zákaz pronájmu okolních pozemků developerovi pro využití pro zařízení staveniště, ale toto usnesení [nebylo schváleno](https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vysledky_hlasovani/index.html?periodId=33394&resolutionNumber=&meeting=30&printNumber=&s=1&votingId=55949) - fotografie hlasování viz níže. Místo toho bylo posléze přijato usnesení, kterým se ukládá členům rady HMP jednat s developerem [usn.č. 30/17](http://zastupitelstvo.praha.eu/ina/inagetdocument.aspx?par=040103137145140101124109108078152145140101090088097092097090094078145140101092091096091092097)
 
 ![hlas_petice_zhmp.jpg]({{'hlas_petice_zhmp.jpg' | prepend: page.folder | relative_url }} )
