@@ -10,7 +10,7 @@ jineFunkce:
 pocetBytu:
 pocetParking:
 uzemniPlanKod: SV-F
-fazeSchvaleni: 6
+fazeSchvaleni: 17
 rokDokonceni:
 gps:
   lat: 49.9994222
@@ -29,6 +29,8 @@ printImg1: viz1.jpg
 printImg2: viz1-pohled-z-vlaku.jpg
 ---
 
+{% include vystavba-strany.html obdobi="2018-2022" strany="pir;ods;top" %}
+
 **11.8.2020** Rada uzavírá dodatek smlouvy se Skanskou, kde se ta zavazuje poskytnout finanční příspěvek ve výši 10 milionů Kč na výstavbu mateřské školy Mydlinky, komunitní prostor (se zázemím) u budoucího náměstí, pozemek pro loděnici a zrekonstruovat křižovatku ulic Generála Šišky a Komořanská ([R-83-016-20](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=82181)). Vedle toho souhlasila i s etapizací výstavby ([R-83-018-20](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=81333)) s požadavkem na maximalizaci nebytové funkce a projektovou dokumentací první etapy ([R-83-017-20](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=81334))  - předkladatel Eva Tylová (Piráti), starosta Jan Adamec (Piráti)
 
 **19.5.2018** Otevření [Cukrkandlu](https://reality.skanska.cz/dobry-soused/cukrkandl) - cyklokavárna, bikrosová dráha, komunitní zahrada, venkovní posilovna
@@ -42,6 +44,8 @@ Projekt bude obsahovat náměstí, víceúčelový prostor pod zastřešenou hal
 ![viz1-ulice-nova-komoanska.jpg]({{'viz1-ulice-nova-komoanska.jpg' | prepend: page.folder | relative_url }})<br/>
 (zdroj: reality.skanska.cz)
 
+{% include vystavba-strany.html obdobi="2014-2018" strany="ano;cssd" %}
+
 **16.4.2018** Rada MČ schválila postoupení původní smlouvy z Neocity na Skansku   ([R-165-002-18](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=61897)) - předkladatel František Adámek (ČSSD), starosta Milan Maruštík (ANO).
 
 **13.2.2018** Prezentace ve Viničním domku zamýšleného komunitního projektu Cukrkandl
@@ -52,11 +56,15 @@ Projekt bude obsahovat náměstí, víceúčelový prostor pod zastřešenou hal
 
 **14.9.2016** 1. veřejné plánovací setkání v Prioru
 
+{% include vystavba-strany.html obdobi="2010-2014" strany="top;zmena" %}
+
 **19.9.2013** Schválení změny územního plánu z ZVO-D na SV-F - projednávání změny: [Z-1438](https://app.iprpraha.cz/napp/zmeny/?id=981&action=view&presenter=Articlezmenyupravy), [grafická část](http://wgp.urm.cz/app/tms/aplk/urm_apl/pup_zmeny/index.php?IDF=2242&lan=cs) - [usnesení ZHMP 31/8](http://zastupitelstvo.praha.eu/ina2014/tedusndetail.aspx?id=182122), [hlasování](http://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vysledky_hlasovani/index.html?periodId=18284&resolutionNumber=8&meeting=31&printNumber=&s=1&votingId=27266&start=&size=) (ODS, ČSSD, TOP09)
 
 ![Letecký pohled]({{'uzemi_letecke_web.jpg' | prepend: page.folder | relative_url }} )
 (zdroj: reality.skanska.cz)
 
-**4.10.2008** Rada MČ schválila darovací smlouvu mezi Neocity Group CZ a jejich projektem Neoriviéra, který se týkal celého území cukrovaru   ([63.18.08](https://www.praha12.cz/VismoOnline_ActionScripts/File.aspx?id_org=80112&id_dokumenty=9241), [smlouva](https://www.praha12.cz/VismoOnline_ActionScripts/File.aspx?id_org=80112&id_dokumenty=9240)) - předkladatel Martin Štengl (ČSSD), starosta Petr Hána (ODS).
+{% include vystavba-strany.html obdobi="2006-2010" strany="ods;snk" %}
+
+**4.10.2008** Rada MČ schválila darovací smlouvu mezi Neocity Group CZ a jejich projektem Neoriviéra, který se týkal celého území cukrovaru   ([63.18.08](https://www.praha12.cz/VismoOnline_ActionScripts/File.aspx?id_org=80112&id_dokumenty=9241), [smlouva](https://www.praha12.cz/VismoOnline_ActionScripts/File.aspx?id_org=80112&id_dokumenty=9240)) - předkladatel Martin Štengl (ODS), starosta Petr Hána (ODS).
 
 **2005** Provozní budovy cukrovaru byly zbořeny, zůstal jen komín. Cukrovar má i svou stránku na [Wikipedii](https://cs.wikipedia.org/wiki/Cukrovar_Modřany).
