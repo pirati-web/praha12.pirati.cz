@@ -18,7 +18,7 @@ gps:
   long: 14.4166581
   zoom: 14
 
-uvodText: Zástavba louky na konci Komořan
+uvodText: Bytová zástavba zadní části areálu Modřanských strojíren
 
 textbox:
   text: >

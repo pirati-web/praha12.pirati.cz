@@ -27,7 +27,11 @@ printImg1: viz1.jpg
 printImg2: puvodni_stav.jpg
 ---
 
+{% include vystavba-strany.html obdobi="2018-2022" strany="pir;ods;top" %}
+
 **26.6.2019** Zastupitelstvo MČ Praha 12 schvaluje usnesením [Z-06-014-19](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=70570) dodatek ke smlouvě s Central Groupem, ve kterém se developer zavazuje změnit svůj projekt podle návrhu v [územní studii Komořan](https://www.praha.eu/jnp/cz/o_meste/magistrat/odbory/odbor_uzemniho_rozvoje/uzemni_planovani/uzemni_studie/studie_platne/us_komorany.html). Znamená to, že zhruba 40 % louky zůstane nezastavěno a bude následně převedeno do vlastnictví Prahy 12.  
+
+{% include vystavba-strany.html obdobi="2014-2018" strany="ano;cssd;" %}
 
 **19.4.2018** Změna [Z-1424](https://app.iprpraha.cz/napp/zmeny/?id=1388&action=view&presenter=Articlezmenyupravy) územního plánu je zpátky na jednacím stole. Výbor pro územní rozvoj a územní plán (VURM) ZHMP schválil znovu pořizování této změny. Piráti (zastupeni Adamem Zábranským) jsou proti ([zápis jednání VURM](http://www.praha.eu/public/d8/fd/f5/2676365_874851_Zapis_VURM_19_4_2018_13__jednani.pdf), viz strana 12).
 
@@ -46,6 +50,8 @@ printImg2: puvodni_stav.jpg
 **21.5.2015** Pražský zastupitel za Piráty Mikuláš Ferjenčík sepsal článek [Stamilionová louka v Komořanech](https://praha.pirati.cz/milionova-louka.html) o projednávané změně územního plánu a obrovkých částkách, o které jde. V roce 2000 byla louka oceněna na 100 tisích Kč, Central Group ji od původního majitele koupil za cca 50 miliónů, po změně územního plánu by měla hodnotu asi 150 miliónů Kč.
 
 **27.4.2015** Rada městské části schvaluje darovací smlouvu s Central Group na dar ve výši 10 mil. Kč
+
+{% include vystavba-strany.html obdobi="2010-2014" strany="ods;top;zmena" %}
 
 **5.2.2014** Soud na podnět Rady MČ Prahy 12 změnu územního plánu č. Z 1424/07 ze zeleně na stavební využití pro procesní pochybení zrušil.
 
