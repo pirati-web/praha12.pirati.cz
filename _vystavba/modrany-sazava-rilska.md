@@ -11,7 +11,7 @@ pocetPodlazi: 4, 7, 11
 pocetBytu:
 pocetParking:
 uzemniPlanKod: SV
-fazeSchvaleni: 5
+fazeSchvaleni: 8
 rokDokonceni:
 gps:
   lat: 50.0086969
@@ -31,7 +31,15 @@ Boji proti tomuto projektu se věnuje občanský spolek [Spolek pro Modřany](ht
 
 - - -
 
+{% include vystavba-strany.html obdobi="2022-2026" strany="ods;ano;top;trik;" %}
+
+**1.12.2022** Developer podal žádost o územní rozhodnutí na o něco zmenšený projekt. Domy jsou odlišně orientované než v předchozím projektu a mají výšku 11, 7 a 4 podlaží se zachováním obchodů v přízemí. Rozbíhá se územní řízení.
+
+{% include vystavba-strany.html obdobi="2018-2022" strany="pir;ods;top" %}
+
 **7.2.2019** Rada podporuje záměr odkupu pozemků a objektů OC Sázava z důvodu zajištění zachování centra služeb a společenského centra pro okolní obyvatele a přirozeného náměstí celé přilehlé oblasti [R-012-019-19](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=67246) - předkladatel Eva Tylová (Piráti), starosta Jan Adamec (Piráti)
+
+{% include vystavba-strany.html obdobi="2014-2018" strany="ano;cssd;" %}
 
 **19.6.2018** Zastupitelstvo stanovuje požadavky pro novostavbu na OC Sázava na maximálně 2 podlaží, maximálně zdvojnásobení objemu, a další  [Z-28-003-18](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=63520) poté, co toto nejprve totožně projednala rada [R-172-009-18](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=62912) - předkladatel František Adámek (ČSSD), starosta Milan Maruštík (ANO)
 
