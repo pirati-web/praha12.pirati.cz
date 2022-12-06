@@ -1,15 +1,15 @@
 ---
 title: Levského, polyfunkční dům
 katastr: Modřany
-developer: Rezidence Modřany, s.r.o. / Property House, a.s.
+developer: IP POLNÁ HOLDING s.r.o.
 nazev: Rezidence Modřany
-web: https://deco.cz/en/deco-project
+web: 
 plocha:
 plochaObytna:
 jineFunkce:
-pocetPodlazi:
-pocetBytu:
-pocetParking:
+pocetPodlazi: 7
+pocetBytu: 120
+pocetParking: 92
 uzemniPlanKod: SV-F
 fazeSchvaleni: 10
 rokDokonceni: 
@@ -25,7 +25,7 @@ textbox:
 
 folder: /assets/img/vystavba/mo-levskeho/
 printImg1: viz1.jpg
-printImg2: 
+printImg2: puvodni-stav.jpg
 ---
 
 Projekt monitoruje [Občanské sdružení Levského](https://www.sites.google.com/site/oslevskeho/).
@@ -43,7 +43,7 @@ Projekt monitoruje [Občanské sdružení Levského](https://www.sites.google.co
 **23.10.2019** Rada MČ nesouhlasí s odstraněním staré budovy [R-047-021-19](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=72918) - předkladatel Eva Tylová (Piráti), starosta Jan Adamec (Piráti)
 
 ![viz1.jpg]({{'viz1.jpg' | prepend: page.folder | relative_url }})
-(zdroj: deco.cz)
+_(zdroj: deco.cz)_
 
 **5.2.2013** Rada MČ nesouhlasí s projektem budovy, požaduje snížení o 1 patro a navýšení podílu nebytových ploch na 40 % kapacity,  [R-101-017-13](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=27193) - předkladatel Eva Tylová (BezPP), starosta Petr Prchal (TOP 09)
 
@@ -54,3 +54,8 @@ Projekt monitoruje [Občanské sdružení Levského](https://www.sites.google.co
 **20.7.2011** Rada MČ těsným hlasováním (5 pro, 4 proti) souhlasí s umístění vyjímečně přípustné stavby "Polyfunkční dům Levského",  [22.02.11](https://www.praha12.cz/VismoOnline_ActionScripts/File.aspx?id_org=80112&id_dokumenty=23331&n=22%2D02%2D11%2Dusneseni%2Dpdf) - předkladatel Eva Tylová (BezPP), starosta František Adámek (ČSSD).
 
 **20.4.2010** Odbor územního plánu Magistrátu hl.m. Prahy vydává změnu kódu z SV-A na SV-F, a umožňuje tím výrazně vyšší zástavbu  [U0831/2010](https://app.iprpraha.cz/napp/zmeny/?cislotxt=U0831&featureexist=1&action=view&presenter=Articlezmenyupravy). Rada Prahy 12 s tímto nesouhlasila (usnesení [109.24.10](https://www.praha12.cz/VismoOnline_ActionScripts/File.aspx?id_org=80112&id_dokumenty=5809))
+
+**25.4.2006** Praha 12 prodává bývalé jesle v ulici Levského a přilehlý pozemek firmě SYSTÉM 93, s.r.o. (usnesení č. 395/2006).
+
+![puvodni-stav.jpg]({{'puvodni-stav.jpg' | prepend: page.folder | relative_url }})
+_původní stav_
