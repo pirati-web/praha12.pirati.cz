@@ -25,3 +25,8 @@ Hned na prvním zasedání zastupitelstva však nový starosta Vojtěch Kos (ODS
 
 Co je možná ještě horší: návrh mimosoudního vyrovnání z iniciativy ODS a ANO zamezí zjištění pravdy ohledně pochybení u soudu. Připomeňme proto, že architekta Krause v podezřelém výběrku [přivedl tehdejší místostarosta Michal Pinc](https://praha12.pirati.cz/aktuality/pinc-ano-ubytovna-u-skladu.html) (ANO), pro kterého řešil i soukromé zakázky. Samotnou rekonstrukci pak měla v gesci ODS, která dosud vinu popírala. V tomto světle dává pokus koalice ODS-ANO obejít soud další otázky. Za Piráty budeme dění sledovat a pokusíme se tomuto zamezit.
 
+- - -
+
+Zdroj: [zápis 1. zasedání](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=93701) Zastupitelstva MČ Praha 12, strana 29, odpověď Vojtěcha Kose
+
+> U Sofijského náměstí je ta situace taková, že tam se budeme muset prostě na radě dohodnout, jakou formou vlastně vymáhat tu vzniklou škodu a kdo za ni může a ono je to poměrně komplikované, protože je v tom několik subjektů, včetně městské části, takže pravděpodobně by tam mohlo dojít k nějaké, aspoň doufám mimosoudní dohodě.
