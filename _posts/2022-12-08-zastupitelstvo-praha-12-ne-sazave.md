@@ -1,6 +1,6 @@
 ---
 category: blog
-title: "Věžáky na Sázavě jsou zpět - občané přinutili nové vedení vyjádřit nesouhlas"
+title: "Věžáky na Sázavě jsou zpět - občané však přinutili nové vedení vyjádřit nesouhlas"
 date: 2022-12-08
 author: Michal Macek
 authorId: michal.macek
