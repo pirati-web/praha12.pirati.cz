@@ -33,6 +33,8 @@ Boji proti tomuto projektu se věnuje občanský spolek [Spolek pro Modřany](ht
 
 {% include vystavba-strany.html obdobi="2022-2026" strany="ods;ano;top;trik;" %}
 
+**7.12.2022** Díky zájmu občanů a s přispěním Pirátů zastupitelé MČ Praha 12 vyjádřili nesouhlas s aktuální podobou záměru developera na Sázavě a uložili radě podat odvolání a jednat s developerem o snížení. Výsledné usnesení ([Z-2-002-22](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=94106)) vzniklo jako kompromis mezi návrhy rady MČ a opozičních Pirátů - starosta Vojtěch Kos (ODS)
+
 **1.12.2022** Developer podal žádost o územní rozhodnutí na o něco zmenšený projekt. Domy jsou odlišně orientované než v předchozím projektu a mají výšku 11, 7 a 4 podlaží se zachováním obchodů v přízemí. Rozbíhá se územní řízení.
 
 {% include vystavba-strany.html obdobi="2018-2022" strany="pir;ods;top" %}
@@ -44,6 +46,8 @@ Boji proti tomuto projektu se věnuje občanský spolek [Spolek pro Modřany](ht
 **19.6.2018** Zastupitelstvo stanovuje požadavky pro novostavbu na OC Sázava na maximálně 2 podlaží, maximálně zdvojnásobení objemu, a další  [Z-28-003-18](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=63520) poté, co toto nejprve totožně projednala rada [R-172-009-18](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=62912) - předkladatel František Adámek (ČSSD), starosta Milan Maruštík (ANO)
 
 **18.9.2017** Rada nesouhlasí s prodejem pozemků v okolí Obzoru firmě Fisolta [R-139-012-17](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=57318) - předkladatel František Adámek (ČSSD), starosta Milan Maruštík (ANO)
+
+**14.7.2017** Institut plánování a rozvoje hlavního města Prahy ([IPR Praha](https://iprpraha.cz)) zaslal občanům svůj [výklad územního plánu]({{'IPR-vyjadreni2017-08-14.pdf' | prepend: page.folder | relative_url }}) na pozemcích OC Sázava
 
 ![Vizualizace]({{'vizualizace.jpg' | prepend: page.folder | relative_url }} )
 (zdroj: přednáška v Modřanském biografu)
