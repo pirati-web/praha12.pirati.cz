@@ -33,6 +33,8 @@ Boji proti tomuto projektu se věnuje občanský spolek [Spolek pro Modřany](ht
 
 {% include vystavba-strany.html obdobi="2022-2026" strany="ods;ano;top;trik;" %}
 
+**7.12.2022** Díky zájmu občanů a s přispěním Pirátů zastupitelé MČ Praha 12 vyjádřili nesouhlas s aktuální podobou záměru developera na Sázavě a uložili radě podat odvolání a jednat s developerem o snížení. Výsledné usnesení ([Z-2-002-22](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=94106)) vzniklo jako kompromis mezi návrhy rady MČ a opozičních Pirátů - starosta Vojtěch Kos (ODS)
+
 **1.12.2022** Developer podal žádost o územní rozhodnutí na o něco zmenšený projekt. Domy jsou odlišně orientované než v předchozím projektu a mají výšku 11, 7 a 4 podlaží se zachováním obchodů v přízemí. Rozbíhá se územní řízení.
 
 {% include vystavba-strany.html obdobi="2018-2022" strany="pir;ods;top" %}
