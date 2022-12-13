@@ -47,6 +47,8 @@ Boji proti tomuto projektu se věnuje občanský spolek [Spolek pro Modřany](ht
 
 **18.9.2017** Rada nesouhlasí s prodejem pozemků v okolí Obzoru firmě Fisolta [R-139-012-17](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=57318) - předkladatel František Adámek (ČSSD), starosta Milan Maruštík (ANO)
 
+**14.7.2017** Institut plánování a rozvoje hlavního města Prahy ([IPR Praha](https://iprpraha.cz)) zaslal občanům svůj [výklad územního plánu]({{'IPR-vyjadreni2017-08-14.pdf' | prepend: page.folder | relative_url }}) na pozemcích OC Sázava
+
 ![Vizualizace]({{'vizualizace.jpg' | prepend: page.folder | relative_url }} )
 (zdroj: přednáška v Modřanském biografu)
 
