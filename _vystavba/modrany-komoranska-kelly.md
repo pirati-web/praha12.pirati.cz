@@ -7,11 +7,11 @@ web:
 plocha:
 plochaObytna:
 jineFunkce:
-pocetPodlazi:
+pocetPodlazi: 12, 5
 pocetBytu:
 pocetParking:
 uzemniPlanKod: OV
-fazeSchvaleni: 4
+fazeSchvaleni: 8
 rokDokonceni: 
 gps:
   lat: 50.0024392 
@@ -24,10 +24,18 @@ textbox:
     Přijde nám přijatelná stavba odkazující na ráz starých Modřan v podobné velikosti a tvaru jako domy na Obchodním náměstí. Tedy 5 podlaží se sedlovou střechou a samozřejmě s obchody v parteru.
 
 folder: /assets/img/vystavba/mo-kelly/
-printImg1: puvodni_stav.jpg
-printImg2: 
+printImg1: viz1.jpg
+printImg2: puvodni_stav.jpg
 ---
+
+{% include vystavba-strany.html obdobi="2022-2026" strany="ods;ano;top;trik;" %}
+
+**21.12.2022** Developer podal žádost o územní rozhodnutí a rozebíhá se tento den územní řízení vyvěšením na úřední desce. Projekt na křižovatce ulic Komořanská a Generála Šišky má tvar do písmene L. Při ulici Komořanská má projekt 5 nadzemních podlaží, na rohu má 12podlažní věž. K tomu dvě podzemní podlaží. Územní plán zde definuje stabilizované území, neměla by zde tedy probíhat rozsáhlá stavební činnost, jen dotvoření současné zástavby.
+
+![vizualizace]({{'viz1.jpg' | prepend: page.folder | relative_url }} )
+
+- - -
 
 V průběhu času se vynořují různé projekty podle toho, jak je pozemek přeprodáván. Známý byl například projekt [South Gate](http://www.bydleni-iq.cz/temata/architektura/kritika-projektu-southgate-v-modranech/). Pozemek je složitý tím, že pod ním vede zatrubněný potok.
 
-![puvodni_stav.jpg]({{'puvodni_stav.jpg' | prepend: page.folder | relative_url }} )
+![puvodni_stav]({{'puvodni_stav.jpg' | prepend: page.folder | relative_url }} )
