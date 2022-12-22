@@ -36,6 +36,6 @@ printImg2: puvodni_stav.jpg
 
 - - -
 
-V průběhu času se vynořují různé projekty podle toho, jak je pozemek přeprodáván. Známý byl například projekt [South Gate](http://www.bydleni-iq.cz/temata/architektura/kritika-projektu-southgate-v-modranech/). Pozemek je složitý tím, že pod ním vede zatrubněný potok.
+V průběhu času se vynořují různé projekty podle toho, jak je pozemek přeprodáván. Známý byl například projekt [South Gate](https://www.praha12.cz/predstavi%2Dse%2Dsouth%2Dgate/d-27966). Pozemek je složitý tím, že pod ním vede zatrubněný potok.
 
 ![puvodni_stav]({{'puvodni_stav.jpg' | prepend: page.folder | relative_url }} )
