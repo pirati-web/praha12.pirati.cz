@@ -16,7 +16,7 @@ profiles:
   blog: https://evatylova.blog.idnes.cz
 ---
 
-Eva Tylová (*12. prosince 1959, Praha) je od roku 2014 předsedkyně klubu zastupitelů Piráti, Zelení a LES na Praze 12. Vystudovala Fakultu jadernou a fyzikálně inženýrskou ČVÚT. Záhy se začala věnovat ochraně životního prostředí. Působila na ministerstvu životního prostředí od pozice referentky po náměstkyni ministra životního prostředí (1998-2002). Jako náměstkyně ministra se angažovala proti těžbě zlata v Mokrsku, kontroverzní dálnicí D3 přes Posázaví, požadovala VŘ na sanaci dioxinových baráků ve Spolaně.
+Eva Tylová (*12. prosince 1959, Praha) vystudovala Fakultu jadernou a fyzikálně inženýrskou ČVUT. Záhy se začala věnovat ochraně životního prostředí. Působila na ministerstvu životního prostředí od pozice referentky po náměstkyni ministra životního prostředí (1998-2002). Jako náměstkyně ministra se angažovala proti těžbě zlata v Mokrsku, kontroverzní dálnicí D3 přes Posázaví, požadovala VŘ na sanaci dioxinových baráků ve Spolaně.
 
 V letech 2003 až 2006 hájila zájmy ochrany přírody jako parlamentní zpravodajka Asociace nevládních organizací Zelený kruh. V letech 2002-2003 a 2008-2010 řídila Českou inspekci životního prostředí. Pod jejím vedením Inspekce připravila podklady o skutečných nákladech na odstranění starých zátěží (cca 30-40 mld. Kč) oproti připravenému předražení zakázky o 30 mld. Kč. Pro nesouhlas se superzakázkou byla ministrem Drobilem odvolána.
 
