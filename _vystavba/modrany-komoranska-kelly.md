@@ -32,6 +32,8 @@ printImg2: puvodni_stav.jpg
 
 **21.12.2022** Developer podal žádost o územní rozhodnutí a rozebíhá se tento den územní řízení vyvěšením na úřední desce. Projekt na křižovatce ulic Komořanská a Generála Šišky má tvar do písmene L. Při ulici Komořanská má projekt 5 nadzemních podlaží, na rohu má 12podlažní věž. K tomu dvě podzemní podlaží. Územní plán zde definuje stabilizované území, neměla by zde tedy probíhat rozsáhlá stavební činnost, jen dotvoření současné zástavby.
 
+![vizualizace]({{'viz2.png' | prepend: page.folder | relative_url }} )
+
 ![vizualizace]({{'viz1.jpg' | prepend: page.folder | relative_url }} )
 
 - - -

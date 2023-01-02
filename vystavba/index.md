@@ -106,6 +106,7 @@ mapa.getSignals().addListener(this, "marker-click", function(e) {
  * [Územní plán](uzemni-plan.html) - vysvětlení kódů územního plánu s odkazy na další zdroje informací
  * [Fáze schvalování projektu](faze-schvalovani.html) - popis fází od změny územního plánu, až k územnímu a stavebnímu řízení
  * [Jak se bránit změnám](zmena-planu.html) - kdy může veřejnost vstupovat do navrhovaných změn územního plánu
+ * [Evidence územních rozhodnutí IPR](https://eur.praha.eu) - Evidence vydaných územních rozhodnutí v Praze v databázi IPR Praha
 
 - - -
 
