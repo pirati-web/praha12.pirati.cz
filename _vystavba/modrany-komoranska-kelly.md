@@ -2,13 +2,13 @@
 title: Komořanská, bytový dům
 katastr: Modřany
 developer: JMM Capital / Modřany development s.r.o.
-nazev:
+nazev: Modřanské břehy
 web: 
-plocha:
+plocha: 7607
 plochaObytna:
-jineFunkce:
+jineFunkce: komerční prostor
 pocetPodlazi: 12, 5
-pocetBytu:
+pocetBytu: 97
 pocetParking:
 uzemniPlanKod: OV
 fazeSchvaleni: 8
