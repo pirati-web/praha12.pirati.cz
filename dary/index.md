@@ -7,7 +7,7 @@ Máme za sebou vánoce, od voleb všude po Praze už utekla fúra času, koalice
 
 A na vánoce i na předvolební sliby tak můžem šťastně zapomenout.
 
-Ne pro Piráty.
+Pro Piráty to ale neplatí.
 
 **My dál pracujeme pro Prahu 12 udržitelnou, přívětivou a bez korupce.**
 

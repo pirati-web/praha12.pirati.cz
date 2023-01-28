@@ -6,10 +6,10 @@ nazev:
 web:
 plocha:
 plochaObytna:
-jineFunkce:
+jineFunkce: komerce v 1. podlaží
 pocetPodlazi: 12
 pocetBytu:
-pocetParking:
+pocetParking: 233
 uzemniPlanKod: SV
 fazeSchvaleni: 5
 rokDokonceni:
@@ -29,6 +29,8 @@ printImg2: puvodni_stav.jpg
 
 ![objem6-2022.jpg]({{'objem6-2022.jpg' | prepend: page.folder | relative_url }} )
 _Objemová studie_
+
+**konec 2022** [IPR Praha](https://iprpraha.cz) souhlasí s výstavbou jen v případě, že výška nepřesáhne 8 podlaží, viz [stanovisko IPR v PDF]({{'stanovisko-ipr-OC-jasna.pdf' | prepend: page.folder | relative_url }} ).
 
 **červen 2022** Developer si nechal u architektonického studia Loxia zpracovat objemovou studii možné budoucí stavby na místě současného obchodního centra. Navrhuje 12podlažní stavbu nad komerčním parterem.
 
