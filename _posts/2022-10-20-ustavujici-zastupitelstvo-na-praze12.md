@@ -7,6 +7,7 @@ authorId: michal.macek
 image: posts/2022-10-20-zastupitelsky-sal-praha12.jpg
 tags:
   - volby
+  - zastupitelstvo
 ---
 **Ustavující zasedání zastupitelstva Prahy 12 ve středu zvolilo nového starostu a radu složenou z ODS, TOP 09 a ANO 2011, podepřenou hlasy Trikolory. Politická kultura na Praze 12 se s novým vedením nejspíš změní, jak vyplývá i z odpovědí kandidátů do rady MČ na otázky pokládané Piráty.**
 
