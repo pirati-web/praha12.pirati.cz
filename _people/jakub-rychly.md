@@ -9,7 +9,7 @@ category:                   # kategorie: pms, clenove, priznivci
 ordpms: 1
 
 img: people/jakub-rychly.jpg   # 165 x 220
-description:  podnikatel, marketing specialista # kratký popis, max 160 znaků
+description:  podnikatel, marketing specialista, předseda místního sdružení Praha 12  # kratký popis, max 160 znaků
 mail: jakub.rychly@pirati.cz
 profiles:
   facebook: https://www.facebook.com/kubooo85
