@@ -7,7 +7,7 @@ titles:
 category:                   # kategorie: pms, clenove, priznivci
 - pms
 - kontaktni_osoba
-ordpms: 1
+ordpms: 3
 
 img: people/michal-macek.jpg   # 165 x 220
 description: tajemník zastupitelského klubu středočeských Pirátů, předseda místního sdružení Praha 12, zastupitel MČ Praha 12  # kratký popis, max 160 znaků

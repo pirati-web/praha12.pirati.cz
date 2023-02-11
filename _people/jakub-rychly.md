@@ -5,7 +5,8 @@ titles:
   before: 
   after:
 category:                   # kategorie: pms, clenove, priznivci
-- clenove
+- pms
+ordpms: 1
 
 img: people/jakub-rychly.jpg   # 165 x 220
 description:  podnikatel, marketing specialista # kratký popis, max 160 znaků
