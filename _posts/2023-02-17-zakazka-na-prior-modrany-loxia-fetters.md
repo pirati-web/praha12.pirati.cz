@@ -46,7 +46,7 @@ Jak jsme uvedli, nový “Prior” budou převážně byty. Část jich bude ur�
 Piráti z Prahy 12 si nemyslí, že sídliště v tomto místě unese stovky dalších obyvatel. Navíc panuje názor, že takto zásadní místo v centru čtvrti nemá tvořit bytovka, ale nadále pouze dům se službami a obchody. Proto [jsme v dubnu 2022 hlasovali proti](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=90153) vypsání finální (nabídkové) fáze zakázky. Měli jsme ještě jeden další pádný důvod, ten ale nesmíme do ukončení zakázkového řízení veřejně prezentovat.
 
 ![Screenshot hlasování, ODS a TOP pro, Piráti proti]({{ 'assets/img/posts/2023-02-17-zakazka-na-prior-hlasovani.png' | relative_url }})<br>
-_(Neshoda tehdejší koalice při hlasování [27.04.2022](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=90153))_
+_(Neshoda tehdejší koalice při hlasování [27.04.2022](https://www.praha12.cz/171%2Djednani%2Drady%2Dmestske%2Dcasti%2Dpraha%2D12%2Dkonane%2D27%2D04%2D2022/d-90151/p1=65977))_
 
 Tehdejší pirátský starosta Prahy 12 Jan Adamec vysvětluje svou pozici takto: _“Vzhledem k tomu, že o uzavření smlouvy mělo rozhodnout až nové vedení Prahy po komunálních volbách, navrhoval jsem tehdy spojenectví ODS a TOP09, že by bylo férové nechat novému vedení možnost ještě zakázku upravit dle svého, tedy upravit ještě zadání, případně udělat ještě jedno kolo soutěžního dialogu. ODS a TOP09 si ale prohlasovaly zadání své.”_
 
@@ -54,5 +54,5 @@ Tehdejší pirátský starosta Prahy 12 Jan Adamec vysvětluje svou pozici takto
 
 1. Urbanistickou studii okolí Sofijského náměstí s participací.
 2. Využijeme roky připravovanou koncesní smlouvu a zkušenosti ze soutěžního dialogu. V průběhu aktuálně končící soutěže se hodně změnily podmínky na trhu (COVID a válka na Ukrajině).
-3. Pojďme to udělat úplně jinak: urbanistickou soutěž na okolí náměstí a pak teprve koncesi. Pro novou soutěž na koncesi už máme připravenou smlouvou, do které se bude moct přihlásit opět více firem a budou moct mezi sebou skutečně soutěžit. I bez nutnosti dlouhého soutěžního dialogu (ušetření financí za novou soutěž).
+3. Pojďme to udělat úplně jinak: urbanistickou soutěž na okolí náměstí a pak teprve koncesi. Pro novou soutěž na koncesi už máme připravenou smlouvu, do které se bude moct přihlásit opět více firem. A budou mezi sebou moci skutečně soutěžit. I bez nutnosti nového dlouhého soutěžního dialogu (tedy se ušetří finance za novou soutěž).
 
