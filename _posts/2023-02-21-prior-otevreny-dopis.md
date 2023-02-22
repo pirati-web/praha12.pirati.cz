@@ -18,6 +18,8 @@ V uplynulých měsících a letech vyústilo soustředěné úsilí několika m�
 
 Ve středu bychom měli však již přímo rozhodnout o _v tuto chvíli vysoutěžené podobě projektu či projektů_, která vzešla ze soutěžního dialogu s několika málo uchazeči. Její návrh byl v minulých dnech představen nejprve zastupitelům a následně též veřejnosti, za což děkujeme.
 
+{% include related-post-box.html relatedpost='_posts/2023-02-17-zakazka-na-prior-modrany-loxia-fetters.md' %}
+
 Představený návrh nelze bohužel shrnout jinak, než že díky příliš volně nastaveným limitům ploch funkcí jsme získali na první pohled obyčejnou bytovku. Ta území nerozvine, místo toho jej zatíží potřebami obyvatel nových cca dvou stovek bytů a nekvalitní architekturou neodpovídající městskému centru moderní, rozvíjející se rezidenční čtvrti.
 
 Tento návrh proto nemůžeme svými hlasy na zastupitelstvu podpořit. A rádi bychom Vás poprosili, abyste jej též pro tuto chvíli nepodpořili. Jako zastupitelce/zastupiteli s přístupem k neveřejným informacím o soutěži je Vám známý zákonný důvod pro možné zrušení soutěže bez návazných sankcí. Podobně jako my jistě cítíte, že obavy obyvatel o zhoršení kvality místa, jakýsi územní rozpad namísto územního rozvoje, jsou vzhledem k parametrům a vizualizacím projektu oprávněné.
@@ -38,5 +40,3 @@ Václav Šístek<br>
 Mgr. Petri Mališů<br>
 Ing. Ivan Štěpka<br>
 Ing. Matěj Mlčoch_
-
-{% include related-post-box.html relatedpost='_posts/2023-02-17-zakazka-na-prior-modrany-loxia-fetters.md' %}
