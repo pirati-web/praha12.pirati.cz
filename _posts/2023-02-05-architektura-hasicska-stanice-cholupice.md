@@ -48,7 +48,9 @@ _(Typová zbrojnice, Praha - Měcholupy)_
 
 ### Neblahá zkušenost Prahy 12 se soutěžemi architektů na cenu
 
-Praha 12 má z volebního období 2014-2018 s architektonickými zakázkami neblahé zkušenosti, kdy ty největší z nich (komořanské náměstí, Sofijské náměstí, bytový dům Modřanská 4, hřiště pro hasiče) získal architekt David Kraus. Ten zde pak realizoval mj. i soukromé projekty místního lídra hnutí ANO, tehdy místostarosty Michala Pince. Konkrétně ubytovnu v Komořanech či kosmetický salon v Modřanech, jak jsme shrnuli v [dřívějším článku](https://praha12.pirati.cz/aktuality/pinc-ano-ubytovna-u-skladu.html). Nedopusťme, aby se po návratu ANO na radnici Prahy 12 tato situace opakovala! Architektonická soutěž zajistí i větší transparentnost!
+Praha 12 má z volebního období 2014-2018 s architektonickými zakázkami neblahé zkušenosti, kdy ty největší z nich (komořanské náměstí, Sofijské náměstí, bytový dům Modřanská 4, hřiště pro hasiče) získal architekt David Kraus. Ten zde pak realizoval mj. i soukromé projekty místního lídra hnutí ANO, tehdy místostarosty Michala Pince. Konkrétně ubytovnu v Komořanech či kosmetický salon v Modřanech, jak jsme shrnuli v [dřívějším článku]({% link _posts/2022-08-24-pinc-ano-ubytovna-u-skladu.md %}). Nedopusťme, aby se po návratu ANO na radnici Prahy 12 tato situace opakovala! Architektonická soutěž zajistí i větší transparentnost!
+
+{% include related-post-box.html relatedpost='_posts/2022-08-24-pinc-ano-ubytovna-u-skladu.md' %}
 
 ### Historie a plán pro hasičskou zbrojnici v Cholupicích
 
