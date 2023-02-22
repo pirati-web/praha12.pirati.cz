@@ -38,3 +38,5 @@ Václav Šístek<br>
 Mgr. Petri Mališů<br>
 Ing. Ivan Štěpka<br>
 Ing. Matěj Mlčoch_
+
+{% include related-post-box.html relatedpost='_posts/2023-02-17-zakazka-na-prior-modrany-loxia-fetters.md' %}

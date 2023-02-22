@@ -26,6 +26,8 @@ _(ilustrační obrázek výše: fotka z veřejné prezentace dne 17.2.2023; zlev
 ### Lze v Praze 12 postavit něco bez Loxie (a Fetters Mng.)?
 Ze získaných podkladů víme, že jeden z návrhů nového komplexu udělala i nám známá Loxia. Jejímu vlivu na panorama Prahy 12 jsme věnovali [náš předchozí článek](https://praha12.pirati.cz/aktuality/stopa-loxia-fetters-na-panoramatu-modran.html).
 
+{% include related-post-box.html relatedpost='_posts/2023-01-04-stopa-loxia-fetters-na-panoramatu-modran.md' %}
+
 Procházeli jsme působení Loxie na jiných městských částech Prahy a zaujala nás zejména Praha 8 a Praha 14. Podle našich informaci na obou z nich působí majitel Loxie Milan Veselý jako poradce při územním rozvoji a účastní se schůzek s developery.
 
 Praha 8, kde je dlouholetým starostou Ondřej Gros z ODS, plánuje novou základní školu Rohan a pro její návrh využila architektonickou soutěž. Protože jsme ale v odéesácké Praze 8, místo obvyklých zkušených administrátorů [použili k organizaci soutěže právě Loxii](https://www.cka.cz/souteze/databaze/navrh-architektonickeho-reseni-zakladni-skoly-rohan-praha-8). Mimochodem, právní služby pro Loxii dělala advokátní kancelář Gürlich, Vítek & partners, kterou se snažil prosadit na administraci soutěže na ZŠ Komořany na Praze 12 i nynější starosta Vojtěch Kos (ODS).
