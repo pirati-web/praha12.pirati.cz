@@ -1,8 +1,25 @@
 {% for post in site.posts %}
 {% if post.path == include.relatedpost %}
-<div style="background:#e0e0e0; max-width: 100%; margin: 15px auto; padding: 22px 26px; border: 2px solid #57b3bd; clear:left;">
- <a href="{{post.url}}" style="font:bold 21px Helvetica,Arial,sans-serif; text-decoration:none;"><img src="/assets/img/{{post.image}}" style="max-width: 190px; width: 30%; height:auto; margin-right: 30px;" alt="" align="left">{{post.title}}</a><br>{{post.date | date: "%d. %m. %Y"}}
- <div style="clear:both"></div>
+<div>
+<style scoped>
+.related-box {
+    background:#e0e0e0; max-width: 100%; margin: 15px auto; padding: 22px 26px; border: 2px solid #57b3bd; clear:left;
+    display:flex; flex-flow:row nowrap; column-gap:30px; row-gap:10px;
+}
+.related-img { max-width: 190px;}
+.related-text a { font:bold 21px Helvetica,Arial,sans-serif; text-decoration:none; }
+@media (max-width: 450px) {
+  .related-box { flex-flow:row wrap; }
+  .related-img { max-width: 100%;
+}
+</style>
+<div class="related-box">
+  <div style="" class="related-img">
+    <a href="{{post.url}}"><img src="/assets/img/{{post.image}}" alt=""></a>
+  </div><div class="related-text">
+    <a href="{{post.url}}">{{post.title}}</a><br>{{post.date | date: "%d. %m. %Y"}}
+  </div>
+</div>
 </div>
 {% endif %}
 {% endfor %}
