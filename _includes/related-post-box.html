@@ -1,7 +1,7 @@
 {% for post in site.posts %}
 {% if post.path == include.relatedpost %}
-<div style="background:#e0e0e0; max-width: 100%; margin: 15px auto; padding: 25px 30px; border: 2px solid #57b3bd; clear:left;">
- <a href="{{post.url}}" style="font:22px Helvetica,Arial,sans-serif; text-decoration:none;"><img src="/assets/img/{{post.image}}" style="max-width: 190px; height:auto; margin-right: 30px;" alt="" align="left">{{post.title}}</a><br><br>{{post.date | date: "%d. %m. %Y"}}
+<div style="background:#e0e0e0; max-width: 100%; margin: 15px auto; padding: 22px 26px; border: 2px solid #57b3bd; clear:left;">
+ <a href="{{post.url}}" style="font:bold 21px Helvetica,Arial,sans-serif; text-decoration:none;"><img src="/assets/img/{{post.image}}" style="max-width: 190px; width: 30%; height:auto; margin-right: 30px;" alt="" align="left">{{post.title}}</a><br>{{post.date | date: "%d. %m. %Y"}}
  <div style="clear:both"></div>
 </div>
 {% endif %}
