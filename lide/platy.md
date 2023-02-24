@@ -8,13 +8,13 @@ Výše odměn zastupitelů vychází z [Nařízení vlády č. 318/2017 Sb.](htt
 
 | Jméno | Hrubá měsíční odměna | Funkce | 
 |:-------|---------------------:|--------|
-| Jan Adamec | 2791 | neuvolněný zastupitel |
-| Jiří Brůžek | 2791 | neuvolněný zastupitel |
-| Michal Macek | 2791 | neuvolněný zastupitel |
-| Petri Mališů | 2791 | neuvolněná zastupitelka |
-| Matěj Mlčoch | 2791 | neuvolněný zastupitel |
-| Václav Šístek | 2791 | neuvolněný zastupitel |
-| Ivan Štěpka | 2791 | neuvolněný zastupitel |
-| Eva Tylová | 2791 | neuvolněná zastupitelka |
+| Jan Adamec | 5116 | neuvolněný zastupitel, člen komise |
+| Jiří Brůžek | 5116 | neuvolněný zastupitel, člen komise |
+| Michal Macek | 5116 | neuvolněný zastupitel, člen komise |
+| Petri Mališů | 5116 | neuvolněná zastupitelka, členka komise |
+| Matěj Mlčoch | 5116 | neuvolněný zastupitel, člen výboru |
+| Václav Šístek | 6138 | neuvolněný zastupitel, předseda komise |
+| Ivan Štěpka | 3070 | neuvolněný zastupitel |
+| Eva Tylová | 5116 | neuvolněná zastupitelka, členka komise |
 
 K měsíčním odměnám se nevyplácí žádné mimořádné odměny ani osobní ohodnocení.
