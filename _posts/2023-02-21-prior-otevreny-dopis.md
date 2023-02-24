@@ -24,6 +24,8 @@ Představený návrh nelze bohužel shrnout jinak, než že díky příliš voln
 
 Tento návrh proto nemůžeme svými hlasy na zastupitelstvu podpořit. A rádi bychom Vás poprosili, abyste jej též pro tuto chvíli nepodpořili. Jako zastupitelce/zastupiteli s přístupem k neveřejným informacím o soutěži je Vám známý zákonný důvod pro možné zrušení soutěže bez návazných sankcí. Podobně jako my jistě cítíte, že obavy obyvatel o zhoršení kvality místa, jakýsi územní rozpad namísto územního rozvoje, jsou vzhledem k parametrům a vizualizacím projektu oprávněné.
 
+{% include newsletter-box.html %}
+
 Koalice, které jste členem či členkou, se opírá o většinu jednoho hlasu v zastupitelstvu. Snad i Vy cítíte, že taková těsná většina by neměla na sílu prohlasovávat návrh, který na desetiletí dopředu vtiskne tvář možná nejdůležitější části Modřan, tedy samotnému srdci celé Prahy 12.
 
 Obracíme se na Vás tedy s výše uvedenou prosbou: Nehlasujte pro představený návrh. A umožněte tak radě městské části v následujících měsících využít získané know-how ze soutěžního dialogu a hotovou podobu návrhu koncesní smlouvy. Pro přípravu nové, lépe obsazené soutěže o návrh podoby nástupce současného PRIORu. V ideálním případě navíc doplněné o urbanistickou studii.

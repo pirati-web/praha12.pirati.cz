@@ -45,7 +45,11 @@ Praha 8 však již vypsala soutěž na projektový management stavby ZŠ Rohan a
 ### Místo obchodního je dům bytový: 400 nových obyvatel na sídlišti
 Jak jsme uvedli, nový “Prior” budou převážně byty. Část jich bude určena k prodeji, část bude nájemních. Ačkoli bude dům vlastněn Prahou 12, byty nebudou klasicky obecní s dostupným nájmem. Nájem bude komerční, neboť právě z něj bude koncesionář platit městské části minimálně 10 milionů ročně. V domě má být cca 200 bytů, tedy v lokalitě přibude cca 400 nových obyvatel. Přesná čísla nesmíme v rámci probíhajícího zakázkového řízení zveřejnit.
 
+<span style="color:#17935d">_Aktualizace 24.2.2023: bytů bude celkem 164. Z toho 88 na prodej a 76 k pronájmu._</span>
+
 Piráti z Prahy 12 si nemyslí, že sídliště v tomto místě unese stovky dalších obyvatel. Navíc panuje názor, že takto zásadní místo v centru čtvrti nemá tvořit bytovka, ale nadále pouze dům se službami a obchody. Proto [jsme v dubnu 2022 hlasovali proti](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=90153) vypsání finální (nabídkové) fáze zakázky. Měli jsme ještě jeden další pádný důvod, ten ale nesmíme do ukončení zakázkového řízení veřejně prezentovat.
+
+<span style="color:#17935d">_Aktualizace 24.2.2023: tím dalším podstatným důvodem bylo, že v soutěži zůstal od 20.1.2022 již jen jeden uchazeč. Pokud by získal od někoho ze širokého organizačního týmu informaci, že je v soutěži sám, mohl by s klidem podat nejnižší možnou finanční nabídku v zadání, tedy 10 milionů korun ročně. Což se nakonec opravdu stalo...  Prostě "nesoutěž"._</span>
 
 ![Screenshot hlasování, ODS a TOP pro, Piráti proti]({{ 'assets/img/posts/2023-02-17-zakazka-na-prior-hlasovani.png' | relative_url }})<br>
 _(Neshoda tehdejší koalice při hlasování [27.04.2022](https://www.praha12.cz/171%2Djednani%2Drady%2Dmestske%2Dcasti%2Dpraha%2D12%2Dkonane%2D27%2D04%2D2022/d-90151/p1=65977))_
