@@ -39,6 +39,8 @@ Zcela jistě by měl být v porotě architektonické soutěže minimálně jeden
 
 Citujme [zkušenost z Lanškrouna](https://www.lanskroun.eu/architektonicka-soutez-prinesla-desitky-velmi-kvalitnich-navrhu/d-19066) od městského architekta Oldřicha Bittnera: _“Jsem velmi rád, že se v Lanškrouně podařilo uspořádat již druhou architektonickou soutěž, za což se patří poděkovat radě města a jmenovitě panu starostovi Radimu Vetchému, který se vždy osobně zasazuje o vznik kvalitní architektury. Podařilo se sestavit porotu, která byla pro soutěžící zárukou kvalitního hodnocení. Bylo odevzdáno až nečekaně velké množství kvalitních projektů. V porotě byli přítomni zástupci budoucího uživatele a mohu konstatovat, že jejich pohled na fungování zbrojnice a jejich provozní požadavky byly pro nezávislé porotce zcela zásadní. Dalo by se říci, že vyhrál návrh, který hasiči hodnotili jako provozně nejzdařilejší. A o architektonické kvalitě návrhu může svědčit to, že vítězný autorský tým již dokázal zvítězit v několikáté architektonické soutěži v posledních několika měsících, což je unikátní a dokresluje to kvality autorů.”_
 
+{% include newsletter-box.html %}
+
 ### Řešení Ctrl+C, Ctrl+V - zn.: levně
 
 Staví se i hasičské stanice podle jednoho vzoru bez větší invence. Když to chtějí mít politici jednoduché a levné, prostě zde postaví [svou předpřipravenou hasičárnu](https://www.stavbaweb.cz/pozarni-zbrojnice-5859/clanek.html) projektanti z Bomartu, jak se stalo v Praze-Dolních Měcholupech, Řeporyjích a Letňanech.
