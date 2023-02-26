@@ -2,12 +2,12 @@
 title: Mráčkova, polyfunkční dům
 katastr: Modřany
 developer: RG Investment
-nazev: 
+nazev: Rezidence Zelený kopec
 web: 
 plocha:
 plochaObytna:
 jineFunkce:
-pocetPodlazi: 
+pocetPodlazi: 13
 pocetBytu: 
 pocetParking:
 uzemniPlanKod: SV
@@ -23,9 +23,16 @@ textbox:
   text: Chceme zachovat původní ráz sídliště, kde se vysoké bytové domy střídají s nízkými budovami občanské vybavenosti. V celém parteru, který sousedí s náměstíčkem a obchodní pasáži, požadujeme zachovat obchody a služby, tedy nebytovou funkci, kterou požaduje i územní plán (SV). Po vzoru územní studie okolí stanice metra Libuš a tam stojícímu OC Obzor, bychom akceptovali výšku do 4 pater. Parkování jen v podzemních garážích.
 
 folder: /assets/img/vystavba/mo-labe-mrackova/
-printImg1: 
+printImg1: viz1.jpg
 printImg2: puvodni_stav.jpg
 ---
+
+{% include vystavba-strany.html obdobi="2022-2026" strany="ods;ano;top;trik;" %}
+
+![vizualizace.jpg]({{'viz1.jpg' | prepend: page.folder | relative_url }} )
+_Foto: Vizualizace návrhu z pozvánky na veřejnou prezentaci_
+
+**2.3.2023** Veřejná prezentace projektu v OC Labe.
 
 {% include vystavba-strany.html obdobi="2018-2022" strany="pir;ods;top" %}
 
