@@ -22,12 +22,22 @@ uvodText: Developer plánuje modernizovat stávající obchodní prostory OC Kam
 textbox:
   text: Cokoli nad okolní výstavbu (8 pater) nám přijde naprosto neúměrné. Nový Metropolitní plán na tomto území také počítá s maximálně 8 patry.
 
+img: vystavba/ka-vostatkova/viz1814camp.jpg
 folder: /assets/img/vystavba/ka-vostatkova/
 printImg1: viz1814camp.jpg
 printImg2: puvodni_stav.jpg
 ---
 
 Projekt monitoruje [Spolek Náš Kamýk](https://kamykspolek.cz).
+
+{% include vystavba-strany.html obdobi="2022-2026" strany="ods;ano;top;trik;" %}
+
+**28.2.2023** Rada MČ v novém složení již souhlasí se smlouvou o spolupráci s Trigemou, souhlasí tak s projektem dvou věží o výšce 15 a 9 pater (usnesení [R-17-007-23](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=95649)) - 
+předkladatelem starosta Vojtěch Kos (ODS). Smlouva ještě musí projít schválením v zastupitelstvu Prahy 12, plánovaném na duben.
+
+{% include vystavba_hlasovani.html nazev="R-17-007-23 (souhlas s projektem)" hlasy="ODS-3-0-0-0; TOP09-3-0-0-0; ANO-3-0-0-0" %}
+
+Týden před schválením smlouvy v radě proběhla "participace" s okolními obyvateli, při které starosta obyvatele u stánku přesvědčoval o výhodnosti projektu a přitom vyslechl zcela jasný nesouhlas se stavbou v této podobě.
 
 {% include vystavba-strany.html obdobi="2018-2022" strany="pir;ods;top" %}
 

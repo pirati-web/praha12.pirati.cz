@@ -23,6 +23,7 @@ textbox:
   text: >
     Projekt má snazší pozici než dříve tím, že se investorovi podařilo protlačit změnů kódu územního plánu a následně se rozvolnila i definice kódu SV. Přesto s tímto zahuštěním sídliště nesouhlasíme. Původní nízká budova byla realizována jako prvek občanské vybavenosti. Stavba způsobí ještě větší komplikace v dopravě a zatíží sousední mateřskou školu.
 
+img: vystavba/mo-levskeho/viz1.jpg
 folder: /assets/img/vystavba/mo-levskeho/
 printImg1: viz1.jpg
 printImg2: puvodni-stav.jpg
