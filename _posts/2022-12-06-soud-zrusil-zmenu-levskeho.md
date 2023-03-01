@@ -13,6 +13,8 @@ Městský soud v Praze zrušil 9.11.2022 změnu územního plánu na bývalých 
 
 Proti rozsudku podala protistrana dne 22.11.2022 kasační stížnost a definitivně tak rozhodně až Nejvyšší správní soud. Pokud by rozsudek potvrdil, územní plán by se na jeslích vrátil zpět na smíšené využití (SV) s kódem A. Kód A umožňuje postavit přibližně budovu stejné velikosti jaká na pozemku nyní stojí.
 
+{% include related-post-box.html relatedpost='_vystavba/modrany-levskeho.md' %}
+
 ### Další osud v rukou vlastníků okolních bytů a SVJ
 
 Vzhledem k tomu, že bylo dne 18.5.2022 vydáno pravomocné územní rozhodnutí na stavbu 7podlažního bytového domu, dává listopadový výrok soudu šanci, že v následujícím řízení soud zruší i toto územní rozhodnutí a věc se tedy vrátí do stavu, kdy již nebude možné na bývalých jeslích takto vysoký dům postavit.
@@ -27,4 +29,5 @@ Co se týče důvodů zrušení změny územního plánu, v rozsudku, který má
 
 Soudní spis je u Městského soudu Praha veden pod spisovou značkou 6 A 62 / 2022, pomocí které se dá sledovat například na webu [infosoud.cz](https://infosoud.justice.cz/InfoSoud/public/search.do?type=spzn&typSoudu=os&krajOrg=MSPHAAB&org=&cisloSenatu=6&druhVec=A&bcVec=62&rocnik=2022&spamQuestion=23&agendaNc=CIVIL).
 
+{% include newsletter-box.html %}
 

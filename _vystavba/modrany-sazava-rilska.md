@@ -22,6 +22,7 @@ uvodText: Developer chce stávající nízkopodlažní obchodní centrum Sázava
 textbox:
   text: Je škoda, že vlastník areálu objekty neudržuje a nechal je chátrat do současného stavu. Navrhované vysoké budovy neúměrně zahušťují sídliště. Měli bychom pochopení pro 3 patra, protože se z našeho pohledu jedná o revitalizaci. Jsme pro striktní respektování územního plánu (SV), který zde dává každé funkci včetně bydlení maximálně 60 % plochy.
 
+img: vystavba/mo-sazava/viz2022.jpg
 folder: /assets/img/vystavba/mo-sazava/
 printImg1: viz2022.jpg
 printImg2: puvodni_stav.jpg

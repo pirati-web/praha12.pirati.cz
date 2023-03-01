@@ -20,6 +20,8 @@ Během pirátského vedení městské části Praha 12 jsme se s investorem něk
 
 ![Vizualizace domu na Komořanské]({{ 'assets/img/posts/2023-01-04-loxia-kelly.jpg' | relative_url }})
 
+{% include related-post-box.html relatedpost='_vystavba/modrany-komoranska-kelly.md' %}
+
 ### Viladomy Voborského
 
 Dalším aktuálním společným dílem Loxie a Fetters Mng. jsou dva viladomy, které mají vzniknout místo původní vily na křižovatce ulic Voborského a Na Blanseku. Loxia zde navrhla dva bytové domy, u ulice Na Blanseku 4podlažní, nad ním pak 3podlažní.
