@@ -8,8 +8,8 @@ plocha:
 plochaObytna:
 jineFunkce:
 pocetPodlazi: 13
-pocetBytu: 
-pocetParking:
+pocetBytu: 148
+pocetParking: 173
 uzemniPlanKod: SV
 fazeSchvaleni: 5
 rokDokonceni: 
