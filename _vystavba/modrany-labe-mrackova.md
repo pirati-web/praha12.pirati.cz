@@ -7,7 +7,7 @@ web:
 plocha:
 plochaObytna:
 jineFunkce:
-pocetPodlazi: 13
+pocetPodlazi: 12
 pocetBytu: 148
 pocetParking: 173
 uzemniPlanKod: SV
@@ -28,6 +28,8 @@ printImg2: puvodni_stav.jpg
 ---
 
 {% include vystavba-strany.html obdobi="2022-2026" strany="ods;ano;top;trik;" %}
+
+**12.4.2023** Piráti na zasedání zastupitelstva předložili návrh na vyslovení nesouhlasu s projektem o 12 NP. Koalice však usnesení pozměnila a "nesouhlas" z usnesení nechala odstranit. Přijaté usnesení tak dává Radě MČ jen za úkol jednat s investorem o snížení projektu [Z-5-003-23](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=96778).
 
 ![vizualizace.jpg]({{'viz1.jpg' | prepend: page.folder | relative_url }} )
 _Foto: Vizualizace návrhu z pozvánky na veřejnou prezentaci_
