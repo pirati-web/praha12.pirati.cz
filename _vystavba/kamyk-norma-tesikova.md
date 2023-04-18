@@ -29,6 +29,9 @@ folder: /assets/img/vystavba/ka-tesikova/
 printImg1: norma-cens.jpg
 printImg2: puvodni_stav.jpg
 ---
+{% include vystavba-strany.html obdobi="2022-2026" strany="ods;ano;top;trik;" %}
+
+**17.4.2023** YIT představilo na jednání komise územního rozvoje lehce zmenšenou verzi svého projektu. Projekt má nyní 10 nadzemních podlaží, z toho 3 pro parkování a 7 pro byty. Objekt má obsahovat cca 73 bytů, 1 komerční jednotku, cca 55 garážových stání a 7 venkovních stání. Oproti předchozímu projektu tak došlo k odstranění jednoho bytového a jednoho parkovacího patra.
 
 {% include vystavba-strany.html obdobi="2018-2022" strany="pir;ods;top" %}
 
