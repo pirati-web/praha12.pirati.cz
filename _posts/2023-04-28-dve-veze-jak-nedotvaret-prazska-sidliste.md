@@ -1,6 +1,6 @@
 ---
 category: blog
-title: "Dvě věže na vosátkově jako precedent jak nedotvářet pražská sídliště"
+title: "Dvě věže na Vosátkově jako precedent jak nedotvářet pražská sídliště"
 date: 2023-04-28
 author: 
 authorId: michal.macek
