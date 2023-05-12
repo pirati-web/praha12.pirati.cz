@@ -1,13 +1,13 @@
 ---
 title: Výtopna u křižovatky Gen. Šišky a Čs.exilu
 katastr: Modřany
-developer: PT Real Estate
+developer: EPH
 nazev: Přestavba EGC Modřany na polyfunkční objekt
 web:
-plocha:
+plocha: 21 420
 plochaObytna:
 jineFunkce:
-pocetPodlazi:
+pocetPodlazi: 8
 pocetBytu:
 pocetParking:
 uzemniPlanKod: SV
@@ -27,6 +27,8 @@ printImg1: vytopna2d.jpg
 printImg2: puvodni_stav.jpg
 ---
 
+**11.5.2023** Konalo se první veřejné participační jednání. Developer, který v mezidobí získal od Prahy pozemky okolo teplárny, deklaroval, že se i nadále chce řídit smlouvou z roku 2019, ačkoli již upustil od záměru vybudovat zde wellness hotel. Na participačním jednáním zazněla jasná podpora pro to, aby zde 25m bazén i přesto byl.
+
 **10.10.2019** Rada MČ uzavřela smouvu s developerem o spolupráci, kde souhlasí se stavbou, získává příslib vybudování veřejně přístupného krytého bazénu s minimální dékou 25 m v hotelové části a příspěvek na infrastukturu ve výši 1000 Kč na metr hrubé podlahové plochy bytů v bytové části komplexu  ([R-045-025-19](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=72593)) - předkladatel Vojtěch Kos (ODS), starosta Jan Adamec (Piráti). V tomto momentu větší část pozemků stále vlastní hl. m. Praha
 
 **6.12.2017** Prezentace projektu ve Viničním domku ([Prezentace](http://www.individualniplanovani.cz/wp-content/uploads/2017/09/prezentace-pt-real-estate-papirnikova-pavlikova.pdf))
@@ -34,7 +36,7 @@ printImg2: puvodni_stav.jpg
 - - -
 
 ![vytopna2d.jpg]({{'vytopna2d.jpg' | prepend: page.folder | relative_url }} )
-(zdroj: prenetace PT Real Estate)
+(zdroj: prezentace PT Real Estate z roku 2017)
 
 ![puvodni_stav.jpg]({{'puvodni_stav.jpg' | prepend: page.folder | relative_url }} )
 
