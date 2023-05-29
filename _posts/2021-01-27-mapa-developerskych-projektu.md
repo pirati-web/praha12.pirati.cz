@@ -17,7 +17,7 @@ Podle nich jsou projekty v nové mapě i barevně odlišeny. Žlutá znázorňuj
 
 ### Podle zásad
 
-Rozvoj městské části zastavit nemůžeme. Ani nechceme. Vždy je ale třeba posoudit, do jaké míry bude nový projekt odpovídat stávající kapacitě veřejných služeb a infrastruktury, a kdy už přestává být pro městskou část prospěšný. Už v roce 2019 tak zastupitelstvo Prahy 12 stanovilo [Zásady pro spolupráci s investory](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=81026). Mají zajistit rovnováhu mezi zájmy developerů na jedné straně a městské části a jejích obyvatel na straně druhé. Rada podle nich zároveň po developerech požaduje například i příspěvek na rozvoj infrastruktury.
+Rozvoj městské části zastavit nemůžeme. Ani nechceme. Vždy je ale třeba posoudit, do jaké míry bude nový projekt odpovídat stávající kapacitě veřejných služeb a infrastruktury, a kdy už přestává být pro městskou část prospěšný. Už v roce 2019 tak zastupitelstvo Prahy 12 stanovilo [Zásady pro spolupráci s investory (usnesení Z-05-016-19)](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=69242). Mají zajistit rovnováhu mezi zájmy developerů na jedné straně a městské části a jejích obyvatel na straně druhé. Rada podle nich zároveň po developerech požaduje například i příspěvek na rozvoj infrastruktury.
 
 ### Pod kontrolou
 

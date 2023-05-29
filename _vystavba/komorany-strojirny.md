@@ -3,7 +3,7 @@ title: Modřanské strojírny
 katastr: Komořany
 developer: Central Group
 nazev: Sigma Modřany
-web: https://www.central-group.cz/page/pripravovane-projekty
+web: https://www.central-group.cz/page/pripravovane-projekty-modrany
 plocha:
 plochaObytna:
 jineFunkce: mateřská škola, obchodní parter kolem tramvaje a náměstí
