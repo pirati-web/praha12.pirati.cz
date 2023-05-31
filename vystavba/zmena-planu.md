@@ -9,7 +9,7 @@ Proces změny územního plánu je poměrně dlouhý. Při běžném projednán�
  2. Zadání
  3. Návrh
 
-V závěru každé etapy je změna projednána na Magistrátu: v příslušném výboru, na radě a v zastupitelstvu. Celý proces je v krocích rozepsán [v tomto schématu (PDF)](http://servis.praha-mesto.cz/uzplan/uzemni_plan_hmp/schema_porizovani.pdf). Změny je možné pořizovat i [zkráceným postupem (PDF)](http://servis.praha-mesto.cz/uzplan/uzemni_plan_hmp/porizovani_zmen_up_zkracene_rizeni.pdf), kdy jsou sloučeny etapy zadání a návrhu.
+V závěru každé etapy je změna projednána na Magistrátu: v příslušném výboru, na radě a v zastupitelstvu. Celý proces je v krocích rozepsán [v tomto schématu (PDF)](https://uzr.praha.eu/uzplan/uzemni_plan_hmp/schema_porizovani.pdf). Změny je možné pořizovat i [zkráceným postupem (PDF)](https://uzr.praha.eu/uzplan/uzemni_plan_hmp/porizovani_zmen_up_zkracene_rizeni.pdf), kdy jsou sloučeny etapy zadání a návrhu.
 
 Změny územního plánu dokumentuje speciální webová aplikace [zmenaplanu.cz](https://www.zmenaplanu.cz), kde je možné si nastavit automatické upozornění emailem ("hlídacího psa") při změnách na vámi zvoleném území.
 
@@ -37,7 +37,7 @@ Dotčenými osobami, mající právo podávat námitky, jsou:
 
 ## Další informace
 
- * [Arnika](http://arnika.org/zastupce-verejnosti)
+ * [Arnika](https://www.arnika.org/lze-se-proti-uzemnimu-planu-branit-a-dalsi-caste-otazky)
  * [Frank Bold](http://frankbold.org/poradna/kategorie/uzemni-planovani/rada/uzemni-plany-obci)
 
 - - -

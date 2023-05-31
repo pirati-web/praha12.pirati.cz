@@ -47,7 +47,7 @@ printImg2: puvodni_stav.jpg
 
 **24.11.2015** Zastupitelsvo MČ Praha 12 schvaluje návrh změny územního plánu na kód OB-C [R-09-011-15](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=44664) - pro návrh byla tehdejší koalice ANO, Změna pro Prahu 12 a ČSSD (starostka Rázková). Piráti hlasovali proti. O změně se jednalo již 1.6.2015, ale projednávání této změny bylo přerušeno.
 
-**21.5.2015** Pražský zastupitel za Piráty Mikuláš Ferjenčík sepsal článek [Stamilionová louka v Komořanech](https://praha.pirati.cz/milionova-louka.html) o projednávané změně územního plánu a obrovkých částkách, o které jde. V roce 2000 byla louka oceněna na 100 tisích Kč, Central Group ji od původního majitele koupil za cca 50 miliónů, po změně územního plánu by měla hodnotu asi 150 miliónů Kč.
+**21.5.2015** Pražský zastupitel za Piráty Mikuláš Ferjenčík sepsal článek Stamilionová louka v Komořanech o projednávané změně územního plánu a obrovkých částkách, o které jde. V roce 2000 byla louka oceněna na 100 tisích Kč, Central Group ji od původního majitele koupil za cca 50 miliónů, po změně územního plánu by měla hodnotu asi 150 miliónů Kč.
 
 **27.4.2015** Rada městské části schvaluje darovací smlouvu s Central Group na dar ve výši 10 mil. Kč
 

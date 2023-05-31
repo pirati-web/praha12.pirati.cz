@@ -17,6 +17,6 @@ V krátkodobém horizontu nám tento krok přinese možnost zapojit naši městs
 
 V dlouhodobém výhledu přispějeme k naplnění cílů spolku, se kterými se plně ztotožňujeme. Mezi ně patří sdílení nákladů na otevřená technická řešení, která si dosud města a samosprávy řešily s komerčním sektorem samostatně. My bychom raději spolupracovali s ostatními a naplnili vizi redukce jevu zvaného vendor lock-in, tedy uzamčení úřadu k jednomu dodavateli.
 
-A to zejména využitím open source metodiky vývoje a svobodného licencování. Více o tom, jak a proč zavádět open source a svobodný software ve veřejné správě, se dočtete v materálu [Public Money, Public Code: Modernizace veřejné infrastruktury svobodným softwarem](https://www.otevrenamesta.cz/media/docs/Public-money-public-code-cs.pdf).
+A to zejména využitím open source metodiky vývoje a svobodného licencování. Více o tom, jak a proč zavádět open source a svobodný software ve veřejné správě, se dočtete v materálu [Public Money, Public Code: Modernizace veřejné infrastruktury svobodným softwarem](https://gitlab.com/otevrenamesta/public-money-public-code-cs/blob/master/pdf/FSFE_Policy_Brochure_CZ_RGB_200DPI_web.pdf).
 
 Vstupem do spolku plníme další bod svého programu a koaliční smlouvy, je to milník na cestě k otevřenosti a transparentnosti našeho úřadu směrem k občanům.

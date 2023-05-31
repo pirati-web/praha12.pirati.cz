@@ -3,7 +3,7 @@ title: Zástavba vstupu do Modřanské rokle
 katastr: Modřany
 developer: Jan Bursík
 nazev: Modřanský dvůr
-web: http://modranskydvur.cz/
+web:
 plocha:
 plochaObytna:
 jineFunkce:

@@ -7,7 +7,7 @@ title: Kódy územního plánu
  * Polyfunkční území se dělí na kategorie: obytná území; smíšená území; území výroby a služeb; území sportu a rekreace; zvláštní komplexy.
  * Monofunkční plochy se dělí na kategorie: veřejné vybavení; doprava; technické vybavení; těžba surovin; vodní plochy a suché poldry; příroda, krajina a zeleň; pěstební plochy.
 
-Vysvětlivky k Územnímu plánu hl. m. Prahy se dají najít na webu [Institutu plánování a rozvoje hlavního města Prahy](http://www.iprpraha.cz/clanek/57/funkcni-regulace), kde je dostupná i [grafická část plánu](http://app.iprpraha.cz/js-api/app/vykresyUP/).
+Vysvětlivky k Územnímu plánu hl. m. Prahy se dají najít na webu [Institutu plánování a rozvoje hlavního města Prahy](https://iprpraha.cz/page/10/platny-uzemni-plan), kde je dostupná i grafická část plánu.
 
 Níže uvádíme ty nejčastější typy území
 
@@ -34,8 +34,8 @@ Níže uvádíme ty nejčastější typy území
  * **PZO** - zahrádky a zahrádkové osady - Plochy pro pěstování ovoce, zeleniny a okrasných rostlin, klubová zařízení, zahrádkářské chaty.
  * **OP** - orná půda, plochy pro pěstování zeleniny - Orná půda, intenzívní zelinářské a květinářské kultury. Louky a pastviny.
 
-Plný seznam se nachází např. na webu [Geoportal Praha (PDF)](http://www.geoportalpraha.cz/uploads/assets/pup-informace.pdf),
-nebo s delšími vysvětlujícími texty včetně popsaných podtypů (např SO3) na [IPR Praha (DOC)](http://magistrat.praha-mesto.cz/uzplan/Uzemni_plan_HMP/zmena_z1000_nova/OOP_06-20091216.doc)
+Plný seznam se nachází např. na webu [Geoportal Praha (PDF)](https://www.geoportalpraha.cz/assets/dokumenty/datove-sady/pup_fvu_struktura_2019_03.pdf),
+nebo kompletní znění na [IPR Praha](https://iprpraha.cz/page/10/platny-uzemni-plan)
 nebo starší znění na [Praha.eu (PDF)](http://servis.praha-mesto.cz/uzplan/uzemni_plan_hmp/zmena_z1000_cist/regul/regulativy.pdf).
 
 ## Míra využití území

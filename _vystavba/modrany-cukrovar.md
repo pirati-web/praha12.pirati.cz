@@ -33,7 +33,7 @@ printImg2: viz1-pohled-z-vlaku.jpg
 
 **11.8.2020** Rada uzavírá dodatek smlouvy se Skanskou, kde se ta zavazuje poskytnout finanční příspěvek ve výši 10 milionů Kč na výstavbu mateřské školy Mydlinky, komunitní prostor (se zázemím) u budoucího náměstí, pozemek pro loděnici a zrekonstruovat křižovatku ulic Generála Šišky a Komořanská ([R-83-016-20](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=82181)). Vedle toho souhlasila i s etapizací výstavby ([R-83-018-20](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=81333)) s požadavkem na maximalizaci nebytové funkce a projektovou dokumentací první etapy ([R-83-017-20](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=81334))  - předkladatel Eva Tylová (Piráti), starosta Jan Adamec (Piráti)
 
-**19.5.2018** Otevření [Cukrkandlu](https://reality.skanska.cz/dobry-soused/cukrkandl) - cyklokavárna, bikrosová dráha, komunitní zahrada, venkovní posilovna
+**19.5.2018** Otevření [Cukrkandlu](https://residential.skanska.cz/cukrkandl) - cyklokavárna, bikrosová dráha, komunitní zahrada, venkovní posilovna
 
 ![viz1.jpg]({{'viz1.jpg' | prepend: page.folder | relative_url }})
 
@@ -52,13 +52,13 @@ Projekt bude obsahovat náměstí, víceúčelový prostor pod zastřešenou hal
 
 **10.10.2017** Rada MČ vyjádřila své připomínky ke konceptu rozvoje území   ([R-150-002-17](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=59070)) - předkladatel František Adámek (ČSSD), starosta Milan Maruštík (ANO).
 
-**25.4.2017** Prezentace dvou architektonických studií (viz [web](https://reality.skanska.cz/dobry-soused/modransky-cukrovar-participace)) na 2. veřejném plánovacím setkání v Prioru
+**25.4.2017** Prezentace dvou architektonických studií (viz [web](https://residential.skanska.cz/blog/modransky-cukrovar)) na 2. veřejném plánovacím setkání v Prioru
 
 **14.9.2016** 1. veřejné plánovací setkání v Prioru
 
 {% include vystavba-strany.html obdobi="2010-2014" strany="top;zmena" %}
 
-**19.9.2013** Schválení změny územního plánu z ZVO-D na SV-F - projednávání změny: [Z-1438](https://app.iprpraha.cz/napp/zmeny/?id=981&action=view&presenter=Articlezmenyupravy), [grafická část](http://wgp.urm.cz/app/tms/aplk/urm_apl/pup_zmeny/index.php?IDF=2242&lan=cs) - [usnesení ZHMP 31/8](http://zastupitelstvo.praha.eu/ina2014/tedusndetail.aspx?id=182122), [hlasování](http://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vysledky_hlasovani/index.html?periodId=18284&resolutionNumber=8&meeting=31&printNumber=&s=1&votingId=27266&start=&size=) (ODS, ČSSD, TOP09)
+**19.9.2013** Schválení změny územního plánu z ZVO-D na SV-F - projednávání změny: [Z-1438](https://app.iprpraha.cz/napp/zmeny/?id=981&action=view&presenter=Articlezmenyupravy) - [usnesení ZHMP 31/8](https://zastupitelstvo.praha.eu/ina/tedusndetail.aspx?par=233015074082077038028015092082077038025015089082077038026015086082077038026&id=182122), [hlasování](http://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vysledky_hlasovani/index.html?periodId=18284&resolutionNumber=8&meeting=31&printNumber=&s=1&votingId=27266&start=&size=) (ODS, ČSSD, TOP09)
 
 ![Letecký pohled]({{'uzemi_letecke_web.jpg' | prepend: page.folder | relative_url }} )
 (zdroj: reality.skanska.cz)
