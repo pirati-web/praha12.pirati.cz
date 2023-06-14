@@ -10,14 +10,12 @@ source "https://rubygems.org"
 # Happy Jekylling!
 gem "jekyll", "~> 3.8.7"
 
-# gem "mini_racer"
-
 # Používá společné thema to je stále ve vývoji tj změny mužou být velké a je třeba důkladně testovat jestli se věci nerozbíjejí.
 # Comment this line for local development.
 gem "jekyll-theme-pirati", "7.7.1"
 
 # Uncomment this line for local development.
-# gem "jekyll-theme-pirati", github: "pirati-web/jekyll-theme-pirati", branch: "master"
+# gem "jekyll-theme-pirati", github: "pirati-web/jekyll-theme-pirati", branch: "feat/styleguide"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
@@ -29,20 +27,18 @@ group :jekyll_plugins do
   gem "jekyll-paginate"
   gem "jekyll-sitemap"
   # gem "github-pages"
-  gem "jekyll-assets", "3.0.11"
+  gem "jekyll-assets"
   gem 'jekyll-environment-variables'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
-
+gem "execjs" # for NodeJS
 gem "json" # For gem building
-#tak tohle bych nedoporucoval a.r.
-#gem 'sassc-rails', '~> 2.0.0'   # sass changed build binary
 gem 'sprockets', '4.0.0.beta8'
 gem 'uglifier', '~> 4.0.0'
 gem "mini_magick"
-gem "autoprefixer-rails"
+gem "autoprefixer"
 gem "image_optim"
 gem "image_optim_bin" # Optional
 gem "image_optim_pack"
@@ -52,3 +48,4 @@ gem "wdm", "~> 0.1.1" if Gem.win_platform?
 group :development, :test do
   gem "html-proofer"
 end
+
