@@ -34,6 +34,10 @@ Boji proti tomuto projektu se věnuje občanský spolek [Spolek pro Modřany](ht
 
 {% include vystavba-strany.html obdobi="2022-2026" strany="ods;ano;top;trik;" %}
 
+**21.6.2023** Rada podává odvolání proti vydanému územnímu rozhodnutí ([R-36-001-23](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=98462)) - předkladatel starosta Vojtěch Kos (ODS)
+
+**14.6.2023** Rada předkládá na zastupitelstvo návrh na snížení projektu objekty se 7 NP, 7 NP a 2 NP ([R-34-004-23](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=98305)). Návrh dohody však předpokládá, že bude platit jen za podmínky, že ve stavebním řízení nezůstane ani jedno odvolání občanů, což je v reálu nesplnitelná podmínka a představená dohoda je tak jen velmi formální - předkladatel starosta Vojtěch Kos (ODS)
+
 **20.12.2022** Rada nesouhlasí se záměrem, ale v přijatém usnesení ([R-8-016-22](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=94571)), které vzniklo jako reakce na předchozí usnesení zastupitelstva, neuvádí námitky a argumentaci použitelné pro běžící formální stavební řízení - předkladatel Vojtěch Mikoláš (ODS), starosta Vojtěch Kos (ODS)
 
 **7.12.2022** Díky zájmu občanů a s přispěním Pirátů zastupitelé MČ Praha 12 vyjádřili nesouhlas s aktuální podobou záměru developera na Sázavě a uložili radě podat odvolání a jednat s developerem o snížení. Výsledné usnesení ([Z-2-002-22](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=94106)) vzniklo jako kompromis mezi návrhy rady MČ a opozičních Pirátů - starosta Vojtěch Kos (ODS)
@@ -44,6 +48,8 @@ Boji proti tomuto projektu se věnuje občanský spolek [Spolek pro Modřany](ht
 **1.12.2022** Developer podal žádost o územní rozhodnutí na o něco zmenšený projekt. Domy jsou odlišně orientované než v předchozím projektu a mají výšku 11, 7 a 4 podlaží se zachováním obchodů v přízemí. Rozbíhá se územní řízení.
 
 {% include vystavba-strany.html obdobi="2018-2022" strany="pir;ods;top" %}
+
+**13.7.2021** Rada podává odvolání proti odstranění stávající stavby obchodního centra Sázava ([R-131-037-21](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=84717)) - předkladatel Eva Tylová (Piráti), starosta Jan Adamec (Piráti)
 
 **7.2.2019** Rada podporuje záměr odkupu pozemků a objektů OC Sázava z důvodu zajištění zachování centra služeb a společenského centra pro okolní obyvatele a přirozeného náměstí celé přilehlé oblasti [R-012-019-19](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=67246) - předkladatel Eva Tylová (Piráti), starosta Jan Adamec (Piráti)
 
