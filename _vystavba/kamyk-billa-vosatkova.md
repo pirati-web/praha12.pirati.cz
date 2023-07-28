@@ -35,7 +35,7 @@ Projekt monitoruje [Spolek Náš Kamýk](https://kamykspolek.cz).
 **12.4.2023** Zastupitelstvo MČ schvaluje smlouvu s developerem a projektem dvou věží o výšce 15 a 9 pater (usnesení [Z-5-004-23](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=96779)) - 
 předkladatel starosta Vojtěch Kos (ODS).
 
-{% include vystavba_hlasovani.html nazev="R-17-007-23 (souhlas s projektem)" hlasy="ODS-6-0-0-0; TOP09-3-0-0-0; ANO-9-0-0-0; Piráti-0-9-0-0; P12Sobě-0-3-1-0; Změna-0-3-0-0; ČSSD+KSČM+SPD-2-0-0-0" %}
+{% include vystavba_hlasovani.html nazev="Z-5-004-23 (souhlas s projektem)" hlasy="ODS-6-0-0-0; TOP09-3-0-0-0; ANO-9-0-0-0; Piráti-0-8-0-0; P12Sobě-0-3-1-0; Změna-0-3-0-0; ČSSD+KSČM+SPD-2-0-0-0" %}
 
 **28.2.2023** Rada MČ v novém složení již souhlasí se smlouvou o spolupráci s Trigemou, souhlasí tak s projektem dvou věží o výšce 15 a 9 pater (usnesení [R-17-007-23](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=95649)) - 
 předkladatelem starosta Vojtěch Kos (ODS). Smlouva ještě musí projít schválením v zastupitelstvu Prahy 12, plánovaném na duben.
