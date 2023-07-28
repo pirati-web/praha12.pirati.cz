@@ -4,7 +4,7 @@ title: "Studie hasičské zbrojnice v Cholupicích je zde, architektonická sout
 date: 2023-07-25
 author: Jan Adamec
 authorId: jan.adamec
-image: posts/2023-07-28-sdhch-obj1.jpg
+image: posts/2023-07-28-sdhch-obj2.jpg
 tags:
   - hasičská stanice
   - Cholupice
@@ -17,7 +17,7 @@ Praha 12 má nyní objemovou studii návrhu nové hasičské stanice pro dobrovo
 
 Objemová studie, kterou je možné najít na [Profilu zadavatele](https://zakazky.praha12.cz/document_2360/4188850f9f7a8302f14f26ef840cf816-2303_mcp12_objemova-studie_hasicska-zbrojnice-cholupice-pdf), ještě neznamená, že takto bude stavba na konci vypadat. Obvykle má tato studie jen prověřit, že se stavba na vybraný pozemek vejde. Následovat bude vyprojektování samotné stavby.
 
-![vizualizace 2]({{ 'assets/img/posts/2023-07-28-sdhch-obj2.jpg' | relative_url }})<br/>
+![vizualizace 2]({{ 'assets/img/posts/2023-07-28-sdhch-obj1.jpg' | relative_url }})<br/>
 _(pohled od ulice Ke Křížku, tedy od stávajících rodinných domů, zdroj: zakazky.praha12.cz)_
 
 ### Sliby chyby - architektonická soutěž nebude
