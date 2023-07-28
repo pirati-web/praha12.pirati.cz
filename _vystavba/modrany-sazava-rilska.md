@@ -34,9 +34,13 @@ Boji proti tomuto projektu se věnuje občanský spolek [Spolek pro Modřany](ht
 
 {% include vystavba-strany.html obdobi="2022-2026" strany="ods;ano;top;trik;" %}
 
-**21.6.2023** Rada podává odvolání proti vydanému územnímu rozhodnutí ([R-36-001-23](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=98462)) - předkladatel starosta Vojtěch Kos (ODS)
+**28.6.2023** Zastupitelstvo hlasy koalice a KSČM schvaluje návrh na snížení projektu na objekty se 7 NP, 7 NP a 2 NP ([Z-7-002-23](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=98654)) po předchozím souhlasu rady ([R-34-004-23](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=98305)).
 
-**14.6.2023** Rada předkládá na zastupitelstvo návrh na snížení projektu objekty se 7 NP, 7 NP a 2 NP ([R-34-004-23](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=98305)). Návrh dohody však předpokládá, že bude platit jen za podmínky, že ve stavebním řízení nezůstane ani jedno odvolání občanů, což je v reálu nesplnitelná podmínka a představená dohoda je tak jen velmi formální - předkladatel starosta Vojtěch Kos (ODS)
+Návrh dohody však předpokládá, že bude platit jen za podmínky, že ve stavebním řízení nezůstane ani jedno odvolání občanů, což je v reálu nesplnitelná podmínka a představená dohoda je tak jen velmi formální - předkladatel starosta Vojtěch Kos (ODS)
+
+{% include vystavba_hlasovani.html nazev="Z-7-002-23 (souhlas s projektem)" hlasy="ODS-6-0-0-0; TOP09-3-0-0-0; ANO-9-0-0-0; Piráti-0-0-6-2; P12Sobě-0-0-3-1; Změna-0-0-2-1; ČSSD+KSČM+SPD-2-0-0-0" %}
+
+**21.6.2023** Rada podává odvolání proti vydanému územnímu rozhodnutí ([R-36-001-23](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=98462)) - předkladatel starosta Vojtěch Kos (ODS)
 
 **20.12.2022** Rada nesouhlasí se záměrem, ale v přijatém usnesení ([R-8-016-22](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=94571)), které vzniklo jako reakce na předchozí usnesení zastupitelstva, neuvádí námitky a argumentaci použitelné pro běžící formální stavební řízení - předkladatel Vojtěch Mikoláš (ODS), starosta Vojtěch Kos (ODS)
 

@@ -30,6 +30,14 @@ printImg1: viz1.jpg
 printImg2: puvodni_stav.jpg
 ---
 
+{% include vystavba-strany.html obdobi="2022-2026" strany="ods;ano;top;trik;" %}
+
+**11.7.2023** Rada MČ Praha 12 uzavírá smlouvu o spolupráci s příspěvkem developera ve výši 6,6 mil Kč [R-38-001-23](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=89831) - předkladatel starosta Vojtěch Kos (ODS)
+
+{% include vystavba-strany.html obdobi="2018-2022" strany="pir;ods;top" %}
+
+**19.4.2022** Rada MČ Praha 12 souhlasí se směnou magistrátních pozemků, které developer potřebuje, a to za podmínky uzavření smlouvy o spolupráci [R-170-022-22](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=89831) - předkladatel Jiří Fremr (ODS), starosta Jan Adamec (Piráti)
+
 **11.7.2019** Rada MČ Praha 12 souhlasí se směnou magistrátních pozemků, které developer využije k výstavbě domu a podzemního parkoviště   [R-035-006-19](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=70894) - předkladatel Jiří Fremr (ODS), starosta Jan Adamec (Piráti)
 
 ![viz1.jpg]({{'viz1.jpg' | prepend: page.folder | relative_url }} )
