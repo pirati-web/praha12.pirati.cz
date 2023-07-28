@@ -21,7 +21,7 @@ uvodText: Bytový domy na místě původní staré zástavby v ulici Komořansk�
 
 textbox:
   text: >
-    Modřany těmito domy přichází o další původní zástavbu, ale 5 podlažní domy se sedlovou střechou nám přijdou přijatelné. Zvláště v kontrastu se sousedním záměrem s 13podlažním věžákem před Auto Kelly.
+    Modřany těmito domy přichází o další původní zástavbu, ale 5podlažní domy se sedlovou střechou nám přijdou přijatelné. Zvláště v kontrastu se sousedním záměrem s 13podlažním věžákem před Auto Kelly.
 
 img: vystavba/mo-komoranska-deco/vizk13.jpg
 folder: /assets/img/vystavba/mo-komoranska-deco/
