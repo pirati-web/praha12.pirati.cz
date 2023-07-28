@@ -45,3 +45,6 @@ Developer kupuje i dům Komořanská 15, ve které se nachází restaurace Deco.
 
 ![vizualizace projektu Rezidence Komořanská 17]({{'vizk17.jpg' | prepend: page.folder | relative_url }} )
 _vizualizace projektu Rezidence Komořanská 17, ostatní domy ještě původní. Zdroj: web developera_
+
+![puvodni_stav.jpg]({{'puvodni_stav.jpg' | prepend: page.folder | relative_url }} )
+_stav k 28.7.2023_
