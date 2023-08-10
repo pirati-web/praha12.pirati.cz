@@ -40,8 +40,7 @@ Developer kupuje i dům Komořanská 15, ve které se nachází restaurace Deco.
 
 {% include vystavba-strany.html obdobi="2018-2022" strany="pir;ods;top" %}
 
-**30.11.2021** Rada MČ Praha 12 schvaluje smlouvu o spolupráci týkající se projektu Komořanská 17 ([R-148-010-21](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=87171)). Ve smlouvě se developer zavazuje poskytnout příspěvek ve výši 886 tisíc Kč, ve které bude i úprava, resp přidání parkovacích stání v ulici Komořanská
- - předkladatel Vojtěch Kos (ODS), starosta Jan Adamec (Piráti).
+**30.11.2021** Rada MČ Praha 12 schvaluje smlouvu o spolupráci týkající se projektu Komořanská 17 ([R-148-010-21](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=87171)). Ve smlouvě se developer zavazuje poskytnout příspěvek ve výši 886 tisíc Kč, ve které bude i úprava, resp přidání parkovacích stání v ulici Komořanská - předkladatel Vojtěch Kos (ODS), starosta Jan Adamec (Piráti).
 
 ![vizualizace projektu Rezidence Komořanská 17]({{'vizk17.jpg' | prepend: page.folder | relative_url }} )
 _vizualizace projektu Rezidence Komořanská 17, ostatní domy ještě původní. Zdroj: web developera_
