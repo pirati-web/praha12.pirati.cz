@@ -20,6 +20,10 @@ Objemová studie, kterou je možné najít na [Profilu zadavatele](https://zakaz
 ![vizualizace 2]({{ 'assets/img/posts/2023-07-28-sdhch-obj1.jpg' | relative_url }})<br/>
 _(pohled od ulice Ke Křížku, tedy od stávajících rodinných domů, zdroj: zakazky.praha12.cz)_
 
+### Objemovou studii zpracovala pro radnici vedou ODS firma pražských členů ODS
+
+Za povšimnutí stojí také to, že objemovou studii pro radnici Prahy 12 vedenou ODS zpracovala na objednávku firma REINVEST spol. s r.o., kterou vlastní Ing. Marek Raška, který je zároveň místopředsedou pražského místního sdružení [ODS Jarov 2](https://www.ods.cz/ms.jarov-2) (viz [profil](https://www.ods.cz/ms.jarov-2/profil/951-marek-raska)). Do roku 2021 byl spolumajitelem této firmy další člen ODS Ing. Karel Bárta, také člen místního sdružení ODS Jarov 2 (viz [profil](https://www.ods.cz/ms.jarov-2/profil/1551-karel-barta)).
+
 ### Sliby chyby - architektonická soutěž nebude
 
 Piráti dlouhodobě prosazují, aby se veřejné budovy, které od pradávna vždy utvářely ráz města, navrhovaly ideálně na základě architektonické soutěže dle pravidel České komory architektů. To rozhodně platí i pro novou hasičárnu. Pirátský zastupitel a bývalý starosta Jan Adamec tento přístup vysvětluje: _“Veřejná správa má jít příkladem a zasazovat se o kvalitní architekturu. I hasičská stanice by měla být kvalitní, jak vnitřním uspořádáním, tak z venku.”_
