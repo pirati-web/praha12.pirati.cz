@@ -22,7 +22,9 @@ _(pohled od ulice Ke Křížku, tedy od stávajících rodinných domů, zdroj: 
 
 ### Objemovou studii zpracovala pro radnici vedou ODS firma pražských členů ODS
 
-Za povšimnutí stojí také to, že objemovou studii pro radnici Prahy 12 vedenou ODS zpracovala na objednávku firma REINVEST spol. s r.o. (podala nejnižší nabídku), kterou vlastní Ing. Marek Raška, který je zároveň místopředsedou pražského místního sdružení [ODS Jarov 2](https://www.ods.cz/ms.jarov-2) (viz [profil](https://www.ods.cz/ms.jarov-2/profil/951-marek-raska)). Do roku 2021 byl spolumajitelem této firmy další člen ODS Ing. Karel Bárta, také člen místního sdružení ODS Jarov 2 (viz [profil](https://www.ods.cz/ms.jarov-2/profil/1551-karel-barta)).
+Za povšimnutí stojí také to, že objemovou studii pro radnici Prahy 12 vedenou ODS zpracovala na objednávku firma REINVEST spol. s r.o. (podala nejnižší nabídku - usnesení [R-14-005-23](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=95171)), kterou vlastní Ing. Marek Raška, který je zároveň místopředsedou pražského místního sdružení [ODS Jarov 2](https://www.ods.cz/ms.jarov-2) (viz [profil](https://www.ods.cz/ms.jarov-2/profil/951-marek-raska)). Do roku 2021 byl spolumajitelem této firmy další člen ODS Ing. Karel Bárta, také člen místního sdružení ODS Jarov 2 (viz [profil](https://www.ods.cz/ms.jarov-2/profil/1551-karel-barta)).
+
+**Doplnění**: firma REINVEST získala 31.8.2023 i zakázku na samotnou projektovou dokumentaci za 1,495 mil korun, viz usnesení [R-44-002-23](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=99560).
 
 ### Sliby chyby - architektonická soutěž nebude
 
