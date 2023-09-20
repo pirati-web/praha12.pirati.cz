@@ -2,14 +2,14 @@
 title: Levského, polyfunkční dům
 katastr: Modřany
 developer: IP POLNÁ HOLDING s.r.o.
-nazev: Rezidence Modřany
+nazev: Modřanská zahrada
 web: 
 plocha:
 plochaObytna:
 jineFunkce:
 pocetPodlazi: 7
-pocetBytu: 120
-pocetParking: 92
+pocetBytu: 153
+pocetParking: 116
 uzemniPlanKod: SV-F
 fazeSchvaleni: 10
 rokDokonceni: 
@@ -23,9 +23,9 @@ textbox:
   text: >
     Projekt má snazší pozici než dříve tím, že se investorovi podařilo protlačit změnů kódu územního plánu a následně se rozvolnila i definice kódu SV. Přesto s tímto zahuštěním sídliště nesouhlasíme. Původní nízká budova byla realizována jako prvek občanské vybavenosti. Stavba způsobí ještě větší komplikace v dopravě a zatíží sousední mateřskou školu.
 
-img: vystavba/mo-levskeho/viz1.jpg
+img: vystavba/mo-levskeho/viz2.jpg
 folder: /assets/img/vystavba/mo-levskeho/
-printImg1: viz1.jpg
+printImg1: viz2.jpg
 printImg2: puvodni-stav.jpg
 ---
 
@@ -33,7 +33,12 @@ Projekt monitoruje [Občanské sdružení Levského](https://www.sites.google.co
 
 - - -
 
-**9.11.2022** Městský soud v Praze zrušil změnu územního plánu z roku 2010 a územní plán se tedy vrací z SV-F zpět na SV-A, který umožňuje postavit výrazně menší objekt. Protistrana se proti rozhodnutí soudu odvolala, bude tedy rozhodovat Nejvyšší správní soud.
+**20.9.2023** Projekt v roce 2022 koupila firma IP Izolace Polná a nyní představila nový projekt. Stále má 7 nadzemních podlaží. Ze 120 bytů je 153, místo 92 parkovacích stání je 116.
+
+![viz2.jpg]({{'viz2.jpg' | prepend: page.folder | relative_url }})
+<br>_(zdroj: praha12.cz)_
+
+**9.11.2022** Městský soud v Praze zrušil změnu územního plánu U0831 z roku 2010 (spis 6 A 62 / 2022) a územní plán se tedy vrací z SV-F zpět na SV-A, který umožňuje postavit výrazně menší objekt. Protistrana se proti rozhodnutí soudu odvolala, bude tedy rozhodovat Nejvyšší správní soud (spis 5 As 313 / 2022).
 
 **27.5.2022** MHMP zamítá odvolání a potvrzuje tak vydané územní rozhodnutí. 
 
