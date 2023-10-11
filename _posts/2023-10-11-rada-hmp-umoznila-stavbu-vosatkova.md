@@ -1,6 +1,6 @@
 ---
 category: blog
-title: "Pražští radní ODS, TOP09 a STAN umožnili stavbu Dvou věží na Kamýku"
+title: "Pražští radní ODS, TOP09 a STAN chtějí stavbu Dvou věží na Kamýku"
 date: 2023-10-11
 author: Eva Tylová
 authorId: eva.tylova
