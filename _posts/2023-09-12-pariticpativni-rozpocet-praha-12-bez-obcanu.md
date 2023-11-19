@@ -19,6 +19,8 @@ Vyřazen z hlasování byl například [návrh na zřízení knihobudky](https:/
 
 > “Je to  prosazování politického rozhodování shora namísto názorů občanů. Neprošel například za mě víc než legitimní návrh dobudování chodníků v Cholupicích, které v místě chybí, který vznesl tamní spolek. Starosta Kos se navíc chová tak, že to vypadá, že kdo se mu znelíbil osobně, toho návrh prostě nechal škrtnout. Doslova vzkázal, že nepotřebuje občany k tomu, aby věděl, co v okolí jejich bydliště dělat,” doplňuje pirátský zastupitel Michal Macek. 
 
+{% include newsletter-box.html %}
+
 Návrhy pro financování z participativního rozpočtu mohli občané podávat do poloviny června. Do konce prázdnin pak probíhalo zajištění proveditelnosti a udržitelnosti přijatých návrhů projektů včetně zapracování nezbytných doplnění či změn, nebo také vyloučení návrhu projektu. Jak bylo potvrzeno v září, u hned 13 ze 17 návrhů k vyloučení zásahem radnice došlo. Výsledek hlasování občanů plánovaného na průběh září a října je tak dopředu znám.
 
 

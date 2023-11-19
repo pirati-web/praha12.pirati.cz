@@ -14,6 +14,8 @@ tags:
 
 Ještě podivněji působí argument, že stejně řada dětí nakonec nenastoupila. Není o tuto službu zájem? Jestli spíš není problém v tom, že do školek o prázdninách se musí děti hlásit řadu měsíců dopředu. Plánovat si letní program napevno někdy na jaře je prostě těžké. Nebylo by lepší zajistit počet míst v letním provozu na základě zkušeností předchozích let? Potřebujeme jmenné seznamy, jako bychom čekali každý rok nějaké překvapení v počtu přihlášených? Kdyby bylo závazné přihlášení časově blíž skutečnému nástupu, jistě by problém zmizel.
 
+{% include newsletter-box.html %}
+
 _Každopádně se nám už nebude stávat, že některé děti jsou po celou dobu prázdnin v předškolním zařízení._ Tato věta budí v prohlášení pana radního největší rozpaky. Je to výtka? Co jiného si mají počít ti, kdo prostě na letní dovolenou nemají? Samoživitelky, lidé, co mají více pracovních úvazků? Nebo je to lakonické konstatování faktu? Stávat se to nebude, protože to tak úřad zařídil. Poraďte si.
 
 Oni si lidé nakonec nějak poradit musí, ovšem snižování standardu v něčem, kde byla Praha 12 po řadu let dobrá, zkrátka nevypovídá o vstřícnosti k lidem.
