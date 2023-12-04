@@ -13,7 +13,7 @@ Zastupitelstvo MČ Praha 12 v dubnu odsouhlasilo smlouvu s developerem Trigema. 
 
 Schválení smlouvy zavdává politováníhodný precedent, jak nedotvářet pražská sídliště. Zároveň vysílá developerským společnostem po více jak 4 letech opět signál, že za vlády ODS a TOP09 si mohou na Praze 12 dovolit, co by jinde neprošlo. Slovy klasika – je tu developerovo.
 
-{% include vystavba_hlasovani.html nazev="R-17-007-23 (souhlas s projektem)" hlasy="ODS-6-0-0-0; TOP09-3-0-0-0; ANO-9-0-0-0; Piráti-0-9-0-0; P12Sobě-0-3-1-0; Změna-0-3-0-0; ČSSD+KSČM+SPD-2-0-0-0" %}
+{% include vystavba_hlasovani.html nazev="Z-5-004-22 (souhlas s projektem)" hlasy="ODS-6-0-0-0; TOP09-3-0-0-0; ANO-9-0-0-0; Piráti-0-9-0-0; P12Sobě-0-3-1-0; Změna-0-3-0-0; ČSSD+KSČM+SPD-2-0-0-0" %}
 
 
 Nejprve srovnejme, protože obraz často vydá za mnoho slov:
