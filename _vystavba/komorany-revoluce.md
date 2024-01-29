@@ -22,6 +22,7 @@ uvodText: Zástavba těsně na hranici lesa, fakticky v lese
 textbox:
   text: Nesouhlasíme s touto zástavbou, která je v rozporu s územní studií Komořan a využívá úzkého pruhu obytné plochy územního plánu k umístění domů, zahrady budou již v kódu ZMK, tedy bez možnosti klasického oplocení. Zatarasuje také průchody územím od Modřanského háje do lesa.
 
+img: vystavba/ko-revoluce/viz1.jpg
 folder: /assets/img/vystavba/ko-revoluce/
 printImg1: viz1.jpg
 printImg2: puvodni_stav.jpg
