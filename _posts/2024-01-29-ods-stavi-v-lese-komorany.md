@@ -22,7 +22,7 @@ Průběh řízení ale přinesl překvapivý a nestandardní tah starosty Prahy 
 
 Během odvolacího řízení se ukázalo, že jediným problémem stavebního projektu bude nakonec zhoršení prostupnosti územím, definovaným v §11 odst 3 Pražských stavebních předpisů (PSP). 
 
-Současný starosta Kos přes platné usnesení o nesouhlasu s projektem zaslal dne 9.10.2023 do odvolacího spisu [dopis deklarující spolupráci]( {{ 'assets/img/posts/2024-01-29-ods-stavi-v-lese-dopis.pd' | relative_url }} ) MČ Praha 12 s investorem, a to zřízením schodišť. Citujeme: _“Městská část Praha 12 spolupracuje se stavebníkem a potvrzuje toto: … Zřízením schodišť bude zabezpečena prostupnost území ve smyslu ustanovení § 11 odst. 3 pražských stavebních předpisů…”_ Tedy v dopise explicitně uvádí odkaz na splnění §11 odst 3 PSP - **přesně tak, jak jeho stranický kolega z ODS pro svůj projekt nutně potřeboval.**
+Současný starosta Kos přes platné usnesení o nesouhlasu s projektem zaslal dne 9.10.2023 do odvolacího spisu [dopis deklarující spolupráci]( {{ 'assets/img/posts/2024-01-29-ods-stavi-v-lese-dopis.pdf' | relative_url }} ) MČ Praha 12 s investorem, a to zřízením schodišť. Citujeme: _“Městská část Praha 12 spolupracuje se stavebníkem a potvrzuje toto: … Zřízením schodišť bude zabezpečena prostupnost území ve smyslu ustanovení § 11 odst. 3 pražských stavebních předpisů…”_ Tedy v dopise explicitně uvádí odkaz na splnění §11 odst 3 PSP - **přesně tak, jak jeho stranický kolega z ODS pro svůj projekt nutně potřeboval.**
 
 **K tomuto dopisu ale neměl starosta žádné usnesení samosprávy Prahy 12, které by spolupráci posvěcovalo. Jednal tedy jen za sebe. Využil své funkce starosty, aby vzbudil zdání, že tímto dopisem projevuje vůli městské části.**
 
