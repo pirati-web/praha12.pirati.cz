@@ -23,4 +23,5 @@ Vyřazen z hlasování byl například [návrh na zřízení knihobudky](https:/
 
 Návrhy pro financování z participativního rozpočtu mohli občané podávat do poloviny června. Do konce prázdnin pak probíhalo zajištění proveditelnosti a udržitelnosti přijatých návrhů projektů včetně zapracování nezbytných doplnění či změn, nebo také vyloučení návrhu projektu. Jak bylo potvrzeno v září, u hned 13 ze 17 návrhů k vyloučení zásahem radnice došlo. Výsledek hlasování občanů plánovaného na průběh září a října je tak dopředu znám.
 
-
+- - -
+**Doplnění 15.2.2024**: dodatečně byl vyřazen ještě jeden návrh (tedy 14 ze 17), realizovat se tak budou jen tři (usnesení [R-66-007-24](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=102994)). Bez hlasování občanů.
