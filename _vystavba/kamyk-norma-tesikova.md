@@ -31,11 +31,16 @@ printImg2: puvodni_stav.jpg
 ---
 {% include vystavba-strany.html obdobi="2022-2026" strany="ods;ano;top;trik;" %}
 
+**20.2.2024** Rada MČ Praha 12 uzavřela smlouvu o spolupráci s YIT (usnesení [R-68-009-24](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=82973)), ve které se developer zavazuje přispět částkou 5 milionů Kč na rozvoj MČ.
+
+![kotelna-yit2024.jpg]({{'kotelna-yit2024.jpg' | prepend: page.folder | relative_url }})
+(zdroj: hlavacek-partner.cz)
+
 **17.4.2023** YIT představilo na jednání komise územního rozvoje lehce zmenšenou verzi svého projektu. Projekt má nyní 10 nadzemních podlaží, z toho 3 pro parkování a 7 pro byty. Objekt má obsahovat cca 73 bytů, 1 komerční jednotku, cca 55 garážových stání a 7 venkovních stání. Oproti předchozímu projektu tak došlo k odstranění jednoho bytového a jednoho parkovacího patra.
 
 {% include vystavba-strany.html obdobi="2018-2022" strany="pir;ods;top" %}
 
-**13.9.2022** Zastupitelstvo MČ Praha 12 nesouhlasí s projektem 12patrového bytového domu na prodejně Norma, který představila společnost Fisolta. [Z-28-007-22](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=92595) 30.8. se na nesouhlasu usnesla i rada  [R-187-011-22](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=92265).
+**13.9.2022** Zastupitelstvo MČ Praha 12 nesouhlasí (usnesení [Z-28-007-22](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=92595)) s projektem 12patrového bytového domu na prodejně Norma, který představila společnost Fisolta. 30.8. se na nesouhlasu usnesla i rada  [R-187-011-22](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=92265).
 
 ![norma-fisolta2022.jpg]({{'norma-fisolta2022.jpg' | prepend: page.folder | relative_url }})
 (zdroj: praha12.cz)
