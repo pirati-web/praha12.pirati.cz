@@ -5,7 +5,7 @@ titles:
   before: Ing.
   after:
 category:                   # kategorie: pms, clenove, priznivci
-- clenove
+- hidden
 
 img: people/monika-kuncova.jpg   # 165 x 220
 description: koordinátorka Středočeského kraje # kratký popis, max 160 znaků
