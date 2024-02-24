@@ -31,6 +31,8 @@ printImg2: vizk17.jpg
 
 {% include vystavba-strany.html obdobi="2022-2026" strany="ods;ano;top;trik;" %}
 
+**20.2.2024** Rada MČ schvaluje dodatek k předchozí smlouvě o spolupráci, který se týká rozšíření smlouvy i na projekt na sousedních parcelách. ([R-68-011-24](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=103244)) - předkladatel starosta Vojtěch Kos (ODS).
+
 **25.7.2023** Rada MČ pronajímá prostor v obecním domě na Obchodním náměstí na 5 let restauraci Deco. Ta se tam patrně přesune po dobu výstavby tohoto projektu. ([R-39-019-23](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=98971)) - předkladatel Milan Maruštík (ANO), starosta Vojtěch Kos (ODS).
 
 ![Vizualizace všech tří domů. Zdroj: web developera]({{'vizk13.jpg' | prepend: page.folder | relative_url }} )
