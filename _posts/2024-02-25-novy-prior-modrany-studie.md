@@ -20,7 +20,7 @@ _(Vizualizace nového PRIORu. Zdroj: architektonická studie)_
 
 Když byli Piráti ve vedení radnice, chtěli zakázku na koncesi v momentě, kdy v ní zbyl jediný zájemce, zrušit (leden 2022). Na celé území nechat znovu zpracovat urbanistickou studii, ve které by byly využity znalosti ze zakázky, a poté vypsat zakázku znovu s jasnými limity (například menším počtem bytů).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6NKCYka6uds" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6NKCYka6uds" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="max-width:100%"></iframe>
 
 ![prior od namesti]({{ 'assets/img/posts/2024-02-25-prior-od-namesti.jpg' | relative_url }})<br>
 _(Nákres fasády směřující do náměstí. Zdroj: architektonická studie)_
