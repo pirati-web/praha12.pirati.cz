@@ -22,19 +22,25 @@ uvodText: Bytový dům na místě restaurace OC Labe
 textbox:
   text: Chceme zachovat původní ráz sídliště, kde se vysoké bytové domy střídají s nízkými budovami občanské vybavenosti. V celém parteru, který sousedí s náměstíčkem a obchodní pasáži, požadujeme zachovat obchody a služby, tedy nebytovou funkci, kterou požaduje i územní plán (SV). Po vzoru územní studie okolí stanice metra Libuš a tam stojícímu OC Obzor, bychom akceptovali výšku do 4 pater. Parkování jen v podzemních garážích.
 
+img: vystavba/mo-labe-mrackova/viz1.jpg
 folder: /assets/img/vystavba/mo-labe-mrackova/
-printImg1: viz1.jpg
+printImg1: viz-v2.jpg
 printImg2: puvodni_stav.jpg
 ---
 
 {% include vystavba-strany.html obdobi="2022-2026" strany="ods;ano;top;trik;" %}
 
+**březen 2024** Investor představuje novou verzi projektu domu. Ten má nyní 10 podlaží. Detaily se budou prezentovat na veřejné prezentaci projektu v OC Labe dne 21.3.2024.
+
+![vizualizace.jpg]({{'viz-v2.jpg' | prepend: page.folder | relative_url }} )
+_Foto: Vizualizace návrhu z pozvánky na veřejnou prezentaci_
+
 **12.4.2023** Piráti na zasedání zastupitelstva předložili návrh na vyslovení nesouhlasu s projektem o 12 NP. Koalice však usnesení pozměnila a "nesouhlas" z usnesení nechala odstranit. Přijaté usnesení tak dává Radě MČ jen za úkol jednat s investorem o snížení projektu [Z-5-003-23](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=96778).
+
+**2.3.2023** Veřejná prezentace projektu v OC Labe o výšce 12 NP a 148 bytech.
 
 ![vizualizace.jpg]({{'viz1.jpg' | prepend: page.folder | relative_url }} )
 _Foto: Vizualizace návrhu z pozvánky na veřejnou prezentaci_
-
-**2.3.2023** Veřejná prezentace projektu v OC Labe.
 
 {% include vystavba-strany.html obdobi="2018-2022" strany="pir;ods;top" %}
 
