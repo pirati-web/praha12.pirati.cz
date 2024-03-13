@@ -64,7 +64,7 @@ tail: # zbytek kandidatky
     age: 38
     profession: podnikatel a zaměstnanec v letectví
     party: Piráti
-  - uid: veronika.ouskova
+  - name: Veronika Oušková
     age: 38
     profession: bioložka, datová analytička
     party: bez politické příslušnosti
