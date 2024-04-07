@@ -11,7 +11,7 @@ tags:
 
 V sobotu 6.4. byl hlavní den Ukliďme Česko a Piráti Prahy 12 jako tradičně uspořádali akci na Praze 12. Stejně jako vloni jsme uklízeli zeleň v okolí křižovatky ulic Čs. exilu a  Pavelkova. Přišlo nám pomoct 11 dospělých a 4 dětí z blízkého okolí. Děkujeme!
 
-Zvláště děkujeme dvěma odvážných ženám, které se pustily do sbírání nepořádku v těžkém terénu za plotem u zastávky Pavelkova, kam hází.
+Zvláště děkujeme dvěma odvážných ženám, které se pustily do sbírání nepořádku v těžkém terénu za plotem u zastávky Pavelkova.
 
 ![Úklid]({{ 'assets/img/posts/2024-04-06-uklid3.jpg' | relative_url }})
 
