@@ -1,6 +1,6 @@
 ---
 category: blog
-title: "16 milionů pod úrovní cenové mapy - tak chce Praha 12 prodat své zlaté vejce?"
+title: "16 milionů pod úrovní cenové mapy – tak chce Praha 12 prodat své zlaté vejce?"
 date: 2024-04-10
 author: Jan Adamec
 authorId: jan.adamec
@@ -11,7 +11,7 @@ tags:
 
 Ponechme stranou, že za 10 tisíc Kč za m² si v Praze stavební pozemek běžně nekoupíte. O co jde? Firma MK Market má dlouhodobě zájem o koupi pozemků při ulici Povodňová. Dosud všechna vedení Prahy&nbsp;12 upřednostňovala pronájem. Nynější koalice ODS - ANO - TOP 09 je ale záměrům soukromníků tak nakloněná, že se chystá pozemek prodat za cenu, která je nižší než cena uvedená v aktuálně platné [cenové mapě hl.m.Prahy](https://app.iprpraha.cz/apl/app/cenova-mapa/).
 
-Jedná se o stavební pozemek, v jehož bezprostředním sousedství podél ulice Povodňová se na jedné straně začínají stavět [viladomy](https://pi2.cz/vevlnach) a na pozemku na druhé straně (nyní autoservis) byl nedávno představen také projekt viladomů. Na začátek také uveďme, že pozemek je ve vlastnictví Prahy 12, stojí však na něm budovy soukromého vlastníka, firmy MK Market, což tržní cenu snižuje.
+Jedná se o stavební pozemek, v jehož bezprostředním sousedství podél ulice Povodňová se na jedné straně začínají stavět [viladomy](https://pi2.cz/vevlnach) a na pozemku na druhé straně (nyní autoservis) byl nedávno představen také projekt viladomů. Na začátek uveďme, že pozemek je ve vlastnictví Prahy 12, stojí však na něm budovy soukromého vlastníka, firmy MK Market, což tržní cenu snižuje.
 
 ### Dle cenové mapy by Praha 12 měla získat o 15,7 milionu Kč více
 
@@ -70,7 +70,7 @@ Pokud koaliční zastupitelé Prahy 12 prodej za částku pod úrovní z cenové
 
 **Vedení Prahy 12 tedy schválilo záměr prodeje až v situaci, kdy již platila cenová mapa pro rok 2024 s cenou 12 800 Kč/m².** A i 3 měsíce poté, co vědělo, že cenová mapa pro rok 2024 bude na těchto pozemcích určovat cenu výrazně vyšší.
 
-Pro úplnost ještě uvádíme, že dne 14.12.2023 o záměru Prahy 12 o prodeji pozemků společnosti MK Market hlasovalo Zastupitelstvo hl.m.Prahy a hlasy ODS, TOP09 a ANO s ním souhlasilo ([usnesení č.9/51](https://zastupitelstvo.praha.eu/ina/tedusndetail.aspx?par=101139198206201162152139216206201162149139213206201162150139210206201162150&id=670016), [hlasování](https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vysledky_hlasovani/index.html?periodId=36525&meeting=9&s=true&start=&votingId=61269)). V kontextu roku 2023, kdy byla v platné cenové mapě na tomto území uvedena cena 8000 Kč / m2.
+Pro úplnost ještě uvádíme, že dne 14.12.2023 o záměru Prahy 12 o prodeji pozemků společnosti MK Market hlasovalo Zastupitelstvo hl.m.Prahy a hlasy ODS, TOP09 a ANO s ním souhlasilo ([usnesení č.9/51](https://zastupitelstvo.praha.eu/ina/tedusndetail.aspx?par=101139198206201162152139216206201162149139213206201162150139210206201162150&id=670016), [hlasování](https://www.praha.eu/jnp/cz/o_meste/primator_a_volene_organy/zastupitelstvo/vysledky_hlasovani/index.html?periodId=36525&meeting=9&s=true&start=&votingId=61269)). V kontextu roku 2023, kdy byla v platné cenové mapě na tomto území uvedena cena 8000 Kč / m².
 
 ### Současná výše nájmu je 67% pod úrovní danou směrnicemi
 
