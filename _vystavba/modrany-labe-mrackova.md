@@ -30,6 +30,15 @@ printImg2: puvodni_stav.jpg
 
 {% include vystavba-strany.html obdobi="2022-2026" strany="ods;ano;top;trik;" %}
 
+**16.4.2024** Rada MČ Praha 12 schvaluje smlouvu s developerem na projekt o 10 NP s finančním příspěvkem výši 11 700 000 Kč. [R-74-031-24](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=104499) - předkladatel starosta Vojtěch Kos (ODS).
+
+**10.4.2024** Piráti na zasedání zastupitelstva předložili návrh na vyslovení nesouhlasu s projektem o 10 NP. Koalice však neumožnila bod ani zařadit do programu jednání.
+
+{% include vystavba_hlasovani.html nazev="zařazení bodu (nesouhlas)" hlasy="ODS-0-3-3-0; TOP 09-0-1-2-0; ANO-0-0-8-1; Piráti-8-0-0-0; P12Sobě-3-0-0-0; ZměnaP12-0-0-0-3; Obč12-0-0-0-2; nezařazení-1-0-0-0" %}
+
+![hlasovani]({{'v2-hlasovani.jpg' | prepend: page.folder | relative_url }} )
+_Foto: Hlasování o zařazení bodu Zelený Kopec na program jednání zastupitelstva_
+
 **březen 2024** Investor představuje novou verzi projektu domu. Ten má nyní 10 podlaží. Detaily se budou prezentovat na veřejné prezentaci projektu v OC Labe dne 21.3.2024.
 
 ![vizualizace.jpg]({{'viz-v2.jpg' | prepend: page.folder | relative_url }} )

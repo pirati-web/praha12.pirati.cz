@@ -11,7 +11,7 @@ pocetPodlazi: 13
 pocetBytu: 97
 pocetParking: 106
 uzemniPlanKod: SV
-fazeSchvaleni: 11
+fazeSchvaleni: 12
 rokDokonceni:
 gps:
   lat: 50.0098589
@@ -32,6 +32,10 @@ printImg2: puvodni_stav.jpg
 ---
 
 Boji proti tomuto projektu se věnuje iniciativa občanů [Sebeobrana sídliště Kamýk](http://www.sidliste-kamyk.cz/).
+
+{% include vystavba-strany.html obdobi="2022-2026" strany="ods;ano;top;trik;" %}
+
+**16.4.2024** Rada MČ Praha 12 schvaluje smlouvu s developerem s finančním příspěvkem výši 3 800 000 Kč. [R-74-023-24](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=104491) - předkladatel starosta Vojtěch Kos (ODS).
 
 {% include vystavba-strany.html obdobi="2018-2022" strany="pir;ods;top" %}
 
