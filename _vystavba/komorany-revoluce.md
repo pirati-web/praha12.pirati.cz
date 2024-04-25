@@ -34,7 +34,7 @@ Projekt monitoruje [Spolek Pro Komořany](https://www.spolekprokomorany.cz).
 
 {% include vystavba-strany.html obdobi="2022-2026" strany="ods;ano;top;trik;" %}
 
-**23.4.2024** Rada MČ Praha 12 vychází developerovi vstříc a umožňuje mu splnit podmínku prostupnosti územím tím, že umožní firmě Proinvex postavit dvě schodiště na pozemcích v majetku města. Dále by měl stavebník přispět darem ve výši 1 000 000 Kč [R-75-002-24](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=104627) - předkladatel starosta Vojtěch Kos (ODS).
+**23.4.2024** Rada MČ Praha 12 vychází developerovi vstříc a umožňuje mu splnit podmínku prostupnosti územím tím, že dovolí firmě Proinvex postavit dvě schodiště na pozemcích v majetku města. Dále by měl stavebník přispět městské části darem ve výši 1 000 000 Kč [R-75-002-24](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=104634) - předkladatel starosta Vojtěch Kos (ODS).
 
 **13.12.2023** Odvolací orgán na základě odvolání ruší vydané stavební povolení a vrací projednání zpět. Průběh řízení ale přinesl překvapivý a nestandardní tah starosty Prahy 12, stavebníkova spolustraníka v ODS, Vojtěcha Kose. Ten do odvolacího řízení bez jakéhokoli posvěcení od rady či smlouvy o spolupráci zaslal dopis deklarující spolupráci Prahy 12 se stavebníkem, formulovaný přesně tak, jak jeho kolega potřeboval. Výsledek řízení se jim ale zvrátit nepodařilo. 
 
