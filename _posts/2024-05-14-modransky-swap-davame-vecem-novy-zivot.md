@@ -11,7 +11,7 @@ tags:
 
 Už jste viděli moje nové džíny? Ne? Zvláštní. Hrozně rád se s nimi totiž chlubím. Proč? Tak jednak jsou vážně pěkný. Především jsem si je ale přinesl z Modřanského swapu. Ten za Piráty už přes rok pořádáme na Sofijském náměstí.
 
-Tímto bych proto chtěl na dálku poděkovat neznámé osobě, která džíny na swap přinesla, a také vyseknout poklonu naší člence Veronice Rajnohové, která swap organizuje. Podobně jako moje nové džíny totiž díky této akci v koši neskončila už víc než tuna a čtvrt věcí. Především oblečení, které si ze swapu lidi odnesli.
+Tímto bych proto chtěl na dálku poděkovat neznámé osobě, která džíny na swap přinesla, a také vyseknout poklonu naší člence Veronice Rajnohové, která swap organizuje. Podobně jako moje nové džíny totiž díky této akci v koši neskončila už víc než dvě tuny věcí. Především oblečení, které si ze swapu lidi odnesli.
 
 | SWAPy v roce 2024 | Vybráno | Vyswapováno | Předáno na charitu |
 |---|---:|---:|---:|
@@ -24,7 +24,7 @@ Co to swap vlastně je a jak funguje? Jedná se o sousedskou výměnu věcí, p�
 
 {% include newsletter-box.html %}
 
-Máme radost, že na akci pokaždé dorazí spousta návštěvnic a náštěvníků. Osobně akci považuju za skvělý příklad dobré praxe, jak odspodu a dobrovolnicky vdechnout komunitní život v naší čtvrti.
+Máme radost, že na akci pokaždé dorazí spousta návštěvnic a náštěvníků. Osobně akci považuju za skvělý příklad dobré praxe, jak odspodu a dobrovolnicky vdechnout komunitní život naší čtvrti.
 
 V červnu pořádáme velký swap 2.6. Jeho součástí bude nejen možnost přinést si a/nebo odnést věci, ale také si vyzkoušet různé dílny nebo si dát občerstvení. A setkat se s našimi kandidáty do eurovoleb. Sledujte naše sociální sítě, ať to neprošvihnete.
 
