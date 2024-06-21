@@ -47,7 +47,13 @@ Vlastníkem investorské firmy [Proinvex s.r.o.](https://rejstrik-firem.kurzy.cz
 
 ![viz1.jpg]({{'viz1.jpg' | prepend: page.folder | relative_url }} )
 
+{% include vystavba-strany.html obdobi="2014-2018" strany="ano;cssd;zmena;" %}
+
 **23.2.2016** Zastupitelstvo nesouhlasí se změnou územního plánu obytné části a zeleně na obytnou s kódem C (OB-C)  - [Z-11-007-16](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=46149) - starostka Daniela Rázková (Změna pro Prahu 12)
+
+{% include vystavba-strany.html obdobi="2002-2006" strany="ods;" %}
+
+**20.10.2005** Zastupitelstvo hlavního města Prahy schvaluje změnu územního plánu z funkce přírodní nelesní plochy (ZN) na čistě obytné (OC) i přes to, že odbor životního prostředí Magistrátu hl.m.Prahy ji nedoporučil ke schválení. Tímto usnesením se stala část pozemku ze zeleně stavební - [usnesení ZHMP 31/16](https://zastupitelstvo.praha.eu/ina-iframe/inagetdocument.aspx?par=083146180188183144167152151121195188183144138131131137134134121188183144135131138140135) (viz [změna Z0715 Výstavba rodinného domu](https://app.iprpraha.cz/napp/zmeny/?cislotxt=Z0715&featureexist=1&action=view&presenter=Articlezmenyupravy)) - starosta Petr Hána (ODS), primátor Pavel Bém (ODS)
 
 ![puvodni_stav.jpg]({{'puvodni_stav.jpg' | prepend: page.folder | relative_url }} )
 _(původní stav)_
