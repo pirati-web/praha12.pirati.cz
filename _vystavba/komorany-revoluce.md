@@ -36,7 +36,7 @@ Projekt monitoruje [Spolek Pro Komořany](https://www.spolekprokomorany.cz).
 
 **19.6.2024** Zastupitelstvo MČ Praha 12 v reakci na petici občanů schválilo usnesení, ve kterém ukládá starostovi jednat se stavebníkem o zajištění bezbariérového průchodu a o výkupu pozemků (usnesení [Z-13-003-24](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=105866), které oproti předchozímu usnesení rady [R-82-003-24](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=105721) bylo na návrh starosty Vojtěcha Kose doplněno o úkol s výkupem pozemku) - předkladatel starosta Vojtěch Kos (ODS).
 
-Pozemky přitom zhodnotlil starosta a Rada tím, že umožnila na pozemcích města postavit schodiště, bez kterých by se tento projekt vůbec nemohl postavit - viz níže.
+Pozemky přitom zhodnotlil starosta (a rada) tím, že umožnil na pozemcích města postavit schodiště, bez kterých by se tento projekt vůbec nemohl realizovat - viz níže.
 
 **23.4.2024** Rada MČ Praha 12 vychází developerovi vstříc a umožňuje mu splnit podmínku prostupnosti územím tím, že dovolí firmě Proinvex postavit dvě schodiště na pozemcích v majetku města. Dále by měl stavebník přispět městské části darem ve výši 1 000 000 Kč (usnesení [R-75-002-24](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=104779) o týden později nahrazeno změnou formy smlouvy usnesením [R-76-021-24](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=104775)) - předkladatel starosta Vojtěch Kos (ODS).
 
