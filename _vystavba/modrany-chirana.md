@@ -2,8 +2,8 @@
 title: Mezi Vodami, polyfunkční domy 
 katastr: Modřany
 developer: KKCG a Thein
-nazev: Chirana
-web: 
+nazev: Bydlení META Modřany (Chirana)
+web: https://www.bydlenimeta.cz
 plocha:
 plochaObytna:
 jineFunkce:
