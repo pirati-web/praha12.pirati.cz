@@ -7,8 +7,8 @@ titles:
 category:                   # kategorie: pms, clenove, priznivci
 - clenove
 
-img: people/jakub-horak.jpg   # 165 x 220
-description: podnikatel v letectví  # kratký popis, max 160 znaků
+img: 
+description: na volné noze  # kratký popis, max 160 znaků
 mail:
 profiles:
   facebook: https://www.facebook.com/masseratione
