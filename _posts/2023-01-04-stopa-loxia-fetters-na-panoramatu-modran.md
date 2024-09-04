@@ -39,7 +39,7 @@ Pokusme se aspoň stručně vyjmenovat nám známá realizovaná i zatím nereal
 | radnice Prahy 12            | ✓ | ✓ | MČ Praha 12 |
 | Objemová studie ZŠ Komořany | ✓ | (✓) | MČ Praha 12 |
 | MŠ Mydlinky                 | ✓ | ✗ | MČ Praha 12 |
-| Bytový dům OC Jasná         | ✓ | ✗ | soukromník |
+| Bytový dům OC Jasná         | ✓ | ✓ | soukromník |
 | Bytový dům u Auto Kelly     | ✓ | ✓ | soukromník |
 | Viladomy Voborského         | ✓ | ✓ | soukromník |
 | Bytový dům Hausmannova      | ✓ | ✓ | soukromník |

@@ -3,16 +3,16 @@ title: Jasná, polyfunkční dům
 katastr: Kamýk
 developer: Fisolta
 nazev:
-web:
+web: https://www.fetters.cz/projekt/bytový-dům-jasná
 plocha:
 plochaObytna:
-jineFunkce: komerce v 1. podlaží
-pocetPodlazi: 12
-pocetBytu:
-pocetParking: 233
+jineFunkce: supermarket a další obchodní prostory
+pocetPodlazi: 10, 8, 4
+pocetBytu: 225
+pocetParking: 
 uzemniPlanKod: SV
 fazeSchvaleni: 5
-rokDokonceni:
+rokDokonceni: 2027
 gps:
   lat: 50.0172308
   long: 14.4433208
@@ -26,6 +26,15 @@ folder: /assets/img/vystavba/ka-jasna/
 printImg1: objem6-2022.jpg
 printImg2: puvodni_stav.jpg 
 ---
+
+{% include vystavba-strany.html obdobi="2022-2026" strany="ods;ano;top;trik;" %}
+
+**září 2024** Developer navrhuje stavbu se třemi sekcemi o výškách 10, 8 a 4 nadzemní podlaží (NP). Oproti objemové studii se tak snižuje nejvyšší sekce o 2 patra, a nejnižší naopak o 2 patra zvyšuje.
+
+![viz9-2024.jpg]({{'viz9-2024.jpg' | prepend: page.folder | relative_url }} )
+<br>_Vizualizace, zdroj: fetters.cz_
+
+{% include vystavba-strany.html obdobi="2018-2022" strany="pir;ods;top" %}
 
 ![objem6-2022.jpg]({{'objem6-2022.jpg' | prepend: page.folder | relative_url }} )
 _Objemová studie_
