@@ -31,7 +31,7 @@ printImg2:
 
 {% include vystavba-strany.html obdobi="2022-2026" strany="ods;ano;top;trik;" %}
 
-**25.6.2024** Rada MČ Praha 12 dodatek smlouvy, ve které snižuje množství požadovaných nebytových prostor (pro obchody, služby, kanceláře) za zvětšení mateřské školky o 1 další třídu [R-83-012-24](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=84748)  - předkladatel starosta Vojtěch Kos (ODS). Koalice tak jde proti schválené územní studii Komořan, zvětšuje množství bytů na úkor (městotvorné) nebytové části a přibližuje budoucí k osudu satelitní noclehárny.
+**25.6.2024** Rada MČ Praha 12 dodatek smlouvy, ve které snižuje množství požadovaných nebytových prostor (pro obchody, služby, kanceláře) za zvětšení mateřské školky o 1 další třídu [R-83-012-24](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=106023)  - předkladatel starosta Vojtěch Kos (ODS). Koalice tak jde proti schválené územní studii Komořan, zvětšuje množství bytů na úkor (městotvorné) nebytové části a přibližuje budoucí k osudu satelitní noclehárny.
 
 {% include vystavba-strany.html obdobi="2018-2022" strany="pir;ods;top" %}
 
