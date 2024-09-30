@@ -11,7 +11,7 @@ pocetPodlazi: 14, 9
 pocetBytu: 
 pocetParking: 
 uzemniPlanKod: VN/SV
-fazeSchvaleni: 3
+fazeSchvaleni: 17
 rokDokonceni: 
 gps:
   lat: 50.0162797
