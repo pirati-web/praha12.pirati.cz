@@ -5,11 +5,11 @@ developer: RG Investment
 nazev: Rezidence Zelený kopec
 web: 
 plocha:
-plochaObytna:
-jineFunkce:
-pocetPodlazi: 12
+plochaObytna: 11 350
+jineFunkce: obchody v přízemí
+pocetPodlazi: 10
 pocetBytu: 148
-pocetParking: 173
+pocetParking: 193
 uzemniPlanKod: SV
 fazeSchvaleni: 5
 rokDokonceni: 
@@ -29,6 +29,8 @@ printImg2: puvodni_stav.jpg
 ---
 
 {% include vystavba-strany.html obdobi="2022-2026" strany="ods;ano;top;trik;" %}
+
+**15.10.2024** Rada MČ Praha 12 uzavírá dohodu na ukončení předchozí smlouvy a uzavírá smlouvu novou. Výše kontribuce se zvýšila na 14 755 000 Kč (v souladu s navýšením příspěvku v roce 2024 na 1300 Kč/m<sup>2</sup>). Důvodem ukončení předchozí smlouvy je zastavení předchozího stavebního řízení. [R-95-021-24](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=108254) - předkladatel starosta Vojtěch Kos (ODS).
 
 **16.4.2024** Rada MČ Praha 12 schvaluje smlouvu s developerem na projekt o 10 NP s finančním příspěvkem výši 11 700 000 Kč. [R-74-031-24](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=104499) - předkladatel starosta Vojtěch Kos (ODS).
 
