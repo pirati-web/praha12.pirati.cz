@@ -44,4 +44,11 @@ Na závěr připomeňme aktuální rozložení sil na obou smluvních stranách:
 
 {% include newsletter-box.html %}
 
+_Aktualizace 2.1.2025:_
 
+### BAK staví Fettersovi i jeho vlastní projekt
+
+Další obchodní propojení firem Fetters Mng. a BAK se odehrává při stavbě projektu 15patrového domu na sídlišti na Praze 4 v ulici Údolní. Zde je Fetters přímo investorem (skrz jím vlastněnou firmu Natum Braník s.r.o.), pro projektovou dokumentaci si najal Loxii a pro stavbu domu zasmluvnil BAK.
+
+|---|---|
+|![web BAK]({{ 'assets/img/posts/2024-12-11-bak-fetters.png' | relative_url }})<br>[Screenshot z webu firmy BAK, kde jako referenci uvádí stavbu domu pro Fetterse]({{ 'assets/img/posts/2024-12-11-bak-fetters.png' | relative_url }})|![web Fetters]({{ 'assets/img/posts/2024-12-11-prior-fetters.png' | relative_url }})<br>[Screenshot z webu firmy Fetters Mng., kde jako referenci uvádí zajištění projektové dokumentace pro BAK]({{ 'assets/img/posts/2024-12-11-prior-fetters.png' | relative_url }})|
