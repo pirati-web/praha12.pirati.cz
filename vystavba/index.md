@@ -31,67 +31,50 @@ K udelani velkeho screenshotu mapy je treba:
 
 <div id="mapa" style="height:350px;"></div>
 <script type="text/javascript">
-// source https://api.mapy.cz/view?page=markers-signals
-var center = SMap.Coords.fromWGS84(14.43, 50.00);
-var mapa = new SMap(JAK.gel("mapa"), center, 13);
-mapa.addDefaultLayer(SMap.DEF_BASE).enable();
+const MAPY_API_KEY = "m_FCeS4VbzD5XXQPBKb5eUrRAJ6e5GKYR2UDjwG603E";
+var map = L.map('mapa', { scrollWheelZoom: false }).setView([50.006, 14.43], 13);
+const tileLayers = {
+  'Základní': L.tileLayer(`https://api.mapy.cz/v1/maptiles/basic/256/{z}/{x}/{y}?apikey=${MAPY_API_KEY}`, {
+    minZoom: 0,
+    maxZoom: 19,
+    attribution: '<a href="https://api.mapy.cz/copyright" target="_blank">&copy; Seznam.cz a.s. a další</a>',
+}),
+  'Letecká': L.tileLayer(`https://api.mapy.cz/v1/maptiles/aerial/256/{z}/{x}/{y}?apikey=${MAPY_API_KEY}`, {
+    minZoom: 0,
+    maxZoom: 19,
+    attribution: '<a href="https://api.mapy.cz/copyright" target="_blank">&copy; Seznam.cz a.s. a další</a>',
+}),
+};
+tileLayers['Základní'].addTo(map);
+L.control.layers(tileLayers).addTo(map);
 
-mapa.addDefaultControls();
+// Mapy.cz require us to place their logo somewhere
+const LogoControl = L.Control.extend({
+  options: {
+    position: 'bottomleft',
+  },
 
-var controls = mapa.getControls();  /* Odstranit kolecko mysi */
-for (var i=0;i<controls.length;i++) {
-  if (controls[i] instanceof SMap.Control.Mouse)
-    controls[i].configure(SMap.MOUSE_PAN | SMap.MOUSE_ZOOM);
-}
+  onAdd: function (map) {
+    const container = L.DomUtil.create('div');
+    const link = L.DomUtil.create('a', '', container);
 
-var vrstva = new SMap.Layer.Marker();     /* Vrstva se značkami */
-var souradnice = [];
-// data pro markery
-var markers = [
+    link.setAttribute('href', 'http://mapy.cz/');
+    link.setAttribute('target', '_blank');
+    link.innerHTML = '<img src="https://api.mapy.cz/img/api/logo.svg" />';
+    L.DomEvent.disableClickPropagation(link);
+
+    return container;
+  },
+});
+new LogoControl().addTo(map);
+
 {% for item in projekty %}
   {% if item.gps.lat and item.gps.long %}
-  {
-    name: "{{ item.title }}",
-    coord_lat: {{ item.gps.lat }},
-    coord_long: {{ item.gps.long }},
-    link: "{{ item.url | relative_url }}",
-    id: {{ forloop.index }}
-  },
+    L.marker([{{ item.gps.lat }}, {{ item.gps.long }}]).addTo(map)
+        .bindTooltip("{{ item.title }}")
+        .on('click', function(e) { window.open("{{ item.url | relative_url }}");});
   {% endif %}
 {% endfor %}
-];
-// vytvoreni markeru
-markers.forEach(function(marker) {
-	var c = SMap.Coords.fromWGS84(marker.coord_long, marker.coord_lat);
-  var options = { title: marker.name }
-  // duletize je prirazeni id jednotlivemu markeru
-  var znacka = new SMap.Marker(c, marker.id, options);
-  souradnice.push(c);
-  vrstva.addMarker(znacka);
-  znacka.getContainer()[SMap.LAYER_MARKER].style.cursor = "pointer";
-});
-
-// zobrazime a povolime vrstvu - pokud by se vrstva povolila pred vkladanim markeru, tak by se s kazdym vlozenym markerem prekreslovala mapa a pocitaly pozice vsech markeru
-mapa.addLayer(vrstva);                          /* Přidat ji do mapy */
-vrstva.enable();                         /* A povolit */
-
-var cz = mapa.computeCenterZoom(souradnice); /* Spočítat pozici mapy tak, aby značky byly vidět */
-cz[1] = 13;  // tenhle zoom je stejne nejlepsi
-mapa.setCenterZoom(cz[0], cz[1]);
-
-// poslouchani na kliknuti u markeru
-mapa.getSignals().addListener(this, "marker-click", function(e) {
-  // vybrany marker
-  var marker = e.target;
-  var id = marker.getId();
-  // zobrazime jeho jmeno - parovani vybraneho markeru pomoci jeho id a nasich vstupnich dat
-  for (var i = 0; i < markers.length; i++) {
-  	if (markers[i].id == id) {
-    	location.href = markers[i].link;
-      break;
-    }
-  }
-});
 </script>
 - - -
 
