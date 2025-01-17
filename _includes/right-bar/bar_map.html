@@ -1,0 +1,55 @@
+{% comment %}
+This requires the page header to define
+mapycz-api: mini-api   # normal api is OK too
+gps:
+  lat: ...
+  long: ...
+  zoom: # optional (default = 16)
+
+Note: map is not inside accordion, as map tiles don't load at start due to accordion collapsing at start (zero height)
+{% endcomment %}
+
+{% if (page.mapycz_api) and (page.gps.lat) and (page.gps.long) %}
+{% assign gps_zoom = 16 %}
+{% if (page.gps.zoom) %}
+  {% assign gps_zoom = page.gps.zoom %}
+{% endif %}
+<div class="o-section-block">
+<div id="rbar_mapa" style="height: 300px;"></div>
+<script type="text/javascript">
+
+const BAR_MAPY_API_KEY = "m_FCeS4VbzD5XXQPBKb5eUrRAJ6e5GKYR2UDjwG603E";
+var rbar_map = L.map('rbar_mapa', { zoomControl: false, dragging: false, scrollWheelZoom: false }).setView([{{ page.gps.lat }}, {{ page.gps.long }}], {{ gps_zoom }});
+const tileLayers = {
+  'Základní': L.tileLayer(`https://api.mapy.cz/v1/maptiles/basic/256/{z}/{x}/{y}?apikey=${BAR_MAPY_API_KEY}`, {
+    minZoom: 0,
+    maxZoom: 19,
+    attribution: '<a href="https://api.mapy.cz/copyright" target="_blank">&copy; Seznam.cz a.s. a další</a>',
+}),
+};
+tileLayers['Základní'].addTo(rbar_map);
+
+// Mapy.cz require us to place their logo somewhere
+const LogoControl = L.Control.extend({
+  options: {
+    position: 'bottomleft',
+  },
+
+  onAdd: function (map) {
+    const container = L.DomUtil.create('div');
+    const link = L.DomUtil.create('a', '', container);
+
+    link.setAttribute('href', 'http://mapy.cz/');
+    link.setAttribute('target', '_blank');
+    link.innerHTML = '<img src="https://api.mapy.cz/img/api/logo.svg" />';
+    L.DomEvent.disableClickPropagation(link);
+
+    return container;
+  },
+});
+new LogoControl().addTo(rbar_map);
+L.marker([{{ page.gps.lat }}, {{ page.gps.long }}]).addTo(rbar_map);
+</script>
+<a class="dark expanded button large hide-for-print" href="https://mapy.cz/zakladni?x={{page.gps.long}}&y={{page.gps.lat}}&z=16&source=coor&id={{page.gps.long}}%2C{{page.gps.lat}}" target="_blank"> Zobrazit větší mapu </a>
+</div>
+{% endif %}
