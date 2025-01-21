@@ -5,7 +5,7 @@ titles:
   before: Ing.
   after:
 category:                   # kategorie: pms, clenove, priznivci
-- clenove
+- priznivci
 
 img: people/matej-mlcoch.jpg   # 165 x 220
 description: specialista v oboru odpadového hospodářství, zastupitel MČ Praha 12 # kratký popis, max 160 znaků
