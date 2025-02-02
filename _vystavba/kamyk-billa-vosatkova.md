@@ -2,8 +2,8 @@
 title: Vosátkova, bytový dům
 katastr: Kamýk
 developer: Trigema
-nazev: Polyfunkční dům Kamýk
-web:
+nazev: Dueta Kamýk
+web: https://dueta.trigema.cz
 plocha: 11518 
 plochaObytna: 11255
 jineFunkce: samoobsluha
@@ -11,7 +11,7 @@ pocetPodlazi: 15, 9
 pocetBytu: 154
 pocetParking:
 uzemniPlanKod: OV
-fazeSchvaleni: 6
+fazeSchvaleni: 11
 rokDokonceni:
 gps:
   lat: 50.0149972
