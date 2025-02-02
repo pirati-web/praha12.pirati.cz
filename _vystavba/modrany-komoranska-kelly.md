@@ -11,7 +11,7 @@ pocetPodlazi: 12, 5
 pocetBytu: 97
 pocetParking:
 uzemniPlanKod: OV
-fazeSchvaleni: 9
+fazeSchvaleni: 10
 rokDokonceni: 
 gps:
   lat: 50.0024392 

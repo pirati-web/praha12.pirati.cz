@@ -2,8 +2,8 @@
 title: Smotlachova, polyfunkční dům
 katastr: Kamýk
 developer: JRD
-nazev: Zelený Kamýk
-web:
+nazev: Horizont Kamýk (a.k.a. Zelený Kamýk)
+web: https://www.horizontkamyk.cz
 plocha:
 plochaObytna:
 jineFunkce:
@@ -11,7 +11,7 @@ pocetPodlazi: 13
 pocetBytu: 97
 pocetParking: 106
 uzemniPlanKod: SV
-fazeSchvaleni: 12
+fazeSchvaleni: 14
 rokDokonceni:
 gps:
   lat: 50.0098589
