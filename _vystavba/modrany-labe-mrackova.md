@@ -30,6 +30,8 @@ printImg2: puvodni_stav.jpg
 
 {% include vystavba-strany.html obdobi="2022-2026" strany="ods;ano;top;trik;" %}
 
+**10.12.2024** Zastupitelstvo MČ Praha 12 prodává kus městského pozemku mezi restaurací a parkovištěm developerovi, aby mu usnadnila realizovat stavbu. [Z-17-003-24](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=109438) - předkladatel Milan Maruštík (ANO), starosta Vojtěch Kos (ODS).
+
 **15.10.2024** Rada MČ Praha 12 uzavírá dohodu na ukončení předchozí smlouvy a uzavírá smlouvu novou. Výše kontribuce se zvýšila na 14 755 000 Kč (v souladu s navýšením příspěvku v roce 2024 na 1300 Kč/m<sup>2</sup>). Důvodem ukončení předchozí smlouvy je zastavení předchozího stavebního řízení. [R-95-021-24](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=108254) - předkladatel starosta Vojtěch Kos (ODS).
 
 **16.4.2024** Rada MČ Praha 12 schvaluje smlouvu s developerem na projekt o 10 NP s finančním příspěvkem výši 11 700 000 Kč. [R-74-031-24](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=104499) - předkladatel starosta Vojtěch Kos (ODS).
