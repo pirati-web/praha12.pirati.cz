@@ -6,10 +6,10 @@ titles:
   after:
 category:                   # kategorie: pms, clenove, priznivci
 - pms
-ordpms: 5
+ordpms: 1
 
 img: people/jiri-bruzek.jpg   # 165 x 220
-description: zastupitel hl.m.Prahy a MČ Praha 12 # kratký popis, max 160 znaků
+description: zastupitel hl.m.Prahy a MČ Praha 12, předseda místního sdružení Praha 12 # kratký popis, max 160 znaků
 mob: +420 602 406 504
 mail: jiri.bruzek@seznam.cz
 profiles:

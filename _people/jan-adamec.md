@@ -6,7 +6,7 @@ titles:
   after:
 category:                   # kategorie: pms, clenove, priznivci
 - pms
-ordpms: 2
+ordpms: 3
 
 img: people/jan-adamec.jpg   # 165 x 220
 description: programátor, autor nezávislé mobilní aplikace o Praze 12, zastupitel MČ Praha 12, předseda zastupitelského klubu   # kratký popis, max 160 znaků
