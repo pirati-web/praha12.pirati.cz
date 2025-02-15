@@ -8,7 +8,7 @@ category:                   # kategorie: pms, clenove, priznivci
 - clenove
 
 img: people/pavel-knizek.jpg   # 165 x 220
-description: datový a finanční analytik, bussiness intelligence, člen kontrolního výboru Prahy 12 # kratký popis, max 160 znaků
+description: datový a finanční analytik, bussiness intelligence # kratký popis, max 160 znaků
 mail:
 profiles:
   facebook: 

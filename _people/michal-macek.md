@@ -7,7 +7,7 @@ titles:
 category:                   # kategorie: pms, clenove, priznivci
 - pms
 - kontaktni_osoba
-ordpms: 3
+ordpms: 2
 
 img: people/michal-macek.jpg   # 165 x 220
 description: PR specialista, zastupitel MČ Praha 12  # kratký popis, max 160 znaků
