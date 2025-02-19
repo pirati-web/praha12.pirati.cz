@@ -32,6 +32,9 @@ Projekt monitoruje [Spolek Náš Kamýk](https://kamykspolek.cz).
 
 {% include vystavba-strany.html obdobi="2022-2026" strany="ods;ano;top;trik;" %}
 
+**17.2.2025** Rada MČ schvaluje dodatek smlouvy o spolupráci s developerem spočívající jen v nastavení doby splatnosti příspěvku (usnesení [R-110-022-25](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=110498)) - 
+předkladatelem starosta Vojtěch Kos (ODS).
+
 **9.10.2023** Rada hl. m. Prahy schvaluje pronájem okolních pozemků pro stavbu domu. Nesouhlas předložený radním Adamem Zábranským (Piráti) byl na návrh radního Petra Hlaváčka (STAN) změněn na souhlas a hlasy ODS, TOP09 a STAN prohlasován ([usnesení 2159](https://zastupitelstvo.praha.eu/ina/tedusndetail.aspx?par=133171230238233194184171248238233194181171245238233194181171242238233194181&id=669413)).
 
 {% include vystavba_hlasovani.html nazev="2159 (souhlas HMP s projektem)" hlasy="ODS+TOP09-5-0-0-0; Piráti-0-0-4-0; STAN-2-0-0-0" %}
