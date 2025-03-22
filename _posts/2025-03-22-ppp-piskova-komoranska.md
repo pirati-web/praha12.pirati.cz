@@ -15,6 +15,8 @@ Vedení radnice raději prodá jednu starou budovu a druhou de-facto pronajme k 
 
 Že chce Praha 12 místo budovy staré radnice v Pískové a starého domu v ulici Komořanská postavit nové byty, je jistě v pořádku. Provedení je ale neskutečně komerční. Zatímco jiné městské části stavbu financují [z dotačních fondů](https://praha.eu/fond-rozvoje-dostupneho-bydleni-na-uzemi-hl-m-prahy), ODS, ANO a TOP 09 jde cestou komerční - koncesí. Vítězná firma postaví domy za své, část prodá, část pronajme a část předá radnici. Jak velké budou tyto části je předmětem tzv. soutěžního dialogu zakázky na koncesi.
 
+{% include related-post-box.html relatedpost='_posts/2024-09-08-nedostupne-bydlení-komerce-koncese.md' %}
+
 Známá je však [zadávací dokumentace](https://zakazky.praha12.cz/contract_display_601.html) koncese (PPP projektu). V té se uvádí, že **objekt v Komořanské se může komplet celý prodat**. Nevznikne zde žádný dostupný městský byt a radnice tak přijde ihned o polovinu potenciálních bytů. Citujeme klíčovou pasáž ze zadávací dokumentace:
 
 **2.11 Další podmínky zadavatele**
@@ -34,3 +36,5 @@ V Pískové naopak radnice neplní oficiální slib daný usnesením Rady MČ Pr
 Postavit dva 4podlažní domy není nic velkého. Radnice Prahy 12 by to jistě zvládla. Místo toho používá PPP projekt, koncesi, která je vhodná pro velké stavby nad 1 miliardu Kč a má pro Prahu 12 velká rizika během přípravy. O této zakázce jsme psali již v září 2024, kdy radnice do zakázky přitáhla své [oblíbené poradenské firmy Rowan Legal a Newton, ačkoli podaly nejvyšší nabídku]({%link _posts/2024-09-08-nedostupne-bydlení-komerce-koncese.md %}).
 
 {% include newsletter-box.html %}
+
+_Úvodní ilustrace: původní návrh bytového domu s multifunkčním sálem v ulici Písková_
