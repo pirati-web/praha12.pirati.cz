@@ -16,7 +16,7 @@ textbox:
     <a href="../aktuality/mapa-vystavby.html">Přečíst celý článek</a>
 ---
 
-Vytvořili jsme mapu, kde můžete najít jednotlivé developerské projekty. Postupně budeme doplňovat stav jejich projednání a doufáme, že se ty předimenzované buď podaří zastavit nebo je alespoň změnit na únosnou míru.
+Vytvořili jsme mapu, kde můžete najít jednotlivé developerské projekty. Postupně budeme doplňovat stav jejich projednání a doufáme, že se ty předimenzované podaří změnit na únosnou míru.
 
 {% assign projekty = site.vystavba %}
 
