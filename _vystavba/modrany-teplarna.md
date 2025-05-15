@@ -23,9 +23,14 @@ textbox:
   text: Toto místo má v Modřanech nejlepší dopravní spojení do centra Prahy. Jsou tu tramvaje i autobusy jezdící v krátkých intervalech. Na protější straně ulice vyrostl velký bytový komplex, proto bychom zde uvítali prostory pro práci, aby se naše městská část stále více neměnila v noclehárnu.
 
 folder: /assets/img/vystavba/mo-teplarna/
-printImg1: vytopna2d.jpg
+printImg1: viz1.jpg
 printImg2: puvodni_stav.jpg
 ---
+
+**3.2025** Dokončení participace a práce pracovní skupiny složené z místních politiků (koalice i opozice), developera, a zástupců přilehlého SVJ. Developer v mezidobí odmítl pro bazén vyčlenit pozemky či prostor v projektu, který je tak nyní klasickým bytovým projektem s komerčními prostory v přízemí. Místo bazénu developer Praze 12 uhradí sankci ve výši 70 milionů Kč dle smlouvy z roku 2019.
+
+![viz1.jpg]({{'viz1.jpg' | prepend: page.folder | relative_url }} )
+(zdroj: prezentace z veřejných setkání a pracovní skupiny)
 
 **11.5.2023** Konalo se první veřejné participační jednání. Developer, který v mezidobí získal od Prahy pozemky okolo teplárny, deklaroval, že se i nadále chce řídit smlouvou z roku 2019, ačkoli již upustil od záměru vybudovat zde wellness hotel. Na participačním jednáním zazněla jasná podpora pro to, aby zde 25m bazén i přesto byl.
 
@@ -40,4 +45,3 @@ printImg2: puvodni_stav.jpg
 
 ![puvodni_stav.jpg]({{'puvodni_stav.jpg' | prepend: page.folder | relative_url }} )
 
-Další informace o projektu brzy doplníme.
