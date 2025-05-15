@@ -7,7 +7,7 @@ authorId: jan.adamec
 image: posts/2025-05-15-participace-vytopna-modrany.jpg
 tags:
   - participace
-  - vystavba
+  - výstavba
 ---
 
 Na Praze 12 se rozbíhá další participace občanů k developerskému projektu – tentokrát v[ okolí OC Labe](https://www.praha12.cz/pozvanka%2Dna%2Dverejne%2Dsetkani%2Dk%2Dprojektu%2Dbudouci%2Dpodoby%2Dcentra%2Dlabe/d-112317) (ulice Mazancova a Kutilova). Jaký průběh měla podobná participace u stavby v centru Modřan [na místě bývalé výtopny]({%link _vystavba/modrany-teplarna.md %})? Přinášíme přehled, který může sloužit jako srovnání.
