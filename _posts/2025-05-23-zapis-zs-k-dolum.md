@@ -1,6 +1,6 @@
 ---
 category: blog
-title: "Do ZŠ v Modřanech se nevešlo 31 spádových dětí, budovu hned naproti ale pronajala radnice soukromé SŠ"
+title: "Do základní školy v Modřanech se letos nevešlo 31 spádových dětí, budovu hned naproti ale pronajala radnice soukromé SŠ"
 date: 2025-05-23
 author: Jan Adamec
 authorId: jan.adamec
