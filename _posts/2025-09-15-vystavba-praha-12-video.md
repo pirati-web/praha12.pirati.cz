@@ -1,7 +1,7 @@
 ---
 category: blog
 title: "Co dělají Piráti JINAK? Výstavba na Praze 12"
-date: 2025-05-23
+date: 2025-09-15
 author: Piráti Praha 12
 authorId: 
 image: posts/2025-09-15-vystavba-praha-12-video.jpg
