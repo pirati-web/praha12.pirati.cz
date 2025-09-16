@@ -9,6 +9,7 @@ tags:
   - výstavba
   - Loxia
   - PRIOR
+  - video
 ---
 
 Architekti ze společnosti Loxia [představili novou podobu obchodního domu](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=103011) PRIOR. Má 11 podlaží, je vyšší než Sofijské náměstí široké a na první pohled vypadá jako obyčejná bytovka. Ve středu 28. 2. 2024 proběhne zasedání zastupitelstva MČ Praha 12, kde bude rada (ODS+TOP09+ANO) chtít tuto architektonickou studii schvalovat.

@@ -9,6 +9,7 @@ tags:
   - hasičská stanice
   - Cholupice
   - architektura
+  - video
 ---
 
 V neděli 16. dubna Piráti z Prahy 12 vyrazili na výlet. Chtěli se podívat na nedávno postavené hasičske zbrojnice pro "dobráky". Navštívili Prahu-Písnici, Dolní Měcholupy, Dubeč, Běchovice a mimopražské Líbeznice. A hledali inspiraci a příklady dobré praxe pro plánovanou zbrojnici u nás v Praze 12 Cholupicích.
