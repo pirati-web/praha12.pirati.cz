@@ -10,7 +10,7 @@ jineFunkce:
 pocetBytu:
 pocetParking:
 uzemniPlanKod: VN
-fazeSchvaleni: 3
+fazeSchvaleni: 17
 rokDokonceni:
 gps:
   lat: 50.0153564
