@@ -30,8 +30,12 @@ printImg2: puvodni_stav.jpg
 Projekt monitoruje Spolek Tichá čtvrť.
 
 - - -
+
+{% include vystavba-strany.html obdobi="2018-2022" strany="pir;ods;top" %}
+
 **27.4.2021** Rada MČ uzavřela dodatek smlouvy s developerem, kde se mění příspěvek z hmotného plnění na finanční ve stejné výši, tedy 3&nbsp;640&nbsp;000 Kč. Ten má být použit pro výstavbu nové školky   [R-118-014-21](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=83044) - předkladatel Vojtěch Kos (ODS), starosta Jan Adamec (Piráti)
 
+{% include vystavba-strany.html obdobi="2014-2018" strany="ano;cssd" %}
 
 **13.11.2017** Rada MČ uzavřela smouvu s developerem, kde souhlasí se stavbou a získává nefinanční na infrastukturu ve výši 3&nbsp;640&nbsp;000 Kč  [R-146-033-17](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=58616) - předkladatel František Adámek (ČSSD), starosta Milan Maruštík (ANO)
 

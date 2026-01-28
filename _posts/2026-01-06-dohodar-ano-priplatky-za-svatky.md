@@ -13,7 +13,7 @@ Radní za ANO nechávají úřadem platit Adama Gregora, jeho výkazy práce vzb
 
 Při kontrole provedené skupinou Kontrolního výboru zastupitelstva jsem nahlédl do výkazů práce pana Gregora a několika dalších dohodářů. Zatímco ostatní své činnosti popisují více či méně konkrétně, Gregor má výkazy každý měsíc stejné, s měsíčním součtem hodin na minutu přesně na limit a činnosti popsané nekonkrétně. Poradenské činnosti v oblasti zdravotnictví, poradenské činnosti v oblasti IT a digitalizace, sociální oblasti, zahraničních vztahů, dopravě. Nic víc uvedeno není, každý den jedna oblast. Radní ANO tuto praxi hájí, dohodář výstupy předává ústně, ne písemně, nelze je tedy nezávisle přezkoumat.
 
-**Navíc si vykázal práci i o několika státních svátcích** - Velikonoční pátek a pondělí, 1. a 8. května. Je to nechtěný důsledek kopírování výkazů práce mezi jednotlivými měsíci nebo radní ANO skutečně zadávají Gregorovi práci i ve svátcích? **Za tu mu totiž úřad musí vyplácet příplatek ve výši 100% navíc.** Radní Zvonař však výkaz vždy podepíše a úřadu tak nezbývá než vše proplatit i s příplatky.
+**Navíc si vykázal práci i o několika státních svátcích** - Velikonoční pátek a pondělí, 1. a 8. května. Je to nechtěný důsledek kopírování výkazů práce mezi jednotlivými měsíci nebo radní ANO skutečně zadávají Gregorovi práci i ve svátcích? **Za tu mu totiž úřad musí vyplácet příplatek ve výši 100% navíc.** Odpovědný radní (Zvonař či Vedralová) však výkaz vždy podepíše a úřadu tak nezbývá než vše proplatit i s příplatky.
 
 Aby toho nebylo málo, Adam Gregor je současně zaměstnán na Magistrátu hl. m. Prahy jako sekretář [Ondřeje Prokopa](https://praha.eu/web/praha/seznam-zastupitelu#/detail/-5357), předsedy kontrolního výboru MHMP. Ondřej Prokop je předseda pražského ANO.
 
