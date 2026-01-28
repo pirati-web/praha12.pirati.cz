@@ -22,12 +22,21 @@ uvodText: Developer chce stávající dvoupodlažní obchodní centrum Jasná re
 textbox:
   text: Vítáme, že investor chce zkvalitnit služby a prostory tohoto obchodního centra na sídlišti. Chápeme, že přestavbu je třeba financovat zvětšením objektu a přidáním funkce bydlení. Vzhledem k blízkosti rodinných domů a k již aktuálnímu problematickému parkování v okolí jsme jako kompromis pro objekt s maximálně 4 patry, tedy po vzoru návrhu pro výšku obchodního centra Obzor v územní studii okolí metra Libuš.
 
+img: vystavba/ka-jasna/objem6-2022.jpg
 folder: /assets/img/vystavba/ka-jasna/
 printImg1: objem6-2022.jpg
 printImg2: puvodni_stav.jpg 
 ---
 
 {% include vystavba-strany.html obdobi="2022-2026" strany="ods;ano;top;trik;" %}
+
+**9.12.2025** Rada MČ nesouhlasí s prodejem pozemků, které developer potřebuje, ale je do doby, než se uzavře smlouva ([R-144-008-25](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=116122))  - předkladatel starosta Vojtěch Kos (ODS)
+
+Potřeba pozemků od hlavního města Prahy je tak klíčovým vyjednávacím trumfem v rukou radnice, která jej ale prozatím nechce využít tak, aby vznikl projekt o přijatelném objemu i pro občany a trvá na 10 nadzemních podlažích.
+
+**12.11.2025** Koalice v zastupitelstvu odmítla upravit poslední návrh Metropolitního plánu hl.m. Prahy po vzoru ostatních obchodních center na sídlištích po Praze 12 a v reakci na petici občanů jen trvá na jejím současném postupu ([Z-23-003-25](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=115685))  - předkladatel starosta Vojtěch Kos (ODS)
+
+**17.9.2025** Koalice v zastupitelstvu opět odmítá vyjádřit nesouhlas s výškou zástavby a místo toho ukládá Radě MČ jednat o přesunu "hmot" od rodinných domůk hlavní ulici ([Z-22-004-25](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=114684))  - předkladatel starosta Vojtěch Kos (ODS)
 
 **22.7.2025** Developer požádal hl.m. Praha o odkup pozemků v okolí vjezdu z ulice Zdislavická (parcely č. 580/24,25,27). Stanovisko k tomuto prodeji bylo předloženo na jednání Rady MČ Praha 12, ale bylo na žádost občanů staženo. Ačkoli by měla fungovat pracovní skupina složená i s občanů, o tomto prodeji nebyli občané informováni.
 

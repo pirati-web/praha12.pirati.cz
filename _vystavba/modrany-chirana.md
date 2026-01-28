@@ -22,8 +22,9 @@ textbox:
   text: >
     Po vyjednávání s novým vlastníkem areálu o kontribucích souhlasíme se změnou územního plánu na smíšené využití (SV) při závazku, že zde developer vybuduje 4třídní mateřskou školku a další vybavenost. Jedná se totiž o poslední pozemky v této lokalitě, kde chybějící infrastruktura může reálně vzniknout. Celková výše kontribuce by pak měla odpovídat metodice magistrátu při změnách územního plánu.
 
+img: vystavba/mo-chirana/chirana-viz2.jpg
 folder: /assets/img/vystavba/mo-chirana/
-printImg1: chirana-viz1.jpg
+printImg1: chirana-viz2.jpg
 printImg2: puvodni-stav.jpg
 ---
 
