@@ -25,6 +25,7 @@ textbox:
     <br/><br/>
     Část budovy překračující tvar domu v Papírníkově navíc zastíní existující byty, zvláště když je orientovaná na jih od nich.
 
+img: vystavba/ka-papirnikova/viz3.jpg
 folder: /assets/img/vystavba/ka-papirnikova/
 printImg1: viz3.jpg
 printImg2: puvodni_stav.jpg
