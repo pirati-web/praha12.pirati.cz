@@ -27,6 +27,15 @@ printImg1: chirana-viz1.jpg
 printImg2: puvodni-stav.jpg
 ---
 
+{% include vystavba-strany.html obdobi="2022-2026" strany="ods;ano;top;trik;" %}
+
+**27.1.2026** Rada MČ schvaluje dodatek ke smlouvě o spolupráci obsahující několik změn v projektu a zpřesňující podmínky plnění smlouvy ([R-149-011-26](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=116742))  - předkladatel starosta Vojtěch Kos (ODS)
+
+![chirana-viz2.jpg]({{'chirana-viz2.jpg' | prepend: page.folder | relative_url }})
+_(zdroj: příloha usnesení R-149-011-26)_
+
+{% include vystavba-strany.html obdobi="2018-2022" strany="pir;ods;top" %}
+
 **5.4.2022** Rada MČ souhlasí se změnou územního plánu na SV-H ([R-168-020-22](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=89496)) za podmínky dojednání příspěvku developera podle magistrátní metodiky, zejména zajištění 4třídní školky, která v lokalitě chybí - předkladatel Eva Tylová (Piráti), starosta Jan Adamec (Piráti)
 
 ![chirana-viz1.jpg]({{'chirana-viz1.jpg' | prepend: page.folder | relative_url }})
