@@ -6,6 +6,7 @@ titles:
   after:
 category:                   # kategorie: pms, clenove, priznivci
 - pms
+- kontaktni_osoba
 ordpms: 1
 
 img: people/jiri-bruzek.jpg   # 165 x 220

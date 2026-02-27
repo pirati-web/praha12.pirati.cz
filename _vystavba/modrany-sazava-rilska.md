@@ -1,7 +1,7 @@
 ---
 title: Rilská, polyfunkční domy
 katastr: Modřany
-developer: Fisolta
+developer: CPI
 nazev: Polyfunkční centrum Rilská
 web:
 plocha:
@@ -33,6 +33,8 @@ Boji proti tomuto projektu se věnuje občanský spolek [Spolek pro Modřany](ht
 - - -
 
 {% include vystavba-strany.html obdobi="2022-2026" strany="ods;ano;top;trik;" %}
+
+**únor 2026** Soud zrušil rozhodnutí o odstranění současné stavby a stavební řízení se tak do 30.8.2026 přerušuje.
 
 **28.6.2023** Zastupitelstvo hlasy koalice a KSČM schvaluje návrh na snížení projektu na objekty se 7 NP, 7 NP a 2 NP ([Z-7-002-23](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=98654)) po předchozím souhlasu rady ([R-34-004-23](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=98305)).
 
