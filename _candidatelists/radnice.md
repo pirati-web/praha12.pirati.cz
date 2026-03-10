@@ -72,7 +72,7 @@ tail: # zbytek kandidatky
     age: 41
     profession: profesionální trafikantka a hudebnice
     party: Piráti
-  - uid: pavel.knizek
+  - name: Pavel Knížek
     age: 42
     profession: analytik business intelligence
     party: Piráti
