@@ -5,10 +5,11 @@ titles:
   before: 
   after:
 category:                   # kategorie: pms, clenove, priznivci
-- clenove
+- pms
+ordpms: 3
 
 img: people/filip-matous.jpg
-description: student
+description: student, místopředseda místního sdružení Praha 12
 mail: filip.matous@pirati.cz
 ---
 
