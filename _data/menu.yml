@@ -25,13 +25,10 @@ main:
         match: komunalni-volby/kandidatka-2022
       - link: /komunalni-volby/program.html
         name: Volební program
-        match: program
+        match: komunalni-volby/program
       - link: /komunalni-volby/povolebni-strategie.html
         name: Povolební strategie
         match: komunalni-volby/povolebni-strategie
-      - link: /komunalni-volby/plneni-programu-2018.html
-        name: Plnění programu 2018
-        match: komunalni-volby/plneni-programu-2018
   - link: /vystavba/
     name: Výstavba
     match: vystavba
