@@ -1,7 +1,7 @@
 ---
 category: blog
 title: Bytové domy mezi rodinné domy nepatří
-date: 2026-03-28
+date: 2026-05-10
 author: Eva Tylová
 authorId: eva.tylova
 image: posts/2026-05-10-nesvadbova-pred.jpg
