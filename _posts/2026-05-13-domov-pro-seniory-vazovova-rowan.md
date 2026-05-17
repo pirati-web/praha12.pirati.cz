@@ -20,7 +20,8 @@ V roce 2016 koalice **Změna pro Prahu 12, ANO, ČSSD (starostka Daniela Rázkov
 
 **Byla však udělena výjimka.** Zakázka se vůbec nezveřejnila na webových stránkách městské části. Radnice si sama vybrala a oslovila 5 konkrétních advokátních kanceláří napřímo (usnesení [R-089-012-16](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=50284)).
 
-A výsledek této „uzavřené soutěže“? Vítězná nabídka firmy Rowan Legal činila 2 350 Kč bez DPH za hodinu práce. Další oslovené kanceláře nabízely dokonce až 2 800 Kč bez DPH za hodinu. I na dnešní dobu jsou to přehnané částky, natož pak v cenových relacích před deseti lety.
+A výsledek této „uzavřené soutěže“? Vítězná nabídka firmy Rowan Legal činila 2 350 Kč bez DPH za hodinu práce. Další oslovené kanceláře nabízely dokonce až 2 800 Kč bez DPH za hodinu (usnesení [R-092-003-16](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=50529)).
+I na dnešní dobu jsou to přehnané částky, natož pak v cenových relacích před deseti lety.
 
 ### Kříšení mrtvoly: Jak se za každou cenu vyhnout novému tendru
 
@@ -46,7 +47,7 @@ Možná si řeknete, že to je jen papírování. Není. Jde o peníze nás vše
 * **Obcházení zákona**: Účelově oživovat zaniklou smlouvu a navyšovat u ní finanční limity na základě zákonů, které v době jejího vzniku ani neexistovaly, je hrubým porušením principů hospodářské soutěže.
 * **Netransparentnost**: Projekt, který má sloužit seniorům a v budoucnu možná také nám, dostává hned na startovní čáře nepříjemnou pachuť intrik a zakázek "z ruky".
 
-### Chceme domov pro seniory, ale s čistým štítem
+### Chceme domov pro seniory, ale poctivě
 
 Naší prioritou je, aby se domov pro seniory konečně postavil. Ale odmítáme, aby se tak dělo pokoutně a za pomoci smluvních kliček na hraně (spíše za hranou) zákona.
 
