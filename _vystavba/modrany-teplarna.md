@@ -27,6 +27,12 @@ printImg1: viz1.jpg
 printImg2: puvodni_stav.jpg
 ---
 
+{% include vystavba-strany.html obdobi="2022-2026" strany="ods;ano;top;trik;" %}
+
+**22. 4. 2026** Zastupitelstvo MČ Praha 12 schvaluje plánovací smlouvu, která navazuje na předchozí smlouvu z roku 2019. Vedle akceptace sankce za nepostavení bazénu se developer zavázat uhradit městské části příspěvek ve výši 33,4 milionu Kč, z čehož je 22,5 mil. Kč  ve formě nefinančního plnění (zejména komunitní centrum a úpravy podchodu)  ([Z-26-011-26](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=118352)) - předkladatel starosta Vojtěch Kos (ODS).
+
+Jiří Brůžek (Piráti) navrhl upravit usnesení zřízením účelového fondu pro stavbu nového bazénu, do kterého by byla směřována sankce ve výši 70 milionů Kč za nepostavení bazénu). Koalice ODS, ANO a TOP 09 to však zamítla.
+
 **3.2025** Dokončení participace a práce pracovní skupiny složené z místních politiků (koalice i opozice), developera, a zástupců přilehlého SVJ. Developer v mezidobí odmítl pro bazén vyčlenit pozemky či prostor v projektu, který je tak nyní klasickým bytovým projektem s komerčními prostory v přízemí. Místo bazénu developer Praze 12 uhradí sankci ve výši 70 milionů Kč dle smlouvy z roku 2019.
 
 ![viz1.jpg]({{'viz1.jpg' | prepend: page.folder | relative_url }} )
@@ -34,7 +40,11 @@ printImg2: puvodni_stav.jpg
 
 **11.5.2023** Konalo se první veřejné participační jednání. Developer, který v mezidobí získal od Prahy pozemky okolo teplárny, deklaroval, že se i nadále chce řídit smlouvou z roku 2019, ačkoli již upustil od záměru vybudovat zde wellness hotel. Na participačním jednáním zazněla jasná podpora pro to, aby zde 25m bazén i přesto byl.
 
+{% include vystavba-strany.html obdobi="2018-2022" strany="pir;ods;top" %}
+
 **10.10.2019** Rada MČ uzavřela smouvu s developerem o spolupráci, kde souhlasí se stavbou, získává příslib vybudování veřejně přístupného krytého bazénu s minimální dékou 25 m v hotelové části a příspěvek na infrastukturu ve výši 1000 Kč na metr hrubé podlahové plochy bytů v bytové části komplexu  ([R-045-025-19](https://www.praha12.cz/assets/File.ashx?id_org=80112&id_dokumenty=72593)) - předkladatel Vojtěch Kos (ODS), starosta Jan Adamec (Piráti). V tomto momentu větší část pozemků stále vlastní hl. m. Praha
+
+{% include vystavba-strany.html obdobi="2014-2018" strany="ano;cssd" %}
 
 **6.12.2017** Prezentace projektu ve Viničním domku ([Prezentace](http://www.individualniplanovani.cz/wp-content/uploads/2017/09/prezentace-pt-real-estate-papirnikova-pavlikova.pdf))
 
