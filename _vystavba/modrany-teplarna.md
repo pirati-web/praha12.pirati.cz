@@ -22,6 +22,7 @@ uvodText: Výstavba na místě nevyužívané výtopny u křižovatky ulic Gener
 textbox:
   text: Toto místo má v Modřanech nejlepší dopravní spojení do centra Prahy. Jsou tu tramvaje i autobusy jezdící v krátkých intervalech. Na protější straně ulice vyrostl velký bytový komplex, proto bychom zde uvítali prostory pro práci, aby se naše městská část stále více neměnila v noclehárnu.
 
+img: vystavba/mo-teplarna/viz1.jpg
 folder: /assets/img/vystavba/mo-teplarna/
 printImg1: viz1.jpg
 printImg2: puvodni_stav.jpg
