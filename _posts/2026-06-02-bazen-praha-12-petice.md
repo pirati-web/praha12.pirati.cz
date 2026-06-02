@@ -29,6 +29,6 @@ Na dubnovém jednání zastupitelstva Prahy 12, které se zabývalo smlouvou s d
 
 Sankční peníze od developera jsou vzácnou příležitostí: jsou k dispozici, jejich účel je logický a občané jej opakovaně podpořili. Praha 12 na bazén čeká dost dlouho.
 
-Pokud s myšlenkou bazénu v Praze 12 souhlasíte, podepište prosím [naši petici]({%link assets/img/posts/Petice-bazen-2026.pdf %}).
+Pokud s myšlenkou bazénu v Praze 12 souhlasíte, podepište prosím [naši petici]({%link assets/img/posts/Petice-bazen-2026.pdf %}). Petici je možné také [podepsat online](https://gov.cz/e-petice/1814-pozadavek-na-vybudovani-kryteho-bazenu-na-uzemi-mc-praha-12) na Portálu Občana.
 
 {% include newsletter-box.html %}
