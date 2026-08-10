@@ -1,5 +1,5 @@
 ---
-uid: jakub.rykl
+uid: vladka.sykorova
 name: Vlaďka Sýkorová 	# běžně používáné jméno
 titles:
   before: 
