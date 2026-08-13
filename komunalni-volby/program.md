@@ -7,26 +7,13 @@ rbar: textbox
 textbox:
  title: Celopražský program
  text: >
-    <ul>
-        <li><a class="c-emphasized-anchor active" href="https://praha.pirati.cz/volby/2022-komunalni/bydleni.html">Postavíme víc bytů</a></li>
-        <li><a class="c-emphasized-anchor active" href="https://praha.pirati.cz/volby/2022-komunalni/zivotni-prostredi.html">Připravíme Prahu na klimatickou změnu</a></li>
-        <li><a class="c-emphasized-anchor active" href="https://praha.pirati.cz/volby/2022-komunalni/doprava-a-infrastruktura.html">Doprava má městu pomáhat. Ne ho zatěžovat</a></li>
-        <li><a class="c-emphasized-anchor active" href="https://praha.pirati.cz/volby/2022-komunalni/uzemni-rozvoj-a-planovani.html">V moderním městě byste měli mít všechno po ruce</a></li>
-        <li><a class="c-emphasized-anchor active" href="https://praha.pirati.cz/volby/2022-komunalni/verejna-sprava.html">Digitalizujeme, abyste na úřady nemuseli</a></li>
-        <li><a class="c-emphasized-anchor active" href="https://praha.pirati.cz/volby/2022-komunalni/kultura.html">Od písničky po operu. Kultura má být pro všechny</a></li>
-        <li><a class="c-emphasized-anchor active" href="https://praha.pirati.cz/volby/2022-komunalni/bezpecnost.html">V centru nebo na sídlišti musí být bezpečně</a></li>
-        <li><a class="c-emphasized-anchor active" href="https://praha.pirati.cz/volby/2022-komunalni/socialni-politika.html">Podpoříme všechny rodiny</a></li>
-        <li><a class="c-emphasized-anchor active" href="https://praha.pirati.cz/volby/2022-komunalni/skolstvi.html">Moderní společnost začíná v moderních školách</a></li>
-        <li><a class="c-emphasized-anchor active" href="https://praha.pirati.cz/volby/2022-komunalni/zdravotnictvi.html">Každý ví, že prevence je levnější než léčba</a></li>
-        <li><a class="c-emphasized-anchor active" href="https://praha.pirati.cz/volby/2022-komunalni/sport-a-volny-cas.html">Sportoviště pro všechny. Od ping-pongu po stadiony</a></li>
-        <li><a class="c-emphasized-anchor active" href="https://praha.pirati.cz/volby/2022-komunalni/cestovni-ruch.html">Cestovní ruch bude výhodný pro turisty i místní</a></li>
-    </ul>
+    Akční plán pro bydlení a další priority pro Prahu <a href="https://praha.pirati.cz/kandidati-do-komunalnich-voleb-2026b/?secondary-view=program">praha.pirati.cz</a>.
 
 ---
 
 _Praha 12 přívětivá, udržitelná a bez korupce_
 
-Vycházíme z [celopražského programu](https://praha.pirati.cz/volby/2022-komunalni.html?pohled=program). Nechtěli jsme kopírovat body z něj, i když se s nimi ztotožňujeme, proto si jej prosím prostudujte také.
+Vycházíme z [celopražského programu](https://praha.pirati.cz/kandidati-do-komunalnich-voleb-2026b/?secondary-view=program). Nechtěli jsme kopírovat body z něj, i když se s nimi ztotožňujeme, proto si jej prosím prostudujte také.
 
 ## Dvanáctka udržitelná
 
