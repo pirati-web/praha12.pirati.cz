@@ -22,7 +22,7 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     profession: datová analytička
     party: bez politické příslušnosti
   - uid: michal.macek
-    age: 36
+    age: 35
     profession: PR specialista
     party: Piráti
   - uid: vaclav.sistek
