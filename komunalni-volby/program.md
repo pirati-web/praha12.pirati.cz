@@ -7,13 +7,25 @@ rbar: textbox
 textbox:
  title: Celopražský program
  text: >
-    Akční plán pro bydlení a další priority pro Prahu <a href="https://praha.pirati.cz/kandidati-do-komunalnich-voleb-2026b/?secondary-view=program">praha.pirati.cz</a>.
+    <ul>
+    <li><a href="https://program2026.praha.pirati.cz/program/bydleni/">Dostupné bydlení</a></li>
+    <li><a href="https://program2026.praha.pirati.cz/program/prostredi/">Životní prostředí</a></li>
+    <li><a href="https://program2026.praha.pirati.cz/program/doprava/">Doprava</a></li>
+    <li><a href="https://program2026.praha.pirati.cz/program/rizeni/">Řízení města bez korupce</a></li>
+    <li><a href="https://program2026.praha.pirati.cz/program/skolstvi/">Školství</a></li>
+    <li><a href="https://program2026.praha.pirati.cz/program/socialni/">Sociální politika a zdravotnictví</a></li>
+    <li><a href="https://program2026.praha.pirati.cz/program/sidliste/>Program pro sídliště</a></li>
+    <li><a href="https://program2026.praha.pirati.cz/program/energetika/">Energetika</a></li>
+    <li><a href="https://program2026.praha.pirati.cz/program/sport/">Sport a volný čas</a></li>
+    <li><a href="https://program2026.praha.pirati.cz/program/kultura/">Kultura</a></li>
+    <li><a href="https://program2026.praha.pirati.cz/program/bezpecnost/">Bezpečnost</a></li>
+    </ul>
 
 ---
 
 _Praha 12 přívětivá, udržitelná a bez korupce_
 
-Vycházíme z [celopražského programu](https://praha.pirati.cz/kandidati-do-komunalnich-voleb-2026b/?secondary-view=program). Nechtěli jsme kopírovat body z něj, i když se s nimi ztotožňujeme, proto si jej prosím prostudujte také.
+Vycházíme z [celopražského programu](hhttps://program2026.praha.pirati.cz/program/). Nechtěli jsme kopírovat body z něj, i když se s nimi ztotožňujeme, proto si jej prosím prostudujte také.
 
 ## Dvanáctka udržitelná
 
