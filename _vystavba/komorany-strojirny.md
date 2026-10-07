@@ -24,6 +24,7 @@ textbox:
   text: >
     Na základě územní studie Komořan počítáme s obytnou zástavbou, požadujeme ale co největší dodržení požadavků a doporučení z této studie, zejména přítomnost obchodních parterů kolem tramvajové trati a nového náměstí.
 
+img: vystavba/ko-strojirny/viz1.jpg
 folder: /assets/img/vystavba/ko-strojirny/
 printImg1: viz1.jpg
 printImg2: 
